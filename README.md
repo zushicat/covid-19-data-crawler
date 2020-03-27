@@ -29,7 +29,7 @@ Scrape datatable of the overview page:
 https://www.stadt-koeln.de/leben-in-koeln/gesundheit/infektionsschutz/corona-virus/corona-virus-anzahl-der-bestaetigten-faelle-koeln
 
 ### 3 - News outlets
-Zeit Online (ZON), Berliner Morgenpost
+Data taken from Zeit Online (ZON) and Berliner Morgenpost
 
 #### a - The API by jgehrcke
 Numbers on state level (which I additionally accumulated to national level)  
