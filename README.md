@@ -42,7 +42,7 @@ ZON now additionally provides international and community level data (see commen
 
 ## Usage
 If you like to request the data yourself, just call request_data.py. Csv files are then saved in a directory named by date of request (under /data). 
- 
+
 **All data is enriched with additional information about the location (ISO state/country codes and information about population numbers/density).**
 
 Otherwise just get the csv files in directory of latest date.
@@ -59,4 +59,4 @@ Otherwise just get the csv files in directory of latest date.
   - communities_ZON.csv
 
 The data points of all csv files are saved as  "tidy" (or "long") data instead of "wide" data, meaning:  
-Each date for each location is represented by a line instead of one line per location with all the dates as columns.
+Each date for each location is represented by a row instead of one row per location with all the dates as columns.
