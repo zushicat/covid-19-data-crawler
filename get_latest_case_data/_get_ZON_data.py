@@ -40,7 +40,7 @@ def _write_scv(data_in: List[Dict[str, Any]], file_name: str) -> None:
     today = get_date()
     field_names: List[str] = data_in[0].keys()
     with open(f"{DIRNAME}/../data/{today}/{file_name}.csv", "w") as f:
-        writer = csv.DictWriter(f, fieldnames=field_names, delimiter=";")
+        writer = csv.DictWriter(f, fieldnames=field_names, delimiter=",")
         writer.writeheader()
         writer.writerows(data_in)
 

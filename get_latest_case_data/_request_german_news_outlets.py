@@ -70,7 +70,7 @@ def _export_csv(state_numbers: Dict[str, Any], national_numbers: Dict[str, Any])
         today = get_date()
         field_names: List[str] = current_list[0].keys()
         with open(f"{DIRNAME}/../data/{today}/{file_name}.csv", "w") as f:
-            writer = csv.DictWriter(f, fieldnames=field_names, delimiter=";")
+            writer = csv.DictWriter(f, fieldnames=field_names, delimiter=",")
             writer.writeheader()
             writer.writerows(current_list)
 

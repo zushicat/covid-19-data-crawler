@@ -105,6 +105,6 @@ def request_rki_api():
     today = get_date()
     field_names: List[str] = accumulated_communities[0].keys()
     with open(f"{DIRNAME}/../data/{today}/communities_germany_rki.csv", "w") as f:
-        writer = csv.DictWriter(f, fieldnames=field_names, delimiter=";")
+        writer = csv.DictWriter(f, fieldnames=field_names, delimiter=",")
         writer.writeheader()
         writer.writerows(accumulated_communities)

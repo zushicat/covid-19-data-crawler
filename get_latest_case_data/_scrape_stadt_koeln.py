@@ -63,7 +63,7 @@ def scrape_stadt_koeln_data():
     today = get_date()
     field_names: List[str] = cologne_data[0].keys()
     with open(f"data/{today}/city_cologne_germany.csv", "w") as f:
-        writer = csv.DictWriter(f, fieldnames=field_names, delimiter=";")
+        writer = csv.DictWriter(f, fieldnames=field_names, delimiter=",")
         writer.writeheader()
         writer.writerows(cologne_data)
 
