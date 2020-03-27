@@ -3,6 +3,8 @@ Get latest data updates of covid-19 numbers from different sources (with focus o
 
 There is quite a gap between the overall numbers from Rober Koch Institute and (well respected) news outlets, hence this data crawler of different sources (as of now with focus on Germany).   
 
+
+
 ## Crawled Sources
 
 ### 1 Robert Koch Institute (RKI)
@@ -17,24 +19,26 @@ Requested attributes:
 - Landkreis
 
 ### 2 Stadt Köln (Northrhine-Westphalia, Germany)
-Scrape datatable of the overview page:
+Scrape datatable of the overview page:   
 https://www.stadt-koeln.de/leben-in-koeln/gesundheit/infektionsschutz/corona-virus/corona-virus-anzahl-der-bestaetigten-faelle-koeln
 
 ### 3 News outlets
 Zeit Online (ZON), Berliner Morgenpost
 
 #### a - The API by jgehrcke
-Numbers on state level (which I additionally accumulated to national level)
+Numbers on state level (which I additionally accumulated to national level)  
 For details, see: https://github.com/jgehrcke/covid-19-germany-gae
 
 #### b - ZON
 ZON now additionally delivers international and community level data (see comments with JSON links in /get_latest_case_data/_get_ZON_data.py) which I both request.
 
 
-**All data is enriched with additional data (ISO state/country codes and information about population numbers/density).**
 
 ## Usage
-If you like to request the data yourself, just call request_data.py. Csv files are then saved in a directory named by date of request.
+If you like to request the data yourself, just call request_data.py. Csv files are then saved in a directory named by date of request.  
+**All data is enriched with additional data (ISO state/country codes and information about population numbers/density).**
+
+Otherwise just get the csv files in directory of latest date.
 
 - 1 
   - communities_germany_rki
