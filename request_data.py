@@ -1,0 +1,11 @@
+from get_latest_case_data._request_german_news_outlets import request_news_outlet_api
+from get_latest_case_data._request_german_rki_api import request_rki_api
+from get_latest_case_data._scrape_stadt_koeln import scrape_stadt_koeln_data
+from get_latest_case_data._get_ZON_data import get_ZON_communities_data, get_ZON_international_data
+
+request_news_outlet_api()
+request_rki_api()
+scrape_stadt_koeln_data()
+
+get_ZON_international_data()
+get_ZON_communities_data()

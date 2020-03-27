@@ -1,0 +1,3210 @@
+{
+    "1001": {
+      "ags": "1001",
+      "name": "Flensburg",
+      "lat": 54.785,
+      "lon": 9.439,
+      "population": 87432,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1002": {
+      "ags": "1002",
+      "name": "Kiel",
+      "lat": 54.325,
+      "lon": 10.133,
+      "population": 247441,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1003": {
+      "ags": "1003",
+      "name": "Lübeck",
+      "lat": 53.872,
+      "lon": 10.727,
+      "population": 216712,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1004": {
+      "ags": "1004",
+      "name": "Neumünster",
+      "lat": 54.081,
+      "lon": 9.984,
+      "population": 79680,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1051": {
+      "ags": "1051",
+      "name": "Dithmarschen",
+      "lat": 54.134,
+      "lon": 9.108,
+      "population": 133560,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1053": {
+      "ags": "1053",
+      "name": "Herzogtum Lauenburg",
+      "lat": 53.589,
+      "lon": 10.602,
+      "population": 195063,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1054": {
+      "ags": "1054",
+      "name": "Nordfriesland",
+      "lat": 54.615,
+      "lon": 8.899,
+      "population": 164926,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1055": {
+      "ags": "1055",
+      "name": "Ostholstein",
+      "lat": 54.189,
+      "lon": 10.819,
+      "population": 200813,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1056": {
+      "ags": "1056",
+      "name": "Pinneberg",
+      "lat": 53.717,
+      "lon": 9.746,
+      "population": 310653,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1057": {
+      "ags": "1057",
+      "name": "Plön",
+      "lat": 54.243,
+      "lon": 10.363,
+      "population": 128703,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1058": {
+      "ags": "1058",
+      "name": "Rendsburg-Eckernförde",
+      "lat": 54.289,
+      "lon": 9.781,
+      "population": 272337,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1059": {
+      "ags": "1059",
+      "name": "Schleswig-Flensburg",
+      "lat": 54.624,
+      "lon": 9.504,
+      "population": 198685,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1060": {
+      "ags": "1060",
+      "name": "Segeberg",
+      "lat": 53.92,
+      "lon": 10.141,
+      "population": 272235,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1061": {
+      "ags": "1061",
+      "name": "Steinburg",
+      "lat": 53.929,
+      "lon": 9.519,
+      "population": 131875,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "1062": {
+      "ags": "1062",
+      "name": "Stormarn",
+      "lat": 53.721,
+      "lon": 10.332,
+      "population": 241811,
+      "bundesland": "Schleswig-Holstein"
+    },
+    "2000": {
+      "ags": "2000",
+      "name": "Hamburg",
+      "lat": 53.546,
+      "lon": 10.021,
+      "population": 1810440,
+      "bundesland": "Hamburg"
+    },
+    "3101": {
+      "ags": "3101",
+      "name": "Braunschweig",
+      "lat": 52.276,
+      "lon": 10.524,
+      "population": 248667,
+      "bundesland": "Niedersachsen"
+    },
+    "3102": {
+      "ags": "3102",
+      "name": "Salzgitter",
+      "lat": 52.126,
+      "lon": 10.371,
+      "population": 103668,
+      "bundesland": "Niedersachsen"
+    },
+    "3103": {
+      "ags": "3103",
+      "name": "Wolfsburg",
+      "lat": 52.41,
+      "lon": 10.785,
+      "population": 123909,
+      "bundesland": "Niedersachsen"
+    },
+    "3151": {
+      "ags": "3151",
+      "name": "Gifhorn",
+      "lat": 52.58,
+      "lon": 10.604,
+      "population": 174749,
+      "bundesland": "Niedersachsen"
+    },
+    "3153": {
+      "ags": "3153",
+      "name": "Goslar",
+      "lat": 51.875,
+      "lon": 10.4,
+      "population": 137979,
+      "bundesland": "Niedersachsen"
+    },
+    "3154": {
+      "ags": "3154",
+      "name": "Helmstedt",
+      "lat": 52.26,
+      "lon": 10.89,
+      "population": 92079,
+      "bundesland": "Niedersachsen"
+    },
+    "3155": {
+      "ags": "3155",
+      "name": "Northeim",
+      "lat": 51.742,
+      "lon": 9.848,
+      "population": 133610,
+      "bundesland": "Niedersachsen"
+    },
+    "3157": {
+      "ags": "3157",
+      "name": "Peine",
+      "lat": 52.304,
+      "lon": 10.256,
+      "population": 132979,
+      "bundesland": "Niedersachsen"
+    },
+    "3158": {
+      "ags": "3158",
+      "name": "Wolfenbüttel",
+      "lat": 52.127,
+      "lon": 10.584,
+      "population": 120904,
+      "bundesland": "Niedersachsen"
+    },
+    "3159": {
+      "ags": "3159",
+      "name": "Göttingen",
+      "lat": 51.564,
+      "lon": 10.089,
+      "population": 327065,
+      "bundesland": "Niedersachsen"
+    },
+    "3241": {
+      "ags": "3241",
+      "name": "Region Hannover",
+      "lat": 52.422,
+      "lon": 9.72,
+      "population": 1148700,
+      "bundesland": "Niedersachsen"
+    },
+    "3251": {
+      "ags": "3251",
+      "name": "Diepholz",
+      "lat": 52.728,
+      "lon": 8.702,
+      "population": 215082,
+      "bundesland": "Niedersachsen"
+    },
+    "3252": {
+      "ags": "3252",
+      "name": "Hameln-Pyrmont",
+      "lat": 52.095,
+      "lon": 9.389,
+      "population": 148265,
+      "bundesland": "Niedersachsen"
+    },
+    "3254": {
+      "ags": "3254",
+      "name": "Hildesheim",
+      "lat": 52.09,
+      "lon": 9.944,
+      "population": 277300,
+      "bundesland": "Niedersachsen"
+    },
+    "3255": {
+      "ags": "3255",
+      "name": "Holzminden",
+      "lat": 51.881,
+      "lon": 9.552,
+      "population": 71510,
+      "bundesland": "Niedersachsen"
+    },
+    "3256": {
+      "ags": "3256",
+      "name": "Nienburg (Weser)",
+      "lat": 52.609,
+      "lon": 9.115,
+      "population": 121503,
+      "bundesland": "Niedersachsen"
+    },
+    "3257": {
+      "ags": "3257",
+      "name": "Schaumburg",
+      "lat": 52.293,
+      "lon": 9.207,
+      "population": 157616,
+      "bundesland": "Niedersachsen"
+    },
+    "3351": {
+      "ags": "3351",
+      "name": "Celle",
+      "lat": 52.714,
+      "lon": 10.104,
+      "population": 178370,
+      "bundesland": "Niedersachsen"
+    },
+    "3352": {
+      "ags": "3352",
+      "name": "Cuxhaven",
+      "lat": 53.617,
+      "lon": 8.812,
+      "population": 198670,
+      "bundesland": "Niedersachsen"
+    },
+    "3353": {
+      "ags": "3353",
+      "name": "Harburg",
+      "lat": 53.316,
+      "lon": 9.962,
+      "population": 250326,
+      "bundesland": "Niedersachsen"
+    },
+    "3354": {
+      "ags": "3354",
+      "name": "Lüchow-Dannenberg",
+      "lat": 53.02,
+      "lon": 11.123,
+      "population": 48825,
+      "bundesland": "Niedersachsen"
+    },
+    "3355": {
+      "ags": "3355",
+      "name": "Lüneburg",
+      "lat": 53.233,
+      "lon": 10.573,
+      "population": 181605,
+      "bundesland": "Niedersachsen"
+    },
+    "3356": {
+      "ags": "3356",
+      "name": "Osterholz",
+      "lat": 53.251,
+      "lon": 8.808,
+      "population": 112695,
+      "bundesland": "Niedersachsen"
+    },
+    "3357": {
+      "ags": "3357",
+      "name": "Rotenburg (Wümme)",
+      "lat": 53.25,
+      "lon": 9.307,
+      "population": 163372,
+      "bundesland": "Niedersachsen"
+    },
+    "3358": {
+      "ags": "3358",
+      "name": "Heidekreis",
+      "lat": 52.929,
+      "lon": 9.77,
+      "population": 139641,
+      "bundesland": "Niedersachsen"
+    },
+    "3359": {
+      "ags": "3359",
+      "name": "Stade",
+      "lat": 53.578,
+      "lon": 9.419,
+      "population": 201638,
+      "bundesland": "Niedersachsen"
+    },
+    "3360": {
+      "ags": "3360",
+      "name": "Uelzen",
+      "lat": 52.983,
+      "lon": 10.547,
+      "population": 92961,
+      "bundesland": "Niedersachsen"
+    },
+    "3361": {
+      "ags": "3361",
+      "name": "Verden",
+      "lat": 52.973,
+      "lon": 9.176,
+      "population": 135842,
+      "bundesland": "Niedersachsen"
+    },
+    "3401": {
+      "ags": "3401",
+      "name": "Delmenhorst",
+      "lat": 53.05,
+      "lon": 8.646,
+      "population": 77045,
+      "bundesland": "Niedersachsen"
+    },
+    "3402": {
+      "ags": "3402",
+      "name": "Emden",
+      "lat": 53.361,
+      "lon": 7.182,
+      "population": 50486,
+      "bundesland": "Niedersachsen"
+    },
+    "3403": {
+      "ags": "3403",
+      "name": "Oldenburg (Oldb)",
+      "lat": 53.145,
+      "lon": 8.225,
+      "population": 165711,
+      "bundesland": "Niedersachsen"
+    },
+    "3404": {
+      "ags": "3404",
+      "name": "Osnabrück",
+      "lat": 52.278,
+      "lon": 8.047,
+      "population": 164070,
+      "bundesland": "Niedersachsen"
+    },
+    "3405": {
+      "ags": "3405",
+      "name": "Wilhelmshaven",
+      "lat": 53.567,
+      "lon": 8.087,
+      "population": 76201,
+      "bundesland": "Niedersachsen"
+    },
+    "3451": {
+      "ags": "3451",
+      "name": "Ammerland",
+      "lat": 53.218,
+      "lon": 8.013,
+      "population": 122698,
+      "bundesland": "Niedersachsen"
+    },
+    "3452": {
+      "ags": "3452",
+      "name": "Aurich",
+      "lat": 53.496,
+      "lon": 7.37,
+      "population": 190066,
+      "bundesland": "Niedersachsen"
+    },
+    "3453": {
+      "ags": "3453",
+      "name": "Cloppenburg",
+      "lat": 52.911,
+      "lon": 7.905,
+      "population": 165930,
+      "bundesland": "Niedersachsen"
+    },
+    "3454": {
+      "ags": "3454",
+      "name": "Emsland",
+      "lat": 52.738,
+      "lon": 7.403,
+      "population": 321391,
+      "bundesland": "Niedersachsen"
+    },
+    "3455": {
+      "ags": "3455",
+      "name": "Friesland",
+      "lat": 53.509,
+      "lon": 7.983,
+      "population": 98409,
+      "bundesland": "Niedersachsen"
+    },
+    "3456": {
+      "ags": "3456",
+      "name": "Grafschaft Bentheim",
+      "lat": 52.476,
+      "lon": 7.02,
+      "population": 135770,
+      "bundesland": "Niedersachsen"
+    },
+    "3457": {
+      "ags": "3457",
+      "name": "Leer",
+      "lat": 53.241,
+      "lon": 7.478,
+      "population": 168253,
+      "bundesland": "Niedersachsen"
+    },
+    "3458": {
+      "ags": "3458",
+      "name": "Oldenburg",
+      "lat": 52.988,
+      "lon": 8.39,
+      "population": 129484,
+      "bundesland": "Niedersachsen"
+    },
+    "3459": {
+      "ags": "3459",
+      "name": "Osnabrück (Landkreis)",
+      "lat": 52.382,
+      "lon": 8.045,
+      "population": 354807,
+      "bundesland": "Niedersachsen"
+    },
+    "3460": {
+      "ags": "3460",
+      "name": "Vechta",
+      "lat": 52.661,
+      "lon": 8.223,
+      "population": 139671,
+      "bundesland": "Niedersachsen"
+    },
+    "3461": {
+      "ags": "3461",
+      "name": "Wesermarsch",
+      "lat": 53.356,
+      "lon": 8.39,
+      "population": 89282,
+      "bundesland": "Niedersachsen"
+    },
+    "3462": {
+      "ags": "3462",
+      "name": "Wittmund",
+      "lat": 53.575,
+      "lon": 7.705,
+      "population": 56881,
+      "bundesland": "Niedersachsen"
+    },
+    "4011": {
+      "ags": "4011",
+      "name": "Bremen",
+      "lat": 53.118,
+      "lon": 8.781,
+      "population": 565719,
+      "bundesland": "Bremen"
+    },
+    "4012": {
+      "ags": "4012",
+      "name": "Bremerhaven",
+      "lat": 53.537,
+      "lon": 8.586,
+      "population": 113034,
+      "bundesland": "Bremen"
+    },
+    "5111": {
+      "ags": "5111",
+      "name": "Düsseldorf",
+      "lat": 51.234,
+      "lon": 6.81,
+      "population": 613230,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5112": {
+      "ags": "5112",
+      "name": "Duisburg",
+      "lat": 51.439,
+      "lon": 6.735,
+      "population": 499845,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5113": {
+      "ags": "5113",
+      "name": "Essen",
+      "lat": 51.433,
+      "lon": 7.017,
+      "population": 583084,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5114": {
+      "ags": "5114",
+      "name": "Krefeld",
+      "lat": 51.345,
+      "lon": 6.578,
+      "population": 226812,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5116": {
+      "ags": "5116",
+      "name": "Mönchengladbach",
+      "lat": 51.167,
+      "lon": 6.411,
+      "population": 260925,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5117": {
+      "ags": "5117",
+      "name": "Mülheim an der Ruhr",
+      "lat": 51.414,
+      "lon": 6.879,
+      "population": 170936,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5119": {
+      "ags": "5119",
+      "name": "Oberhausen",
+      "lat": 51.512,
+      "lon": 6.847,
+      "population": 211382,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5120": {
+      "ags": "5120",
+      "name": "Remscheid",
+      "lat": 51.183,
+      "lon": 7.224,
+      "population": 110611,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5122": {
+      "ags": "5122",
+      "name": "Solingen",
+      "lat": 51.162,
+      "lon": 7.067,
+      "population": 158908,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5124": {
+      "ags": "5124",
+      "name": "Wuppertal",
+      "lat": 51.251,
+      "lon": 7.168,
+      "population": 352390,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5154": {
+      "ags": "5154",
+      "name": "Kleve",
+      "lat": 51.652,
+      "lon": 6.259,
+      "population": 311241,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5158": {
+      "ags": "5158",
+      "name": "Mettmann",
+      "lat": 51.257,
+      "lon": 6.969,
+      "population": 484770,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5162": {
+      "ags": "5162",
+      "name": "Rhein-Kreis Neuss",
+      "lat": 51.144,
+      "lon": 6.648,
+      "population": 447431,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5166": {
+      "ags": "5166",
+      "name": "Viersen",
+      "lat": 51.283,
+      "lon": 6.325,
+      "population": 298422,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5170": {
+      "ags": "5170",
+      "name": "Wesel",
+      "lat": 51.626,
+      "lon": 6.619,
+      "population": 461715,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5314": {
+      "ags": "5314",
+      "name": "Bonn",
+      "lat": 50.706,
+      "lon": 7.11,
+      "population": 322125,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5315": {
+      "ags": "5315",
+      "name": "Köln",
+      "lat": 50.945,
+      "lon": 6.973,
+      "population": 1075940,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5316": {
+      "ags": "5316",
+      "name": "Leverkusen",
+      "lat": 51.053,
+      "lon": 7.016,
+      "population": 163113,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5334": {
+      "ags": "5334",
+      "name": "Städteregion Aachen",
+      "lat": 50.728,
+      "lon": 6.218,
+      "population": 552472,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5358": {
+      "ags": "5358",
+      "name": "Düren",
+      "lat": 50.818,
+      "lon": 6.445,
+      "population": 262072,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5362": {
+      "ags": "5362",
+      "name": "Rhein-Erft-Kreis",
+      "lat": 50.905,
+      "lon": 6.716,
+      "population": 465549,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5366": {
+      "ags": "5366",
+      "name": "Euskirchen",
+      "lat": 50.537,
+      "lon": 6.644,
+      "population": 191202,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5370": {
+      "ags": "5370",
+      "name": "Heinsberg",
+      "lat": 51.05,
+      "lon": 6.165,
+      "population": 252651,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5374": {
+      "ags": "5374",
+      "name": "Oberbergischer Kreis",
+      "lat": 51.013,
+      "lon": 7.517,
+      "population": 273139,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5378": {
+      "ags": "5378",
+      "name": "Rheinisch-Bergischer Kreis",
+      "lat": 51.023,
+      "lon": 7.195,
+      "population": 283304,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5382": {
+      "ags": "5382",
+      "name": "Rhein-Sieg-Kreis",
+      "lat": 50.761,
+      "lon": 7.234,
+      "population": 597854,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5512": {
+      "ags": "5512",
+      "name": "Bottrop",
+      "lat": 51.571,
+      "lon": 6.919,
+      "population": 117409,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5513": {
+      "ags": "5513",
+      "name": "Gelsenkirchen",
+      "lat": 51.553,
+      "lon": 7.072,
+      "population": 262528,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5515": {
+      "ags": "5515",
+      "name": "Münster",
+      "lat": 51.955,
+      "lon": 7.624,
+      "population": 311846,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5554": {
+      "ags": "5554",
+      "name": "Borken",
+      "lat": 51.961,
+      "lon": 6.899,
+      "population": 369897,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5558": {
+      "ags": "5558",
+      "name": "Coesfeld",
+      "lat": 51.867,
+      "lon": 7.366,
+      "population": 219019,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5562": {
+      "ags": "5562",
+      "name": "Recklinghausen",
+      "lat": 51.672,
+      "lon": 7.159,
+      "population": 617195,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5566": {
+      "ags": "5566",
+      "name": "Steinfurt",
+      "lat": 52.212,
+      "lon": 7.579,
+      "population": 444409,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5570": {
+      "ags": "5570",
+      "name": "Warendorf",
+      "lat": 51.87,
+      "lon": 7.959,
+      "population": 277744,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5711": {
+      "ags": "5711",
+      "name": "Bielefeld",
+      "lat": 52.011,
+      "lon": 8.542,
+      "population": 333451,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5754": {
+      "ags": "5754",
+      "name": "Gütersloh",
+      "lat": 51.932,
+      "lon": 8.352,
+      "population": 361828,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5758": {
+      "ags": "5758",
+      "name": "Herford",
+      "lat": 52.168,
+      "lon": 8.644,
+      "population": 251074,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5762": {
+      "ags": "5762",
+      "name": "Höxter",
+      "lat": 51.685,
+      "lon": 9.178,
+      "population": 143154,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5766": {
+      "ags": "5766",
+      "name": "Lippe",
+      "lat": 51.981,
+      "lon": 8.951,
+      "population": 348933,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5770": {
+      "ags": "5770",
+      "name": "Minden-Lübbecke",
+      "lat": 52.352,
+      "lon": 8.74,
+      "population": 311866,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5774": {
+      "ags": "5774",
+      "name": "Paderborn",
+      "lat": 51.664,
+      "lon": 8.719,
+      "population": 305198,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5911": {
+      "ags": "5911",
+      "name": "Bochum",
+      "lat": 51.47,
+      "lon": 7.226,
+      "population": 364920,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5913": {
+      "ags": "5913",
+      "name": "Dortmund",
+      "lat": 51.516,
+      "lon": 7.476,
+      "population": 585813,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5914": {
+      "ags": "5914",
+      "name": "Hagen",
+      "lat": 51.348,
+      "lon": 7.499,
+      "population": 188266,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5915": {
+      "ags": "5915",
+      "name": "Hamm",
+      "lat": 51.665,
+      "lon": 7.823,
+      "population": 179571,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5916": {
+      "ags": "5916",
+      "name": "Herne",
+      "lat": 51.537,
+      "lon": 7.207,
+      "population": 156774,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5954": {
+      "ags": "5954",
+      "name": "Ennepe-Ruhr-Kreis",
+      "lat": 51.347,
+      "lon": 7.324,
+      "population": 325374,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5958": {
+      "ags": "5958",
+      "name": "Hochsauerlandkreis",
+      "lat": 51.307,
+      "lon": 8.385,
+      "population": 262269,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5962": {
+      "ags": "5962",
+      "name": "Märkischer Kreis",
+      "lat": 51.263,
+      "lon": 7.713,
+      "population": 414642,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5966": {
+      "ags": "5966",
+      "name": "Olpe",
+      "lat": 51.086,
+      "lon": 7.977,
+      "population": 134983,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5970": {
+      "ags": "5970",
+      "name": "Siegen-Wittgenstein",
+      "lat": 50.938,
+      "lon": 8.196,
+      "population": 277933,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5974": {
+      "ags": "5974",
+      "name": "Soest",
+      "lat": 51.564,
+      "lon": 8.217,
+      "population": 301655,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "5978": {
+      "ags": "5978",
+      "name": "Unna",
+      "lat": 51.579,
+      "lon": 7.637,
+      "population": 396100,
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    "6411": {
+      "ags": "6411",
+      "name": "Darmstadt",
+      "lat": 49.882,
+      "lon": 8.664,
+      "population": 157437,
+      "bundesland": "Hessen"
+    },
+    "6412": {
+      "ags": "6412",
+      "name": "Frankfurt am Main",
+      "lat": 50.118,
+      "lon": 8.645,
+      "population": 736414,
+      "bundesland": "Hessen"
+    },
+    "6413": {
+      "ags": "6413",
+      "name": "Offenbach am Main",
+      "lat": 50.091,
+      "lon": 8.782,
+      "population": 124589,
+      "bundesland": "Hessen"
+    },
+    "6414": {
+      "ags": "6414",
+      "name": "Wiesbaden",
+      "lat": 50.079,
+      "lon": 8.262,
+      "population": 277619,
+      "bundesland": "Hessen"
+    },
+    "6431": {
+      "ags": "6431",
+      "name": "Bergstraße",
+      "lat": 49.617,
+      "lon": 8.66,
+      "population": 267935,
+      "bundesland": "Hessen"
+    },
+    "6432": {
+      "ags": "6432",
+      "name": "Darmstadt-Dieburg",
+      "lat": 49.856,
+      "lon": 8.796,
+      "population": 294744,
+      "bundesland": "Hessen"
+    },
+    "6433": {
+      "ags": "6433",
+      "name": "Groß-Gerau",
+      "lat": 49.905,
+      "lon": 8.47,
+      "population": 269045,
+      "bundesland": "Hessen"
+    },
+    "6434": {
+      "ags": "6434",
+      "name": "Hochtaunuskreis",
+      "lat": 50.281,
+      "lon": 8.504,
+      "population": 234991,
+      "bundesland": "Hessen"
+    },
+    "6435": {
+      "ags": "6435",
+      "name": "Main-Kinzig-Kreis",
+      "lat": 50.244,
+      "lon": 9.286,
+      "population": 416715,
+      "bundesland": "Hessen"
+    },
+    "6436": {
+      "ags": "6436",
+      "name": "Main-Taunus-Kreis",
+      "lat": 50.102,
+      "lon": 8.435,
+      "population": 235708,
+      "bundesland": "Hessen"
+    },
+    "6437": {
+      "ags": "6437",
+      "name": "Odenwaldkreis",
+      "lat": 49.67,
+      "lon": 8.979,
+      "population": 96473,
+      "bundesland": "Hessen"
+    },
+    "6438": {
+      "ags": "6438",
+      "name": "Offenbach",
+      "lat": 50.021,
+      "lon": 8.811,
+      "population": 349982,
+      "bundesland": "Hessen"
+    },
+    "6439": {
+      "ags": "6439",
+      "name": "Rheingau-Taunus-Kreis",
+      "lat": 50.142,
+      "lon": 8.081,
+      "population": 185668,
+      "bundesland": "Hessen"
+    },
+    "6440": {
+      "ags": "6440",
+      "name": "Wetteraukreis",
+      "lat": 50.355,
+      "lon": 8.907,
+      "population": 303914,
+      "bundesland": "Hessen"
+    },
+    "6531": {
+      "ags": "6531",
+      "name": "Gießen",
+      "lat": 50.57,
+      "lon": 8.808,
+      "population": 265699,
+      "bundesland": "Hessen"
+    },
+    "6532": {
+      "ags": "6532",
+      "name": "Lahn-Dill-Kreis",
+      "lat": 50.648,
+      "lon": 8.365,
+      "population": 254074,
+      "bundesland": "Hessen"
+    },
+    "6533": {
+      "ags": "6533",
+      "name": "Limburg-Weilburg",
+      "lat": 50.427,
+      "lon": 8.199,
+      "population": 172120,
+      "bundesland": "Hessen"
+    },
+    "6534": {
+      "ags": "6534",
+      "name": "Marburg-Biedenkopf",
+      "lat": 50.836,
+      "lon": 8.738,
+      "population": 245013,
+      "bundesland": "Hessen"
+    },
+    "6535": {
+      "ags": "6535",
+      "name": "Vogelsbergkreis",
+      "lat": 50.638,
+      "lon": 9.271,
+      "population": 106737,
+      "bundesland": "Hessen"
+    },
+    "6611": {
+      "ags": "6611",
+      "name": "Kassel",
+      "lat": 51.31,
+      "lon": 9.459,
+      "population": 199062,
+      "bundesland": "Hessen"
+    },
+    "6631": {
+      "ags": "6631",
+      "name": "Fulda",
+      "lat": 50.564,
+      "lon": 9.759,
+      "population": 221170,
+      "bundesland": "Hessen"
+    },
+    "6632": {
+      "ags": "6632",
+      "name": "Hersfeld-Rotenburg",
+      "lat": 50.906,
+      "lon": 9.753,
+      "population": 121037,
+      "bundesland": "Hessen"
+    },
+    "6633": {
+      "ags": "6633",
+      "name": "Kassel (Landkreis)",
+      "lat": 51.401,
+      "lon": 9.406,
+      "population": 236905,
+      "bundesland": "Hessen"
+    },
+    "6634": {
+      "ags": "6634",
+      "name": "Schwalm-Eder-Kreis",
+      "lat": 51.024,
+      "lon": 9.374,
+      "population": 181105,
+      "bundesland": "Hessen"
+    },
+    "6635": {
+      "ags": "6635",
+      "name": "Waldeck-Frankenberg",
+      "lat": 51.19,
+      "lon": 8.889,
+      "population": 157967,
+      "bundesland": "Hessen"
+    },
+    "6636": {
+      "ags": "6636",
+      "name": "Werra-Meißner-Kreis",
+      "lat": 51.191,
+      "lon": 9.93,
+      "population": 100965,
+      "bundesland": "Hessen"
+    },
+    "7111": {
+      "ags": "7111",
+      "name": "Koblenz",
+      "lat": 50.349,
+      "lon": 7.579,
+      "population": 113605,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7131": {
+      "ags": "7131",
+      "name": "Ahrweiler",
+      "lat": 50.468,
+      "lon": 7.046,
+      "population": 128455,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7132": {
+      "ags": "7132",
+      "name": "Altenkirchen (Westerwald)",
+      "lat": 50.751,
+      "lon": 7.744,
+      "population": 128961,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7133": {
+      "ags": "7133",
+      "name": "Bad Kreuznach",
+      "lat": 49.824,
+      "lon": 7.686,
+      "population": 157392,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7134": {
+      "ags": "7134",
+      "name": "Birkenfeld",
+      "lat": 49.713,
+      "lon": 7.278,
+      "population": 80799,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7135": {
+      "ags": "7135",
+      "name": "Cochem-Zell",
+      "lat": 50.133,
+      "lon": 7.174,
+      "population": 61864,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7137": {
+      "ags": "7137",
+      "name": "Mayen-Koblenz",
+      "lat": 50.331,
+      "lon": 7.331,
+      "population": 212968,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7138": {
+      "ags": "7138",
+      "name": "Neuwied",
+      "lat": 50.558,
+      "lon": 7.468,
+      "population": 181537,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7140": {
+      "ags": "7140",
+      "name": "Rhein-Hunsrück-Kreis",
+      "lat": 50.044,
+      "lon": 7.5,
+      "population": 103026,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7141": {
+      "ags": "7141",
+      "name": "Rhein-Lahn-Kreis",
+      "lat": 50.263,
+      "lon": 7.842,
+      "population": 122553,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7143": {
+      "ags": "7143",
+      "name": "Westerwaldkreis",
+      "lat": 50.552,
+      "lon": 7.865,
+      "population": 201027,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7211": {
+      "ags": "7211",
+      "name": "Trier",
+      "lat": 49.763,
+      "lon": 6.655,
+      "population": 110111,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7231": {
+      "ags": "7231",
+      "name": "Bernkastel-Wittlich",
+      "lat": 49.925,
+      "lon": 6.967,
+      "population": 112006,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7232": {
+      "ags": "7232",
+      "name": "Eifelkreis Bitburg-Prüm",
+      "lat": 50.063,
+      "lon": 6.41,
+      "population": 98021,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7233": {
+      "ags": "7233",
+      "name": "Vulkaneifel",
+      "lat": 50.239,
+      "lon": 6.747,
+      "population": 60757,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7235": {
+      "ags": "7235",
+      "name": "Trier-Saarburg",
+      "lat": 49.697,
+      "lon": 6.695,
+      "population": 147833,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7311": {
+      "ags": "7311",
+      "name": "Frankenthal (Pfalz)",
+      "lat": 49.533,
+      "lon": 8.358,
+      "population": 48445,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7312": {
+      "ags": "7312",
+      "name": "Kaiserslautern",
+      "lat": 49.434,
+      "lon": 7.761,
+      "population": 99302,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7313": {
+      "ags": "7313",
+      "name": "Landau in der Pfalz",
+      "lat": 49.226,
+      "lon": 8.049,
+      "population": 46006,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7314": {
+      "ags": "7314",
+      "name": "Ludwigshafen am Rhein",
+      "lat": 49.482,
+      "lon": 8.397,
+      "population": 166621,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7315": {
+      "ags": "7315",
+      "name": "Mainz",
+      "lat": 49.974,
+      "lon": 8.241,
+      "population": 213528,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7316": {
+      "ags": "7316",
+      "name": "Neustadt an der Weinstraße",
+      "lat": 49.342,
+      "lon": 8.153,
+      "population": 53209,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7317": {
+      "ags": "7317",
+      "name": "Pirmasens",
+      "lat": 49.198,
+      "lon": 7.595,
+      "population": 40416,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7318": {
+      "ags": "7318",
+      "name": "Speyer",
+      "lat": 49.33,
+      "lon": 8.433,
+      "population": 50551,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7319": {
+      "ags": "7319",
+      "name": "Worms",
+      "lat": 49.649,
+      "lon": 8.326,
+      "population": 82595,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7320": {
+      "ags": "7320",
+      "name": "Zweibrücken",
+      "lat": 49.248,
+      "lon": 7.364,
+      "population": 34428,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7331": {
+      "ags": "7331",
+      "name": "Alzey-Worms",
+      "lat": 49.759,
+      "lon": 8.157,
+      "population": 128197,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7332": {
+      "ags": "7332",
+      "name": "Bad Dürkheim",
+      "lat": 49.453,
+      "lon": 8.111,
+      "population": 132960,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7333": {
+      "ags": "7333",
+      "name": "Donnersbergkreis",
+      "lat": 49.632,
+      "lon": 7.915,
+      "population": 75203,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7334": {
+      "ags": "7334",
+      "name": "Germersheim",
+      "lat": 49.116,
+      "lon": 8.247,
+      "population": 128205,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7335": {
+      "ags": "7335",
+      "name": "Kaiserslautern (Landkreis)",
+      "lat": 49.446,
+      "lon": 7.686,
+      "population": 105504,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7336": {
+      "ags": "7336",
+      "name": "Kusel",
+      "lat": 49.55,
+      "lon": 7.471,
+      "population": 70899,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7337": {
+      "ags": "7337",
+      "name": "Südliche Weinstraße",
+      "lat": 49.19,
+      "lon": 8.049,
+      "population": 110885,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7338": {
+      "ags": "7338",
+      "name": "Rhein-Pfalz-Kreis",
+      "lat": 49.416,
+      "lon": 8.361,
+      "population": 153043,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7339": {
+      "ags": "7339",
+      "name": "Mainz-Bingen",
+      "lat": 49.922,
+      "lon": 8.078,
+      "population": 209184,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "7340": {
+      "ags": "7340",
+      "name": "Südwestpfalz",
+      "lat": 49.208,
+      "lon": 7.66,
+      "population": 95957,
+      "bundesland": "Rheinland-Pfalz"
+    },
+    "8111": {
+      "ags": "8111",
+      "name": "Stuttgart",
+      "lat": 48.774,
+      "lon": 9.173,
+      "population": 628032,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8115": {
+      "ags": "8115",
+      "name": "Böblingen",
+      "lat": 48.678,
+      "lon": 8.943,
+      "population": 385888,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8116": {
+      "ags": "8116",
+      "name": "Esslingen",
+      "lat": 48.648,
+      "lon": 9.369,
+      "population": 528792,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8117": {
+      "ags": "8117",
+      "name": "Göppingen",
+      "lat": 48.663,
+      "lon": 9.718,
+      "population": 254618,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8118": {
+      "ags": "8118",
+      "name": "Ludwigsburg",
+      "lat": 48.94,
+      "lon": 9.123,
+      "population": 537902,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8119": {
+      "ags": "8119",
+      "name": "Rems-Murr-Kreis",
+      "lat": 48.899,
+      "lon": 9.501,
+      "population": 422698,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8121": {
+      "ags": "8121",
+      "name": "Heilbronn",
+      "lat": 49.153,
+      "lon": 9.181,
+      "population": 123771,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8125": {
+      "ags": "8125",
+      "name": "Heilbronn (Landkreis)",
+      "lat": 49.177,
+      "lon": 9.191,
+      "population": 337571,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8126": {
+      "ags": "8126",
+      "name": "Hohenlohekreis",
+      "lat": 49.272,
+      "lon": 9.615,
+      "population": 110689,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8127": {
+      "ags": "8127",
+      "name": "Schwäbisch Hall",
+      "lat": 49.144,
+      "lon": 9.909,
+      "population": 192958,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8128": {
+      "ags": "8128",
+      "name": "Main-Tauber-Kreis",
+      "lat": 49.56,
+      "lon": 9.726,
+      "population": 132274,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8135": {
+      "ags": "8135",
+      "name": "Heidenheim",
+      "lat": 48.662,
+      "lon": 10.182,
+      "population": 131498,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8136": {
+      "ags": "8136",
+      "name": "Ostalbkreis",
+      "lat": 48.877,
+      "lon": 10.091,
+      "population": 311587,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8211": {
+      "ags": "8211",
+      "name": "Baden-Baden",
+      "lat": 48.749,
+      "lon": 8.233,
+      "population": 54307,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8212": {
+      "ags": "8212",
+      "name": "Karlsruhe",
+      "lat": 49.012,
+      "lon": 8.412,
+      "population": 309999,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8215": {
+      "ags": "8215",
+      "name": "Karlsruhe (Landkreis)",
+      "lat": 49.082,
+      "lon": 8.563,
+      "population": 440337,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8216": {
+      "ags": "8216",
+      "name": "Rastatt",
+      "lat": 48.761,
+      "lon": 8.241,
+      "population": 228907,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8221": {
+      "ags": "8221",
+      "name": "Heidelberg",
+      "lat": 49.406,
+      "lon": 8.695,
+      "population": 159914,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8222": {
+      "ags": "8222",
+      "name": "Mannheim",
+      "lat": 49.499,
+      "lon": 8.501,
+      "population": 304781,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8225": {
+      "ags": "8225",
+      "name": "Neckar-Odenwald-Kreis",
+      "lat": 49.466,
+      "lon": 9.28,
+      "population": 143278,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8226": {
+      "ags": "8226",
+      "name": "Rhein-Neckar-Kreis",
+      "lat": 49.368,
+      "lon": 8.766,
+      "population": 544400,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8231": {
+      "ags": "8231",
+      "name": "Pforzheim",
+      "lat": 48.876,
+      "lon": 8.713,
+      "population": 123493,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8235": {
+      "ags": "8235",
+      "name": "Calw",
+      "lat": 48.679,
+      "lon": 8.636,
+      "population": 155960,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8236": {
+      "ags": "8236",
+      "name": "Enzkreis",
+      "lat": 48.915,
+      "lon": 8.737,
+      "population": 197246,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8237": {
+      "ags": "8237",
+      "name": "Freudenstadt",
+      "lat": 48.474,
+      "lon": 8.466,
+      "population": 116692,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8311": {
+      "ags": "8311",
+      "name": "Freiburg im Breisgau",
+      "lat": 47.992,
+      "lon": 7.819,
+      "population": 227590,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8315": {
+      "ags": "8315",
+      "name": "Breisgau-Hochschwarzwald",
+      "lat": 47.925,
+      "lon": 7.924,
+      "population": 260416,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8316": {
+      "ags": "8316",
+      "name": "Emmendingen",
+      "lat": 48.149,
+      "lon": 7.897,
+      "population": 163251,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8317": {
+      "ags": "8317",
+      "name": "Ortenaukreis",
+      "lat": 48.421,
+      "lon": 8.016,
+      "population": 423359,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8325": {
+      "ags": "8325",
+      "name": "Rottweil",
+      "lat": 48.254,
+      "lon": 8.533,
+      "population": 138327,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8326": {
+      "ags": "8326",
+      "name": "Schwarzwald-Baar-Kreis",
+      "lat": 48.019,
+      "lon": 8.411,
+      "population": 210084,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8327": {
+      "ags": "8327",
+      "name": "Tuttlingen",
+      "lat": 48.011,
+      "lon": 8.795,
+      "population": 138119,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8335": {
+      "ags": "8335",
+      "name": "Konstanz",
+      "lat": 47.798,
+      "lon": 8.911,
+      "population": 282191,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8336": {
+      "ags": "8336",
+      "name": "Lörrach",
+      "lat": 47.703,
+      "lon": 7.774,
+      "population": 227545,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8337": {
+      "ags": "8337",
+      "name": "Waldshut",
+      "lat": 47.697,
+      "lon": 8.218,
+      "population": 168852,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8415": {
+      "ags": "8415",
+      "name": "Reutlingen",
+      "lat": 48.406,
+      "lon": 9.366,
+      "population": 284082,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8416": {
+      "ags": "8416",
+      "name": "Tübingen",
+      "lat": 48.482,
+      "lon": 8.988,
+      "population": 224635,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8417": {
+      "ags": "8417",
+      "name": "Zollernalbkreis",
+      "lat": 48.267,
+      "lon": 8.937,
+      "population": 187401,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8421": {
+      "ags": "8421",
+      "name": "Ulm",
+      "lat": 48.392,
+      "lon": 9.95,
+      "population": 123953,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8425": {
+      "ags": "8425",
+      "name": "Alb-Donau-Kreis",
+      "lat": 48.402,
+      "lon": 9.828,
+      "population": 193318,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8426": {
+      "ags": "8426",
+      "name": "Biberach",
+      "lat": 48.107,
+      "lon": 9.775,
+      "population": 196206,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8435": {
+      "ags": "8435",
+      "name": "Bodenseekreis",
+      "lat": 47.733,
+      "lon": 9.4,
+      "population": 213070,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8436": {
+      "ags": "8436",
+      "name": "Ravensburg",
+      "lat": 47.825,
+      "lon": 9.781,
+      "population": 281627,
+      "bundesland": "Baden-Württemberg"
+    },
+    "8437": {
+      "ags": "8437",
+      "name": "Sigmaringen",
+      "lat": 48.039,
+      "lon": 9.242,
+      "population": 130275,
+      "bundesland": "Baden-Württemberg"
+    },
+    "9161": {
+      "ags": "9161",
+      "name": "Ingolstadt",
+      "lat": 48.755,
+      "lon": 11.394,
+      "population": 133639,
+      "bundesland": "Bayern"
+    },
+    "9162": {
+      "ags": "9162",
+      "name": "München",
+      "lat": 48.153,
+      "lon": 11.548,
+      "population": 1464300,
+      "bundesland": "Bayern"
+    },
+    "9163": {
+      "ags": "9163",
+      "name": "Rosenheim",
+      "lat": 47.844,
+      "lon": 12.108,
+      "population": 62672,
+      "bundesland": "Bayern"
+    },
+    "9171": {
+      "ags": "9171",
+      "name": "Altötting",
+      "lat": 48.209,
+      "lon": 12.705,
+      "population": 109422,
+      "bundesland": "Bayern"
+    },
+    "9172": {
+      "ags": "9172",
+      "name": "Berchtesgadener Land",
+      "lat": 47.698,
+      "lon": 12.902,
+      "population": 104480,
+      "bundesland": "Bayern"
+    },
+    "9173": {
+      "ags": "9173",
+      "name": "Bad Tölz-Wolfratshausen",
+      "lat": 47.728,
+      "lon": 11.483,
+      "population": 125668,
+      "bundesland": "Bayern"
+    },
+    "9174": {
+      "ags": "9174",
+      "name": "Dachau",
+      "lat": 48.335,
+      "lon": 11.357,
+      "population": 150839,
+      "bundesland": "Bayern"
+    },
+    "9175": {
+      "ags": "9175",
+      "name": "Ebersberg",
+      "lat": 48.076,
+      "lon": 11.912,
+      "population": 139016,
+      "bundesland": "Bayern"
+    },
+    "9176": {
+      "ags": "9176",
+      "name": "Eichstätt",
+      "lat": 48.898,
+      "lon": 11.369,
+      "population": 130808,
+      "bundesland": "Bayern"
+    },
+    "9177": {
+      "ags": "9177",
+      "name": "Erding",
+      "lat": 48.301,
+      "lon": 12.001,
+      "population": 135429,
+      "bundesland": "Bayern"
+    },
+    "9178": {
+      "ags": "9178",
+      "name": "Freising",
+      "lat": 48.447,
+      "lon": 11.74,
+      "population": 175803,
+      "bundesland": "Bayern"
+    },
+    "9179": {
+      "ags": "9179",
+      "name": "Fürstenfeldbruck",
+      "lat": 48.188,
+      "lon": 11.202,
+      "population": 216857,
+      "bundesland": "Bayern"
+    },
+    "9180": {
+      "ags": "9180",
+      "name": "Garmisch-Partenkirchen",
+      "lat": 47.556,
+      "lon": 11.129,
+      "population": 87877,
+      "bundesland": "Bayern"
+    },
+    "9181": {
+      "ags": "9181",
+      "name": "Landsberg am Lech",
+      "lat": 48.025,
+      "lon": 10.949,
+      "population": 118725,
+      "bundesland": "Bayern"
+    },
+    "9182": {
+      "ags": "9182",
+      "name": "Miesbach",
+      "lat": 47.742,
+      "lon": 11.809,
+      "population": 98828,
+      "bundesland": "Bayern"
+    },
+    "9183": {
+      "ags": "9183",
+      "name": "Mühldorf a. Inn",
+      "lat": 48.238,
+      "lon": 12.381,
+      "population": 113222,
+      "bundesland": "Bayern"
+    },
+    "9184": {
+      "ags": "9184",
+      "name": "München (Landkreis)",
+      "lat": 48.075,
+      "lon": 11.631,
+      "population": 343405,
+      "bundesland": "Bayern"
+    },
+    "9185": {
+      "ags": "9185",
+      "name": "Neuburg-Schrobenhausen",
+      "lat": 48.664,
+      "lon": 11.197,
+      "population": 95759,
+      "bundesland": "Bayern"
+    },
+    "9186": {
+      "ags": "9186",
+      "name": "Pfaffenhofen a.d. Ilm",
+      "lat": 48.596,
+      "lon": 11.523,
+      "population": 125085,
+      "bundesland": "Bayern"
+    },
+    "9187": {
+      "ags": "9187",
+      "name": "Rosenheim (Landkreis)",
+      "lat": 47.878,
+      "lon": 12.163,
+      "population": 257466,
+      "bundesland": "Bayern"
+    },
+    "9188": {
+      "ags": "9188",
+      "name": "Starnberg",
+      "lat": 48.006,
+      "lon": 11.282,
+      "population": 134732,
+      "bundesland": "Bayern"
+    },
+    "9189": {
+      "ags": "9189",
+      "name": "Traunstein",
+      "lat": 47.894,
+      "lon": 12.58,
+      "population": 175431,
+      "bundesland": "Bayern"
+    },
+    "9190": {
+      "ags": "9190",
+      "name": "Weilheim-Schongau",
+      "lat": 47.788,
+      "lon": 11.048,
+      "population": 133859,
+      "bundesland": "Bayern"
+    },
+    "9261": {
+      "ags": "9261",
+      "name": "Landshut",
+      "lat": 48.544,
+      "lon": 12.156,
+      "population": 70025,
+      "bundesland": "Bayern"
+    },
+    "9262": {
+      "ags": "9262",
+      "name": "Passau",
+      "lat": 48.582,
+      "lon": 13.417,
+      "population": 51074,
+      "bundesland": "Bayern"
+    },
+    "9263": {
+      "ags": "9263",
+      "name": "Straubing",
+      "lat": 48.881,
+      "lon": 12.572,
+      "population": 47142,
+      "bundesland": "Bayern"
+    },
+    "9271": {
+      "ags": "9271",
+      "name": "Deggendorf",
+      "lat": 48.779,
+      "lon": 13,
+      "population": 117601,
+      "bundesland": "Bayern"
+    },
+    "9272": {
+      "ags": "9272",
+      "name": "Freyung-Grafenau",
+      "lat": 48.827,
+      "lon": 13.513,
+      "population": 78180,
+      "bundesland": "Bayern"
+    },
+    "9273": {
+      "ags": "9273",
+      "name": "Kelheim",
+      "lat": 48.825,
+      "lon": 11.857,
+      "population": 119969,
+      "bundesland": "Bayern"
+    },
+    "9274": {
+      "ags": "9274",
+      "name": "Landshut (Landkreis)",
+      "lat": 48.557,
+      "lon": 12.196,
+      "population": 155442,
+      "bundesland": "Bayern"
+    },
+    "9275": {
+      "ags": "9275",
+      "name": "Passau (Landkreis)",
+      "lat": 48.559,
+      "lon": 13.366,
+      "population": 188904,
+      "bundesland": "Bayern"
+    },
+    "9276": {
+      "ags": "9276",
+      "name": "Regen",
+      "lat": 49.023,
+      "lon": 13.101,
+      "population": 77187,
+      "bundesland": "Bayern"
+    },
+    "9277": {
+      "ags": "9277",
+      "name": "Rottal-Inn",
+      "lat": 48.424,
+      "lon": 12.867,
+      "population": 119617,
+      "bundesland": "Bayern"
+    },
+    "9278": {
+      "ags": "9278",
+      "name": "Straubing-Bogen",
+      "lat": 48.9,
+      "lon": 12.582,
+      "population": 99221,
+      "bundesland": "Bayern"
+    },
+    "9279": {
+      "ags": "9279",
+      "name": "Dingolfing-Landau",
+      "lat": 48.641,
+      "lon": 12.61,
+      "population": 95035,
+      "bundesland": "Bayern"
+    },
+    "9361": {
+      "ags": "9361",
+      "name": "Amberg",
+      "lat": 49.45,
+      "lon": 11.845,
+      "population": 42348,
+      "bundesland": "Bayern"
+    },
+    "9362": {
+      "ags": "9362",
+      "name": "Regensburg",
+      "lat": 49.013,
+      "lon": 12.113,
+      "population": 148638,
+      "bundesland": "Bayern"
+    },
+    "9363": {
+      "ags": "9363",
+      "name": "Weiden i.d. OPf.",
+      "lat": 49.669,
+      "lon": 12.156,
+      "population": 42494,
+      "bundesland": "Bayern"
+    },
+    "9371": {
+      "ags": "9371",
+      "name": "Amberg-Sulzbach",
+      "lat": 49.486,
+      "lon": 11.802,
+      "population": 103009,
+      "bundesland": "Bayern"
+    },
+    "9372": {
+      "ags": "9372",
+      "name": "Cham",
+      "lat": 49.237,
+      "lon": 12.694,
+      "population": 126918,
+      "bundesland": "Bayern"
+    },
+    "9373": {
+      "ags": "9373",
+      "name": "Neumarkt i.d. OPf.",
+      "lat": 49.216,
+      "lon": 11.568,
+      "population": 131662,
+      "bundesland": "Bayern"
+    },
+    "9374": {
+      "ags": "9374",
+      "name": "Neustadt a.d. Waldnaab",
+      "lat": 49.687,
+      "lon": 12.097,
+      "population": 94528,
+      "bundesland": "Bayern"
+    },
+    "9375": {
+      "ags": "9375",
+      "name": "Regensburg (Landkreis)",
+      "lat": 49.022,
+      "lon": 12.121,
+      "population": 190481,
+      "bundesland": "Bayern"
+    },
+    "9376": {
+      "ags": "9376",
+      "name": "Schwandorf",
+      "lat": 49.369,
+      "lon": 12.253,
+      "population": 145382,
+      "bundesland": "Bayern"
+    },
+    "9377": {
+      "ags": "9377",
+      "name": "Tirschenreuth",
+      "lat": 49.899,
+      "lon": 12.201,
+      "population": 72918,
+      "bundesland": "Bayern"
+    },
+    "9461": {
+      "ags": "9461",
+      "name": "Bamberg",
+      "lat": 49.887,
+      "lon": 10.899,
+      "population": 75743,
+      "bundesland": "Bayern"
+    },
+    "9462": {
+      "ags": "9462",
+      "name": "Bayreuth",
+      "lat": 49.938,
+      "lon": 11.587,
+      "population": 73065,
+      "bundesland": "Bayern"
+    },
+    "9463": {
+      "ags": "9463",
+      "name": "Coburg",
+      "lat": 50.265,
+      "lon": 10.965,
+      "population": 41071,
+      "bundesland": "Bayern"
+    },
+    "9464": {
+      "ags": "9464",
+      "name": "Hof",
+      "lat": 50.31,
+      "lon": 11.898,
+      "population": 45183,
+      "bundesland": "Bayern"
+    },
+    "9471": {
+      "ags": "9471",
+      "name": "Bamberg (Landkreis)",
+      "lat": 49.893,
+      "lon": 10.884,
+      "population": 146042,
+      "bundesland": "Bayern"
+    },
+    "9472": {
+      "ags": "9472",
+      "name": "Bayreuth (Landkreis)",
+      "lat": 49.883,
+      "lon": 11.555,
+      "population": 103876,
+      "bundesland": "Bayern"
+    },
+    "9473": {
+      "ags": "9473",
+      "name": "Coburg (Landkreis)",
+      "lat": 50.268,
+      "lon": 10.944,
+      "population": 86734,
+      "bundesland": "Bayern"
+    },
+    "9474": {
+      "ags": "9474",
+      "name": "Forchheim",
+      "lat": 49.721,
+      "lon": 11.173,
+      "population": 115259,
+      "bundesland": "Bayern"
+    },
+    "9475": {
+      "ags": "9475",
+      "name": "Hof (Landkreis)",
+      "lat": 50.273,
+      "lon": 11.819,
+      "population": 95915,
+      "bundesland": "Bayern"
+    },
+    "9476": {
+      "ags": "9476",
+      "name": "Kronach",
+      "lat": 50.329,
+      "lon": 11.373,
+      "population": 67613,
+      "bundesland": "Bayern"
+    },
+    "9477": {
+      "ags": "9477",
+      "name": "Kulmbach",
+      "lat": 50.102,
+      "lon": 11.482,
+      "population": 71993,
+      "bundesland": "Bayern"
+    },
+    "9478": {
+      "ags": "9478",
+      "name": "Lichtenfels",
+      "lat": 50.109,
+      "lon": 11.118,
+      "population": 66640,
+      "bundesland": "Bayern"
+    },
+    "9479": {
+      "ags": "9479",
+      "name": "Wunsiedel i. Fichtelgebirge",
+      "lat": 50.09,
+      "lon": 12.041,
+      "population": 73260,
+      "bundesland": "Bayern"
+    },
+    "9561": {
+      "ags": "9561",
+      "name": "Ansbach",
+      "lat": 49.292,
+      "lon": 10.562,
+      "population": 41532,
+      "bundesland": "Bayern"
+    },
+    "9562": {
+      "ags": "9562",
+      "name": "Erlangen",
+      "lat": 49.581,
+      "lon": 10.978,
+      "population": 110238,
+      "bundesland": "Bayern"
+    },
+    "9563": {
+      "ags": "9563",
+      "name": "Fürth",
+      "lat": 49.491,
+      "lon": 10.965,
+      "population": 125403,
+      "bundesland": "Bayern"
+    },
+    "9564": {
+      "ags": "9564",
+      "name": "Nürnberg",
+      "lat": 49.436,
+      "lon": 11.082,
+      "population": 511628,
+      "bundesland": "Bayern"
+    },
+    "9565": {
+      "ags": "9565",
+      "name": "Schwabach",
+      "lat": 49.336,
+      "lon": 11.022,
+      "population": 40707,
+      "bundesland": "Bayern"
+    },
+    "9571": {
+      "ags": "9571",
+      "name": "Ansbach (Landkreis)",
+      "lat": 49.249,
+      "lon": 10.469,
+      "population": 182178,
+      "bundesland": "Bayern"
+    },
+    "9572": {
+      "ags": "9572",
+      "name": "Erlangen-Höchstadt",
+      "lat": 49.64,
+      "lon": 10.915,
+      "population": 134640,
+      "bundesland": "Bayern"
+    },
+    "9573": {
+      "ags": "9573",
+      "name": "Fürth (Landkreis)",
+      "lat": 49.446,
+      "lon": 10.85,
+      "population": 115971,
+      "bundesland": "Bayern"
+    },
+    "9574": {
+      "ags": "9574",
+      "name": "Nürnberger Land",
+      "lat": 49.491,
+      "lon": 11.37,
+      "population": 168893,
+      "bundesland": "Bayern"
+    },
+    "9575": {
+      "ags": "9575",
+      "name": "Neustadt a.d. Aisch-Bad Windsheim",
+      "lat": 49.569,
+      "lon": 10.465,
+      "population": 99332,
+      "bundesland": "Bayern"
+    },
+    "9576": {
+      "ags": "9576",
+      "name": "Roth",
+      "lat": 49.203,
+      "lon": 11.123,
+      "population": 125563,
+      "bundesland": "Bayern"
+    },
+    "9577": {
+      "ags": "9577",
+      "name": "Weißenburg-Gunzenhausen",
+      "lat": 49.033,
+      "lon": 10.893,
+      "population": 93974,
+      "bundesland": "Bayern"
+    },
+    "9661": {
+      "ags": "9661",
+      "name": "Aschaffenburg",
+      "lat": 49.963,
+      "lon": 9.147,
+      "population": 69187,
+      "bundesland": "Bayern"
+    },
+    "9662": {
+      "ags": "9662",
+      "name": "Schweinfurt",
+      "lat": 50.046,
+      "lon": 10.22,
+      "population": 52724,
+      "bundesland": "Bayern"
+    },
+    "9663": {
+      "ags": "9663",
+      "name": "Würzburg",
+      "lat": 49.785,
+      "lon": 9.942,
+      "population": 126010,
+      "bundesland": "Bayern"
+    },
+    "9671": {
+      "ags": "9671",
+      "name": "Aschaffenburg (Landkreis)",
+      "lat": 50.008,
+      "lon": 9.238,
+      "population": 173504,
+      "bundesland": "Bayern"
+    },
+    "9672": {
+      "ags": "9672",
+      "name": "Bad Kissingen",
+      "lat": 50.223,
+      "lon": 9.965,
+      "population": 103100,
+      "bundesland": "Bayern"
+    },
+    "9673": {
+      "ags": "9673",
+      "name": "Rhön-Grabfeld",
+      "lat": 50.371,
+      "lon": 10.255,
+      "population": 79855,
+      "bundesland": "Bayern"
+    },
+    "9674": {
+      "ags": "9674",
+      "name": "Haßberge",
+      "lat": 50.063,
+      "lon": 10.607,
+      "population": 84373,
+      "bundesland": "Bayern"
+    },
+    "9675": {
+      "ags": "9675",
+      "name": "Kitzingen",
+      "lat": 49.753,
+      "lon": 10.255,
+      "population": 89748,
+      "bundesland": "Bayern"
+    },
+    "9676": {
+      "ags": "9676",
+      "name": "Miltenberg",
+      "lat": 49.758,
+      "lon": 9.235,
+      "population": 128543,
+      "bundesland": "Bayern"
+    },
+    "9677": {
+      "ags": "9677",
+      "name": "Main-Spessart",
+      "lat": 49.993,
+      "lon": 9.663,
+      "population": 126301,
+      "bundesland": "Bayern"
+    },
+    "9678": {
+      "ags": "9678",
+      "name": "Schweinfurt (Landkreis)",
+      "lat": 50.017,
+      "lon": 10.26,
+      "population": 114823,
+      "bundesland": "Bayern"
+    },
+    "9679": {
+      "ags": "9679",
+      "name": "Würzburg (Landkreis)",
+      "lat": 49.738,
+      "lon": 9.927,
+      "population": 161041,
+      "bundesland": "Bayern"
+    },
+    "9761": {
+      "ags": "9761",
+      "name": "Augsburg",
+      "lat": 48.346,
+      "lon": 10.886,
+      "population": 289584,
+      "bundesland": "Bayern"
+    },
+    "9762": {
+      "ags": "9762",
+      "name": "Kaufbeuren",
+      "lat": 47.88,
+      "lon": 10.618,
+      "population": 43134,
+      "bundesland": "Bayern"
+    },
+    "9763": {
+      "ags": "9763",
+      "name": "Kempten (Allgäu)",
+      "lat": 47.738,
+      "lon": 10.309,
+      "population": 67529,
+      "bundesland": "Bayern"
+    },
+    "9764": {
+      "ags": "9764",
+      "name": "Memmingen",
+      "lat": 47.978,
+      "lon": 10.163,
+      "population": 43293,
+      "bundesland": "Bayern"
+    },
+    "9771": {
+      "ags": "9771",
+      "name": "Aichach-Friedberg",
+      "lat": 48.427,
+      "lon": 11.053,
+      "population": 131399,
+      "bundesland": "Bayern"
+    },
+    "9772": {
+      "ags": "9772",
+      "name": "Augsburg (Landkreis)",
+      "lat": 48.355,
+      "lon": 10.732,
+      "population": 247539,
+      "bundesland": "Bayern"
+    },
+    "9773": {
+      "ags": "9773",
+      "name": "Dillingen a.d. Donau",
+      "lat": 48.596,
+      "lon": 10.527,
+      "population": 94556,
+      "bundesland": "Bayern"
+    },
+    "9774": {
+      "ags": "9774",
+      "name": "Günzburg",
+      "lat": 48.353,
+      "lon": 10.38,
+      "population": 123498,
+      "bundesland": "Bayern"
+    },
+    "9775": {
+      "ags": "9775",
+      "name": "Neu-Ulm",
+      "lat": 48.298,
+      "lon": 10.14,
+      "population": 171011,
+      "bundesland": "Bayern"
+    },
+    "9776": {
+      "ags": "9776",
+      "name": "Lindau (Bodensee)",
+      "lat": 47.605,
+      "lon": 9.884,
+      "population": 80961,
+      "bundesland": "Bayern"
+    },
+    "9777": {
+      "ags": "9777",
+      "name": "Ostallgäu",
+      "lat": 47.77,
+      "lon": 10.64,
+      "population": 138265,
+      "bundesland": "Bayern"
+    },
+    "9778": {
+      "ags": "9778",
+      "name": "Unterallgäu",
+      "lat": 48.04,
+      "lon": 10.39,
+      "population": 141165,
+      "bundesland": "Bayern"
+    },
+    "9779": {
+      "ags": "9779",
+      "name": "Donau-Ries",
+      "lat": 48.807,
+      "lon": 10.712,
+      "population": 132298,
+      "bundesland": "Bayern"
+    },
+    "9780": {
+      "ags": "9780",
+      "name": "Oberallgäu",
+      "lat": 47.573,
+      "lon": 10.259,
+      "population": 153759,
+      "bundesland": "Bayern"
+    },
+    "10041": {
+      "ags": "10041",
+      "name": "Regionalverband Saarbrücken",
+      "lat": 49.252,
+      "lon": 6.958,
+      "population": 329593,
+      "bundesland": "Saarland"
+    },
+    "10042": {
+      "ags": "10042",
+      "name": "Merzig-Wadern",
+      "lat": 49.496,
+      "lon": 6.68,
+      "population": 103908,
+      "bundesland": "Saarland"
+    },
+    "10043": {
+      "ags": "10043",
+      "name": "Neunkirchen",
+      "lat": 49.376,
+      "lon": 7.117,
+      "population": 133984,
+      "bundesland": "Saarland"
+    },
+    "10044": {
+      "ags": "10044",
+      "name": "Saarlouis",
+      "lat": 49.355,
+      "lon": 6.776,
+      "population": 196609,
+      "bundesland": "Saarland"
+    },
+    "10045": {
+      "ags": "10045",
+      "name": "Saarpfalz-Kreis",
+      "lat": 49.249,
+      "lon": 7.242,
+      "population": 144100,
+      "bundesland": "Saarland"
+    },
+    "10046": {
+      "ags": "10046",
+      "name": "St. Wendel",
+      "lat": 49.519,
+      "lon": 7.1,
+      "population": 88457,
+      "bundesland": "Saarland"
+    },
+    "11000": {
+      "ags": "11000",
+      "name": "Berlin",
+      "lat": 52.501,
+      "lon": 13.402,
+      "population": 3574830,
+      "bundesland": "Berlin"
+    },
+    "12051": {
+      "ags": "12051",
+      "name": "Brandenburg an der Havel",
+      "lat": 52.4,
+      "lon": 12.515,
+      "population": 71664,
+      "bundesland": "Brandenburg"
+    },
+    "12052": {
+      "ags": "12052",
+      "name": "Cottbus",
+      "lat": 51.773,
+      "lon": 14.366,
+      "population": 100416,
+      "bundesland": "Brandenburg"
+    },
+    "12053": {
+      "ags": "12053",
+      "name": "Frankfurt (Oder)",
+      "lat": 52.325,
+      "lon": 14.49,
+      "population": 58193,
+      "bundesland": "Brandenburg"
+    },
+    "12054": {
+      "ags": "12054",
+      "name": "Potsdam",
+      "lat": 52.425,
+      "lon": 13.029,
+      "population": 171810,
+      "bundesland": "Brandenburg"
+    },
+    "12060": {
+      "ags": "12060",
+      "name": "Barnim",
+      "lat": 52.823,
+      "lon": 13.704,
+      "population": 179365,
+      "bundesland": "Brandenburg"
+    },
+    "12061": {
+      "ags": "12061",
+      "name": "Dahme-Spreewald",
+      "lat": 52.042,
+      "lon": 13.82,
+      "population": 166074,
+      "bundesland": "Brandenburg"
+    },
+    "12062": {
+      "ags": "12062",
+      "name": "Elbe-Elster",
+      "lat": 51.612,
+      "lon": 13.46,
+      "population": 104397,
+      "bundesland": "Brandenburg"
+    },
+    "12063": {
+      "ags": "12063",
+      "name": "Havelland",
+      "lat": 52.621,
+      "lon": 12.629,
+      "population": 159685,
+      "bundesland": "Brandenburg"
+    },
+    "12064": {
+      "ags": "12064",
+      "name": "Märkisch-Oderland",
+      "lat": 52.607,
+      "lon": 14.147,
+      "population": 191685,
+      "bundesland": "Brandenburg"
+    },
+    "12065": {
+      "ags": "12065",
+      "name": "Oberhavel",
+      "lat": 52.907,
+      "lon": 13.206,
+      "population": 208639,
+      "bundesland": "Brandenburg"
+    },
+    "12066": {
+      "ags": "12066",
+      "name": "Oberspreewald-Lausitz",
+      "lat": 51.616,
+      "lon": 13.944,
+      "population": 111962,
+      "bundesland": "Brandenburg"
+    },
+    "12067": {
+      "ags": "12067",
+      "name": "Oder-Spree",
+      "lat": 52.244,
+      "lon": 14.219,
+      "population": 178849,
+      "bundesland": "Brandenburg"
+    },
+    "12068": {
+      "ags": "12068",
+      "name": "Ostprignitz-Ruppin",
+      "lat": 52.992,
+      "lon": 12.636,
+      "population": 99414,
+      "bundesland": "Brandenburg"
+    },
+    "12069": {
+      "ags": "12069",
+      "name": "Potsdam-Mittelmark",
+      "lat": 52.247,
+      "lon": 12.688,
+      "population": 212207,
+      "bundesland": "Brandenburg"
+    },
+    "12070": {
+      "ags": "12070",
+      "name": "Prignitz",
+      "lat": 53.109,
+      "lon": 11.962,
+      "population": 77813,
+      "bundesland": "Brandenburg"
+    },
+    "12071": {
+      "ags": "12071",
+      "name": "Spree-Neiße",
+      "lat": 51.759,
+      "lon": 14.434,
+      "population": 116826,
+      "bundesland": "Brandenburg"
+    },
+    "12072": {
+      "ags": "12072",
+      "name": "Teltow-Fläming",
+      "lat": 52.073,
+      "lon": 13.276,
+      "population": 164771,
+      "bundesland": "Brandenburg"
+    },
+    "12073": {
+      "ags": "12073",
+      "name": "Uckermark",
+      "lat": 53.206,
+      "lon": 13.861,
+      "population": 120878,
+      "bundesland": "Brandenburg"
+    },
+    "13003": {
+      "ags": "13003",
+      "name": "Rostock",
+      "lat": 54.147,
+      "lon": 12.142,
+      "population": 207513,
+      "bundesland": "Mecklenburg-Vorpommern"
+    },
+    "13004": {
+      "ags": "13004",
+      "name": "Schwerin",
+      "lat": 53.623,
+      "lon": 11.416,
+      "population": 95668,
+      "bundesland": "Mecklenburg-Vorpommern"
+    },
+    "13071": {
+      "ags": "13071",
+      "name": "Mecklenburgische Seenplatte",
+      "lat": 53.544,
+      "lon": 13.002,
+      "population": 261816,
+      "bundesland": "Mecklenburg-Vorpommern"
+    },
+    "13072": {
+      "ags": "13072",
+      "name": "Rostock (Landkreis)",
+      "lat": 53.912,
+      "lon": 12.222,
+      "population": 213945,
+      "bundesland": "Mecklenburg-Vorpommern"
+    },
+    "13073": {
+      "ags": "13073",
+      "name": "Vorpommern-Rügen",
+      "lat": 54.283,
+      "lon": 12.992,
+      "population": 224971,
+      "bundesland": "Mecklenburg-Vorpommern"
+    },
+    "13074": {
+      "ags": "13074",
+      "name": "Nordwestmecklenburg",
+      "lat": 53.822,
+      "lon": 11.253,
+      "population": 156825,
+      "bundesland": "Mecklenburg-Vorpommern"
+    },
+    "13075": {
+      "ags": "13075",
+      "name": "Vorpommern-Greifswald",
+      "lat": 53.789,
+      "lon": 13.78,
+      "population": 237374,
+      "bundesland": "Mecklenburg-Vorpommern"
+    },
+    "13076": {
+      "ags": "13076",
+      "name": "Ludwigslust-Parchim",
+      "lat": 53.45,
+      "lon": 11.534,
+      "population": 212562,
+      "bundesland": "Mecklenburg-Vorpommern"
+    },
+    "14511": {
+      "ags": "14511",
+      "name": "Chemnitz",
+      "lat": 50.827,
+      "lon": 12.914,
+      "population": 246353,
+      "bundesland": "Sachsen"
+    },
+    "14521": {
+      "ags": "14521",
+      "name": "Erzgebirgskreis",
+      "lat": 50.609,
+      "lon": 12.946,
+      "population": 344136,
+      "bundesland": "Sachsen"
+    },
+    "14522": {
+      "ags": "14522",
+      "name": "Mittelsachsen",
+      "lat": 50.956,
+      "lon": 13.138,
+      "population": 310505,
+      "bundesland": "Sachsen"
+    },
+    "14523": {
+      "ags": "14523",
+      "name": "Vogtlandkreis",
+      "lat": 50.457,
+      "lon": 12.235,
+      "population": 231051,
+      "bundesland": "Sachsen"
+    },
+    "14524": {
+      "ags": "14524",
+      "name": "Zwickau",
+      "lat": 50.751,
+      "lon": 12.527,
+      "population": 322099,
+      "bundesland": "Sachsen"
+    },
+    "14612": {
+      "ags": "14612",
+      "name": "Dresden",
+      "lat": 51.067,
+      "lon": 13.783,
+      "population": 547172,
+      "bundesland": "Sachsen"
+    },
+    "14625": {
+      "ags": "14625",
+      "name": "Bautzen",
+      "lat": 51.269,
+      "lon": 14.231,
+      "population": 304691,
+      "bundesland": "Sachsen"
+    },
+    "14626": {
+      "ags": "14626",
+      "name": "Görlitz",
+      "lat": 51.225,
+      "lon": 14.751,
+      "population": 258337,
+      "bundesland": "Sachsen"
+    },
+    "14627": {
+      "ags": "14627",
+      "name": "Meißen",
+      "lat": 51.239,
+      "lon": 13.483,
+      "population": 243889,
+      "bundesland": "Sachsen"
+    },
+    "14628": {
+      "ags": "14628",
+      "name": "Sächsische Schweiz-Osterzgebirge",
+      "lat": 50.916,
+      "lon": 13.874,
+      "population": 246066,
+      "bundesland": "Sachsen"
+    },
+    "14713": {
+      "ags": "14713",
+      "name": "Leipzig",
+      "lat": 51.342,
+      "lon": 12.375,
+      "population": 571088,
+      "bundesland": "Sachsen"
+    },
+    "14729": {
+      "ags": "14729",
+      "name": "Leipzig (Landkreis)",
+      "lat": 51.222,
+      "lon": 12.6,
+      "population": 258333,
+      "bundesland": "Sachsen"
+    },
+    "14730": {
+      "ags": "14730",
+      "name": "Nordsachsen",
+      "lat": 51.473,
+      "lon": 12.78,
+      "population": 198063,
+      "bundesland": "Sachsen"
+    },
+    "15001": {
+      "ags": "15001",
+      "name": "Dessau-Roßlau",
+      "lat": 51.853,
+      "lon": 12.231,
+      "population": 82505,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15002": {
+      "ags": "15002",
+      "name": "Halle (Saale)",
+      "lat": 51.48,
+      "lon": 11.967,
+      "population": 238005,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15003": {
+      "ags": "15003",
+      "name": "Magdeburg",
+      "lat": 52.117,
+      "lon": 11.641,
+      "population": 238136,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15081": {
+      "ags": "15081",
+      "name": "Altmarkkreis Salzwedel",
+      "lat": 52.68,
+      "lon": 11.227,
+      "population": 85236,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15082": {
+      "ags": "15082",
+      "name": "Anhalt-Bitterfeld",
+      "lat": 51.795,
+      "lon": 12.143,
+      "population": 163100,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15083": {
+      "ags": "15083",
+      "name": "Börde",
+      "lat": 52.221,
+      "lon": 11.348,
+      "population": 172959,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15084": {
+      "ags": "15084",
+      "name": "Burgenlandkreis",
+      "lat": 51.147,
+      "lon": 11.884,
+      "population": 183174,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15085": {
+      "ags": "15085",
+      "name": "Harz",
+      "lat": 51.821,
+      "lon": 10.959,
+      "population": 219643,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15086": {
+      "ags": "15086",
+      "name": "Jerichower Land",
+      "lat": 52.261,
+      "lon": 12.027,
+      "population": 91345,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15087": {
+      "ags": "15087",
+      "name": "Mansfeld-Südharz",
+      "lat": 51.536,
+      "lon": 11.356,
+      "population": 139781,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15088": {
+      "ags": "15088",
+      "name": "Saalekreis",
+      "lat": 51.426,
+      "lon": 11.866,
+      "population": 185951,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15089": {
+      "ags": "15089",
+      "name": "Salzlandkreis",
+      "lat": 51.852,
+      "lon": 11.642,
+      "population": 194575,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15090": {
+      "ags": "15090",
+      "name": "Stendal",
+      "lat": 52.697,
+      "lon": 11.84,
+      "population": 114393,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "15091": {
+      "ags": "15091",
+      "name": "Wittenberg",
+      "lat": 51.82,
+      "lon": 12.702,
+      "population": 127449,
+      "bundesland": "Sachsen-Anhalt"
+    },
+    "16051": {
+      "ags": "16051",
+      "name": "Erfurt",
+      "lat": 50.983,
+      "lon": 11.021,
+      "population": 211113,
+      "bundesland": "Thüringen"
+    },
+    "16052": {
+      "ags": "16052",
+      "name": "Gera",
+      "lat": 50.894,
+      "lon": 12.083,
+      "population": 94750,
+      "bundesland": "Thüringen"
+    },
+    "16053": {
+      "ags": "16053",
+      "name": "Jena",
+      "lat": 50.925,
+      "lon": 11.586,
+      "population": 110321,
+      "bundesland": "Thüringen"
+    },
+    "16054": {
+      "ags": "16054",
+      "name": "Suhl",
+      "lat": 50.612,
+      "lon": 10.689,
+      "population": 35608,
+      "bundesland": "Thüringen"
+    },
+    "16055": {
+      "ags": "16055",
+      "name": "Weimar",
+      "lat": 50.978,
+      "lon": 11.317,
+      "population": 64355,
+      "bundesland": "Thüringen"
+    },
+    "16056": {
+      "ags": "16056",
+      "name": "Eisenach",
+      "lat": 50.99,
+      "lon": 10.3,
+      "population": 42588,
+      "bundesland": "Thüringen"
+    },
+    "16061": {
+      "ags": "16061",
+      "name": "Eichsfeld",
+      "lat": 51.384,
+      "lon": 10.254,
+      "population": 101033,
+      "bundesland": "Thüringen"
+    },
+    "16062": {
+      "ags": "16062",
+      "name": "Nordhausen",
+      "lat": 51.503,
+      "lon": 10.731,
+      "population": 85098,
+      "bundesland": "Thüringen"
+    },
+    "16063": {
+      "ags": "16063",
+      "name": "Wartburgkreis",
+      "lat": 50.885,
+      "lon": 10.211,
+      "population": 124729,
+      "bundesland": "Thüringen"
+    },
+    "16064": {
+      "ags": "16064",
+      "name": "Unstrut-Hainich-Kreis",
+      "lat": 51.185,
+      "lon": 10.551,
+      "population": 103948,
+      "bundesland": "Thüringen"
+    },
+    "16065": {
+      "ags": "16065",
+      "name": "Kyffhäuserkreis",
+      "lat": 51.325,
+      "lon": 10.986,
+      "population": 76685,
+      "bundesland": "Thüringen"
+    },
+    "16066": {
+      "ags": "16066",
+      "name": "Schmalkalden-Meiningen",
+      "lat": 50.63,
+      "lon": 10.405,
+      "population": 123506,
+      "bundesland": "Thüringen"
+    },
+    "16067": {
+      "ags": "16067",
+      "name": "Gotha",
+      "lat": 50.91,
+      "lon": 10.694,
+      "population": 135430,
+      "bundesland": "Thüringen"
+    },
+    "16068": {
+      "ags": "16068",
+      "name": "Sömmerda",
+      "lat": 51.157,
+      "lon": 11.153,
+      "population": 70118,
+      "bundesland": "Thüringen"
+    },
+    "16069": {
+      "ags": "16069",
+      "name": "Hildburghausen",
+      "lat": 50.434,
+      "lon": 10.735,
+      "population": 64330,
+      "bundesland": "Thüringen"
+    },
+    "16070": {
+      "ags": "16070",
+      "name": "Ilm-Kreis",
+      "lat": 50.738,
+      "lon": 10.966,
+      "population": 109167,
+      "bundesland": "Thüringen"
+    },
+    "16071": {
+      "ags": "16071",
+      "name": "Weimarer Land",
+      "lat": 50.972,
+      "lon": 11.374,
+      "population": 82316,
+      "bundesland": "Thüringen"
+    },
+    "16072": {
+      "ags": "16072",
+      "name": "Sonneberg",
+      "lat": 50.415,
+      "lon": 11.133,
+      "population": 56507,
+      "bundesland": "Thüringen"
+    },
+    "16073": {
+      "ags": "16073",
+      "name": "Saalfeld-Rudolstadt",
+      "lat": 50.638,
+      "lon": 11.308,
+      "population": 108315,
+      "bundesland": "Thüringen"
+    },
+    "16074": {
+      "ags": "16074",
+      "name": "Saale-Holzland-Kreis",
+      "lat": 50.904,
+      "lon": 11.732,
+      "population": 84525,
+      "bundesland": "Thüringen"
+    },
+    "16075": {
+      "ags": "16075",
+      "name": "Saale-Orla-Kreis",
+      "lat": 50.581,
+      "lon": 11.71,
+      "population": 82362,
+      "bundesland": "Thüringen"
+    },
+    "16076": {
+      "ags": "16076",
+      "name": "Greiz",
+      "lat": 50.749,
+      "lon": 12.073,
+      "population": 99717,
+      "bundesland": "Thüringen"
+    },
+    "16077": {
+      "ags": "16077",
+      "name": "Altenburger Land",
+      "lat": 50.956,
+      "lon": 12.4,
+      "population": 91607,
+      "bundesland": "Thüringen"
+    }
+  }

@@ -1,0 +1,200 @@
+countryCode;country_name_german;population_number;population_density
+AF;Afghanistan;34940837;53
+AL;Albanien;3020209;105
+DZ;Algerien;41318142;17
+AD;Andorra;76177;162
+AO;Angola;29784193;23
+AG;Antigua und Barbuda;100963;229
+AR;Argentinien;44938712;16
+AM;Armenien;2930450;98
+AZ;Aserbaidschan;10000000;115
+AU;Australien;23401892;3
+BS;Bahamas;377374;27
+BH;Bahrain;1332171;1741
+BD;Bangladesch;156594962;1061
+BB;Barbados;284644;648
+BE;Belgien;11150516;365
+BZ;Belize;374681;16
+BJ;Benin;11175692;97
+BT;Bhutan;753947;19
+BO;Bolivien;11051600;10
+BA;Bosnien und Herzegowina;3507017;68
+BW;Botswana;2021144;3
+BR;Brasilien;208494900;24
+BN;Brunei;417784;72
+BG;Bulgarien;7000039;63
+BG;Bulgarien;7265115;65
+BF;Burkina Faso;19193382;69
+BI;Burundi;10864245;390
+CL;Chile;18054726;23
+CR;Costa Rica;4872166;95
+CD;Demokratische Republik Kongo;86790567;37
+DE;Deutschland;82979100;232
+DM;Dominica;72003;95
+DO;Dominikanische Republik;10403761;213
+DJ;Dschibuti;850146;36
+DK;Dänemark;5827463;135
+EC;Ecuador;15737878;55
+SV;El Salvador;7332000;353
+CI;Elfenbeinküste;20316086;63
+ER;Eritrea;3497117;29
+EE;Estland;1324820;29
+FJ;Fidschi;881065;48
+FI;Finnland;5501043;16
+FR;Frankreich;66628000;103
+GA;Gabun;1671711;6
+GM;Gambia;1857181;164
+GE;Georgien;3717100;53
+GH;Ghana;28308301;118
+GD;Grenada;107825;309
+GR;Griechenland;10760421;81
+GT;Guatemala;15468203;142
+GN;Guinea;11628972;47
+GW;Guinea-Bissau;1515000;41
+GY;Guyana;799613;3
+HT;Haiti;10317461;371
+HN;Honduras;8097688;71
+IN;Indien;1349217956;410
+ID;Indonesien;263991379;138
+IQ;Irak;33417476;76
+IR;Iran;77447168;46
+IE;Irland;4761865;67
+IS;Island;357050;3
+IL;Israel;8891800;428
+IT;Italien;60599936;201
+JM;Jamaika;2890299;262
+JP;Japan;127110047;336
+YE;Jemen;26183676;47
+JO;Jordanien;10428241;116
+KH;Kambodscha;15135169;83
+CM;Kamerun;24053727;50
+CA;Kanada;35702707;3
+CV;Kap Verde;546388;135
+KZ;Kasachstan;18037646;6
+QA;Katar;2168673;189
+KE;Kenia;48468138;83
+KG;Kirgisistan;6201500;31
+KI;Kiribati;102351;126
+CO;Kolumbien;49065615;42
+KM;Komoren;734917;361
+HR;Kroatien;4105493;72
+CU;Kuba;11265629;102
+KW;Kuwait;4660000;261
+NL;Königreich der Niederlande;17100715;405
+LA;Laos;6769727;28
+LS;Lesotho;2233339;73
+LV;Lettland;1953000;30
+LB;Libanon;4467390;427
+LR;Liberia;4731906;42
+LY;Libyen;5658475;3
+LI;Liechtenstein;37922;237
+LT;Litauen;2790842;42
+LU;Luxemburg;613900;237
+MG;Madagaskar;22924851;39
+MW;Malawi;18622104;157
+MY;Malaysia;31624264;95
+MV;Malediven;345023;1157
+ML;Mali;18541980;14
+MT;Malta;423374;1339
+MA;Marokko;36029138;80
+MH;Marshallinseln;52634;290
+MR;Mauretanien;3537368;3
+MU;Mauritius;1258653;616
+MX;Mexiko;130526945;66
+FM;Mikronesien;103549;147
+MC;Monaco;37831;18728
+MN;Mongolei;3081678;1
+ME;Montenegro;622359;45
+MZ;Mosambik;25833752;32
+MM;Myanmar;53259018;78
+NA;Namibia;2303315;2
+NR;Nauru;13650;650
+NP;Nepal;29400000;199
+NZ;Neuseeland;4885300;18
+NI;Nicaragua;6217581;47
+NE;Niger;17138707;13
+NG;Nigeria;190886311;206
+KP;Nordkorea;24052231;199
+MK;Nordmazedonien;2075301;80
+NO;Norwegen;5367580;13
+OM;Oman;3632444;11
+TL;Osttimor;1180069;79
+PK;Pakistan;197015955;223
+PW;Palau;20918;44
+PA;Panama;3864170;52
+PG;Papua-Neuguinea;7321262;15
+PY;Paraguay;6802295;16
+PE;Peru;30375603;23
+PH;Philippinen;100981437;294
+PL;Polen;38454576;122
+PT;Portugal;10600000;114
+CG;Republik Kongo;5260750;15
+MD;Republik Moldau;2550900;75
+CY;Republik Zypern;1141166;123
+RW;Ruanda;12208407;463
+RO;Rumänien;19586539;82
+RU;Russland;146804372;8
+RU;Russland;146804372;8
+SB;Salomonen;561231;19
+ZM;Sambia;17094130;22
+WS;Samoa;190372;66
+SM;San Marino;31595;516
+SA;Saudi-Arabien;33000000;14
+SE;Schweden;10327589;84
+SE;Schweden;10327589;25
+SE;Schweden;10327589;22
+SE;Schweden;10327589;19
+CH;Schweiz;8211700;198
+SN;Senegal;14133280;71
+RS;Serbien;7022268;79
+SC;Seychellen;95843;208
+SL;Sierra Leone;7557212;105
+ZW;Simbabwe;14149648;36
+SG;Singapur;5888926;8189
+SK;Slowakei;5439892;110
+SI;Slowenien;2066880;101
+SO;Somalia;11031386;17
+ES;Spanien;46528024;91
+LK;Sri Lanka;21444000;326
+KN;St. Kitts und Nevis;54191;201
+LC;St. Lucia;178844;289
+VC;St. Vincent und die Grenadinen;109373;281
+SD;Sudan;40533330;21
+SR;Suriname;539276;3
+SZ;Swasiland;1367254;78
+SY;Syrien;18269868;98
+ST;São Tomé und Príncipe;192993;192
+ZA;Südafrika;57725600;47
+KR;Südkorea;51069375;509
+SS;Südsudan;12575714;20
+TJ;Tadschikistan;8921343;62
+TZ;Tansania;57310019;60
+TH;Thailand;65931550;128
+TG;Togo;6337000;111
+TO;Tonga;105323;140
+TT;Trinidad und Tobago;1341151;261
+TD;Tschad;11039873;8
+CZ;Tschechien;10649800;135
+TN;Tunesien;11565204;70
+TM;Turkmenistan;5125693;10
+TV;Tuvalu;9876;379
+TR;Türkei;82003882;104
+UG;Uganda;42862958;177
+UA;Ukraine;42558328;70
+HU;Ungarn;9971727;107
+UY;Uruguay;3407062;19
+UZ;Usbekistan;32387200;72
+VU;Vanuatu;276244;22
+VA;Vatikanstadt;1000;2271
+VE;Venezuela;28515829;31
+AE;Vereinigte Arabische Emirate;9346129;111
+US;Vereinigte Staaten;325145963;33
+GB;Vereinigtes Königreich;65102385;268
+VN;Vietnam;94660000;285
+CN;Volksrepublik China;1409517397;146
+BY;Weißrussland;9494200;45
+CF;Zentralafrikanische Republik;4987640;8
+EG;Ägypten;94798827;93
+GQ;Äquatorialguinea;1222442;43
+ET;Äthiopien;104957438;95
+AT;Österreich;8809212;105
