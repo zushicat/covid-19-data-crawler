@@ -18,7 +18,7 @@ Requested attributes:
 - IdBundesland
 - Landkreis
 
-### 2 - Stadt Köln (Northrhine-Westphalia, Germany)
+### 2 - Stadt Köln (North Rhine-Westphalia, Germany)
 This is out of very personal interest in the numbers within my immediate vicinity. Yikes.
 
 Scrape datatable of the overview page:   
