@@ -1,7 +1,7 @@
 # covid-19-data-crawler
 Get latest data updates of covid-19 numbers from different sources (with focus on Germany as of now).
 
-There is quite a gap between the overall numbers from Rober Koch Institute and (well respected) news outlets, hence this data crawler of different sources (as of now with focus on Germany).   
+There is quite a gap between the overall numbers from Robert Koch Institute and (well respected) news outlets, hence this data crawler of different sources (as of now with focus on Germany).   
 
 
 
@@ -19,6 +19,8 @@ Requested attributes:
 - Landkreis
 
 ### 2 - Stadt Köln (Northrhine-Westphalia, Germany)
+This is out of very personal interest in the numbers within my immediate vicinity. Yikes.
+
 Scrape datatable of the overview page:   
 https://www.stadt-koeln.de/leben-in-koeln/gesundheit/infektionsschutz/corona-virus/corona-virus-anzahl-der-bestaetigten-faelle-koeln
 
