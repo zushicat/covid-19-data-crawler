@@ -30,7 +30,7 @@ Numbers on state level (which I additionally accumulated to national level)
 For details, see: https://github.com/jgehrcke/covid-19-germany-gae
 
 #### b - ZON
-ZON now additionally delivers international and community level data (see comments with JSON links in /get_latest_case_data/_get_ZON_data.py) which I both request.
+ZON now additionally provides international and community level data (see comments with JSON links in /get_latest_case_data/_get_ZON_data.py) which I both request.
 
 
 
