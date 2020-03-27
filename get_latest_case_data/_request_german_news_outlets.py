@@ -95,7 +95,7 @@ def _export_csv(state_numbers: Dict[str, Any], national_numbers: Dict[str, Any])
             state_numbers_flattened.append(tmp)
     
     state_numbers_flattened = enrich_with_population_data(state_numbers_flattened)
-    #write_csv(state_numbers_flattened, "states_germany_news_api")
+    write_csv(state_numbers_flattened, "states_germany_news_api")
 
     # ***
     # national data:
