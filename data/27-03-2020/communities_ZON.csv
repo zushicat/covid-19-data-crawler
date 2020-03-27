@@ -59,7 +59,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8111,451,Stuttgart,Baden-Württemberg,DE-BW,628032,3061,48.774,9.173
 25-03-2020,8111,504,Stuttgart,Baden-Württemberg,DE-BW,628032,3061,48.774,9.173
 26-03-2020,8111,565,Stuttgart,Baden-Württemberg,DE-BW,628032,3061,48.774,9.173
-27-03-2020,8111,,Stuttgart,Baden-Württemberg,DE-BW,628032,3061,48.774,9.173
+27-03-2020,8111,635,Stuttgart,Baden-Württemberg,DE-BW,628032,3061,48.774,9.173
 27-01-2020,8115,0,Böblingen,Baden-Württemberg,DE-BW,385888,617,48.678,8.943
 28-01-2020,8115,0,Böblingen,Baden-Württemberg,DE-BW,385888,617,48.678,8.943
 29-01-2020,8115,0,Böblingen,Baden-Württemberg,DE-BW,385888,617,48.678,8.943
@@ -181,7 +181,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8116,462,Esslingen,Baden-Württemberg,DE-BW,528792,817,48.648,9.369
 25-03-2020,8116,493,Esslingen,Baden-Württemberg,DE-BW,528792,817,48.648,9.369
 26-03-2020,8116,596,Esslingen,Baden-Württemberg,DE-BW,528792,817,48.648,9.369
-27-03-2020,8116,,Esslingen,Baden-Württemberg,DE-BW,528792,817,48.648,9.369
+27-03-2020,8116,648,Esslingen,Baden-Württemberg,DE-BW,528792,817,48.648,9.369
 27-01-2020,8117,0,Göppingen,Baden-Württemberg,DE-BW,254618,393,48.663,9.718
 28-01-2020,8117,0,Göppingen,Baden-Württemberg,DE-BW,254618,393,48.663,9.718
 29-01-2020,8117,0,Göppingen,Baden-Württemberg,DE-BW,254618,393,48.663,9.718
@@ -303,7 +303,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8118,351,Ludwigsburg,Baden-Württemberg,DE-BW,537902,777,48.94,9.123
 25-03-2020,8118,418,Ludwigsburg,Baden-Württemberg,DE-BW,537902,777,48.94,9.123
 26-03-2020,8118,507,Ludwigsburg,Baden-Württemberg,DE-BW,537902,777,48.94,9.123
-27-03-2020,8118,,Ludwigsburg,Baden-Württemberg,DE-BW,537902,777,48.94,9.123
+27-03-2020,8118,543,Ludwigsburg,Baden-Württemberg,DE-BW,537902,777,48.94,9.123
 27-01-2020,8119,0,Rems-Murr-Kreis,Baden-Württemberg,DE-BW,422698,488,48.899,9.501
 28-01-2020,8119,0,Rems-Murr-Kreis,Baden-Württemberg,DE-BW,422698,488,48.899,9.501
 29-01-2020,8119,0,Rems-Murr-Kreis,Baden-Württemberg,DE-BW,422698,488,48.899,9.501
@@ -425,7 +425,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8121,60,Heilbronn,Baden-Württemberg,DE-BW,123771,1260,49.153,9.181
 25-03-2020,8121,71,Heilbronn,Baden-Württemberg,DE-BW,123771,1260,49.153,9.181
 26-03-2020,8121,81,Heilbronn,Baden-Württemberg,DE-BW,123771,1260,49.153,9.181
-27-03-2020,8121,,Heilbronn,Baden-Württemberg,DE-BW,123771,1260,49.153,9.181
+27-03-2020,8121,104,Heilbronn,Baden-Württemberg,DE-BW,123771,1260,49.153,9.181
 27-01-2020,8125,0,Heilbronn (Landkreis),Baden-Württemberg,DE-BW,337571,304,49.177,9.191
 28-01-2020,8125,0,Heilbronn (Landkreis),Baden-Württemberg,DE-BW,337571,304,49.177,9.191
 29-01-2020,8125,0,Heilbronn (Landkreis),Baden-Württemberg,DE-BW,337571,304,49.177,9.191
@@ -486,7 +486,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8125,212,Heilbronn (Landkreis),Baden-Württemberg,DE-BW,337571,304,49.177,9.191
 25-03-2020,8125,236,Heilbronn (Landkreis),Baden-Württemberg,DE-BW,337571,304,49.177,9.191
 26-03-2020,8125,279,Heilbronn (Landkreis),Baden-Württemberg,DE-BW,337571,304,49.177,9.191
-27-03-2020,8125,,Heilbronn (Landkreis),Baden-Württemberg,DE-BW,337571,304,49.177,9.191
+27-03-2020,8125,331,Heilbronn (Landkreis),Baden-Württemberg,DE-BW,337571,304,49.177,9.191
 27-01-2020,8126,0,Hohenlohekreis,Baden-Württemberg,DE-BW,110689,141,49.272,9.615
 28-01-2020,8126,0,Hohenlohekreis,Baden-Württemberg,DE-BW,110689,141,49.272,9.615
 29-01-2020,8126,0,Hohenlohekreis,Baden-Württemberg,DE-BW,110689,141,49.272,9.615
@@ -547,7 +547,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8126,278,Hohenlohekreis,Baden-Württemberg,DE-BW,110689,141,49.272,9.615
 25-03-2020,8126,278,Hohenlohekreis,Baden-Württemberg,DE-BW,110689,141,49.272,9.615
 26-03-2020,8126,302,Hohenlohekreis,Baden-Württemberg,DE-BW,110689,141,49.272,9.615
-27-03-2020,8126,,Hohenlohekreis,Baden-Württemberg,DE-BW,110689,141,49.272,9.615
+27-03-2020,8126,350,Hohenlohekreis,Baden-Württemberg,DE-BW,110689,141,49.272,9.615
 27-01-2020,8127,0,Schwäbisch Hall,Baden-Württemberg,DE-BW,192958,129,49.144,9.909
 28-01-2020,8127,0,Schwäbisch Hall,Baden-Württemberg,DE-BW,192958,129,49.144,9.909
 29-01-2020,8127,0,Schwäbisch Hall,Baden-Württemberg,DE-BW,192958,129,49.144,9.909
@@ -913,7 +913,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8212,94,Karlsruhe,Baden-Württemberg,DE-BW,309999,1805,49.012,8.412
 25-03-2020,8212,106,Karlsruhe,Baden-Württemberg,DE-BW,309999,1805,49.012,8.412
 26-03-2020,8212,106,Karlsruhe,Baden-Württemberg,DE-BW,309999,1805,49.012,8.412
-27-03-2020,8212,,Karlsruhe,Baden-Württemberg,DE-BW,309999,1805,49.012,8.412
+27-03-2020,8212,110,Karlsruhe,Baden-Württemberg,DE-BW,309999,1805,49.012,8.412
 27-01-2020,8215,0,Karlsruhe (Landkreis),Baden-Württemberg,DE-BW,440337,401,49.082,8.563
 28-01-2020,8215,0,Karlsruhe (Landkreis),Baden-Württemberg,DE-BW,440337,401,49.082,8.563
 29-01-2020,8215,0,Karlsruhe (Landkreis),Baden-Württemberg,DE-BW,440337,401,49.082,8.563
@@ -1218,7 +1218,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8225,45,Neckar-Odenwald-Kreis,Baden-Württemberg,DE-BW,143278,125,49.466,9.28
 25-03-2020,8225,50,Neckar-Odenwald-Kreis,Baden-Württemberg,DE-BW,143278,125,49.466,9.28
 26-03-2020,8225,63,Neckar-Odenwald-Kreis,Baden-Württemberg,DE-BW,143278,125,49.466,9.28
-27-03-2020,8225,,Neckar-Odenwald-Kreis,Baden-Württemberg,DE-BW,143278,125,49.466,9.28
+27-03-2020,8225,68,Neckar-Odenwald-Kreis,Baden-Württemberg,DE-BW,143278,125,49.466,9.28
 27-01-2020,8226,0,,,,,,,
 28-01-2020,8226,0,,,,,,,
 29-01-2020,8226,0,,,,,,,
@@ -1340,7 +1340,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8231,19,Pforzheim,Baden-Württemberg,DE-BW,123493,1280,48.876,8.713
 25-03-2020,8231,20,Pforzheim,Baden-Württemberg,DE-BW,123493,1280,48.876,8.713
 26-03-2020,8231,22,Pforzheim,Baden-Württemberg,DE-BW,123493,1280,48.876,8.713
-27-03-2020,8231,,Pforzheim,Baden-Württemberg,DE-BW,123493,1280,48.876,8.713
+27-03-2020,8231,25,Pforzheim,Baden-Württemberg,DE-BW,123493,1280,48.876,8.713
 27-01-2020,8235,0,Calw,Baden-Württemberg,DE-BW,155960,188,48.679,8.636
 28-01-2020,8235,0,Calw,Baden-Württemberg,DE-BW,155960,188,48.679,8.636
 29-01-2020,8235,0,Calw,Baden-Württemberg,DE-BW,155960,188,48.679,8.636
@@ -1462,7 +1462,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8236,45,,,,,,,
 25-03-2020,8236,55,,,,,,,
 26-03-2020,8236,62,,,,,,,
-27-03-2020,8236,,,,,,,,
+27-03-2020,8236,74,,,,,,,
 27-01-2020,8237,0,Freudenstadt,Baden-Württemberg,DE-BW,116692,132,48.474,8.466
 28-01-2020,8237,0,Freudenstadt,Baden-Württemberg,DE-BW,116692,132,48.474,8.466
 29-01-2020,8237,0,Freudenstadt,Baden-Württemberg,DE-BW,116692,132,48.474,8.466
@@ -1706,7 +1706,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8316,141,Emmendingen,Baden-Württemberg,DE-BW,163251,231,48.149,7.897
 25-03-2020,8316,154,Emmendingen,Baden-Württemberg,DE-BW,163251,231,48.149,7.897
 26-03-2020,8316,178,Emmendingen,Baden-Württemberg,DE-BW,163251,231,48.149,7.897
-27-03-2020,8316,,Emmendingen,Baden-Württemberg,DE-BW,163251,231,48.149,7.897
+27-03-2020,8316,191,Emmendingen,Baden-Württemberg,DE-BW,163251,231,48.149,7.897
 27-01-2020,8317,0,Ortenaukreis,Baden-Württemberg,DE-BW,423359,222,48.421,8.016
 28-01-2020,8317,0,Ortenaukreis,Baden-Württemberg,DE-BW,423359,222,48.421,8.016
 29-01-2020,8317,0,Ortenaukreis,Baden-Württemberg,DE-BW,423359,222,48.421,8.016
@@ -1767,7 +1767,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8317,135,Ortenaukreis,Baden-Württemberg,DE-BW,423359,222,48.421,8.016
 25-03-2020,8317,164,Ortenaukreis,Baden-Württemberg,DE-BW,423359,222,48.421,8.016
 26-03-2020,8317,180,Ortenaukreis,Baden-Württemberg,DE-BW,423359,222,48.421,8.016
-27-03-2020,8317,,Ortenaukreis,Baden-Württemberg,DE-BW,423359,222,48.421,8.016
+27-03-2020,8317,197,Ortenaukreis,Baden-Württemberg,DE-BW,423359,222,48.421,8.016
 27-01-2020,8325,0,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
 28-01-2020,8325,0,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
 29-01-2020,8325,0,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
@@ -1828,7 +1828,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8325,9,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
 25-03-2020,8325,50,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
 26-03-2020,8325,86,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
-27-03-2020,8325,,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
+27-03-2020,8325,87,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
 27-01-2020,8326,0,,,,,,,
 28-01-2020,8326,0,,,,,,,
 29-01-2020,8326,0,,,,,,,
@@ -1889,7 +1889,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8326,103,,,,,,,
 25-03-2020,8326,123,,,,,,,
 26-03-2020,8326,133,,,,,,,
-27-03-2020,8326,,,,,,,,
+27-03-2020,8326,137,,,,,,,
 27-01-2020,8327,0,Tuttlingen,Baden-Württemberg,DE-BW,138119,180,48.011,8.795
 28-01-2020,8327,0,Tuttlingen,Baden-Württemberg,DE-BW,138119,180,48.011,8.795
 29-01-2020,8327,0,Tuttlingen,Baden-Württemberg,DE-BW,138119,180,48.011,8.795
@@ -1950,7 +1950,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8327,32,Tuttlingen,Baden-Württemberg,DE-BW,138119,180,48.011,8.795
 25-03-2020,8327,40,Tuttlingen,Baden-Württemberg,DE-BW,138119,180,48.011,8.795
 26-03-2020,8327,74,Tuttlingen,Baden-Württemberg,DE-BW,138119,180,48.011,8.795
-27-03-2020,8327,,Tuttlingen,Baden-Württemberg,DE-BW,138119,180,48.011,8.795
+27-03-2020,8327,85,Tuttlingen,Baden-Württemberg,DE-BW,138119,180,48.011,8.795
 27-01-2020,8335,0,Konstanz,Baden-Württemberg,DE-BW,282191,330,47.798,8.911
 28-01-2020,8335,0,Konstanz,Baden-Württemberg,DE-BW,282191,330,47.798,8.911
 29-01-2020,8335,0,Konstanz,Baden-Württemberg,DE-BW,282191,330,47.798,8.911
@@ -2011,7 +2011,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8335,95,Konstanz,Baden-Württemberg,DE-BW,282191,330,47.798,8.911
 25-03-2020,8335,110,Konstanz,Baden-Württemberg,DE-BW,282191,330,47.798,8.911
 26-03-2020,8335,118,Konstanz,Baden-Württemberg,DE-BW,282191,330,47.798,8.911
-27-03-2020,8335,,Konstanz,Baden-Württemberg,DE-BW,282191,330,47.798,8.911
+27-03-2020,8335,124,Konstanz,Baden-Württemberg,DE-BW,282191,330,47.798,8.911
 27-01-2020,8336,0,Lörrach,Baden-Württemberg,DE-BW,227545,273,47.703,7.774
 28-01-2020,8336,0,Lörrach,Baden-Württemberg,DE-BW,227545,273,47.703,7.774
 29-01-2020,8336,0,Lörrach,Baden-Württemberg,DE-BW,227545,273,47.703,7.774
@@ -2194,7 +2194,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8415,152,Reutlingen,Baden-Württemberg,DE-BW,284082,252010,48.406,9.366
 25-03-2020,8415,172,Reutlingen,Baden-Württemberg,DE-BW,284082,252010,48.406,9.366
 26-03-2020,8415,206,Reutlingen,Baden-Württemberg,DE-BW,284082,252010,48.406,9.366
-27-03-2020,8415,,Reutlingen,Baden-Württemberg,DE-BW,284082,252010,48.406,9.366
+27-03-2020,8415,235,Reutlingen,Baden-Württemberg,DE-BW,284082,252010,48.406,9.366
 27-01-2020,8416,0,Tübingen,Baden-Württemberg,DE-BW,224635,413,48.482,8.988
 28-01-2020,8416,0,Tübingen,Baden-Württemberg,DE-BW,224635,413,48.482,8.988
 29-01-2020,8416,0,Tübingen,Baden-Württemberg,DE-BW,224635,413,48.482,8.988
@@ -2255,7 +2255,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8416,161,Tübingen,Baden-Württemberg,DE-BW,224635,413,48.482,8.988
 25-03-2020,8416,300,Tübingen,Baden-Württemberg,DE-BW,224635,413,48.482,8.988
 26-03-2020,8416,479,Tübingen,Baden-Württemberg,DE-BW,224635,413,48.482,8.988
-27-03-2020,8416,,Tübingen,Baden-Württemberg,DE-BW,224635,413,48.482,8.988
+27-03-2020,8416,525,Tübingen,Baden-Württemberg,DE-BW,224635,413,48.482,8.988
 27-01-2020,8417,0,,,,,,,
 28-01-2020,8417,0,,,,,,,
 29-01-2020,8417,0,,,,,,,
@@ -2438,7 +2438,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8425,99,Alb-Donau-Kreis,Baden-Württemberg,DE-BW,193318,141,48.402,9.828
 25-03-2020,8425,121,Alb-Donau-Kreis,Baden-Württemberg,DE-BW,193318,141,48.402,9.828
 26-03-2020,8425,121,Alb-Donau-Kreis,Baden-Württemberg,DE-BW,193318,141,48.402,9.828
-27-03-2020,8425,,Alb-Donau-Kreis,Baden-Württemberg,DE-BW,193318,141,48.402,9.828
+27-03-2020,8425,130,Alb-Donau-Kreis,Baden-Württemberg,DE-BW,193318,141,48.402,9.828
 27-01-2020,8426,0,Biberach,Baden-Württemberg,DE-BW,196206,137,48.107,9.775
 28-01-2020,8426,0,Biberach,Baden-Württemberg,DE-BW,196206,137,48.107,9.775
 29-01-2020,8426,0,Biberach,Baden-Württemberg,DE-BW,196206,137,48.107,9.775
@@ -2560,7 +2560,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8435,131,Bodenseekreis,Baden-Württemberg,DE-BW,213070,309,47.733,9.4
 25-03-2020,8435,170,Bodenseekreis,Baden-Württemberg,DE-BW,213070,309,47.733,9.4
 26-03-2020,8435,172,Bodenseekreis,Baden-Württemberg,DE-BW,213070,309,47.733,9.4
-27-03-2020,8435,,Bodenseekreis,Baden-Württemberg,DE-BW,213070,309,47.733,9.4
+27-03-2020,8435,175,Bodenseekreis,Baden-Württemberg,DE-BW,213070,309,47.733,9.4
 27-01-2020,8436,0,Ravensburg,Baden-Württemberg,DE-BW,281627,166,47.825,9.781
 28-01-2020,8436,0,Ravensburg,Baden-Württemberg,DE-BW,281627,166,47.825,9.781
 29-01-2020,8436,0,Ravensburg,Baden-Württemberg,DE-BW,281627,166,47.825,9.781
@@ -2621,7 +2621,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8436,176,Ravensburg,Baden-Württemberg,DE-BW,281627,166,47.825,9.781
 25-03-2020,8436,255,Ravensburg,Baden-Württemberg,DE-BW,281627,166,47.825,9.781
 26-03-2020,8436,296,Ravensburg,Baden-Württemberg,DE-BW,281627,166,47.825,9.781
-27-03-2020,8436,,Ravensburg,Baden-Württemberg,DE-BW,281627,166,47.825,9.781
+27-03-2020,8436,304,Ravensburg,Baden-Württemberg,DE-BW,281627,166,47.825,9.781
 27-01-2020,8437,0,Sigmaringen,Baden-Württemberg,DE-BW,130275,105,48.039,9.242
 28-01-2020,8437,0,Sigmaringen,Baden-Württemberg,DE-BW,130275,105,48.039,9.242
 29-01-2020,8437,0,Sigmaringen,Baden-Württemberg,DE-BW,130275,105,48.039,9.242
@@ -2682,7 +2682,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,8437,123,Sigmaringen,Baden-Württemberg,DE-BW,130275,105,48.039,9.242
 25-03-2020,8437,163,Sigmaringen,Baden-Württemberg,DE-BW,130275,105,48.039,9.242
 26-03-2020,8437,207,Sigmaringen,Baden-Württemberg,DE-BW,130275,105,48.039,9.242
-27-03-2020,8437,,Sigmaringen,Baden-Württemberg,DE-BW,130275,105,48.039,9.242
+27-03-2020,8437,235,Sigmaringen,Baden-Württemberg,DE-BW,130275,105,48.039,9.242
 27-01-2020,9161,0,Ingolstadt,Bayern,DE-BY,133639,1027,48.755,11.394
 28-01-2020,9161,0,Ingolstadt,Bayern,DE-BY,133639,1027,48.755,11.394
 29-01-2020,9161,0,Ingolstadt,Bayern,DE-BY,133639,1027,48.755,11.394
@@ -6464,7 +6464,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,9564,134,Nürnberg,Bayern,DE-BY,511628,2780,49.436,11.082
 25-03-2020,9564,180,Nürnberg,Bayern,DE-BY,511628,2780,49.436,11.082
 26-03-2020,9564,202,Nürnberg,Bayern,DE-BY,511628,2780,49.436,11.082
-27-03-2020,9564,,Nürnberg,Bayern,DE-BY,511628,2780,49.436,11.082
+27-03-2020,9564,213,Nürnberg,Bayern,DE-BY,511628,2780,49.436,11.082
 27-01-2020,9565,0,Schwabach,Bayern,DE-BY,40707,999,49.336,11.022
 28-01-2020,9565,0,Schwabach,Bayern,DE-BY,40707,999,49.336,11.022
 29-01-2020,9565,0,Schwabach,Bayern,DE-BY,40707,999,49.336,11.022
@@ -11588,7 +11588,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,13004,46,Schwerin,Mecklenburg-Vorpommern,DE-MV,95668,734,53.623,11.416
 25-03-2020,13004,47,Schwerin,Mecklenburg-Vorpommern,DE-MV,95668,734,53.623,11.416
 26-03-2020,13004,53,Schwerin,Mecklenburg-Vorpommern,DE-MV,95668,734,53.623,11.416
-27-03-2020,13004,,Schwerin,Mecklenburg-Vorpommern,DE-MV,95668,734,53.623,11.416
+27-03-2020,13004,56,Schwerin,Mecklenburg-Vorpommern,DE-MV,95668,734,53.623,11.416
 27-01-2020,13071,0,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,DE-MV,261816,47,53.544,13.002
 28-01-2020,13071,0,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,DE-MV,261816,47,53.544,13.002
 29-01-2020,13071,0,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,DE-MV,261816,47,53.544,13.002
@@ -11649,7 +11649,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,13071,36,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,DE-MV,261816,47,53.544,13.002
 25-03-2020,13071,40,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,DE-MV,261816,47,53.544,13.002
 26-03-2020,13071,41,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,DE-MV,261816,47,53.544,13.002
-27-03-2020,13071,,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,DE-MV,261816,47,53.544,13.002
+27-03-2020,13071,46,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,DE-MV,261816,47,53.544,13.002
 27-01-2020,13072,0,Rostock (Landkreis),Mecklenburg-Vorpommern,DE-MV,213945,61,53.912,12.222
 28-01-2020,13072,0,Rostock (Landkreis),Mecklenburg-Vorpommern,DE-MV,213945,61,53.912,12.222
 29-01-2020,13072,0,Rostock (Landkreis),Mecklenburg-Vorpommern,DE-MV,213945,61,53.912,12.222
@@ -11710,7 +11710,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,13072,20,Rostock (Landkreis),Mecklenburg-Vorpommern,DE-MV,213945,61,53.912,12.222
 25-03-2020,13072,24,Rostock (Landkreis),Mecklenburg-Vorpommern,DE-MV,213945,61,53.912,12.222
 26-03-2020,13072,24,Rostock (Landkreis),Mecklenburg-Vorpommern,DE-MV,213945,61,53.912,12.222
-27-03-2020,13072,,Rostock (Landkreis),Mecklenburg-Vorpommern,DE-MV,213945,61,53.912,12.222
+27-03-2020,13072,25,Rostock (Landkreis),Mecklenburg-Vorpommern,DE-MV,213945,61,53.912,12.222
 27-01-2020,13073,0,,,,,,,
 28-01-2020,13073,0,,,,,,,
 29-01-2020,13073,0,,,,,,,
@@ -11771,7 +11771,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,13073,17,,,,,,,
 25-03-2020,13073,18,,,,,,,
 26-03-2020,13073,28,,,,,,,
-27-03-2020,13073,,,,,,,,
+27-03-2020,13073,32,,,,,,,
 27-01-2020,13074,0,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
 28-01-2020,13074,0,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
 29-01-2020,13074,0,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
@@ -11832,7 +11832,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,13074,21,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
 25-03-2020,13074,24,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
 26-03-2020,13074,24,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
-27-03-2020,13074,,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
+27-03-2020,13074,25,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
 27-01-2020,13075,0,Vorpommern-Greifswald,Mecklenburg-Vorpommern,DE-MV,237374,60,53.789,13.78
 28-01-2020,13075,0,Vorpommern-Greifswald,Mecklenburg-Vorpommern,DE-MV,237374,60,53.789,13.78
 29-01-2020,13075,0,Vorpommern-Greifswald,Mecklenburg-Vorpommern,DE-MV,237374,60,53.789,13.78
@@ -11893,7 +11893,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,13075,31,Vorpommern-Greifswald,Mecklenburg-Vorpommern,DE-MV,237374,60,53.789,13.78
 25-03-2020,13075,32,Vorpommern-Greifswald,Mecklenburg-Vorpommern,DE-MV,237374,60,53.789,13.78
 26-03-2020,13075,36,Vorpommern-Greifswald,Mecklenburg-Vorpommern,DE-MV,237374,60,53.789,13.78
-27-03-2020,13075,,Vorpommern-Greifswald,Mecklenburg-Vorpommern,DE-MV,237374,60,53.789,13.78
+27-03-2020,13075,46,Vorpommern-Greifswald,Mecklenburg-Vorpommern,DE-MV,237374,60,53.789,13.78
 27-01-2020,13076,0,Ludwigslust-Parchim,Mecklenburg-Vorpommern,DE-MV,212562,44,53.45,11.534
 28-01-2020,13076,0,Ludwigslust-Parchim,Mecklenburg-Vorpommern,DE-MV,212562,44,53.45,11.534
 29-01-2020,13076,0,Ludwigslust-Parchim,Mecklenburg-Vorpommern,DE-MV,212562,44,53.45,11.534
@@ -11954,7 +11954,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,13076,27,Ludwigslust-Parchim,Mecklenburg-Vorpommern,DE-MV,212562,44,53.45,11.534
 25-03-2020,13076,27,Ludwigslust-Parchim,Mecklenburg-Vorpommern,DE-MV,212562,44,53.45,11.534
 26-03-2020,13076,28,Ludwigslust-Parchim,Mecklenburg-Vorpommern,DE-MV,212562,44,53.45,11.534
-27-03-2020,13076,,Ludwigslust-Parchim,Mecklenburg-Vorpommern,DE-MV,212562,44,53.45,11.534
+27-03-2020,13076,31,Ludwigslust-Parchim,Mecklenburg-Vorpommern,DE-MV,212562,44,53.45,11.534
 27-01-2020,3101,0,Braunschweig,Niedersachsen,DE-NI,248667,1288,52.276,10.524
 28-01-2020,3101,0,Braunschweig,Niedersachsen,DE-NI,248667,1288,52.276,10.524
 29-01-2020,3101,0,Braunschweig,Niedersachsen,DE-NI,248667,1288,52.276,10.524
@@ -15736,7 +15736,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,5315,921,Köln,Nordrhein-Westfalen,DE-NW,1075940,2680,50.945,6.973
 25-03-2020,5315,1002,Köln,Nordrhein-Westfalen,DE-NW,1075940,2680,50.945,6.973
 26-03-2020,5315,1075,Köln,Nordrhein-Westfalen,DE-NW,1075940,2680,50.945,6.973
-27-03-2020,5315,,Köln,Nordrhein-Westfalen,DE-NW,1075940,2680,50.945,6.973
+27-03-2020,5315,1161,Köln,Nordrhein-Westfalen,DE-NW,1075940,2680,50.945,6.973
 27-01-2020,5316,0,Leverkusen,Nordrhein-Westfalen,DE-NW,163113,2077,51.053,7.016
 28-01-2020,5316,0,Leverkusen,Nordrhein-Westfalen,DE-NW,163113,2077,51.053,7.016
 29-01-2020,5316,0,Leverkusen,Nordrhein-Westfalen,DE-NW,163113,2077,51.053,7.016
@@ -20189,7 +20189,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,10041,163,,,,,,,
 25-03-2020,10041,169,,,,,,,
 26-03-2020,10041,190,,,,,,,
-27-03-2020,10041,,,,,,,,
+27-03-2020,10041,211,,,,,,,
 27-01-2020,10042,0,Merzig-Wadern,Saarland,DE-SL,103908,186,49.496,6.68
 28-01-2020,10042,0,Merzig-Wadern,Saarland,DE-SL,103908,186,49.496,6.68
 29-01-2020,10042,0,Merzig-Wadern,Saarland,DE-SL,103908,186,49.496,6.68
@@ -20250,7 +20250,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,10042,25,Merzig-Wadern,Saarland,DE-SL,103908,186,49.496,6.68
 25-03-2020,10042,30,Merzig-Wadern,Saarland,DE-SL,103908,186,49.496,6.68
 26-03-2020,10042,37,Merzig-Wadern,Saarland,DE-SL,103908,186,49.496,6.68
-27-03-2020,10042,,Merzig-Wadern,Saarland,DE-SL,103908,186,49.496,6.68
+27-03-2020,10042,41,Merzig-Wadern,Saarland,DE-SL,103908,186,49.496,6.68
 27-01-2020,10043,0,Neunkirchen,Saarland,DE-SL,133984,538,49.376,7.117
 28-01-2020,10043,0,Neunkirchen,Saarland,DE-SL,133984,538,49.376,7.117
 29-01-2020,10043,0,Neunkirchen,Saarland,DE-SL,133984,538,49.376,7.117
@@ -20311,7 +20311,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,10043,47,Neunkirchen,Saarland,DE-SL,133984,538,49.376,7.117
 25-03-2020,10043,49,Neunkirchen,Saarland,DE-SL,133984,538,49.376,7.117
 26-03-2020,10043,64,Neunkirchen,Saarland,DE-SL,133984,538,49.376,7.117
-27-03-2020,10043,,Neunkirchen,Saarland,DE-SL,133984,538,49.376,7.117
+27-03-2020,10043,78,Neunkirchen,Saarland,DE-SL,133984,538,49.376,7.117
 27-01-2020,10044,0,Saarlouis,Saarland,DE-SL,196609,428,49.355,6.776
 28-01-2020,10044,0,Saarlouis,Saarland,DE-SL,196609,428,49.355,6.776
 29-01-2020,10044,0,Saarlouis,Saarland,DE-SL,196609,428,49.355,6.776
@@ -20372,7 +20372,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,10044,58,Saarlouis,Saarland,DE-SL,196609,428,49.355,6.776
 25-03-2020,10044,62,Saarlouis,Saarland,DE-SL,196609,428,49.355,6.776
 26-03-2020,10044,78,Saarlouis,Saarland,DE-SL,196609,428,49.355,6.776
-27-03-2020,10044,,Saarlouis,Saarland,DE-SL,196609,428,49.355,6.776
+27-03-2020,10044,96,Saarlouis,Saarland,DE-SL,196609,428,49.355,6.776
 27-01-2020,10045,0,,,,,,,
 28-01-2020,10045,0,,,,,,,
 29-01-2020,10045,0,,,,,,,
@@ -20433,7 +20433,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,10045,87,,,,,,,
 25-03-2020,10045,94,,,,,,,
 26-03-2020,10045,102,,,,,,,
-27-03-2020,10045,,,,,,,,
+27-03-2020,10045,115,,,,,,,
 27-01-2020,10046,0,,,,,,,
 28-01-2020,10046,0,,,,,,,
 29-01-2020,10046,0,,,,,,,
@@ -20494,7 +20494,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,10046,53,,,,,,,
 25-03-2020,10046,62,,,,,,,
 26-03-2020,10046,69,,,,,,,
-27-03-2020,10046,,,,,,,,
+27-03-2020,10046,73,,,,,,,
 27-01-2020,14511,0,Chemnitz,Sachsen,DE-SN,246353,1118,50.827,12.914
 28-01-2020,14511,0,Chemnitz,Sachsen,DE-SN,246353,1118,50.827,12.914
 29-01-2020,14511,0,Chemnitz,Sachsen,DE-SN,246353,1118,50.827,12.914
@@ -22507,7 +22507,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,1053,51,Herzogtum Lauenburg,Schleswig-Holstein,DE-SH,195063,152,53.589,10.602
 25-03-2020,1053,52,Herzogtum Lauenburg,Schleswig-Holstein,DE-SH,195063,152,53.589,10.602
 26-03-2020,1053,56,Herzogtum Lauenburg,Schleswig-Holstein,DE-SH,195063,152,53.589,10.602
-27-03-2020,1053,,Herzogtum Lauenburg,Schleswig-Holstein,DE-SH,195063,152,53.589,10.602
+27-03-2020,1053,71,Herzogtum Lauenburg,Schleswig-Holstein,DE-SH,195063,152,53.589,10.602
 27-01-2020,1054,0,Nordfriesland,Schleswig-Holstein,DE-SH,164926,78,54.615,8.899
 28-01-2020,1054,0,Nordfriesland,Schleswig-Holstein,DE-SH,164926,78,54.615,8.899
 29-01-2020,1054,0,Nordfriesland,Schleswig-Holstein,DE-SH,164926,78,54.615,8.899
@@ -22568,7 +22568,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,1054,20,Nordfriesland,Schleswig-Holstein,DE-SH,164926,78,54.615,8.899
 25-03-2020,1054,22,Nordfriesland,Schleswig-Holstein,DE-SH,164926,78,54.615,8.899
 26-03-2020,1054,24,Nordfriesland,Schleswig-Holstein,DE-SH,164926,78,54.615,8.899
-27-03-2020,1054,,Nordfriesland,Schleswig-Holstein,DE-SH,164926,78,54.615,8.899
+27-03-2020,1054,27,Nordfriesland,Schleswig-Holstein,DE-SH,164926,78,54.615,8.899
 27-01-2020,1055,0,,,,,,,
 28-01-2020,1055,0,,,,,,,
 29-01-2020,1055,0,,,,,,,
@@ -22629,7 +22629,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,1055,17,,,,,,,
 25-03-2020,1055,18,,,,,,,
 26-03-2020,1055,22,,,,,,,
-27-03-2020,1055,,,,,,,,
+27-03-2020,1055,23,,,,,,,
 27-01-2020,1056,0,,,,,,,
 28-01-2020,1056,0,,,,,,,
 29-01-2020,1056,0,,,,,,,
@@ -22751,7 +22751,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,1057,23,,,,,,,
 25-03-2020,1057,31,,,,,,,
 26-03-2020,1057,38,,,,,,,
-27-03-2020,1057,,,,,,,,
+27-03-2020,1057,45,,,,,,,
 27-01-2020,1058,0,,,,,,,
 28-01-2020,1058,0,,,,,,,
 29-01-2020,1058,0,,,,,,,
@@ -22873,7 +22873,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,1059,34,,,,,,,
 25-03-2020,1059,34,,,,,,,
 26-03-2020,1059,38,,,,,,,
-27-03-2020,1059,,,,,,,,
+27-03-2020,1059,45,,,,,,,
 27-01-2020,1060,0,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
 28-01-2020,1060,0,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
 29-01-2020,1060,0,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
@@ -22995,7 +22995,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,1061,20,,,,,,,
 25-03-2020,1061,21,,,,,,,
 26-03-2020,1061,23,,,,,,,
-27-03-2020,1061,,,,,,,,
+27-03-2020,1061,28,,,,,,,
 27-01-2020,1062,0,Stormarn,Schleswig-Holstein,DE-SH,241811,308,53.721,10.332
 28-01-2020,1062,0,Stormarn,Schleswig-Holstein,DE-SH,241811,308,53.721,10.332
 29-01-2020,1062,0,Stormarn,Schleswig-Holstein,DE-SH,241811,308,53.721,10.332
@@ -23056,7 +23056,7 @@ reportDate,ags,cases,community_name,state,stateCode,population_number,population
 24-03-2020,1062,68,Stormarn,Schleswig-Holstein,DE-SH,241811,308,53.721,10.332
 25-03-2020,1062,79,Stormarn,Schleswig-Holstein,DE-SH,241811,308,53.721,10.332
 26-03-2020,1062,88,Stormarn,Schleswig-Holstein,DE-SH,241811,308,53.721,10.332
-27-03-2020,1062,,Stormarn,Schleswig-Holstein,DE-SH,241811,308,53.721,10.332
+27-03-2020,1062,92,Stormarn,Schleswig-Holstein,DE-SH,241811,308,53.721,10.332
 27-01-2020,16051,0,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
 28-01-2020,16051,0,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
 29-01-2020,16051,0,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
