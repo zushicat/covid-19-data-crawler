@@ -58,5 +58,5 @@ Otherwise just get the csv files in directory of latest date.
   - nations_ZON.csv
   - communities_ZON.csv
 
-The data points of all csv files are saved as  "tidy" (or "long") data instead of "wide" data, meaning:  
+The data points of all csv files are saved as "tidy" (or "long") data instead of "wide" data, meaning:  
 Each date for each location is presented in a row instead of one row per location with all the dates as columns.
