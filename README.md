@@ -36,7 +36,7 @@ ZON now additionally provides international and community level data (see commen
 
 ## Usage
 If you like to request the data yourself, just call request_data.py. Csv files are then saved in a directory named by date of request.  
-**All data is enriched with additional data (ISO state/country codes and information about population numbers/density).**
+**All data is enriched with additional information about the location (ISO state/country codes and information about population numbers/density).**
 
 Otherwise just get the csv files in directory of latest date.
 
