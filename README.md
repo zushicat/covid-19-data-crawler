@@ -96,10 +96,10 @@ Otherwise just get the csv files in directory of latest date.
   - communities_germany_rki
 - 2 - Stadt Köln
   - city_cologne_germany.csv
-- 3a 
+- 3a - News Outlets (Zeit Online, Berliner Morgenblatt)
   - national_germany_news_api.csv
   - states_germany_news_api.csv
-- 3b - News Outlets
+- 3b - Zeit Online
   - nations_ZON.csv
   - communities_ZON.csv
 
