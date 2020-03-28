@@ -140,4 +140,7 @@ https://corona.conterra.de/?lang=de
 ### International
 A data community driven project with COVID-19 Coronavirus data scraped from government and curated data sources:   
 https://coronadatascraper.com
-with several formats of timesseries (csv and JSON).
+with several formats of timesseries (csv and JSON).   
+
+Johns Hopkins CSSE:   
+https://github.com/CSSEGISandData/COVID-19/
