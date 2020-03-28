@@ -21,9 +21,7 @@ Requested attributes:
 - IdBundesland
 - Landkreis
 
-The attribute "AnzahlFall" and "AnzahlTodesfall" are new case/death numbers which I accumulated accordingly in "cases" and "deaths".  
-The timestamp in "Meldedatum" is formatted into a human readable format in "reportDate" (d-m-Y).
-
+**Update:** I normalized the german attribute naming.
 
 ### 2 - Stadt Köln (North Rhine-Westphalia, Germany)
 This is out of very personal interest in the numbers within my immediate vicinity. Yikes.
