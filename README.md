@@ -31,7 +31,7 @@ https://www.stadt-koeln.de/leben-in-koeln/gesundheit/infektionsschutz/corona-vir
 ### 3 - News outlets
 Data taken from Zeit Online (ZON) and Berliner Morgenpost
 
-#### a - The API by jgehrcke
+#### a - API by jgehrcke
 Numbers on state level (which I additionally accumulated to national level)  
 For details, see: https://github.com/jgehrcke/covid-19-germany-gae
 
@@ -41,7 +41,52 @@ ZON now additionally provides international and community level data (see commen
 
 
 ## Usage
-If you like to request the data yourself, just call request_data.py. Csv files are then saved in a directory named by date of request (under /data). 
+Download (or clone) and run project (from pipenv environment):  
+- open terminal
+- install pipenv (see: https://pypi.org/project/pipenv/)
+```
+$ pip install pipenv    (OR in case of your sytem bitching about pip version or permissions:)
+$ sudo pip3 install pipenv 
+```
+- change to the downloaded/cloned project directory
+```
+$ cd soemthing/something/covid-19-data-crawler
+```
+- start pipenv shell (you can exit the shell with "exit")
+```
+$ pipenv shell
+```
+
+If you don't want to use pipenv, see Pipfile for installed packages.
+
+
+### Call request script
+Call script and request all data sources:
+```
+$ python request_data.py
+```
+
+Addintionally you can use following flags (with --all as default):
+```
+Options:
+  --all      Request all sources
+  --rki      Request Robert Koch Institute
+  --news     Request news outlet API by jgehrcke
+  --zon-i    Request ZON international numbers
+  --zon-c    Request ZON community numbers
+  --cologne  Request data for city of Cologne, Germany
+  --help     Show this message and exit.
+```
+
+i.e.
+```
+$ python request_data.py --cologne
+```
+
+
+
+### Requested data direcory
+Data of requested sources is stored in csv format (delimiter=",") in a directory named by date of request under /data. 
 
 **All data is enriched with additional information about the location (ISO state/country codes and information about population numbers/density).**
 
@@ -60,3 +105,4 @@ Otherwise just get the csv files in directory of latest date.
 
 The data points of all csv files are saved as "tidy" (or "long") data instead of "wide" data, meaning:  
 Each date for each location is presented in a row instead of one row per location with all the dates as columns.
+
