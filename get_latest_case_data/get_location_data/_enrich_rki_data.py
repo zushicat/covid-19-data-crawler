@@ -73,16 +73,18 @@ def enrich_with_population_data(data_in: List) -> List[Dict[str, Any]]:
     
 
     for line in data_in:
-        idx = line["IdLandkreis"]
+        idx = line["ags"]
         state_code = line["stateCode"]
         
-        name = line["Landkreis"]
+        name = line["community_name"]
         name = name.split("(")[0]
         name = name.replace("i.d.", "in der ").replace("a.d.", "an der ").replace("i.", "im ")
         
         for repl in ["LK", "SK"]:
             name = name.replace(repl, "")
         name = " ".join(name.split())
+
+        line["community_name"] = name
 
         if district_data.get(idx) is None:
             if city_data[state_code].get(name) is None:

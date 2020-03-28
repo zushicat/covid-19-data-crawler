@@ -30,12 +30,12 @@ def _load_csv_data(request_date: str) -> Dict[str, Dict[str, Dict]]:
 
 def enrich_data(data_in: List[Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
     '''
-    Make dict: community -> timestamp "Meldedatum" -> acc. data for community for consec. timestamp
+    Make dict: community -> timestamp -> acc. data for community for consec. timestamp
     '''
     community_data: Dict[str, Dict[str, Dict]] = {}
     for line in data_in:
-        id_landkreis: int = line["IdLandkreis"]
-        timestamp: int = int(line["Meldedatum"])
+        id_landkreis: int = line["ags"]
+        timestamp: int = int(line["reportDate_timestamp"])
         
         if community_data.get(id_landkreis) is None:
             community_data[id_landkreis] = {}
@@ -57,8 +57,8 @@ def _get_accumulated_data(rearranged_data: Dict[str, Dict[str, Dict]]) -> List[D
         timestamps.sort()
         
         # init first timestamp_data
-        timestamp_data[timestamps[0]]["cases"]: int = int(timestamp_data[timestamps[0]]["AnzahlFall"])
-        timestamp_data[timestamps[0]]["deaths"]:int = int(timestamp_data[timestamps[0]]["AnzahlTodesfall"])
+        timestamp_data[timestamps[0]]["cases"]: int = int(timestamp_data[timestamps[0]]["cases_day"])
+        timestamp_data[timestamps[0]]["deaths"]:int = int(timestamp_data[timestamps[0]]["deaths_day"])
 
         #accumulated.append(timestamp_data[timestamps[0]])
 
@@ -66,21 +66,9 @@ def _get_accumulated_data(rearranged_data: Dict[str, Dict[str, Dict]]) -> List[D
             previous_dat: Dict[str, Any] = timestamp_data[timestamps[i-1]]
             current_dat: Dict[str, Any] = timestamp_data[timestamps[i]]
             
-            current_dat["cases"]: int = previous_dat["cases"] + int(current_dat["AnzahlFall"])
-            current_dat["deaths"]: int = previous_dat["deaths"] + int(current_dat["AnzahlTodesfall"])
+            current_dat["cases"]: int = previous_dat["cases"] + int(current_dat["cases_day"])
+            current_dat["deaths"]: int = previous_dat["deaths"] + int(current_dat["deaths_day"])
 
             accumulated_communities.append(current_dat)
 
     return accumulated_communities
-
-
-if __name__ == '__main__':
-    community_data = _load_csv_data("26-03-2020")
-    accumulated_communities = enrich_data(community_data)
-
-    field_names: List[str] = accumulated_communities[0].keys()
-    today = get_date()
-    with open(f"data/{today}/numbers_rki_germany_communities_accumulated.csv", "w") as f:
-        writer = csv.DictWriter(f, fieldnames=field_names, delimiter=";")
-        writer.writeheader()
-        writer.writerows(accumulated_communities)

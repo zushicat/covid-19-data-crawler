@@ -96,6 +96,21 @@ def request_rki_api():
             line["stateCode"]: str = state_code
             timestamp_report: int = line["Meldedatum"]
             line["reportDate"]: str = get_date_from_timestamp(timestamp_report)
+
+            # ***
+            # normalize attribute naming
+            del line["IdBundesland"]
+            
+            for key_old, key_new in {
+                "AnzahlFall": "cases_day", 
+                "AnzahlTodesfall": "deaths_day", 
+                "Meldedatum": "reportDate_timestamp", 
+                "IdLandkreis": "ags", 
+                "Landkreis": "community_name"
+            }.items():
+                line[key_new] = line[key_old]
+                del line[key_old]
+
             community_numbers.append(line)
 
 
