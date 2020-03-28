@@ -1,9 +1,9 @@
 # covid-19-data-crawler
 Get latest data updates of covid-19 numbers from different sources (with main focus on Germany as of now).
 
-There is quite a gap between the overall numbers from Robert Koch Institute and (well respected) news outlets, hence this data crawler of different sources (as of now with focus on Germany).   
+There is quite a gap between the overall numbers from Robert Koch Institute and (well respected) news outlets, hence this data crawler of different sources.   
 
-For details about this discrepancy you might want to take a look i.e. at this discussion:  
+For details about this discrepancy you might want to take a look i.e. at this discussion (Johns Hopkins CSSE (JHU) repository):  
 https://github.com/CSSEGISandData/COVID-19/issues/1008
 
 
