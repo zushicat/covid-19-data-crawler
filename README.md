@@ -1,7 +1,10 @@
 # covid-19-data-crawler
-Get latest data updates of covid-19 numbers from different sources (with focus on Germany as of now).
+Get latest data updates of covid-19 numbers from different sources (with main focus on Germany as of now).
 
 There is quite a gap between the overall numbers from Robert Koch Institute and (well respected) news outlets, hence this data crawler of different sources (as of now with focus on Germany).   
+
+For details about this discrepancy you might want to take a look i.e. at this discussion:  
+https://github.com/CSSEGISandData/COVID-19/issues/1008
 
 
 
@@ -107,3 +110,34 @@ The data points of all csv files are saved as "tidy" (or "long") data instead of
 Each date for each location is presented in a row instead of one row per location with all the dates as columns.
 
 Please keep in mind that latest data (in dated directory) not necessarily includes the latest numbers of this date, since this depends on the update cycles of respective sources.
+
+
+## More Sources
+
+### Germany
+Big shoutout to   
+https://github.com/jgehrcke/covid-19-germany-gae   
+who's not only providing one of the used APIs (see: 3a) but also has tons of additional sources listed.  
+
+
+Risklayer (an independent think tank based in Karlsruhe, Germany) is providing a comprehensive spreadsheet:   
+https://docs.google.com/spreadsheets/d/1wg-s4_Lz2Stil6spQEYFdZaBEp8nWW26gVyfHqvcl8s/edit?pli=1#gid=0  
+
+Company page and press releases: 
+- http://www.risklayer.com/de/
+- http://www.risklayer.com/post_list
+
+Data explorer:
+- http://risklayer-explorer.com/event/6/detail  
+- Used by Tagesspiegel: https://interaktiv.tagesspiegel.de/lab/karte-sars-cov-2-in-deutschland-landkreise/  
+
+
+Another Datavisualization using Risklayer data by Conterra, Germany:
+https://corona.conterra.de/?lang=de
+
+
+
+### International
+A data community driven project with COVID-19 Coronavirus data scraped from government and curated data sources:   
+https://coronadatascraper.com
+with several formats of timesseries (csv and JSON).
