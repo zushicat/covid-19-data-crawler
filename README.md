@@ -85,7 +85,7 @@ $ python request_data.py --cologne
 
 
 
-### Requested data direcory
+### Requested data directory
 Data of requested sources is stored in csv format (delimiter=",") in a directory named by date of request under /data. 
 
 **All data is enriched with additional information about the location (ISO state/country codes and information about population numbers/density).**
