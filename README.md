@@ -142,5 +142,9 @@ A data community driven project with COVID-19 Coronavirus data scraped from gove
 https://coronadatascraper.com
 with several formats of timesseries (csv and JSON).   
 
-Johns Hopkins CSSE:   
+
+Johns Hopkins CSSE (JHU):   
 https://github.com/CSSEGISandData/COVID-19/
+
+The timeseries (as wide data) can be found under:   
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
