@@ -11,4 +11,6 @@ Population data taken from:
 - https://de.wikipedia.org/wiki/Land_(Deutschland)
 
 
-Additionally wikidata SPARQL requests for more community information.
+Additionally wikidata SPARQL requests for more community information.  
+
+The location data can be found in data.
