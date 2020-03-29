@@ -139,7 +139,7 @@ https://divi.de/
 
 A register of ICU beds in german hospitals and their current occupancy / workload:   
 - https://divi.de/register/intensivregister
-- https://divi.de/register/kartenansicht
+- https://divi.de/register/kartenansicht  (resp.: https://diviexchange.z6.web.core.windows.net/)
 
 (As of now I could not find any timeseries for this source.)
 
