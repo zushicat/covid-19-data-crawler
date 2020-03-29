@@ -8,6 +8,7 @@ AG;Antigua und Barbuda;100963;229
 AR;Argentinien;44938712;16
 AM;Armenien;2930450;98
 AZ;Aserbaidschan;10000000;115
+AZ;Azerbaijan;10000000;115
 AU;Australien;23401892;3
 BS;Bahamas;377374;27
 BH;Bahrain;1332171;1741
@@ -71,7 +72,9 @@ CM;Kamerun;24053727;50
 CA;Kanada;35702707;3
 CV;Kap Verde;546388;135
 KZ;Kasachstan;18037646;6
+KZ;Kazakhstan;18037646;6
 QA;Katar;2168673;189
+QA;Qatar;2168673;189
 KE;Kenia;48468138;83
 KG;Kirgisistan;6201500;31
 KI;Kiribati;102351;126
@@ -130,7 +133,9 @@ PL;Polen;38454576;122
 PT;Portugal;10600000;114
 CG;Republik Kongo;5260750;15
 MD;Republik Moldau;2550900;75
+MD;Moldova;2550900;75
 CY;Republik Zypern;1141166;123
+CY;Cyprus;1141166;123
 RW;Ruanda;12208407;463
 RO;Rumänien;19586539;82
 RU;Russland;146804372;8
@@ -153,6 +158,7 @@ ZW;Simbabwe;14149648;36
 SG;Singapur;5888926;8189
 SK;Slowakei;5439892;110
 SI;Slowenien;2066880;101
+SI;Slovenien;2066880;101
 SO;Somalia;11031386;17
 ES;Spanien;46528024;91
 LK;Sri Lanka;21444000;326
@@ -184,6 +190,7 @@ UA;Ukraine;42558328;70
 HU;Ungarn;9971727;107
 UY;Uruguay;3407062;19
 UZ;Usbekistan;32387200;72
+UZ;Uzbekistan;32387200;72
 VU;Vanuatu;276244;22
 VA;Vatikanstadt;1000;2271
 VE;Venezuela;28515829;31
@@ -198,3 +205,4 @@ EG;Ägypten;94798827;93
 GQ;Äquatorialguinea;1222442;43
 ET;Äthiopien;104957438;95
 AT;Österreich;8809212;105
+TWN;Taiwan;23574274;651
