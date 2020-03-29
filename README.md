@@ -113,12 +113,12 @@ Please keep in mind that latest data (in dated directory) not necessarily includ
 ## More Sources
 
 ### Germany
-Big shoutout to   
+Big shoutout to **https://github.com/jgehrcke**  
 https://github.com/jgehrcke/covid-19-germany-gae   
 who's not only providing one of the used APIs (see: 3a) but also has tons of additional sources listed.  
 
 
-Risklayer (an independent think tank based in Karlsruhe, Germany) is providing a comprehensive spreadsheet:   
+**Risklayer** (an independent think tank based in Karlsruhe, Germany) is providing a comprehensive spreadsheet:   
 https://docs.google.com/spreadsheets/d/1wg-s4_Lz2Stil6spQEYFdZaBEp8nWW26gVyfHqvcl8s/edit?pli=1#gid=0  
 
 Company page and press releases: 
@@ -134,6 +134,15 @@ Another Datavisualization using Risklayer data by Conterra, Germany:
 https://corona.conterra.de/?lang=de
 
 
+**Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin e.V. - DIVI**  
+https://divi.de/  
+
+A register of ICU beds in german hospitals and their current occupancy / workload:   
+- https://divi.de/register/intensivregister
+- https://divi.de/register/kartenansicht
+
+(As of now I could not find any timeseries for this source.)
+
 
 ### International
 A data community driven project with COVID-19 Coronavirus data scraped from government and curated data sources:   
@@ -141,8 +150,12 @@ https://coronadatascraper.com
 with several formats of timesseries (csv and JSON).   
 
 
-Johns Hopkins CSSE (JHU):   
+***Johns Hopkins CSSE (JHU)***:   
 https://github.com/CSSEGISandData/COVID-19/
 
 The timeseries (as wide data) can be found under:   
-https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series  
+
+
+**NYTimes** Covid-19 Data:  
+https://github.com/nytimes/covid-19-data
