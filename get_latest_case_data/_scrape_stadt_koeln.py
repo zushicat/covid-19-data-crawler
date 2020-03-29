@@ -56,6 +56,7 @@ def scrape_stadt_koeln_data():
         tmp["population_number"] = 1085664  
         tmp["population_density"] = 2700
         tmp["ags"] = "5315"
+        tmp["source"] = "Stadt Köln"
 
         cologne_data.append(tmp)
     

@@ -89,7 +89,7 @@ def _export_csv(state_numbers: Dict[str, Any], national_numbers: Dict[str, Any])
     state_numbers_flattened: List[Dict[str, Any]] = []  # -> [{"stateCode": <str>, "reportDate": <str>, "cases": <int>, "deaths": <int}]
     for reportDate, stateCode_vals in state_numbers_intermediate.items():
         for stateCode, metrics_vals in stateCode_vals.items():
-            tmp = {"stateCode": stateCode, "reportDate": reportDate}
+            tmp = {"stateCode": stateCode, "reportDate": reportDate, "source": "ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae)"}
             for metric, metric_val in metrics_vals.items():
                 tmp[metric] = metric_val
             state_numbers_flattened.append(tmp)
@@ -108,7 +108,7 @@ def _export_csv(state_numbers: Dict[str, Any], national_numbers: Dict[str, Any])
     
     national_numbers_flattened: List[Dict[str, Any]] = []
     for reportDate, date_vals in national_numbers_intermediate.items():
-        tmp = {"stateCode": "DE-DE", "reportDate": reportDate}
+        tmp = {"stateCode": "DE-DE", "reportDate": reportDate, "source": "ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae)"}
         for metric, metric_val in date_vals.items():
             tmp[metric] = metric_val
         national_numbers_flattened.append(tmp)

@@ -59,7 +59,8 @@ def get_ZON_international_data() -> None:
                 "reportDate": current_date,
                 "country_name_german": country_data["land"],
                 "cases": country_data["counts"][i],
-                "deaths": country_data["deaths"][i]
+                "deaths": country_data["deaths"][i],
+                "source": "ZON"
             }
             country_data_by_date.append(tmp)
 
@@ -81,6 +82,7 @@ def get_ZON_communities_data() -> None:
                 "reportDate": current_date,
                 "ags": community_data["ags"],
                 "cases": community_data["counts"][i],
+                "source": "ZON"
             }
             community_data_by_date.append(tmp)
     

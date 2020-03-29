@@ -1,305 +1,305 @@
-stateCode,reportDate,cases,deaths,population_number,population_density
-DE-BW,2020-03-10,237,0,10880000,304
-DE-BY,2020-03-10,314,0,12844000,182
-DE-BE,2020-03-10,48,0,3520000,3948
-DE-BB,2020-03-10,9,0,2485000,84
-DE-HB,2020-03-10,4,0,671000,1599
-DE-HH,2020-03-10,29,0,1787000,2366
-DE-HE,2020-03-10,35,0,6176000,293
-DE-MV,2020-03-10,13,0,1612000,69
-DE-NI,2020-03-10,49,0,7927000,167
-DE-NW,2020-03-10,484,0,17866000,524
-DE-RP,2020-03-10,25,0,4053000,204
-DE-SL,2020-03-10,7,0,996000,388
-DE-SN,2020-03-10,22,0,4085000,221
-DE-ST,2020-03-10,7,0,2245000,110
-DE-SH,2020-03-10,9,0,2859000,181
-DE-TH,2020-03-10,4,0,2171000,134
-DE-BW,2020-03-11,277,0,10880000,304
-DE-BY,2020-03-11,366,0,12844000,182
-DE-BE,2020-03-11,90,0,3520000,3948
-DE-BB,2020-03-11,24,0,2485000,84
-DE-HB,2020-03-11,21,0,671000,1599
-DE-HH,2020-03-11,48,0,1787000,2366
-DE-HE,2020-03-11,48,0,6176000,293
-DE-MV,2020-03-11,17,0,1612000,69
-DE-NI,2020-03-11,75,0,7927000,167
-DE-NW,2020-03-11,484,0,17866000,524
-DE-RP,2020-03-11,25,0,4053000,204
-DE-SL,2020-03-11,14,0,996000,388
-DE-SN,2020-03-11,26,0,4085000,221
-DE-ST,2020-03-11,15,0,2245000,110
-DE-SH,2020-03-11,27,0,2859000,181
-DE-TH,2020-03-11,10,0,2171000,134
-DE-BW,2020-03-12,454,0,10880000,304
-DE-BY,2020-03-12,500,0,12844000,182
-DE-BE,2020-03-12,137,0,3520000,3948
-DE-BB,2020-03-12,30,0,2485000,84
-DE-HB,2020-03-12,38,0,671000,1599
-DE-HH,2020-03-12,88,0,1787000,2366
-DE-HE,2020-03-12,99,0,6176000,293
-DE-MV,2020-03-12,23,0,1612000,69
-DE-NI,2020-03-12,129,0,7927000,167
-DE-NW,2020-03-12,688,0,17866000,524
-DE-RP,2020-03-12,52,0,4053000,204
-DE-SL,2020-03-12,14,0,996000,388
-DE-SN,2020-03-12,45,0,4085000,221
-DE-ST,2020-03-12,27,0,2245000,110
-DE-SH,2020-03-12,31,0,2859000,181
-DE-TH,2020-03-12,14,0,2171000,134
-DE-BW,2020-03-13,454,0,10880000,304
-DE-BY,2020-03-13,558,0,12844000,182
-DE-BE,2020-03-13,174,0,3520000,3948
-DE-BB,2020-03-13,44,0,2485000,84
-DE-HB,2020-03-13,42,0,671000,1599
-DE-HH,2020-03-13,99,0,1787000,2366
-DE-HE,2020-03-13,148,0,6176000,293
-DE-MV,2020-03-13,33,0,1612000,69
-DE-NI,2020-03-13,230,0,7927000,167
-DE-NW,2020-03-13,936,0,17866000,524
-DE-RP,2020-03-13,102,0,4053000,204
-DE-SL,2020-03-13,40,0,996000,388
-DE-SN,2020-03-13,83,0,4085000,221
-DE-ST,2020-03-13,42,0,2245000,110
-DE-SH,2020-03-13,48,0,2859000,181
-DE-TH,2020-03-13,29,0,2171000,134
-DE-BW,2020-03-14,569,0,10880000,304
-DE-BY,2020-03-14,681,0,12844000,182
-DE-BE,2020-03-14,216,0,3520000,3948
-DE-BB,2020-03-14,61,0,2485000,84
-DE-HB,2020-03-14,50,0,671000,1599
-DE-HH,2020-03-14,158,0,1787000,2366
-DE-HE,2020-03-14,203,0,6176000,293
-DE-MV,2020-03-14,45,0,1612000,69
-DE-NI,2020-03-14,253,0,7927000,167
-DE-NW,2020-03-14,1154,0,17866000,524
-DE-RP,2020-03-14,121,0,4053000,204
-DE-SL,2020-03-14,40,0,996000,388
-DE-SN,2020-03-14,93,0,4085000,221
-DE-ST,2020-03-14,45,0,2245000,110
-DE-SH,2020-03-14,60,0,2859000,181
-DE-TH,2020-03-14,46,0,2171000,134
-DE-BW,2020-03-15,827,0,10880000,304
-DE-BY,2020-03-15,886,0,12844000,182
-DE-BE,2020-03-15,265,0,3520000,3948
-DE-BB,2020-03-15,84,0,2485000,84
-DE-HB,2020-03-15,53,0,671000,1599
-DE-HH,2020-03-15,162,0,1787000,2366
-DE-HE,2020-03-15,286,0,6176000,293
-DE-MV,2020-03-15,50,0,1612000,69
-DE-NI,2020-03-15,287,0,7927000,167
-DE-NW,2020-03-15,1407,0,17866000,524
-DE-RP,2020-03-15,168,0,4053000,204
-DE-SL,2020-03-15,32,0,996000,388
-DE-SN,2020-03-15,130,0,4085000,221
-DE-ST,2020-03-15,47,0,2245000,110
-DE-SH,2020-03-15,103,0,2859000,181
-DE-TH,2020-03-15,51,0,2171000,134
-DE-BW,2020-03-16,1105,0,10880000,304
-DE-BY,2020-03-16,1067,0,12844000,182
-DE-BE,2020-03-16,300,0,3520000,3948
-DE-BB,2020-03-16,94,0,2485000,84
-DE-HB,2020-03-16,56,0,671000,1599
-DE-HH,2020-03-16,260,0,1787000,2366
-DE-HE,2020-03-16,342,0,6176000,293
-DE-MV,2020-03-16,51,0,1612000,69
-DE-NI,2020-03-16,391,0,7927000,167
-DE-NW,2020-03-16,1541,0,17866000,524
-DE-RP,2020-03-16,325,0,4053000,204
-DE-SL,2020-03-16,85,0,996000,388
-DE-SN,2020-03-16,140,0,4085000,221
-DE-ST,2020-03-16,77,0,2245000,110
-DE-SH,2020-03-16,123,0,2859000,181
-DE-TH,2020-03-16,55,0,2171000,134
-DE-BW,2020-03-17,1641,6,10880000,304
-DE-BY,2020-03-17,1352,5,12844000,182
-DE-BE,2020-03-17,383,0,3520000,3948
-DE-BB,2020-03-17,114,0,2485000,84
-DE-HB,2020-03-17,66,0,671000,1599
-DE-HH,2020-03-17,312,0,1787000,2366
-DE-HE,2020-03-17,381,0,6176000,293
-DE-MV,2020-03-17,69,0,1612000,69
-DE-NI,2020-03-17,563,0,7927000,167
-DE-NW,2020-03-17,3375,12,17866000,524
-DE-RP,2020-03-17,435,0,4053000,204
-DE-SL,2020-03-17,101,0,996000,388
-DE-SN,2020-03-17,247,0,4085000,221
-DE-ST,2020-03-17,93,0,2245000,110
-DE-SH,2020-03-17,145,1,2859000,181
-DE-TH,2020-03-17,71,0,2171000,134
-DE-BW,2020-03-18,2184,8,10880000,304
-DE-BY,2020-03-18,1798,7,12844000,182
-DE-BE,2020-03-18,519,0,3520000,3948
-DE-BB,2020-03-18,171,1,2485000,84
-DE-HB,2020-03-18,66,3,671000,1599
-DE-HH,2020-03-18,414,1,1787000,2366
-DE-HE,2020-03-18,547,1,6176000,293
-DE-MV,2020-03-18,100,0,1612000,69
-DE-NI,2020-03-18,740,1,7927000,167
-DE-NW,2020-03-18,4268,13,17866000,524
-DE-RP,2020-03-18,603,0,4053000,204
-DE-SL,2020-03-18,101,0,996000,388
-DE-SN,2020-03-18,296,0,4085000,221
-DE-ST,2020-03-18,133,0,2245000,110
-DE-SH,2020-03-18,196,1,2859000,181
-DE-TH,2020-03-18,87,0,2171000,134
-DE-BW,2020-03-19,2748,11,10880000,304
-DE-BY,2020-03-19,2282,13,12844000,182
-DE-BE,2020-03-19,688,0,3520000,3948
-DE-BB,2020-03-19,204,0,2485000,84
-DE-HB,2020-03-19,119,0,671000,1599
-DE-HH,2020-03-19,506,1,1787000,2366
-DE-HE,2020-03-19,740,1,6176000,293
-DE-MV,2020-03-19,133,0,1612000,69
-DE-NI,2020-03-19,981,0,7927000,167
-DE-NW,2020-03-19,4971,17,17866000,524
-DE-RP,2020-03-19,749,0,4053000,204
-DE-SL,2020-03-19,217,0,996000,388
-DE-SN,2020-03-19,389,0,4085000,221
-DE-ST,2020-03-19,152,0,2245000,110
-DE-SH,2020-03-19,253,0,2859000,181
-DE-TH,2020-03-19,108,0,2171000,134
-DE-BW,2020-03-20,3665,17,10880000,304
-DE-BY,2020-03-20,3107,20,12844000,182
-DE-BE,2020-03-20,868,1,3520000,3948
-DE-BB,2020-03-20,265,0,2485000,84
-DE-HB,2020-03-20,127,0,671000,1599
-DE-HH,2020-03-20,664,1,1787000,2366
-DE-HE,2020-03-20,962,2,6176000,293
-DE-MV,2020-03-20,167,0,1612000,69
-DE-NI,2020-03-20,1262,0,7927000,167
-DE-NW,2020-03-20,6257,20,17866000,524
-DE-RP,2020-03-20,890,1,4053000,204
-DE-SL,2020-03-20,217,0,996000,388
-DE-SN,2020-03-20,562,1,4085000,221
-DE-ST,2020-03-20,217,0,2245000,110
-DE-SH,2020-03-20,321,1,2859000,181
-DE-TH,2020-03-20,161,0,2171000,134
-DE-BW,2020-03-21,3818,23,10880000,304
-DE-BY,2020-03-21,3695,21,12844000,182
-DE-BE,2020-03-21,1025,1,3520000,3948
-DE-BB,2020-03-21,315,1,2485000,84
-DE-HB,2020-03-21,168,0,671000,1599
-DE-HH,2020-03-21,768,1,1787000,2366
-DE-HE,2020-03-21,1166,2,6176000,293
-DE-MV,2020-03-21,182,0,1612000,69
-DE-NI,2020-03-21,1452,4,7927000,167
-DE-NW,2020-03-21,6740,24,17866000,524
-DE-RP,2020-03-21,1062,2,4053000,204
-DE-SL,2020-03-21,217,0,996000,388
-DE-SN,2020-03-21,650,1,4085000,221
-DE-ST,2020-03-21,253,0,2245000,110
-DE-SH,2020-03-21,383,1,2859000,181
-DE-TH,2020-03-21,207,0,2171000,134
-DE-BW,2020-03-22,3818,23,10880000,304
-DE-BY,2020-03-22,4457,22,12844000,182
-DE-BE,2020-03-22,1071,1,3520000,3948
-DE-BB,2020-03-22,353,1,2485000,84
-DE-HB,2020-03-22,168,0,671000,1599
-DE-HH,2020-03-22,887,1,1787000,2366
-DE-HE,2020-03-22,1267,3,6176000,293
-DE-MV,2020-03-22,182,0,1612000,69
-DE-NI,2020-03-22,1586,4,7927000,167
-DE-NW,2020-03-22,7361,32,17866000,524
-DE-RP,2020-03-22,1149,2,4053000,204
-DE-SL,2020-03-22,301,1,996000,388
-DE-SN,2020-03-22,731,1,4085000,221
-DE-ST,2020-03-22,269,0,2245000,110
-DE-SH,2020-03-22,436,1,2859000,181
-DE-TH,2020-03-22,237,0,2171000,134
-DE-BW,2020-03-23,5333,31,10880000,304
-DE-BY,2020-03-23,5719,27,12844000,182
-DE-BE,2020-03-23,1219,2,3520000,3948
-DE-BB,2020-03-23,385,1,2485000,84
-DE-HB,2020-03-23,175,0,671000,1599
-DE-HH,2020-03-23,989,1,1787000,2366
-DE-HE,2020-03-23,1352,3,6176000,293
-DE-MV,2020-03-23,201,0,1612000,69
-DE-NI,2020-03-23,1779,6,7927000,167
-DE-NW,2020-03-23,8224,40,17866000,524
-DE-RP,2020-03-23,1285,4,4053000,204
-DE-SL,2020-03-23,383,1,996000,388
-DE-SN,2020-03-23,865,3,4085000,221
-DE-ST,2020-03-23,303,1,2245000,110
-DE-SH,2020-03-23,467,1,2859000,181
-DE-TH,2020-03-23,263,1,2171000,134
-DE-BW,2020-03-24,6476,32,10880000,304
-DE-BY,2020-03-24,6666,32,12844000,182
-DE-BE,2020-03-24,1425,3,3520000,3948
-DE-BB,2020-03-24,466,1,2485000,84
-DE-HB,2020-03-24,186,0,671000,1599
-DE-HH,2020-03-24,1237,1,1787000,2366
-DE-HE,2020-03-24,1682,4,6176000,293
-DE-MV,2020-03-24,219,0,1612000,69
-DE-NI,2020-03-24,2110,6,7927000,167
-DE-NW,2020-03-24,8981,53,17866000,524
-DE-RP,2020-03-24,1640,6,4053000,204
-DE-SL,2020-03-24,402,1,996000,388
-DE-SN,2020-03-24,1036,1,4085000,221
-DE-ST,2020-03-24,365,1,2245000,110
-DE-SH,2020-03-24,552,2,2859000,181
-DE-TH,2020-03-24,413,1,2171000,134
-DE-BW,2020-03-25,7285,42,10880000,304
-DE-BY,2020-03-25,7921,38,12844000,182
-DE-BE,2020-03-25,1425,3,3520000,3948
-DE-BB,2020-03-25,516,1,2485000,84
-DE-HB,2020-03-25,203,0,671000,1599
-DE-HH,2020-03-25,1450,1,1787000,2366
-DE-HE,2020-03-25,1941,7,6176000,293
-DE-MV,2020-03-25,227,0,1612000,69
-DE-NI,2020-03-25,2373,8,7927000,167
-DE-NW,2020-03-25,9734,66,17866000,524
-DE-RP,2020-03-25,1814,5,4053000,204
-DE-SL,2020-03-25,437,3,996000,388
-DE-SN,2020-03-25,1128,3,4085000,221
-DE-ST,2020-03-25,418,1,2245000,110
-DE-SH,2020-03-25,611,2,2859000,181
-DE-TH,2020-03-25,466,1,2171000,134
-DE-BW,2020-03-26,8580,83,10880000,304
-DE-BY,2020-03-26,9487,51,12844000,182
-DE-BE,2020-03-26,1937,8,3520000,3948
-DE-BB,2020-03-26,569,1,2485000,84
-DE-HB,2020-03-26,213,1,671000,1599
-DE-HH,2020-03-26,1614,2,1787000,2366
-DE-HE,2020-03-26,2195,7,6176000,293
-DE-MV,2020-03-26,246,0,1612000,69
-DE-NI,2020-03-26,2715,10,7927000,167
-DE-NW,2020-03-26,10737,74,17866000,524
-DE-RP,2020-03-26,2063,8,4053000,204
-DE-SL,2020-03-26,466,3,996000,388
-DE-SN,2020-03-26,1360,5,4085000,221
-DE-ST,2020-03-26,493,2,2245000,110
-DE-SH,2020-03-26,705,3,2859000,181
-DE-TH,2020-03-26,558,3,2171000,134
-DE-BW,2020-03-27,10272,104,10880000,304
-DE-BY,2020-03-27,11220,72,12844000,182
-DE-BE,2020-03-27,2152,8,3520000,3948
-DE-BB,2020-03-27,680,3,2485000,84
-DE-HB,2020-03-27,264,2,671000,1599
-DE-HH,2020-03-27,1759,2,1787000,2366
-DE-HE,2020-03-27,2470,10,6176000,293
-DE-MV,2020-03-27,299,0,1612000,69
-DE-NI,2020-03-27,3303,19,7927000,167
-DE-NW,2020-03-27,12002,94,17866000,524
-DE-RP,2020-03-27,2280,12,4053000,204
-DE-SL,2020-03-27,614,6,996000,388
-DE-SN,2020-03-27,1507,9,4085000,221
-DE-ST,2020-03-27,554,2,2245000,110
-DE-SH,2020-03-27,862,4,2859000,181
-DE-TH,2020-03-27,633,4,2171000,134
-DE-BW,2020-03-28,11510,115,10880000,304
-DE-BY,2020-03-28,12737,106,12844000,182
-DE-BE,2020-03-28,2337,9,3520000,3948
-DE-BB,2020-03-28,766,4,2485000,84
-DE-HB,2020-03-28,278,2,671000,1599
-DE-HH,2020-03-28,1935,4,1787000,2366
-DE-HE,2020-03-28,2844,13,6176000,293
-DE-MV,2020-03-28,348,1,1612000,69
-DE-NI,2020-03-28,3630,23,7927000,167
-DE-NW,2020-03-28,13013,107,17866000,524
-DE-RP,2020-03-28,2499,13,4053000,204
-DE-SL,2020-03-28,669,6,996000,388
-DE-SN,2020-03-28,1719,9,4085000,221
-DE-ST,2020-03-28,604,2,2245000,110
-DE-SH,2020-03-28,925,4,2859000,181
-DE-TH,2020-03-28,703,5,2171000,134
+stateCode,reportDate,source,cases,deaths,population_number,population_density
+DE-BW,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),237,0,10880000,304
+DE-BY,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),314,0,12844000,182
+DE-BE,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),48,0,3520000,3948
+DE-BB,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),9,0,2485000,84
+DE-HB,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),4,0,671000,1599
+DE-HH,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),29,0,1787000,2366
+DE-HE,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),35,0,6176000,293
+DE-MV,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),13,0,1612000,69
+DE-NI,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),49,0,7927000,167
+DE-NW,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),484,0,17866000,524
+DE-RP,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),25,0,4053000,204
+DE-SL,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),7,0,996000,388
+DE-SN,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),22,0,4085000,221
+DE-ST,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),7,0,2245000,110
+DE-SH,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),9,0,2859000,181
+DE-TH,2020-03-10,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),4,0,2171000,134
+DE-BW,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),277,0,10880000,304
+DE-BY,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),366,0,12844000,182
+DE-BE,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),90,0,3520000,3948
+DE-BB,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),24,0,2485000,84
+DE-HB,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),21,0,671000,1599
+DE-HH,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),48,0,1787000,2366
+DE-HE,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),48,0,6176000,293
+DE-MV,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),17,0,1612000,69
+DE-NI,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),75,0,7927000,167
+DE-NW,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),484,0,17866000,524
+DE-RP,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),25,0,4053000,204
+DE-SL,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),14,0,996000,388
+DE-SN,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),26,0,4085000,221
+DE-ST,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),15,0,2245000,110
+DE-SH,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),27,0,2859000,181
+DE-TH,2020-03-11,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),10,0,2171000,134
+DE-BW,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),454,0,10880000,304
+DE-BY,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),500,0,12844000,182
+DE-BE,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),137,0,3520000,3948
+DE-BB,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),30,0,2485000,84
+DE-HB,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),38,0,671000,1599
+DE-HH,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),88,0,1787000,2366
+DE-HE,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),99,0,6176000,293
+DE-MV,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),23,0,1612000,69
+DE-NI,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),129,0,7927000,167
+DE-NW,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),688,0,17866000,524
+DE-RP,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),52,0,4053000,204
+DE-SL,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),14,0,996000,388
+DE-SN,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),45,0,4085000,221
+DE-ST,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),27,0,2245000,110
+DE-SH,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),31,0,2859000,181
+DE-TH,2020-03-12,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),14,0,2171000,134
+DE-BW,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),454,0,10880000,304
+DE-BY,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),558,0,12844000,182
+DE-BE,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),174,0,3520000,3948
+DE-BB,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),44,0,2485000,84
+DE-HB,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),42,0,671000,1599
+DE-HH,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),99,0,1787000,2366
+DE-HE,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),148,0,6176000,293
+DE-MV,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),33,0,1612000,69
+DE-NI,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),230,0,7927000,167
+DE-NW,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),936,0,17866000,524
+DE-RP,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),102,0,4053000,204
+DE-SL,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),40,0,996000,388
+DE-SN,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),83,0,4085000,221
+DE-ST,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),42,0,2245000,110
+DE-SH,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),48,0,2859000,181
+DE-TH,2020-03-13,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),29,0,2171000,134
+DE-BW,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),569,0,10880000,304
+DE-BY,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),681,0,12844000,182
+DE-BE,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),216,0,3520000,3948
+DE-BB,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),61,0,2485000,84
+DE-HB,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),50,0,671000,1599
+DE-HH,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),158,0,1787000,2366
+DE-HE,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),203,0,6176000,293
+DE-MV,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),45,0,1612000,69
+DE-NI,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),253,0,7927000,167
+DE-NW,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1154,0,17866000,524
+DE-RP,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),121,0,4053000,204
+DE-SL,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),40,0,996000,388
+DE-SN,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),93,0,4085000,221
+DE-ST,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),45,0,2245000,110
+DE-SH,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),60,0,2859000,181
+DE-TH,2020-03-14,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),46,0,2171000,134
+DE-BW,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),827,0,10880000,304
+DE-BY,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),886,0,12844000,182
+DE-BE,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),265,0,3520000,3948
+DE-BB,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),84,0,2485000,84
+DE-HB,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),53,0,671000,1599
+DE-HH,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),162,0,1787000,2366
+DE-HE,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),286,0,6176000,293
+DE-MV,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),50,0,1612000,69
+DE-NI,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),287,0,7927000,167
+DE-NW,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1407,0,17866000,524
+DE-RP,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),168,0,4053000,204
+DE-SL,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),32,0,996000,388
+DE-SN,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),130,0,4085000,221
+DE-ST,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),47,0,2245000,110
+DE-SH,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),103,0,2859000,181
+DE-TH,2020-03-15,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),51,0,2171000,134
+DE-BW,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1105,0,10880000,304
+DE-BY,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1067,0,12844000,182
+DE-BE,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),300,0,3520000,3948
+DE-BB,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),94,0,2485000,84
+DE-HB,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),56,0,671000,1599
+DE-HH,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),260,0,1787000,2366
+DE-HE,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),342,0,6176000,293
+DE-MV,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),51,0,1612000,69
+DE-NI,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),391,0,7927000,167
+DE-NW,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1541,0,17866000,524
+DE-RP,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),325,0,4053000,204
+DE-SL,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),85,0,996000,388
+DE-SN,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),140,0,4085000,221
+DE-ST,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),77,0,2245000,110
+DE-SH,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),123,0,2859000,181
+DE-TH,2020-03-16,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),55,0,2171000,134
+DE-BW,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1641,6,10880000,304
+DE-BY,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1352,5,12844000,182
+DE-BE,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),383,0,3520000,3948
+DE-BB,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),114,0,2485000,84
+DE-HB,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),66,0,671000,1599
+DE-HH,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),312,0,1787000,2366
+DE-HE,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),381,0,6176000,293
+DE-MV,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),69,0,1612000,69
+DE-NI,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),563,0,7927000,167
+DE-NW,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),3375,12,17866000,524
+DE-RP,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),435,0,4053000,204
+DE-SL,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),101,0,996000,388
+DE-SN,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),247,0,4085000,221
+DE-ST,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),93,0,2245000,110
+DE-SH,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),145,1,2859000,181
+DE-TH,2020-03-17,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),71,0,2171000,134
+DE-BW,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2184,8,10880000,304
+DE-BY,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1798,7,12844000,182
+DE-BE,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),519,0,3520000,3948
+DE-BB,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),171,1,2485000,84
+DE-HB,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),66,3,671000,1599
+DE-HH,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),414,1,1787000,2366
+DE-HE,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),547,1,6176000,293
+DE-MV,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),100,0,1612000,69
+DE-NI,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),740,1,7927000,167
+DE-NW,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),4268,13,17866000,524
+DE-RP,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),603,0,4053000,204
+DE-SL,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),101,0,996000,388
+DE-SN,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),296,0,4085000,221
+DE-ST,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),133,0,2245000,110
+DE-SH,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),196,1,2859000,181
+DE-TH,2020-03-18,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),87,0,2171000,134
+DE-BW,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2748,11,10880000,304
+DE-BY,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2282,13,12844000,182
+DE-BE,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),688,0,3520000,3948
+DE-BB,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),204,0,2485000,84
+DE-HB,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),119,0,671000,1599
+DE-HH,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),506,1,1787000,2366
+DE-HE,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),740,1,6176000,293
+DE-MV,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),133,0,1612000,69
+DE-NI,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),981,0,7927000,167
+DE-NW,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),4971,17,17866000,524
+DE-RP,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),749,0,4053000,204
+DE-SL,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),217,0,996000,388
+DE-SN,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),389,0,4085000,221
+DE-ST,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),152,0,2245000,110
+DE-SH,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),253,0,2859000,181
+DE-TH,2020-03-19,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),108,0,2171000,134
+DE-BW,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),3665,17,10880000,304
+DE-BY,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),3107,20,12844000,182
+DE-BE,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),868,1,3520000,3948
+DE-BB,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),265,0,2485000,84
+DE-HB,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),127,0,671000,1599
+DE-HH,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),664,1,1787000,2366
+DE-HE,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),962,2,6176000,293
+DE-MV,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),167,0,1612000,69
+DE-NI,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1262,0,7927000,167
+DE-NW,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),6257,20,17866000,524
+DE-RP,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),890,1,4053000,204
+DE-SL,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),217,0,996000,388
+DE-SN,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),562,1,4085000,221
+DE-ST,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),217,0,2245000,110
+DE-SH,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),321,1,2859000,181
+DE-TH,2020-03-20,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),161,0,2171000,134
+DE-BW,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),3818,23,10880000,304
+DE-BY,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),3695,21,12844000,182
+DE-BE,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1025,1,3520000,3948
+DE-BB,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),315,1,2485000,84
+DE-HB,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),168,0,671000,1599
+DE-HH,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),768,1,1787000,2366
+DE-HE,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1166,2,6176000,293
+DE-MV,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),182,0,1612000,69
+DE-NI,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1452,4,7927000,167
+DE-NW,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),6740,24,17866000,524
+DE-RP,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1062,2,4053000,204
+DE-SL,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),217,0,996000,388
+DE-SN,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),650,1,4085000,221
+DE-ST,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),253,0,2245000,110
+DE-SH,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),383,1,2859000,181
+DE-TH,2020-03-21,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),207,0,2171000,134
+DE-BW,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),3818,23,10880000,304
+DE-BY,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),4457,22,12844000,182
+DE-BE,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1071,1,3520000,3948
+DE-BB,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),353,1,2485000,84
+DE-HB,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),168,0,671000,1599
+DE-HH,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),887,1,1787000,2366
+DE-HE,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1267,3,6176000,293
+DE-MV,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),182,0,1612000,69
+DE-NI,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1586,4,7927000,167
+DE-NW,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),7361,32,17866000,524
+DE-RP,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1149,2,4053000,204
+DE-SL,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),301,1,996000,388
+DE-SN,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),731,1,4085000,221
+DE-ST,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),269,0,2245000,110
+DE-SH,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),436,1,2859000,181
+DE-TH,2020-03-22,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),237,0,2171000,134
+DE-BW,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),5333,31,10880000,304
+DE-BY,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),5719,27,12844000,182
+DE-BE,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1219,2,3520000,3948
+DE-BB,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),385,1,2485000,84
+DE-HB,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),175,0,671000,1599
+DE-HH,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),989,1,1787000,2366
+DE-HE,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1352,3,6176000,293
+DE-MV,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),201,0,1612000,69
+DE-NI,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1779,6,7927000,167
+DE-NW,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),8224,40,17866000,524
+DE-RP,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1285,4,4053000,204
+DE-SL,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),383,1,996000,388
+DE-SN,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),865,3,4085000,221
+DE-ST,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),303,1,2245000,110
+DE-SH,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),467,1,2859000,181
+DE-TH,2020-03-23,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),263,1,2171000,134
+DE-BW,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),6476,32,10880000,304
+DE-BY,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),6666,32,12844000,182
+DE-BE,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1425,3,3520000,3948
+DE-BB,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),466,1,2485000,84
+DE-HB,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),186,0,671000,1599
+DE-HH,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1237,1,1787000,2366
+DE-HE,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1682,4,6176000,293
+DE-MV,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),219,0,1612000,69
+DE-NI,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2110,6,7927000,167
+DE-NW,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),8981,53,17866000,524
+DE-RP,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1640,6,4053000,204
+DE-SL,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),402,1,996000,388
+DE-SN,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1036,1,4085000,221
+DE-ST,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),365,1,2245000,110
+DE-SH,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),552,2,2859000,181
+DE-TH,2020-03-24,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),413,1,2171000,134
+DE-BW,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),7285,42,10880000,304
+DE-BY,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),7921,38,12844000,182
+DE-BE,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1425,3,3520000,3948
+DE-BB,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),516,1,2485000,84
+DE-HB,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),203,0,671000,1599
+DE-HH,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1450,1,1787000,2366
+DE-HE,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1941,7,6176000,293
+DE-MV,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),227,0,1612000,69
+DE-NI,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2373,8,7927000,167
+DE-NW,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),9734,66,17866000,524
+DE-RP,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1814,5,4053000,204
+DE-SL,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),437,3,996000,388
+DE-SN,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1128,3,4085000,221
+DE-ST,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),418,1,2245000,110
+DE-SH,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),611,2,2859000,181
+DE-TH,2020-03-25,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),466,1,2171000,134
+DE-BW,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),8580,83,10880000,304
+DE-BY,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),9487,51,12844000,182
+DE-BE,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1937,8,3520000,3948
+DE-BB,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),569,1,2485000,84
+DE-HB,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),213,1,671000,1599
+DE-HH,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1614,2,1787000,2366
+DE-HE,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2195,7,6176000,293
+DE-MV,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),246,0,1612000,69
+DE-NI,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2715,10,7927000,167
+DE-NW,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),10737,74,17866000,524
+DE-RP,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2063,8,4053000,204
+DE-SL,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),466,3,996000,388
+DE-SN,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1360,5,4085000,221
+DE-ST,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),493,2,2245000,110
+DE-SH,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),705,3,2859000,181
+DE-TH,2020-03-26,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),558,3,2171000,134
+DE-BW,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),10272,104,10880000,304
+DE-BY,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),11220,72,12844000,182
+DE-BE,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2152,8,3520000,3948
+DE-BB,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),680,3,2485000,84
+DE-HB,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),264,2,671000,1599
+DE-HH,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1759,2,1787000,2366
+DE-HE,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2470,10,6176000,293
+DE-MV,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),299,0,1612000,69
+DE-NI,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),3303,19,7927000,167
+DE-NW,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),12002,94,17866000,524
+DE-RP,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2280,12,4053000,204
+DE-SL,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),614,6,996000,388
+DE-SN,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1507,9,4085000,221
+DE-ST,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),554,2,2245000,110
+DE-SH,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),862,4,2859000,181
+DE-TH,2020-03-27,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),633,4,2171000,134
+DE-BW,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),11510,115,10880000,304
+DE-BY,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),12737,106,12844000,182
+DE-BE,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2337,9,3520000,3948
+DE-BB,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),766,4,2485000,84
+DE-HB,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),278,2,671000,1599
+DE-HH,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1935,4,1787000,2366
+DE-HE,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2844,13,6176000,293
+DE-MV,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),348,1,1612000,69
+DE-NI,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),3630,23,7927000,167
+DE-NW,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),13013,107,17866000,524
+DE-RP,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),2499,13,4053000,204
+DE-SL,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),669,6,996000,388
+DE-SN,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),1719,9,4085000,221
+DE-ST,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),604,2,2245000,110
+DE-SH,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),925,4,2859000,181
+DE-TH,2020-03-28,ZON/Berliner Morgenpost (via github.com/jgehrcke/covid-19-germany-gae),703,5,2171000,134

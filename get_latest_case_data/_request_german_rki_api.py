@@ -97,6 +97,8 @@ def request_rki_api():
             timestamp_report: int = line["Meldedatum"]
             line["reportDate"]: str = get_date_from_timestamp(timestamp_report)
 
+            line["source"]: str = "RKI"
+
             # ***
             # normalize attribute naming
             del line["IdBundesland"]

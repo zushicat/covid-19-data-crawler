@@ -10,24 +10,6 @@ from typing import Any, Dict, List
 from ._by_date import get_date
 
 
-def _load_csv_data(request_date: str) -> Dict[str, Dict[str, Dict]]:
-    '''
-    Make dict: community -> timestamp -> data for community at timestamp
-    '''
-    with open(f"data/{request_date}/communities_germany_rki.csv") as f:
-        reader = csv.DictReader(f, delimiter=";")
-        # for line in list(reader):
-        #     id_landkreis: int = line["IdLandkreis"]
-        #     timestamp: int = int(line["Meldedatum"])
-            
-        #     if community_data.get(id_landkreis) is None:
-        #         community_data[id_landkreis] = {}
-        #     if community_data[id_landkreis].get(timestamp) is None:
-        #         community_data[id_landkreis][timestamp] = line
-        
-        return enrich_data(list(reader))
-
-
 def enrich_data(data_in: List[Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
     '''
     Make dict: community -> timestamp -> acc. data for community for consec. timestamp
@@ -68,7 +50,7 @@ def _get_accumulated_data(rearranged_data: Dict[str, Dict[str, Dict]]) -> List[D
             
             current_dat["cases"]: int = previous_dat["cases"] + int(current_dat["cases_day"])
             current_dat["deaths"]: int = previous_dat["deaths"] + int(current_dat["deaths_day"])
-
+            
             accumulated_communities.append(current_dat)
 
     return accumulated_communities
