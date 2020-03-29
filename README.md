@@ -157,5 +157,5 @@ The timeseries (as wide data) can be found under:
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series  
 
 
-**NYTimes** Covid-19 Data by states and counties:  
+**NYTimes** Covid-19 Data by US states and counties:  
 https://github.com/nytimes/covid-19-data
