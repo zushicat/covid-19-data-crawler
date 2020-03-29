@@ -691,7 +691,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,1058,73,ZON,,,,,,,
 27-03-2020,1058,89,ZON,,,,,,,
 28-03-2020,1058,100,ZON,,,,,,,
-29-03-2020,1058,,ZON,,,,,,,
+29-03-2020,1058,112,ZON,,,,,,,
 27-01-2020,1059,0,ZON,,,,,,,
 28-01-2020,1059,0,ZON,,,,,,,
 29-01-2020,1059,0,ZON,,,,,,,
@@ -754,7 +754,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,1059,38,ZON,,,,,,,
 27-03-2020,1059,48,ZON,,,,,,,
 28-03-2020,1059,55,ZON,,,,,,,
-29-03-2020,1059,,ZON,,,,,,,
+29-03-2020,1059,64,ZON,,,,,,,
 27-01-2020,1060,0,ZON,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
 28-01-2020,1060,0,ZON,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
 29-01-2020,1060,0,ZON,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
@@ -817,7 +817,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,1060,55,ZON,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
 27-03-2020,1060,63,ZON,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
 28-03-2020,1060,72,ZON,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
-29-03-2020,1060,,ZON,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
+29-03-2020,1060,73,ZON,Segeberg,Schleswig-Holstein,DE-SH,272235,202,53.92,10.141
 27-01-2020,1061,0,ZON,,,,,,,
 28-01-2020,1061,0,ZON,,,,,,,
 29-01-2020,1061,0,ZON,,,,,,,
@@ -1006,7 +1006,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,2000,1614,ZON,Hamburg,Hamburg,DE-HH,1810440,2438,53.546,10.021
 27-03-2020,2000,1759,ZON,Hamburg,Hamburg,DE-HH,1810440,2438,53.546,10.021
 28-03-2020,2000,1935,ZON,Hamburg,Hamburg,DE-HH,1810440,2438,53.546,10.021
-29-03-2020,2000,,ZON,Hamburg,Hamburg,DE-HH,1810440,2438,53.546,10.021
+29-03-2020,2000,2078,ZON,Hamburg,Hamburg,DE-HH,1810440,2438,53.546,10.021
 27-01-2020,3101,0,ZON,Braunschweig,Niedersachsen,DE-NI,248667,1288,52.276,10.524
 28-01-2020,3101,0,ZON,Braunschweig,Niedersachsen,DE-NI,248667,1288,52.276,10.524
 29-01-2020,3101,0,ZON,Braunschweig,Niedersachsen,DE-NI,248667,1288,52.276,10.524
@@ -7873,7 +7873,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,6435,106,ZON,Main-Kinzig-Kreis,Hessen,DE-HE,416715,291,50.244,9.286
 27-03-2020,6435,125,ZON,Main-Kinzig-Kreis,Hessen,DE-HE,416715,291,50.244,9.286
 28-03-2020,6435,148,ZON,Main-Kinzig-Kreis,Hessen,DE-HE,416715,291,50.244,9.286
-29-03-2020,6435,,ZON,Main-Kinzig-Kreis,Hessen,DE-HE,416715,291,50.244,9.286
+29-03-2020,6435,151,ZON,Main-Kinzig-Kreis,Hessen,DE-HE,416715,291,50.244,9.286
 27-01-2020,6436,0,ZON,Main-Taunus-Kreis,Hessen,DE-HE,235708,1016,50.102,8.435
 28-01-2020,6436,0,ZON,Main-Taunus-Kreis,Hessen,DE-HE,235708,1016,50.102,8.435
 29-01-2020,6436,0,ZON,Main-Taunus-Kreis,Hessen,DE-HE,235708,1016,50.102,8.435
@@ -8440,7 +8440,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,6534,94,ZON,Marburg-Biedenkopf,Hessen,DE-HE,245013,191,50.836,8.738
 27-03-2020,6534,110,ZON,Marburg-Biedenkopf,Hessen,DE-HE,245013,191,50.836,8.738
 28-03-2020,6534,110,ZON,Marburg-Biedenkopf,Hessen,DE-HE,245013,191,50.836,8.738
-29-03-2020,6534,,ZON,Marburg-Biedenkopf,Hessen,DE-HE,245013,191,50.836,8.738
+29-03-2020,6534,117,ZON,Marburg-Biedenkopf,Hessen,DE-HE,245013,191,50.836,8.738
 27-01-2020,6535,0,ZON,,,,,,,
 28-01-2020,6535,0,ZON,,,,,,,
 29-01-2020,6535,0,ZON,,,,,,,
@@ -11464,7 +11464,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,8117,264,ZON,Göppingen,Baden-Württemberg,DE-BW,254618,393,48.663,9.718
 27-03-2020,8117,298,ZON,Göppingen,Baden-Württemberg,DE-BW,254618,393,48.663,9.718
 28-03-2020,8117,331,ZON,Göppingen,Baden-Württemberg,DE-BW,254618,393,48.663,9.718
-29-03-2020,8117,,ZON,Göppingen,Baden-Württemberg,DE-BW,254618,393,48.663,9.718
+29-03-2020,8117,365,ZON,Göppingen,Baden-Württemberg,DE-BW,254618,393,48.663,9.718
 27-01-2020,8118,0,ZON,Ludwigsburg,Baden-Württemberg,DE-BW,537902,777,48.94,9.123
 28-01-2020,8118,0,ZON,Ludwigsburg,Baden-Württemberg,DE-BW,537902,777,48.94,9.123
 29-01-2020,8118,0,ZON,Ludwigsburg,Baden-Württemberg,DE-BW,537902,777,48.94,9.123
@@ -12787,7 +12787,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,8237,116,ZON,Freudenstadt,Baden-Württemberg,DE-BW,116692,132,48.474,8.466
 27-03-2020,8237,125,ZON,Freudenstadt,Baden-Württemberg,DE-BW,116692,132,48.474,8.466
 28-03-2020,8237,149,ZON,Freudenstadt,Baden-Württemberg,DE-BW,116692,132,48.474,8.466
-29-03-2020,8237,,ZON,Freudenstadt,Baden-Württemberg,DE-BW,116692,132,48.474,8.466
+29-03-2020,8237,161,ZON,Freudenstadt,Baden-Württemberg,DE-BW,116692,132,48.474,8.466
 27-01-2020,8311,0,ZON,Freiburg im Breisgau,Baden-Württemberg,DE-BW,227590,1504,47.992,7.819
 28-01-2020,8311,0,ZON,Freiburg im Breisgau,Baden-Württemberg,DE-BW,227590,1504,47.992,7.819
 29-01-2020,8311,0,ZON,Freiburg im Breisgau,Baden-Württemberg,DE-BW,227590,1504,47.992,7.819
@@ -12850,7 +12850,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,8311,285,ZON,Freiburg im Breisgau,Baden-Württemberg,DE-BW,227590,1504,47.992,7.819
 27-03-2020,8311,333,ZON,Freiburg im Breisgau,Baden-Württemberg,DE-BW,227590,1504,47.992,7.819
 28-03-2020,8311,386,ZON,Freiburg im Breisgau,Baden-Württemberg,DE-BW,227590,1504,47.992,7.819
-29-03-2020,8311,,ZON,Freiburg im Breisgau,Baden-Württemberg,DE-BW,227590,1504,47.992,7.819
+29-03-2020,8311,402,ZON,Freiburg im Breisgau,Baden-Württemberg,DE-BW,227590,1504,47.992,7.819
 27-01-2020,8315,0,ZON,Breisgau-Hochschwarzwald,Baden-Württemberg,DE-BW,260416,179,47.925,7.924
 28-01-2020,8315,0,ZON,Breisgau-Hochschwarzwald,Baden-Württemberg,DE-BW,260416,179,47.925,7.924
 29-01-2020,8315,0,ZON,Breisgau-Hochschwarzwald,Baden-Württemberg,DE-BW,260416,179,47.925,7.924
@@ -12913,7 +12913,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,8315,266,ZON,Breisgau-Hochschwarzwald,Baden-Württemberg,DE-BW,260416,179,47.925,7.924
 27-03-2020,8315,280,ZON,Breisgau-Hochschwarzwald,Baden-Württemberg,DE-BW,260416,179,47.925,7.924
 28-03-2020,8315,378,ZON,Breisgau-Hochschwarzwald,Baden-Württemberg,DE-BW,260416,179,47.925,7.924
-29-03-2020,8315,,ZON,Breisgau-Hochschwarzwald,Baden-Württemberg,DE-BW,260416,179,47.925,7.924
+29-03-2020,8315,389,ZON,Breisgau-Hochschwarzwald,Baden-Württemberg,DE-BW,260416,179,47.925,7.924
 27-01-2020,8316,0,ZON,Emmendingen,Baden-Württemberg,DE-BW,163251,231,48.149,7.897
 28-01-2020,8316,0,ZON,Emmendingen,Baden-Württemberg,DE-BW,163251,231,48.149,7.897
 29-01-2020,8316,0,ZON,Emmendingen,Baden-Württemberg,DE-BW,163251,231,48.149,7.897
@@ -13102,7 +13102,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,8325,86,ZON,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
 27-03-2020,8325,98,ZON,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
 28-03-2020,8325,108,ZON,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
-29-03-2020,8325,,ZON,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
+29-03-2020,8325,128,ZON,Rottweil,Baden-Württemberg,DE-BW,138327,176,48.254,8.533
 27-01-2020,8326,0,ZON,,,,,,,
 28-01-2020,8326,0,ZON,,,,,,,
 29-01-2020,8326,0,ZON,,,,,,,
@@ -14110,7 +14110,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9162,1687,ZON,München,Bayern,DE-BY,1464300,4735,48.153,11.548
 27-03-2020,9162,1845,ZON,München,Bayern,DE-BY,1464300,4735,48.153,11.548
 28-03-2020,9162,2080,ZON,München,Bayern,DE-BY,1464300,4735,48.153,11.548
-29-03-2020,9162,,ZON,München,Bayern,DE-BY,1464300,4735,48.153,11.548
+29-03-2020,9162,2256,ZON,München,Bayern,DE-BY,1464300,4735,48.153,11.548
 27-01-2020,9163,0,ZON,Rosenheim,Bayern,DE-BY,62672,1687,47.844,12.108
 28-01-2020,9163,0,ZON,Rosenheim,Bayern,DE-BY,62672,1687,47.844,12.108
 29-01-2020,9163,0,ZON,Rosenheim,Bayern,DE-BY,62672,1687,47.844,12.108
@@ -14173,7 +14173,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9163,71,ZON,Rosenheim,Bayern,DE-BY,62672,1687,47.844,12.108
 27-03-2020,9163,71,ZON,Rosenheim,Bayern,DE-BY,62672,1687,47.844,12.108
 28-03-2020,9163,111,ZON,Rosenheim,Bayern,DE-BY,62672,1687,47.844,12.108
-29-03-2020,9163,,ZON,Rosenheim,Bayern,DE-BY,62672,1687,47.844,12.108
+29-03-2020,9163,119,ZON,Rosenheim,Bayern,DE-BY,62672,1687,47.844,12.108
 27-01-2020,9171,0,ZON,Altötting,Bayern,DE-BY,109422,192,48.209,12.705
 28-01-2020,9171,0,ZON,Altötting,Bayern,DE-BY,109422,192,48.209,12.705
 29-01-2020,9171,0,ZON,Altötting,Bayern,DE-BY,109422,192,48.209,12.705
@@ -14236,7 +14236,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9171,81,ZON,Altötting,Bayern,DE-BY,109422,192,48.209,12.705
 27-03-2020,9171,95,ZON,Altötting,Bayern,DE-BY,109422,192,48.209,12.705
 28-03-2020,9171,101,ZON,Altötting,Bayern,DE-BY,109422,192,48.209,12.705
-29-03-2020,9171,,ZON,Altötting,Bayern,DE-BY,109422,192,48.209,12.705
+29-03-2020,9171,103,ZON,Altötting,Bayern,DE-BY,109422,192,48.209,12.705
 27-01-2020,9172,0,ZON,Berchtesgadener Land,Bayern,DE-BY,104480,107,47.698,12.902
 28-01-2020,9172,0,ZON,Berchtesgadener Land,Bayern,DE-BY,104480,107,47.698,12.902
 29-01-2020,9172,0,ZON,Berchtesgadener Land,Bayern,DE-BY,104480,107,47.698,12.902
@@ -14299,7 +14299,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9172,47,ZON,Berchtesgadener Land,Bayern,DE-BY,104480,107,47.698,12.902
 27-03-2020,9172,59,ZON,Berchtesgadener Land,Bayern,DE-BY,104480,107,47.698,12.902
 28-03-2020,9172,65,ZON,Berchtesgadener Land,Bayern,DE-BY,104480,107,47.698,12.902
-29-03-2020,9172,,ZON,Berchtesgadener Land,Bayern,DE-BY,104480,107,47.698,12.902
+29-03-2020,9172,67,ZON,Berchtesgadener Land,Bayern,DE-BY,104480,107,47.698,12.902
 27-01-2020,9173,0,ZON,Bad Tölz-Wolfratshausen,Bayern,DE-BY,125668,113,47.728,11.483
 28-01-2020,9173,0,ZON,Bad Tölz-Wolfratshausen,Bayern,DE-BY,125668,113,47.728,11.483
 29-01-2020,9173,0,ZON,Bad Tölz-Wolfratshausen,Bayern,DE-BY,125668,113,47.728,11.483
@@ -14362,7 +14362,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9173,99,ZON,Bad Tölz-Wolfratshausen,Bayern,DE-BY,125668,113,47.728,11.483
 27-03-2020,9173,126,ZON,Bad Tölz-Wolfratshausen,Bayern,DE-BY,125668,113,47.728,11.483
 28-03-2020,9173,140,ZON,Bad Tölz-Wolfratshausen,Bayern,DE-BY,125668,113,47.728,11.483
-29-03-2020,9173,,ZON,Bad Tölz-Wolfratshausen,Bayern,DE-BY,125668,113,47.728,11.483
+29-03-2020,9173,142,ZON,Bad Tölz-Wolfratshausen,Bayern,DE-BY,125668,113,47.728,11.483
 27-01-2020,9174,0,ZON,Dachau,Bayern,DE-BY,150839,263,48.335,11.357
 28-01-2020,9174,0,ZON,Dachau,Bayern,DE-BY,150839,263,48.335,11.357
 29-01-2020,9174,0,ZON,Dachau,Bayern,DE-BY,150839,263,48.335,11.357
@@ -14488,7 +14488,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9175,114,ZON,Ebersberg,Bayern,DE-BY,139016,1,48.076,11.912
 27-03-2020,9175,133,ZON,Ebersberg,Bayern,DE-BY,139016,1,48.076,11.912
 28-03-2020,9175,150,ZON,Ebersberg,Bayern,DE-BY,139016,1,48.076,11.912
-29-03-2020,9175,,ZON,Ebersberg,Bayern,DE-BY,139016,1,48.076,11.912
+29-03-2020,9175,168,ZON,Ebersberg,Bayern,DE-BY,139016,1,48.076,11.912
 27-01-2020,9176,0,ZON,Eichstätt,Bayern,DE-BY,130808,80,48.898,11.369
 28-01-2020,9176,0,ZON,Eichstätt,Bayern,DE-BY,130808,80,48.898,11.369
 29-01-2020,9176,0,ZON,Eichstätt,Bayern,DE-BY,130808,80,48.898,11.369
@@ -14551,7 +14551,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9176,38,ZON,Eichstätt,Bayern,DE-BY,130808,80,48.898,11.369
 27-03-2020,9176,52,ZON,Eichstätt,Bayern,DE-BY,130808,80,48.898,11.369
 28-03-2020,9176,53,ZON,Eichstätt,Bayern,DE-BY,130808,80,48.898,11.369
-29-03-2020,9176,,ZON,Eichstätt,Bayern,DE-BY,130808,80,48.898,11.369
+29-03-2020,9176,71,ZON,Eichstätt,Bayern,DE-BY,130808,80,48.898,11.369
 27-01-2020,9177,0,ZON,Erding,Bayern,DE-BY,135429,1,48.301,12.001
 28-01-2020,9177,0,ZON,Erding,Bayern,DE-BY,135429,1,48.301,12.001
 29-01-2020,9177,0,ZON,Erding,Bayern,DE-BY,135429,1,48.301,12.001
@@ -14614,7 +14614,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9177,210,ZON,Erding,Bayern,DE-BY,135429,1,48.301,12.001
 27-03-2020,9177,213,ZON,Erding,Bayern,DE-BY,135429,1,48.301,12.001
 28-03-2020,9177,245,ZON,Erding,Bayern,DE-BY,135429,1,48.301,12.001
-29-03-2020,9177,,ZON,Erding,Bayern,DE-BY,135429,1,48.301,12.001
+29-03-2020,9177,261,ZON,Erding,Bayern,DE-BY,135429,1,48.301,12.001
 27-01-2020,9178,0,ZON,Freising,Bayern,DE-BY,175803,148,48.447,11.74
 28-01-2020,9178,0,ZON,Freising,Bayern,DE-BY,175803,148,48.447,11.74
 29-01-2020,9178,0,ZON,Freising,Bayern,DE-BY,175803,148,48.447,11.74
@@ -14677,7 +14677,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9178,325,ZON,Freising,Bayern,DE-BY,175803,148,48.447,11.74
 27-03-2020,9178,360,ZON,Freising,Bayern,DE-BY,175803,148,48.447,11.74
 28-03-2020,9178,397,ZON,Freising,Bayern,DE-BY,175803,148,48.447,11.74
-29-03-2020,9178,,ZON,Freising,Bayern,DE-BY,175803,148,48.447,11.74
+29-03-2020,9178,433,ZON,Freising,Bayern,DE-BY,175803,148,48.447,11.74
 27-01-2020,9179,0,ZON,Fürstenfeldbruck,Bayern,DE-BY,216857,397,48.188,11.202
 28-01-2020,9179,1,ZON,Fürstenfeldbruck,Bayern,DE-BY,216857,397,48.188,11.202
 29-01-2020,9179,1,ZON,Fürstenfeldbruck,Bayern,DE-BY,216857,397,48.188,11.202
@@ -14803,7 +14803,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9180,70,ZON,Garmisch-Partenkirchen,Bayern,DE-BY,87877,0,47.556,11.129
 27-03-2020,9180,89,ZON,Garmisch-Partenkirchen,Bayern,DE-BY,87877,0,47.556,11.129
 28-03-2020,9180,89,ZON,Garmisch-Partenkirchen,Bayern,DE-BY,87877,0,47.556,11.129
-29-03-2020,9180,,ZON,Garmisch-Partenkirchen,Bayern,DE-BY,87877,0,47.556,11.129
+29-03-2020,9180,95,ZON,Garmisch-Partenkirchen,Bayern,DE-BY,87877,0,47.556,11.129
 27-01-2020,9181,0,ZON,Landsberg am Lech,Bayern,DE-BY,118725,103,48.025,10.949
 28-01-2020,9181,0,ZON,Landsberg am Lech,Bayern,DE-BY,118725,103,48.025,10.949
 29-01-2020,9181,0,ZON,Landsberg am Lech,Bayern,DE-BY,118725,103,48.025,10.949
@@ -14866,7 +14866,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9181,88,ZON,Landsberg am Lech,Bayern,DE-BY,118725,103,48.025,10.949
 27-03-2020,9181,109,ZON,Landsberg am Lech,Bayern,DE-BY,118725,103,48.025,10.949
 28-03-2020,9181,110,ZON,Landsberg am Lech,Bayern,DE-BY,118725,103,48.025,10.949
-29-03-2020,9181,,ZON,Landsberg am Lech,Bayern,DE-BY,118725,103,48.025,10.949
+29-03-2020,9181,124,ZON,Landsberg am Lech,Bayern,DE-BY,118725,103,48.025,10.949
 27-01-2020,9182,0,ZON,Miesbach,Bayern,DE-BY,98828,1,47.742,11.809
 28-01-2020,9182,0,ZON,Miesbach,Bayern,DE-BY,98828,1,47.742,11.809
 29-01-2020,9182,0,ZON,Miesbach,Bayern,DE-BY,98828,1,47.742,11.809
@@ -14929,7 +14929,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9182,217,ZON,Miesbach,Bayern,DE-BY,98828,1,47.742,11.809
 27-03-2020,9182,240,ZON,Miesbach,Bayern,DE-BY,98828,1,47.742,11.809
 28-03-2020,9182,268,ZON,Miesbach,Bayern,DE-BY,98828,1,47.742,11.809
-29-03-2020,9182,,ZON,Miesbach,Bayern,DE-BY,98828,1,47.742,11.809
+29-03-2020,9182,271,ZON,Miesbach,Bayern,DE-BY,98828,1,47.742,11.809
 27-01-2020,9183,0,ZON,Mühldorf a. Inn,Bayern,DE-BY,113222,1,48.238,12.381
 28-01-2020,9183,0,ZON,Mühldorf a. Inn,Bayern,DE-BY,113222,1,48.238,12.381
 29-01-2020,9183,0,ZON,Mühldorf a. Inn,Bayern,DE-BY,113222,1,48.238,12.381
@@ -15055,7 +15055,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9184,398,ZON,München (Landkreis),Bayern,DE-BY,343405,6,48.075,11.631
 27-03-2020,9184,462,ZON,München (Landkreis),Bayern,DE-BY,343405,6,48.075,11.631
 28-03-2020,9184,539,ZON,München (Landkreis),Bayern,DE-BY,343405,6,48.075,11.631
-29-03-2020,9184,,ZON,München (Landkreis),Bayern,DE-BY,343405,6,48.075,11.631
+29-03-2020,9184,561,ZON,München (Landkreis),Bayern,DE-BY,343405,6,48.075,11.631
 27-01-2020,9185,0,ZON,Neuburg-Schrobenhausen,Bayern,DE-BY,95759,103,48.664,11.197
 28-01-2020,9185,0,ZON,Neuburg-Schrobenhausen,Bayern,DE-BY,95759,103,48.664,11.197
 29-01-2020,9185,0,ZON,Neuburg-Schrobenhausen,Bayern,DE-BY,95759,103,48.664,11.197
@@ -15118,7 +15118,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9185,56,ZON,Neuburg-Schrobenhausen,Bayern,DE-BY,95759,103,48.664,11.197
 27-03-2020,9185,59,ZON,Neuburg-Schrobenhausen,Bayern,DE-BY,95759,103,48.664,11.197
 28-03-2020,9185,62,ZON,Neuburg-Schrobenhausen,Bayern,DE-BY,95759,103,48.664,11.197
-29-03-2020,9185,,ZON,Neuburg-Schrobenhausen,Bayern,DE-BY,95759,103,48.664,11.197
+29-03-2020,9185,69,ZON,Neuburg-Schrobenhausen,Bayern,DE-BY,95759,103,48.664,11.197
 27-01-2020,9186,0,ZON,Pfaffenhofen a.d. Ilm,Bayern,DE-BY,125085,166,48.596,11.523
 28-01-2020,9186,0,ZON,Pfaffenhofen a.d. Ilm,Bayern,DE-BY,125085,166,48.596,11.523
 29-01-2020,9186,0,ZON,Pfaffenhofen a.d. Ilm,Bayern,DE-BY,125085,166,48.596,11.523
@@ -15181,7 +15181,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9186,54,ZON,Pfaffenhofen a.d. Ilm,Bayern,DE-BY,125085,166,48.596,11.523
 27-03-2020,9186,56,ZON,Pfaffenhofen a.d. Ilm,Bayern,DE-BY,125085,166,48.596,11.523
 28-03-2020,9186,74,ZON,Pfaffenhofen a.d. Ilm,Bayern,DE-BY,125085,166,48.596,11.523
-29-03-2020,9186,,ZON,Pfaffenhofen a.d. Ilm,Bayern,DE-BY,125085,166,48.596,11.523
+29-03-2020,9186,100,ZON,Pfaffenhofen a.d. Ilm,Bayern,DE-BY,125085,166,48.596,11.523
 27-01-2020,9187,0,ZON,Rosenheim (Landkreis),Bayern,DE-BY,257466,132,47.878,12.163
 28-01-2020,9187,0,ZON,Rosenheim (Landkreis),Bayern,DE-BY,257466,132,47.878,12.163
 29-01-2020,9187,0,ZON,Rosenheim (Landkreis),Bayern,DE-BY,257466,132,47.878,12.163
@@ -15307,7 +15307,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9188,110,ZON,Starnberg,Bayern,DE-BY,134732,223,48.006,11.282
 27-03-2020,9188,135,ZON,Starnberg,Bayern,DE-BY,134732,223,48.006,11.282
 28-03-2020,9188,227,ZON,Starnberg,Bayern,DE-BY,134732,223,48.006,11.282
-29-03-2020,9188,,ZON,Starnberg,Bayern,DE-BY,134732,223,48.006,11.282
+29-03-2020,9188,245,ZON,Starnberg,Bayern,DE-BY,134732,223,48.006,11.282
 27-01-2020,9189,0,ZON,Traunstein,Bayern,DE-BY,175431,1,47.894,12.58
 28-01-2020,9189,0,ZON,Traunstein,Bayern,DE-BY,175431,1,47.894,12.58
 29-01-2020,9189,0,ZON,Traunstein,Bayern,DE-BY,175431,1,47.894,12.58
@@ -15433,7 +15433,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9190,128,ZON,Weilheim-Schongau,Bayern,DE-BY,133859,110,47.788,11.048
 27-03-2020,9190,154,ZON,Weilheim-Schongau,Bayern,DE-BY,133859,110,47.788,11.048
 28-03-2020,9190,163,ZON,Weilheim-Schongau,Bayern,DE-BY,133859,110,47.788,11.048
-29-03-2020,9190,,ZON,Weilheim-Schongau,Bayern,DE-BY,133859,110,47.788,11.048
+29-03-2020,9190,183,ZON,Weilheim-Schongau,Bayern,DE-BY,133859,110,47.788,11.048
 27-01-2020,9261,0,ZON,Landshut,Bayern,DE-BY,70025,0,48.544,12.156
 28-01-2020,9261,0,ZON,Landshut,Bayern,DE-BY,70025,0,48.544,12.156
 29-01-2020,9261,0,ZON,Landshut,Bayern,DE-BY,70025,0,48.544,12.156
@@ -15685,7 +15685,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9271,90,ZON,Deggendorf,Bayern,DE-BY,117601,2,48.779,13
 27-03-2020,9271,100,ZON,Deggendorf,Bayern,DE-BY,117601,2,48.779,13
 28-03-2020,9271,111,ZON,Deggendorf,Bayern,DE-BY,117601,2,48.779,13
-29-03-2020,9271,,ZON,Deggendorf,Bayern,DE-BY,117601,2,48.779,13
+29-03-2020,9271,113,ZON,Deggendorf,Bayern,DE-BY,117601,2,48.779,13
 27-01-2020,9272,0,ZON,Freyung-Grafenau,Bayern,DE-BY,78180,76,48.827,13.513
 28-01-2020,9272,0,ZON,Freyung-Grafenau,Bayern,DE-BY,78180,76,48.827,13.513
 29-01-2020,9272,0,ZON,Freyung-Grafenau,Bayern,DE-BY,78180,76,48.827,13.513
@@ -15748,7 +15748,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9272,35,ZON,Freyung-Grafenau,Bayern,DE-BY,78180,76,48.827,13.513
 27-03-2020,9272,39,ZON,Freyung-Grafenau,Bayern,DE-BY,78180,76,48.827,13.513
 28-03-2020,9272,62,ZON,Freyung-Grafenau,Bayern,DE-BY,78180,76,48.827,13.513
-29-03-2020,9272,,ZON,Freyung-Grafenau,Bayern,DE-BY,78180,76,48.827,13.513
+29-03-2020,9272,79,ZON,Freyung-Grafenau,Bayern,DE-BY,78180,76,48.827,13.513
 27-01-2020,9273,0,ZON,Kelheim,Bayern,DE-BY,119969,1,48.825,11.857
 28-01-2020,9273,0,ZON,Kelheim,Bayern,DE-BY,119969,1,48.825,11.857
 29-01-2020,9273,0,ZON,Kelheim,Bayern,DE-BY,119969,1,48.825,11.857
@@ -15811,7 +15811,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9273,76,ZON,Kelheim,Bayern,DE-BY,119969,1,48.825,11.857
 27-03-2020,9273,89,ZON,Kelheim,Bayern,DE-BY,119969,1,48.825,11.857
 28-03-2020,9273,101,ZON,Kelheim,Bayern,DE-BY,119969,1,48.825,11.857
-29-03-2020,9273,,ZON,Kelheim,Bayern,DE-BY,119969,1,48.825,11.857
+29-03-2020,9273,122,ZON,Kelheim,Bayern,DE-BY,119969,1,48.825,11.857
 27-01-2020,9274,0,ZON,Landshut (Landkreis),Bayern,DE-BY,155442,85,48.557,12.196
 28-01-2020,9274,0,ZON,Landshut (Landkreis),Bayern,DE-BY,155442,85,48.557,12.196
 29-01-2020,9274,0,ZON,Landshut (Landkreis),Bayern,DE-BY,155442,85,48.557,12.196
@@ -15874,7 +15874,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9274,153,ZON,Landshut (Landkreis),Bayern,DE-BY,155442,85,48.557,12.196
 27-03-2020,9274,200,ZON,Landshut (Landkreis),Bayern,DE-BY,155442,85,48.557,12.196
 28-03-2020,9274,206,ZON,Landshut (Landkreis),Bayern,DE-BY,155442,85,48.557,12.196
-29-03-2020,9274,,ZON,Landshut (Landkreis),Bayern,DE-BY,155442,85,48.557,12.196
+29-03-2020,9274,225,ZON,Landshut (Landkreis),Bayern,DE-BY,155442,85,48.557,12.196
 27-01-2020,9275,0,ZON,Passau (Landkreis),Bayern,DE-BY,188904,124,48.559,13.366
 28-01-2020,9275,0,ZON,Passau (Landkreis),Bayern,DE-BY,188904,124,48.559,13.366
 29-01-2020,9275,0,ZON,Passau (Landkreis),Bayern,DE-BY,188904,124,48.559,13.366
@@ -15937,7 +15937,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9275,49,ZON,Passau (Landkreis),Bayern,DE-BY,188904,124,48.559,13.366
 27-03-2020,9275,64,ZON,Passau (Landkreis),Bayern,DE-BY,188904,124,48.559,13.366
 28-03-2020,9275,78,ZON,Passau (Landkreis),Bayern,DE-BY,188904,124,48.559,13.366
-29-03-2020,9275,,ZON,Passau (Landkreis),Bayern,DE-BY,188904,124,48.559,13.366
+29-03-2020,9275,108,ZON,Passau (Landkreis),Bayern,DE-BY,188904,124,48.559,13.366
 27-01-2020,9276,0,ZON,Regen,Bayern,DE-BY,77187,1,49.023,13.101
 28-01-2020,9276,0,ZON,Regen,Bayern,DE-BY,77187,1,49.023,13.101
 29-01-2020,9276,0,ZON,Regen,Bayern,DE-BY,77187,1,49.023,13.101
@@ -16189,7 +16189,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9279,61,ZON,Dingolfing-Landau,Bayern,DE-BY,95035,86,48.641,12.61
 27-03-2020,9279,75,ZON,Dingolfing-Landau,Bayern,DE-BY,95035,86,48.641,12.61
 28-03-2020,9279,77,ZON,Dingolfing-Landau,Bayern,DE-BY,95035,86,48.641,12.61
-29-03-2020,9279,,ZON,Dingolfing-Landau,Bayern,DE-BY,95035,86,48.641,12.61
+29-03-2020,9279,89,ZON,Dingolfing-Landau,Bayern,DE-BY,95035,86,48.641,12.61
 27-01-2020,9361,0,ZON,Amberg,Bayern,DE-BY,42348,8,49.45,11.845
 28-01-2020,9361,0,ZON,Amberg,Bayern,DE-BY,42348,8,49.45,11.845
 29-01-2020,9361,0,ZON,Amberg,Bayern,DE-BY,42348,8,49.45,11.845
@@ -16315,7 +16315,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9362,124,ZON,Regensburg,Bayern,DE-BY,148638,1887,49.013,12.113
 27-03-2020,9362,133,ZON,Regensburg,Bayern,DE-BY,148638,1887,49.013,12.113
 28-03-2020,9362,146,ZON,Regensburg,Bayern,DE-BY,148638,1887,49.013,12.113
-29-03-2020,9362,,ZON,Regensburg,Bayern,DE-BY,148638,1887,49.013,12.113
+29-03-2020,9362,152,ZON,Regensburg,Bayern,DE-BY,148638,1887,49.013,12.113
 27-01-2020,9363,0,ZON,Weiden i.d. OPf.,Bayern,DE-BY,42494,602,49.669,12.156
 28-01-2020,9363,0,ZON,Weiden i.d. OPf.,Bayern,DE-BY,42494,602,49.669,12.156
 29-01-2020,9363,0,ZON,Weiden i.d. OPf.,Bayern,DE-BY,42494,602,49.669,12.156
@@ -16378,7 +16378,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9363,40,ZON,Weiden i.d. OPf.,Bayern,DE-BY,42494,602,49.669,12.156
 27-03-2020,9363,47,ZON,Weiden i.d. OPf.,Bayern,DE-BY,42494,602,49.669,12.156
 28-03-2020,9363,55,ZON,Weiden i.d. OPf.,Bayern,DE-BY,42494,602,49.669,12.156
-29-03-2020,9363,,ZON,Weiden i.d. OPf.,Bayern,DE-BY,42494,602,49.669,12.156
+29-03-2020,9363,61,ZON,Weiden i.d. OPf.,Bayern,DE-BY,42494,602,49.669,12.156
 27-01-2020,9371,0,ZON,Amberg-Sulzbach,Bayern,DE-BY,103009,75,49.486,11.802
 28-01-2020,9371,0,ZON,Amberg-Sulzbach,Bayern,DE-BY,103009,75,49.486,11.802
 29-01-2020,9371,0,ZON,Amberg-Sulzbach,Bayern,DE-BY,103009,75,49.486,11.802
@@ -16567,7 +16567,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9373,43,ZON,Neumarkt i.d. OPf.,Bayern,DE-BY,131662,78,49.216,11.568
 27-03-2020,9373,43,ZON,Neumarkt i.d. OPf.,Bayern,DE-BY,131662,78,49.216,11.568
 28-03-2020,9373,69,ZON,Neumarkt i.d. OPf.,Bayern,DE-BY,131662,78,49.216,11.568
-29-03-2020,9373,,ZON,Neumarkt i.d. OPf.,Bayern,DE-BY,131662,78,49.216,11.568
+29-03-2020,9373,80,ZON,Neumarkt i.d. OPf.,Bayern,DE-BY,131662,78,49.216,11.568
 27-01-2020,9374,0,ZON,Neustadt a.d. Waldnaab,Bayern,DE-BY,94528,66,49.687,12.097
 28-01-2020,9374,0,ZON,Neustadt a.d. Waldnaab,Bayern,DE-BY,94528,66,49.687,12.097
 29-01-2020,9374,0,ZON,Neustadt a.d. Waldnaab,Bayern,DE-BY,94528,66,49.687,12.097
@@ -16630,7 +16630,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9374,72,ZON,Neustadt a.d. Waldnaab,Bayern,DE-BY,94528,66,49.687,12.097
 27-03-2020,9374,99,ZON,Neustadt a.d. Waldnaab,Bayern,DE-BY,94528,66,49.687,12.097
 28-03-2020,9374,125,ZON,Neustadt a.d. Waldnaab,Bayern,DE-BY,94528,66,49.687,12.097
-29-03-2020,9374,,ZON,Neustadt a.d. Waldnaab,Bayern,DE-BY,94528,66,49.687,12.097
+29-03-2020,9374,152,ZON,Neustadt a.d. Waldnaab,Bayern,DE-BY,94528,66,49.687,12.097
 27-01-2020,9375,0,ZON,Regensburg (Landkreis),Bayern,DE-BY,190481,103,49.022,12.121
 28-01-2020,9375,0,ZON,Regensburg (Landkreis),Bayern,DE-BY,190481,103,49.022,12.121
 29-01-2020,9375,0,ZON,Regensburg (Landkreis),Bayern,DE-BY,190481,103,49.022,12.121
@@ -16693,7 +16693,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9375,107,ZON,Regensburg (Landkreis),Bayern,DE-BY,190481,103,49.022,12.121
 27-03-2020,9375,121,ZON,Regensburg (Landkreis),Bayern,DE-BY,190481,103,49.022,12.121
 28-03-2020,9375,132,ZON,Regensburg (Landkreis),Bayern,DE-BY,190481,103,49.022,12.121
-29-03-2020,9375,,ZON,Regensburg (Landkreis),Bayern,DE-BY,190481,103,49.022,12.121
+29-03-2020,9375,147,ZON,Regensburg (Landkreis),Bayern,DE-BY,190481,103,49.022,12.121
 27-01-2020,9376,0,ZON,Schwandorf,Bayern,DE-BY,145382,89,49.369,12.253
 28-01-2020,9376,0,ZON,Schwandorf,Bayern,DE-BY,145382,89,49.369,12.253
 29-01-2020,9376,0,ZON,Schwandorf,Bayern,DE-BY,145382,89,49.369,12.253
@@ -16819,7 +16819,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9377,259,ZON,Tirschenreuth,Bayern,DE-BY,72918,71,49.899,12.201
 27-03-2020,9377,323,ZON,Tirschenreuth,Bayern,DE-BY,72918,71,49.899,12.201
 28-03-2020,9377,397,ZON,Tirschenreuth,Bayern,DE-BY,72918,71,49.899,12.201
-29-03-2020,9377,,ZON,Tirschenreuth,Bayern,DE-BY,72918,71,49.899,12.201
+29-03-2020,9377,398,ZON,Tirschenreuth,Bayern,DE-BY,72918,71,49.899,12.201
 27-01-2020,9461,0,ZON,Bamberg,Bayern,DE-BY,75743,1420,49.887,10.899
 28-01-2020,9461,0,ZON,Bamberg,Bayern,DE-BY,75743,1420,49.887,10.899
 29-01-2020,9461,0,ZON,Bamberg,Bayern,DE-BY,75743,1420,49.887,10.899
@@ -17323,7 +17323,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9474,59,ZON,Forchheim,Bayern,DE-BY,115259,2,49.721,11.173
 27-03-2020,9474,73,ZON,Forchheim,Bayern,DE-BY,115259,2,49.721,11.173
 28-03-2020,9474,73,ZON,Forchheim,Bayern,DE-BY,115259,2,49.721,11.173
-29-03-2020,9474,,ZON,Forchheim,Bayern,DE-BY,115259,2,49.721,11.173
+29-03-2020,9474,78,ZON,Forchheim,Bayern,DE-BY,115259,2,49.721,11.173
 27-01-2020,9475,0,ZON,Hof (Landkreis),Bayern,DE-BY,95915,3,50.273,11.819
 28-01-2020,9475,0,ZON,Hof (Landkreis),Bayern,DE-BY,95915,3,50.273,11.819
 29-01-2020,9475,0,ZON,Hof (Landkreis),Bayern,DE-BY,95915,3,50.273,11.819
@@ -17575,7 +17575,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9478,46,ZON,Lichtenfels,Bayern,DE-BY,66640,120,50.109,11.118
 27-03-2020,9478,54,ZON,Lichtenfels,Bayern,DE-BY,66640,120,50.109,11.118
 28-03-2020,9478,57,ZON,Lichtenfels,Bayern,DE-BY,66640,120,50.109,11.118
-29-03-2020,9478,,ZON,Lichtenfels,Bayern,DE-BY,66640,120,50.109,11.118
+29-03-2020,9478,74,ZON,Lichtenfels,Bayern,DE-BY,66640,120,50.109,11.118
 27-01-2020,9479,0,ZON,Wunsiedel i. Fichtelgebirge,Bayern,DE-BY,73260,1,50.09,12.041
 28-01-2020,9479,0,ZON,Wunsiedel i. Fichtelgebirge,Bayern,DE-BY,73260,1,50.09,12.041
 29-01-2020,9479,0,ZON,Wunsiedel i. Fichtelgebirge,Bayern,DE-BY,73260,1,50.09,12.041
@@ -17827,7 +17827,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9563,37,ZON,Fürth,Bayern,DE-BY,125403,2016,49.491,10.965
 27-03-2020,9563,44,ZON,Fürth,Bayern,DE-BY,125403,2016,49.491,10.965
 28-03-2020,9563,52,ZON,Fürth,Bayern,DE-BY,125403,2016,49.491,10.965
-29-03-2020,9563,,ZON,Fürth,Bayern,DE-BY,125403,2016,49.491,10.965
+29-03-2020,9563,72,ZON,Fürth,Bayern,DE-BY,125403,2016,49.491,10.965
 27-01-2020,9564,0,ZON,Nürnberg,Bayern,DE-BY,511628,2780,49.436,11.082
 28-01-2020,9564,0,ZON,Nürnberg,Bayern,DE-BY,511628,2780,49.436,11.082
 29-01-2020,9564,0,ZON,Nürnberg,Bayern,DE-BY,511628,2780,49.436,11.082
@@ -17953,7 +17953,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9565,16,ZON,Schwabach,Bayern,DE-BY,40707,999,49.336,11.022
 27-03-2020,9565,17,ZON,Schwabach,Bayern,DE-BY,40707,999,49.336,11.022
 28-03-2020,9565,18,ZON,Schwabach,Bayern,DE-BY,40707,999,49.336,11.022
-29-03-2020,9565,,ZON,Schwabach,Bayern,DE-BY,40707,999,49.336,11.022
+29-03-2020,9565,24,ZON,Schwabach,Bayern,DE-BY,40707,999,49.336,11.022
 27-01-2020,9571,0,ZON,Ansbach (Landkreis),Bayern,DE-BY,182178,79,49.249,10.469
 28-01-2020,9571,0,ZON,Ansbach (Landkreis),Bayern,DE-BY,182178,79,49.249,10.469
 29-01-2020,9571,0,ZON,Ansbach (Landkreis),Bayern,DE-BY,182178,79,49.249,10.469
@@ -18142,7 +18142,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9573,47,ZON,Fürth (Landkreis),Bayern,DE-BY,115971,377,49.446,10.85
 27-03-2020,9573,65,ZON,Fürth (Landkreis),Bayern,DE-BY,115971,377,49.446,10.85
 28-03-2020,9573,73,ZON,Fürth (Landkreis),Bayern,DE-BY,115971,377,49.446,10.85
-29-03-2020,9573,,ZON,Fürth (Landkreis),Bayern,DE-BY,115971,377,49.446,10.85
+29-03-2020,9573,78,ZON,Fürth (Landkreis),Bayern,DE-BY,115971,377,49.446,10.85
 27-01-2020,9574,0,ZON,Nürnberger Land,Bayern,DE-BY,168893,186,49.491,11.37
 28-01-2020,9574,0,ZON,Nürnberger Land,Bayern,DE-BY,168893,186,49.491,11.37
 29-01-2020,9574,0,ZON,Nürnberger Land,Bayern,DE-BY,168893,186,49.491,11.37
@@ -18268,7 +18268,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9575,32,ZON,Neustadt a.d. Aisch-Bad Windsheim,Bayern,DE-BY,99332,67,49.569,10.465
 27-03-2020,9575,42,ZON,Neustadt a.d. Aisch-Bad Windsheim,Bayern,DE-BY,99332,67,49.569,10.465
 28-03-2020,9575,43,ZON,Neustadt a.d. Aisch-Bad Windsheim,Bayern,DE-BY,99332,67,49.569,10.465
-29-03-2020,9575,,ZON,Neustadt a.d. Aisch-Bad Windsheim,Bayern,DE-BY,99332,67,49.569,10.465
+29-03-2020,9575,50,ZON,Neustadt a.d. Aisch-Bad Windsheim,Bayern,DE-BY,99332,67,49.569,10.465
 27-01-2020,9576,0,ZON,Roth,Bayern,DE-BY,125563,116,49.203,11.123
 28-01-2020,9576,0,ZON,Roth,Bayern,DE-BY,125563,116,49.203,11.123
 29-01-2020,9576,0,ZON,Roth,Bayern,DE-BY,125563,116,49.203,11.123
@@ -18331,7 +18331,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9576,47,ZON,Roth,Bayern,DE-BY,125563,116,49.203,11.123
 27-03-2020,9576,60,ZON,Roth,Bayern,DE-BY,125563,116,49.203,11.123
 28-03-2020,9576,69,ZON,Roth,Bayern,DE-BY,125563,116,49.203,11.123
-29-03-2020,9576,,ZON,Roth,Bayern,DE-BY,125563,116,49.203,11.123
+29-03-2020,9576,80,ZON,Roth,Bayern,DE-BY,125563,116,49.203,11.123
 27-01-2020,9577,0,ZON,Weißenburg-Gunzenhausen,Bayern,DE-BY,93974,95,49.033,10.893
 28-01-2020,9577,0,ZON,Weißenburg-Gunzenhausen,Bayern,DE-BY,93974,95,49.033,10.893
 29-01-2020,9577,0,ZON,Weißenburg-Gunzenhausen,Bayern,DE-BY,93974,95,49.033,10.893
@@ -18394,7 +18394,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9577,62,ZON,Weißenburg-Gunzenhausen,Bayern,DE-BY,93974,95,49.033,10.893
 27-03-2020,9577,74,ZON,Weißenburg-Gunzenhausen,Bayern,DE-BY,93974,95,49.033,10.893
 28-03-2020,9577,82,ZON,Weißenburg-Gunzenhausen,Bayern,DE-BY,93974,95,49.033,10.893
-29-03-2020,9577,,ZON,Weißenburg-Gunzenhausen,Bayern,DE-BY,93974,95,49.033,10.893
+29-03-2020,9577,88,ZON,Weißenburg-Gunzenhausen,Bayern,DE-BY,93974,95,49.033,10.893
 27-01-2020,9661,0,ZON,Aschaffenburg,Bayern,DE-BY,69187,1129,49.963,9.147
 28-01-2020,9661,0,ZON,Aschaffenburg,Bayern,DE-BY,69187,1129,49.963,9.147
 29-01-2020,9661,0,ZON,Aschaffenburg,Bayern,DE-BY,69187,1129,49.963,9.147
@@ -18457,7 +18457,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9661,32,ZON,Aschaffenburg,Bayern,DE-BY,69187,1129,49.963,9.147
 27-03-2020,9661,36,ZON,Aschaffenburg,Bayern,DE-BY,69187,1129,49.963,9.147
 28-03-2020,9661,42,ZON,Aschaffenburg,Bayern,DE-BY,69187,1129,49.963,9.147
-29-03-2020,9661,,ZON,Aschaffenburg,Bayern,DE-BY,69187,1129,49.963,9.147
+29-03-2020,9661,46,ZON,Aschaffenburg,Bayern,DE-BY,69187,1129,49.963,9.147
 27-01-2020,9662,0,ZON,Schweinfurt,Bayern,DE-BY,52724,1513,50.046,10.22
 28-01-2020,9662,0,ZON,Schweinfurt,Bayern,DE-BY,52724,1513,50.046,10.22
 29-01-2020,9662,0,ZON,Schweinfurt,Bayern,DE-BY,52724,1513,50.046,10.22
@@ -18520,7 +18520,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9662,23,ZON,Schweinfurt,Bayern,DE-BY,52724,1513,50.046,10.22
 27-03-2020,9662,23,ZON,Schweinfurt,Bayern,DE-BY,52724,1513,50.046,10.22
 28-03-2020,9662,19,ZON,Schweinfurt,Bayern,DE-BY,52724,1513,50.046,10.22
-29-03-2020,9662,,ZON,Schweinfurt,Bayern,DE-BY,52724,1513,50.046,10.22
+29-03-2020,9662,27,ZON,Schweinfurt,Bayern,DE-BY,52724,1513,50.046,10.22
 27-01-2020,9663,0,ZON,Würzburg,Bayern,DE-BY,126010,1459,49.785,9.942
 28-01-2020,9663,0,ZON,Würzburg,Bayern,DE-BY,126010,1459,49.785,9.942
 29-01-2020,9663,0,ZON,Würzburg,Bayern,DE-BY,126010,1459,49.785,9.942
@@ -18583,7 +18583,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9663,128,ZON,Würzburg,Bayern,DE-BY,126010,1459,49.785,9.942
 27-03-2020,9663,204,ZON,Würzburg,Bayern,DE-BY,126010,1459,49.785,9.942
 28-03-2020,9663,217,ZON,Würzburg,Bayern,DE-BY,126010,1459,49.785,9.942
-29-03-2020,9663,,ZON,Würzburg,Bayern,DE-BY,126010,1459,49.785,9.942
+29-03-2020,9663,243,ZON,Würzburg,Bayern,DE-BY,126010,1459,49.785,9.942
 27-01-2020,9671,0,ZON,Aschaffenburg (Landkreis),Bayern,DE-BY,173504,217,50.008,9.238
 28-01-2020,9671,0,ZON,Aschaffenburg (Landkreis),Bayern,DE-BY,173504,217,50.008,9.238
 29-01-2020,9671,0,ZON,Aschaffenburg (Landkreis),Bayern,DE-BY,173504,217,50.008,9.238
@@ -18646,7 +18646,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9671,78,ZON,Aschaffenburg (Landkreis),Bayern,DE-BY,173504,217,50.008,9.238
 27-03-2020,9671,90,ZON,Aschaffenburg (Landkreis),Bayern,DE-BY,173504,217,50.008,9.238
 28-03-2020,9671,103,ZON,Aschaffenburg (Landkreis),Bayern,DE-BY,173504,217,50.008,9.238
-29-03-2020,9671,,ZON,Aschaffenburg (Landkreis),Bayern,DE-BY,173504,217,50.008,9.238
+29-03-2020,9671,111,ZON,Aschaffenburg (Landkreis),Bayern,DE-BY,173504,217,50.008,9.238
 27-01-2020,9672,0,ZON,Bad Kissingen,Bayern,DE-BY,103100,87,50.223,9.965
 28-01-2020,9672,0,ZON,Bad Kissingen,Bayern,DE-BY,103100,87,50.223,9.965
 29-01-2020,9672,0,ZON,Bad Kissingen,Bayern,DE-BY,103100,87,50.223,9.965
@@ -18709,7 +18709,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9672,34,ZON,Bad Kissingen,Bayern,DE-BY,103100,87,50.223,9.965
 27-03-2020,9672,54,ZON,Bad Kissingen,Bayern,DE-BY,103100,87,50.223,9.965
 28-03-2020,9672,61,ZON,Bad Kissingen,Bayern,DE-BY,103100,87,50.223,9.965
-29-03-2020,9672,,ZON,Bad Kissingen,Bayern,DE-BY,103100,87,50.223,9.965
+29-03-2020,9672,63,ZON,Bad Kissingen,Bayern,DE-BY,103100,87,50.223,9.965
 27-01-2020,9673,0,ZON,Rhön-Grabfeld,Bayern,DE-BY,79855,75,50.371,10.255
 28-01-2020,9673,0,ZON,Rhön-Grabfeld,Bayern,DE-BY,79855,75,50.371,10.255
 29-01-2020,9673,0,ZON,Rhön-Grabfeld,Bayern,DE-BY,79855,75,50.371,10.255
@@ -18835,7 +18835,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9674,30,ZON,Haßberge,Bayern,DE-BY,84373,83,50.063,10.607
 27-03-2020,9674,36,ZON,Haßberge,Bayern,DE-BY,84373,83,50.063,10.607
 28-03-2020,9674,42,ZON,Haßberge,Bayern,DE-BY,84373,83,50.063,10.607
-29-03-2020,9674,,ZON,Haßberge,Bayern,DE-BY,84373,83,50.063,10.607
+29-03-2020,9674,45,ZON,Haßberge,Bayern,DE-BY,84373,83,50.063,10.607
 27-01-2020,9675,0,ZON,Kitzingen,Bayern,DE-BY,89748,115,49.753,10.255
 28-01-2020,9675,0,ZON,Kitzingen,Bayern,DE-BY,89748,115,49.753,10.255
 29-01-2020,9675,0,ZON,Kitzingen,Bayern,DE-BY,89748,115,49.753,10.255
@@ -19024,7 +19024,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9677,36,ZON,Main-Spessart,Bayern,DE-BY,126301,95,49.993,9.663
 27-03-2020,9677,41,ZON,Main-Spessart,Bayern,DE-BY,126301,95,49.993,9.663
 28-03-2020,9677,51,ZON,Main-Spessart,Bayern,DE-BY,126301,95,49.993,9.663
-29-03-2020,9677,,ZON,Main-Spessart,Bayern,DE-BY,126301,95,49.993,9.663
+29-03-2020,9677,55,ZON,Main-Spessart,Bayern,DE-BY,126301,95,49.993,9.663
 27-01-2020,9678,0,ZON,Schweinfurt (Landkreis),Bayern,DE-BY,114823,123,50.017,10.26
 28-01-2020,9678,0,ZON,Schweinfurt (Landkreis),Bayern,DE-BY,114823,123,50.017,10.26
 29-01-2020,9678,0,ZON,Schweinfurt (Landkreis),Bayern,DE-BY,114823,123,50.017,10.26
@@ -19276,7 +19276,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9762,12,ZON,Kaufbeuren,Bayern,DE-BY,43134,1096,47.88,10.618
 27-03-2020,9762,16,ZON,Kaufbeuren,Bayern,DE-BY,43134,1096,47.88,10.618
 28-03-2020,9762,18,ZON,Kaufbeuren,Bayern,DE-BY,43134,1096,47.88,10.618
-29-03-2020,9762,,ZON,Kaufbeuren,Bayern,DE-BY,43134,1096,47.88,10.618
+29-03-2020,9762,30,ZON,Kaufbeuren,Bayern,DE-BY,43134,1096,47.88,10.618
 27-01-2020,9763,0,ZON,Kempten (Allgäu),Bayern,DE-BY,67529,1088,47.738,10.309
 28-01-2020,9763,0,ZON,Kempten (Allgäu),Bayern,DE-BY,67529,1088,47.738,10.309
 29-01-2020,9763,0,ZON,Kempten (Allgäu),Bayern,DE-BY,67529,1088,47.738,10.309
@@ -19591,7 +19591,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9773,26,ZON,Dillingen a.d. Donau,Bayern,DE-BY,94556,101,48.596,10.527
 27-03-2020,9773,29,ZON,Dillingen a.d. Donau,Bayern,DE-BY,94556,101,48.596,10.527
 28-03-2020,9773,33,ZON,Dillingen a.d. Donau,Bayern,DE-BY,94556,101,48.596,10.527
-29-03-2020,9773,,ZON,Dillingen a.d. Donau,Bayern,DE-BY,94556,101,48.596,10.527
+29-03-2020,9773,38,ZON,Dillingen a.d. Donau,Bayern,DE-BY,94556,101,48.596,10.527
 27-01-2020,9774,0,ZON,Günzburg,Bayern,DE-BY,123498,140,48.353,10.38
 28-01-2020,9774,0,ZON,Günzburg,Bayern,DE-BY,123498,140,48.353,10.38
 29-01-2020,9774,0,ZON,Günzburg,Bayern,DE-BY,123498,140,48.353,10.38
@@ -19654,7 +19654,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9774,54,ZON,Günzburg,Bayern,DE-BY,123498,140,48.353,10.38
 27-03-2020,9774,77,ZON,Günzburg,Bayern,DE-BY,123498,140,48.353,10.38
 28-03-2020,9774,77,ZON,Günzburg,Bayern,DE-BY,123498,140,48.353,10.38
-29-03-2020,9774,,ZON,Günzburg,Bayern,DE-BY,123498,140,48.353,10.38
+29-03-2020,9774,90,ZON,Günzburg,Bayern,DE-BY,123498,140,48.353,10.38
 27-01-2020,9775,0,ZON,Neu-Ulm,Bayern,DE-BY,171011,332,48.298,10.14
 28-01-2020,9775,0,ZON,Neu-Ulm,Bayern,DE-BY,171011,332,48.298,10.14
 29-01-2020,9775,0,ZON,Neu-Ulm,Bayern,DE-BY,171011,332,48.298,10.14
@@ -19717,7 +19717,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9775,94,ZON,Neu-Ulm,Bayern,DE-BY,171011,332,48.298,10.14
 27-03-2020,9775,100,ZON,Neu-Ulm,Bayern,DE-BY,171011,332,48.298,10.14
 28-03-2020,9775,121,ZON,Neu-Ulm,Bayern,DE-BY,171011,332,48.298,10.14
-29-03-2020,9775,,ZON,Neu-Ulm,Bayern,DE-BY,171011,332,48.298,10.14
+29-03-2020,9775,126,ZON,Neu-Ulm,Bayern,DE-BY,171011,332,48.298,10.14
 27-01-2020,9776,0,ZON,Lindau (Bodensee),Bayern,DE-BY,80961,215,47.605,9.884
 28-01-2020,9776,0,ZON,Lindau (Bodensee),Bayern,DE-BY,80961,215,47.605,9.884
 29-01-2020,9776,0,ZON,Lindau (Bodensee),Bayern,DE-BY,80961,215,47.605,9.884
@@ -19780,7 +19780,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9776,80,ZON,Lindau (Bodensee),Bayern,DE-BY,80961,215,47.605,9.884
 27-03-2020,9776,93,ZON,Lindau (Bodensee),Bayern,DE-BY,80961,215,47.605,9.884
 28-03-2020,9776,100,ZON,Lindau (Bodensee),Bayern,DE-BY,80961,215,47.605,9.884
-29-03-2020,9776,,ZON,Lindau (Bodensee),Bayern,DE-BY,80961,215,47.605,9.884
+29-03-2020,9776,102,ZON,Lindau (Bodensee),Bayern,DE-BY,80961,215,47.605,9.884
 27-01-2020,9777,0,ZON,Ostallgäu,Bayern,DE-BY,138265,82,47.77,10.64
 28-01-2020,9777,0,ZON,Ostallgäu,Bayern,DE-BY,138265,82,47.77,10.64
 29-01-2020,9777,0,ZON,Ostallgäu,Bayern,DE-BY,138265,82,47.77,10.64
@@ -19843,7 +19843,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9777,87,ZON,Ostallgäu,Bayern,DE-BY,138265,82,47.77,10.64
 27-03-2020,9777,116,ZON,Ostallgäu,Bayern,DE-BY,138265,82,47.77,10.64
 28-03-2020,9777,116,ZON,Ostallgäu,Bayern,DE-BY,138265,82,47.77,10.64
-29-03-2020,9777,,ZON,Ostallgäu,Bayern,DE-BY,138265,82,47.77,10.64
+29-03-2020,9777,133,ZON,Ostallgäu,Bayern,DE-BY,138265,82,47.77,10.64
 27-01-2020,9778,0,ZON,Unterallgäu,Bayern,DE-BY,141165,94,48.04,10.39
 28-01-2020,9778,0,ZON,Unterallgäu,Bayern,DE-BY,141165,94,48.04,10.39
 29-01-2020,9778,0,ZON,Unterallgäu,Bayern,DE-BY,141165,94,48.04,10.39
@@ -19969,7 +19969,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,9779,58,ZON,Donau-Ries,Bayern,DE-BY,132298,92,48.807,10.712
 27-03-2020,9779,67,ZON,Donau-Ries,Bayern,DE-BY,132298,92,48.807,10.712
 28-03-2020,9779,67,ZON,Donau-Ries,Bayern,DE-BY,132298,92,48.807,10.712
-29-03-2020,9779,,ZON,Donau-Ries,Bayern,DE-BY,132298,92,48.807,10.712
+29-03-2020,9779,76,ZON,Donau-Ries,Bayern,DE-BY,132298,92,48.807,10.712
 27-01-2020,9780,0,ZON,Oberallgäu,Bayern,DE-BY,153759,84,47.573,10.259
 28-01-2020,9780,0,ZON,Oberallgäu,Bayern,DE-BY,153759,84,47.573,10.259
 29-01-2020,9780,0,ZON,Oberallgäu,Bayern,DE-BY,153759,84,47.573,10.259
@@ -20536,7 +20536,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,12051,14,ZON,Brandenburg an der Havel,Brandenburg,DE-BB,71664,313,52.4,12.515
 27-03-2020,12051,14,ZON,Brandenburg an der Havel,Brandenburg,DE-BB,71664,313,52.4,12.515
 28-03-2020,12051,15,ZON,Brandenburg an der Havel,Brandenburg,DE-BB,71664,313,52.4,12.515
-29-03-2020,12051,,ZON,Brandenburg an der Havel,Brandenburg,DE-BB,71664,313,52.4,12.515
+29-03-2020,12051,16,ZON,Brandenburg an der Havel,Brandenburg,DE-BB,71664,313,52.4,12.515
 27-01-2020,12052,0,ZON,Cottbus,Brandenburg,DE-BB,100416,605,51.773,14.366
 28-01-2020,12052,0,ZON,Cottbus,Brandenburg,DE-BB,100416,605,51.773,14.366
 29-01-2020,12052,0,ZON,Cottbus,Brandenburg,DE-BB,100416,605,51.773,14.366
@@ -20599,7 +20599,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,12052,29,ZON,Cottbus,Brandenburg,DE-BB,100416,605,51.773,14.366
 27-03-2020,12052,29,ZON,Cottbus,Brandenburg,DE-BB,100416,605,51.773,14.366
 28-03-2020,12052,30,ZON,Cottbus,Brandenburg,DE-BB,100416,605,51.773,14.366
-29-03-2020,12052,,ZON,Cottbus,Brandenburg,DE-BB,100416,605,51.773,14.366
+29-03-2020,12052,31,ZON,Cottbus,Brandenburg,DE-BB,100416,605,51.773,14.366
 27-01-2020,12053,0,ZON,Frankfurt (Oder),Brandenburg,DE-BB,58193,0,52.325,14.49
 28-01-2020,12053,0,ZON,Frankfurt (Oder),Brandenburg,DE-BB,58193,0,52.325,14.49
 29-01-2020,12053,0,ZON,Frankfurt (Oder),Brandenburg,DE-BB,58193,0,52.325,14.49
@@ -20725,7 +20725,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,12054,79,ZON,Potsdam,Brandenburg,DE-BB,171810,945,52.425,13.029
 27-03-2020,12054,87,ZON,Potsdam,Brandenburg,DE-BB,171810,945,52.425,13.029
 28-03-2020,12054,108,ZON,Potsdam,Brandenburg,DE-BB,171810,945,52.425,13.029
-29-03-2020,12054,,ZON,Potsdam,Brandenburg,DE-BB,171810,945,52.425,13.029
+29-03-2020,12054,109,ZON,Potsdam,Brandenburg,DE-BB,171810,945,52.425,13.029
 27-01-2020,12060,0,ZON,Barnim,Brandenburg,DE-BB,179365,116236,52.823,13.704
 28-01-2020,12060,0,ZON,Barnim,Brandenburg,DE-BB,179365,116236,52.823,13.704
 29-01-2020,12060,0,ZON,Barnim,Brandenburg,DE-BB,179365,116236,52.823,13.704
@@ -20788,7 +20788,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,12060,56,ZON,Barnim,Brandenburg,DE-BB,179365,116236,52.823,13.704
 27-03-2020,12060,60,ZON,Barnim,Brandenburg,DE-BB,179365,116236,52.823,13.704
 28-03-2020,12060,65,ZON,Barnim,Brandenburg,DE-BB,179365,116236,52.823,13.704
-29-03-2020,12060,,ZON,Barnim,Brandenburg,DE-BB,179365,116236,52.823,13.704
+29-03-2020,12060,68,ZON,Barnim,Brandenburg,DE-BB,179365,116236,52.823,13.704
 27-01-2020,12061,0,ZON,Dahme-Spreewald,Brandenburg,DE-BB,166074,70935,52.042,13.82
 28-01-2020,12061,0,ZON,Dahme-Spreewald,Brandenburg,DE-BB,166074,70935,52.042,13.82
 29-01-2020,12061,0,ZON,Dahme-Spreewald,Brandenburg,DE-BB,166074,70935,52.042,13.82
@@ -20851,7 +20851,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,12061,41,ZON,Dahme-Spreewald,Brandenburg,DE-BB,166074,70935,52.042,13.82
 27-03-2020,12061,59,ZON,Dahme-Spreewald,Brandenburg,DE-BB,166074,70935,52.042,13.82
 28-03-2020,12061,60,ZON,Dahme-Spreewald,Brandenburg,DE-BB,166074,70935,52.042,13.82
-29-03-2020,12061,,ZON,Dahme-Spreewald,Brandenburg,DE-BB,166074,70935,52.042,13.82
+29-03-2020,12061,70,ZON,Dahme-Spreewald,Brandenburg,DE-BB,166074,70935,52.042,13.82
 27-01-2020,12062,0,ZON,Elbe-Elster,Brandenburg,DE-BB,104397,56,51.612,13.46
 28-01-2020,12062,0,ZON,Elbe-Elster,Brandenburg,DE-BB,104397,56,51.612,13.46
 29-01-2020,12062,0,ZON,Elbe-Elster,Brandenburg,DE-BB,104397,56,51.612,13.46
@@ -21040,7 +21040,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,12064,69,ZON,Märkisch-Oderland,Brandenburg,DE-BB,191685,87,52.607,14.147
 27-03-2020,12064,70,ZON,Märkisch-Oderland,Brandenburg,DE-BB,191685,87,52.607,14.147
 28-03-2020,12064,71,ZON,Märkisch-Oderland,Brandenburg,DE-BB,191685,87,52.607,14.147
-29-03-2020,12064,,ZON,Märkisch-Oderland,Brandenburg,DE-BB,191685,87,52.607,14.147
+29-03-2020,12064,76,ZON,Märkisch-Oderland,Brandenburg,DE-BB,191685,87,52.607,14.147
 27-01-2020,12065,0,ZON,Oberhavel,Brandenburg,DE-BB,208639,117,52.907,13.206
 28-01-2020,12065,0,ZON,Oberhavel,Brandenburg,DE-BB,208639,117,52.907,13.206
 29-01-2020,12065,0,ZON,Oberhavel,Brandenburg,DE-BB,208639,117,52.907,13.206
@@ -21229,7 +21229,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,12067,60,ZON,Oder-Spree,Brandenburg,DE-BB,178849,78,52.244,14.219
 27-03-2020,12067,69,ZON,Oder-Spree,Brandenburg,DE-BB,178849,78,52.244,14.219
 28-03-2020,12067,73,ZON,Oder-Spree,Brandenburg,DE-BB,178849,78,52.244,14.219
-29-03-2020,12067,,ZON,Oder-Spree,Brandenburg,DE-BB,178849,78,52.244,14.219
+29-03-2020,12067,75,ZON,Oder-Spree,Brandenburg,DE-BB,178849,78,52.244,14.219
 27-01-2020,12068,0,ZON,Ostprignitz-Ruppin,Brandenburg,DE-BB,99414,39,52.992,12.636
 28-01-2020,12068,0,ZON,Ostprignitz-Ruppin,Brandenburg,DE-BB,99414,39,52.992,12.636
 29-01-2020,12068,0,ZON,Ostprignitz-Ruppin,Brandenburg,DE-BB,99414,39,52.992,12.636
@@ -21292,7 +21292,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,12068,9,ZON,Ostprignitz-Ruppin,Brandenburg,DE-BB,99414,39,52.992,12.636
 27-03-2020,12068,11,ZON,Ostprignitz-Ruppin,Brandenburg,DE-BB,99414,39,52.992,12.636
 28-03-2020,12068,23,ZON,Ostprignitz-Ruppin,Brandenburg,DE-BB,99414,39,52.992,12.636
-29-03-2020,12068,,ZON,Ostprignitz-Ruppin,Brandenburg,DE-BB,99414,39,52.992,12.636
+29-03-2020,12068,12,ZON,Ostprignitz-Ruppin,Brandenburg,DE-BB,99414,39,52.992,12.636
 27-01-2020,12069,0,ZON,,,,,,,
 28-01-2020,12069,0,ZON,,,,,,,
 29-01-2020,12069,0,ZON,,,,,,,
@@ -21544,7 +21544,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,12072,38,ZON,,,,,,,
 27-03-2020,12072,40,ZON,,,,,,,
 28-03-2020,12072,42,ZON,,,,,,,
-29-03-2020,12072,,ZON,,,,,,,
+29-03-2020,12072,43,ZON,,,,,,,
 27-01-2020,12073,0,ZON,Uckermark,Brandenburg,DE-BB,120878,39,53.206,13.861
 28-01-2020,12073,0,ZON,Uckermark,Brandenburg,DE-BB,120878,39,53.206,13.861
 29-01-2020,12073,0,ZON,Uckermark,Brandenburg,DE-BB,120878,39,53.206,13.861
@@ -21922,7 +21922,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,13073,28,ZON,,,,,,,
 27-03-2020,13073,33,ZON,,,,,,,
 28-03-2020,13073,37,ZON,,,,,,,
-29-03-2020,13073,,ZON,,,,,,,
+29-03-2020,13073,38,ZON,,,,,,,
 27-01-2020,13074,0,ZON,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
 28-01-2020,13074,0,ZON,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
 29-01-2020,13074,0,ZON,Nordwestmecklenburg,Mecklenburg-Vorpommern,DE-MV,156825,73,53.822,11.253
@@ -23056,7 +23056,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,15002,104,ZON,Halle (Saale),Sachsen-Anhalt,DE-ST,238005,1771,51.48,11.967
 27-03-2020,15002,113,ZON,Halle (Saale),Sachsen-Anhalt,DE-ST,238005,1771,51.48,11.967
 28-03-2020,15002,137,ZON,Halle (Saale),Sachsen-Anhalt,DE-ST,238005,1771,51.48,11.967
-29-03-2020,15002,,ZON,Halle (Saale),Sachsen-Anhalt,DE-ST,238005,1771,51.48,11.967
+29-03-2020,15002,141,ZON,Halle (Saale),Sachsen-Anhalt,DE-ST,238005,1771,51.48,11.967
 27-01-2020,15003,0,ZON,Magdeburg,Sachsen-Anhalt,DE-ST,238136,1187,52.117,11.641
 28-01-2020,15003,0,ZON,Magdeburg,Sachsen-Anhalt,DE-ST,238136,1187,52.117,11.641
 29-01-2020,15003,0,ZON,Magdeburg,Sachsen-Anhalt,DE-ST,238136,1187,52.117,11.641
@@ -23245,7 +23245,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,15082,27,ZON,Anhalt-Bitterfeld,Sachsen-Anhalt,DE-ST,163100,115,51.795,12.143
 27-03-2020,15082,30,ZON,Anhalt-Bitterfeld,Sachsen-Anhalt,DE-ST,163100,115,51.795,12.143
 28-03-2020,15082,30,ZON,Anhalt-Bitterfeld,Sachsen-Anhalt,DE-ST,163100,115,51.795,12.143
-29-03-2020,15082,,ZON,Anhalt-Bitterfeld,Sachsen-Anhalt,DE-ST,163100,115,51.795,12.143
+29-03-2020,15082,32,ZON,Anhalt-Bitterfeld,Sachsen-Anhalt,DE-ST,163100,115,51.795,12.143
 27-01-2020,15083,0,ZON,Börde,Sachsen-Anhalt,DE-ST,172959,73,52.221,11.348
 28-01-2020,15083,0,ZON,Börde,Sachsen-Anhalt,DE-ST,172959,73,52.221,11.348
 29-01-2020,15083,0,ZON,Börde,Sachsen-Anhalt,DE-ST,172959,73,52.221,11.348
@@ -23623,7 +23623,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,15088,46,ZON,Saalekreis,Sachsen-Anhalt,DE-ST,185951,130,51.426,11.866
 27-03-2020,15088,50,ZON,Saalekreis,Sachsen-Anhalt,DE-ST,185951,130,51.426,11.866
 28-03-2020,15088,50,ZON,Saalekreis,Sachsen-Anhalt,DE-ST,185951,130,51.426,11.866
-29-03-2020,15088,,ZON,Saalekreis,Sachsen-Anhalt,DE-ST,185951,130,51.426,11.866
+29-03-2020,15088,54,ZON,Saalekreis,Sachsen-Anhalt,DE-ST,185951,130,51.426,11.866
 27-01-2020,15089,0,ZON,,,,,,,
 28-01-2020,15089,0,ZON,,,,,,,
 29-01-2020,15089,0,ZON,,,,,,,
@@ -23749,7 +23749,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,15090,24,ZON,Stendal,Sachsen-Anhalt,DE-ST,114393,48,52.697,11.84
 27-03-2020,15090,33,ZON,Stendal,Sachsen-Anhalt,DE-ST,114393,48,52.697,11.84
 28-03-2020,15090,39,ZON,Stendal,Sachsen-Anhalt,DE-ST,114393,48,52.697,11.84
-29-03-2020,15090,,ZON,Stendal,Sachsen-Anhalt,DE-ST,114393,48,52.697,11.84
+29-03-2020,15090,51,ZON,Stendal,Sachsen-Anhalt,DE-ST,114393,48,52.697,11.84
 27-01-2020,15091,0,ZON,Wittenberg,Sachsen-Anhalt,DE-ST,127449,67,51.82,12.702
 28-01-2020,15091,0,ZON,Wittenberg,Sachsen-Anhalt,DE-ST,127449,67,51.82,12.702
 29-01-2020,15091,0,ZON,Wittenberg,Sachsen-Anhalt,DE-ST,127449,67,51.82,12.702
@@ -23812,7 +23812,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,15091,61,ZON,Wittenberg,Sachsen-Anhalt,DE-ST,127449,67,51.82,12.702
 27-03-2020,15091,62,ZON,Wittenberg,Sachsen-Anhalt,DE-ST,127449,67,51.82,12.702
 28-03-2020,15091,66,ZON,Wittenberg,Sachsen-Anhalt,DE-ST,127449,67,51.82,12.702
-29-03-2020,15091,,ZON,Wittenberg,Sachsen-Anhalt,DE-ST,127449,67,51.82,12.702
+29-03-2020,15091,67,ZON,Wittenberg,Sachsen-Anhalt,DE-ST,127449,67,51.82,12.702
 27-01-2020,16051,0,ZON,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
 28-01-2020,16051,0,ZON,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
 29-01-2020,16051,0,ZON,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
@@ -23875,7 +23875,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16051,62,ZON,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
 27-03-2020,16051,72,ZON,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
 28-03-2020,16051,72,ZON,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
-29-03-2020,16051,,ZON,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
+29-03-2020,16051,74,ZON,Erfurt,Thüringen,DE-TH,211113,791,50.983,11.021
 27-01-2020,16052,0,ZON,Gera,Thüringen,DE-TH,94750,618,50.894,12.083
 28-01-2020,16052,0,ZON,Gera,Thüringen,DE-TH,94750,618,50.894,12.083
 29-01-2020,16052,0,ZON,Gera,Thüringen,DE-TH,94750,618,50.894,12.083
@@ -24064,7 +24064,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16054,5,ZON,Suhl,Thüringen,DE-TH,35608,358,50.612,10.689
 27-03-2020,16054,5,ZON,Suhl,Thüringen,DE-TH,35608,358,50.612,10.689
 28-03-2020,16054,5,ZON,Suhl,Thüringen,DE-TH,35608,358,50.612,10.689
-29-03-2020,16054,,ZON,Suhl,Thüringen,DE-TH,35608,358,50.612,10.689
+29-03-2020,16054,6,ZON,Suhl,Thüringen,DE-TH,35608,358,50.612,10.689
 27-01-2020,16055,0,ZON,Weimar,Thüringen,DE-TH,64355,770,50.978,11.317
 28-01-2020,16055,0,ZON,Weimar,Thüringen,DE-TH,64355,770,50.978,11.317
 29-01-2020,16055,0,ZON,Weimar,Thüringen,DE-TH,64355,770,50.978,11.317
@@ -24127,7 +24127,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16055,22,ZON,Weimar,Thüringen,DE-TH,64355,770,50.978,11.317
 27-03-2020,16055,24,ZON,Weimar,Thüringen,DE-TH,64355,770,50.978,11.317
 28-03-2020,16055,27,ZON,Weimar,Thüringen,DE-TH,64355,770,50.978,11.317
-29-03-2020,16055,,ZON,Weimar,Thüringen,DE-TH,64355,770,50.978,11.317
+29-03-2020,16055,29,ZON,Weimar,Thüringen,DE-TH,64355,770,50.978,11.317
 27-01-2020,16056,0,ZON,Eisenach,Thüringen,DE-TH,42588,406,50.99,10.3
 28-01-2020,16056,0,ZON,Eisenach,Thüringen,DE-TH,42588,406,50.99,10.3
 29-01-2020,16056,0,ZON,Eisenach,Thüringen,DE-TH,42588,406,50.99,10.3
@@ -24253,7 +24253,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16061,39,ZON,Eichsfeld,Thüringen,DE-TH,101033,107,51.384,10.254
 27-03-2020,16061,41,ZON,Eichsfeld,Thüringen,DE-TH,101033,107,51.384,10.254
 28-03-2020,16061,45,ZON,Eichsfeld,Thüringen,DE-TH,101033,107,51.384,10.254
-29-03-2020,16061,,ZON,Eichsfeld,Thüringen,DE-TH,101033,107,51.384,10.254
+29-03-2020,16061,47,ZON,Eichsfeld,Thüringen,DE-TH,101033,107,51.384,10.254
 27-01-2020,16062,0,ZON,Nordhausen,Thüringen,DE-TH,85098,119,51.503,10.731
 28-01-2020,16062,0,ZON,Nordhausen,Thüringen,DE-TH,85098,119,51.503,10.731
 29-01-2020,16062,0,ZON,Nordhausen,Thüringen,DE-TH,85098,119,51.503,10.731
@@ -24568,7 +24568,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16066,21,ZON,Schmalkalden-Meiningen,Thüringen,DE-TH,123506,102,50.63,10.405
 27-03-2020,16066,25,ZON,Schmalkalden-Meiningen,Thüringen,DE-TH,123506,102,50.63,10.405
 28-03-2020,16066,27,ZON,Schmalkalden-Meiningen,Thüringen,DE-TH,123506,102,50.63,10.405
-29-03-2020,16066,,ZON,Schmalkalden-Meiningen,Thüringen,DE-TH,123506,102,50.63,10.405
+29-03-2020,16066,28,ZON,Schmalkalden-Meiningen,Thüringen,DE-TH,123506,102,50.63,10.405
 27-01-2020,16067,0,ZON,Gotha,Thüringen,DE-TH,135430,146,50.91,10.694
 28-01-2020,16067,0,ZON,Gotha,Thüringen,DE-TH,135430,146,50.91,10.694
 29-01-2020,16067,0,ZON,Gotha,Thüringen,DE-TH,135430,146,50.91,10.694
@@ -24883,7 +24883,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16071,19,ZON,Weimarer Land,Thüringen,DE-TH,82316,102,50.972,11.374
 27-03-2020,16071,19,ZON,Weimarer Land,Thüringen,DE-TH,82316,102,50.972,11.374
 28-03-2020,16071,19,ZON,Weimarer Land,Thüringen,DE-TH,82316,102,50.972,11.374
-29-03-2020,16071,,ZON,Weimarer Land,Thüringen,DE-TH,82316,102,50.972,11.374
+29-03-2020,16071,21,ZON,Weimarer Land,Thüringen,DE-TH,82316,102,50.972,11.374
 27-01-2020,16072,0,ZON,Sonneberg,Thüringen,DE-TH,56507,131,50.415,11.133
 28-01-2020,16072,0,ZON,Sonneberg,Thüringen,DE-TH,56507,131,50.415,11.133
 29-01-2020,16072,0,ZON,Sonneberg,Thüringen,DE-TH,56507,131,50.415,11.133
@@ -24946,7 +24946,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16072,13,ZON,Sonneberg,Thüringen,DE-TH,56507,131,50.415,11.133
 27-03-2020,16072,15,ZON,Sonneberg,Thüringen,DE-TH,56507,131,50.415,11.133
 28-03-2020,16072,15,ZON,Sonneberg,Thüringen,DE-TH,56507,131,50.415,11.133
-29-03-2020,16072,,ZON,Sonneberg,Thüringen,DE-TH,56507,131,50.415,11.133
+29-03-2020,16072,19,ZON,Sonneberg,Thüringen,DE-TH,56507,131,50.415,11.133
 27-01-2020,16073,0,ZON,Saalfeld-Rudolstadt,Thüringen,DE-TH,108315,105,50.638,11.308
 28-01-2020,16073,0,ZON,Saalfeld-Rudolstadt,Thüringen,DE-TH,108315,105,50.638,11.308
 29-01-2020,16073,0,ZON,Saalfeld-Rudolstadt,Thüringen,DE-TH,108315,105,50.638,11.308
@@ -25072,7 +25072,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16074,21,ZON,Saale-Holzland-Kreis,Thüringen,DE-TH,84525,105,50.904,11.732
 27-03-2020,16074,21,ZON,Saale-Holzland-Kreis,Thüringen,DE-TH,84525,105,50.904,11.732
 28-03-2020,16074,22,ZON,Saale-Holzland-Kreis,Thüringen,DE-TH,84525,105,50.904,11.732
-29-03-2020,16074,,ZON,Saale-Holzland-Kreis,Thüringen,DE-TH,84525,105,50.904,11.732
+29-03-2020,16074,27,ZON,Saale-Holzland-Kreis,Thüringen,DE-TH,84525,105,50.904,11.732
 27-01-2020,16075,0,ZON,Saale-Orla-Kreis,Thüringen,DE-TH,82362,72,50.581,11.71
 28-01-2020,16075,0,ZON,Saale-Orla-Kreis,Thüringen,DE-TH,82362,72,50.581,11.71
 29-01-2020,16075,0,ZON,Saale-Orla-Kreis,Thüringen,DE-TH,82362,72,50.581,11.71
@@ -25198,7 +25198,7 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16076,89,ZON,Greiz,Thüringen,DE-TH,99717,119,50.749,12.073
 27-03-2020,16076,103,ZON,Greiz,Thüringen,DE-TH,99717,119,50.749,12.073
 28-03-2020,16076,111,ZON,Greiz,Thüringen,DE-TH,99717,119,50.749,12.073
-29-03-2020,16076,,ZON,Greiz,Thüringen,DE-TH,99717,119,50.749,12.073
+29-03-2020,16076,121,ZON,Greiz,Thüringen,DE-TH,99717,119,50.749,12.073
 27-01-2020,16077,0,ZON,Altenburger Land,Thüringen,DE-TH,91607,160,50.956,12.4
 28-01-2020,16077,0,ZON,Altenburger Land,Thüringen,DE-TH,91607,160,50.956,12.4
 29-01-2020,16077,0,ZON,Altenburger Land,Thüringen,DE-TH,91607,160,50.956,12.4
@@ -25261,4 +25261,4 @@ reportDate,ags,cases,source,community_name,state,stateCode,population_number,pop
 26-03-2020,16077,17,ZON,Altenburger Land,Thüringen,DE-TH,91607,160,50.956,12.4
 27-03-2020,16077,18,ZON,Altenburger Land,Thüringen,DE-TH,91607,160,50.956,12.4
 28-03-2020,16077,19,ZON,Altenburger Land,Thüringen,DE-TH,91607,160,50.956,12.4
-29-03-2020,16077,,ZON,Altenburger Land,Thüringen,DE-TH,91607,160,50.956,12.4
+29-03-2020,16077,20,ZON,Altenburger Land,Thüringen,DE-TH,91607,160,50.956,12.4
