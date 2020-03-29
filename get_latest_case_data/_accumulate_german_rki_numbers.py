@@ -26,7 +26,6 @@ def enrich_data(data_in: List[Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
         community_data[id_landkreis][timestamp].append(line)
     
     community_data = _reduce_data_in_timestamp(community_data)
-    print(json.dumps(community_data["05315"]))
     accumulated_communities = _get_accumulated_data(community_data)
     return accumulated_communities
 
@@ -44,6 +43,7 @@ def _reduce_data_in_timestamp(community_data: Dict[str, List[Dict[str, Dict]]]) 
                 tmp["deaths_day"] += data["deaths_day"]
             community_data[ags][timestamp] = tmp
     return community_data
+
 
 def _get_accumulated_data(rearranged_data: Dict[str, Dict[str, Dict]]) -> List[Dict[str, Any]]:
     '''
