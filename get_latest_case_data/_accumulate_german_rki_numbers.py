@@ -14,7 +14,7 @@ def enrich_data(data_in: List[Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
     '''
     Make dict: community -> timestamp -> acc. data for community for consec. timestamp
     '''
-    community_data: Dict[str, Dict[str, Dict]] = {}
+    community_data: Dict[str, List[Dict[str, Dict]]] = {}
     for line in data_in:
         id_landkreis: int = line["ags"]
         timestamp: int = int(line["reportDate_timestamp"])
@@ -22,11 +22,28 @@ def enrich_data(data_in: List[Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
         if community_data.get(id_landkreis) is None:
             community_data[id_landkreis] = {}
         if community_data[id_landkreis].get(timestamp) is None:
-            community_data[id_landkreis][timestamp] = line
+            community_data[id_landkreis][timestamp] = []
+        community_data[id_landkreis][timestamp].append(line)
     
+    community_data = _reduce_data_in_timestamp(community_data)
+    print(json.dumps(community_data["05315"]))
     accumulated_communities = _get_accumulated_data(community_data)
     return accumulated_communities
 
+
+def _reduce_data_in_timestamp(community_data: Dict[str, List[Dict[str, Dict]]]) -> Dict[str, Dict[str, Dict]]:
+    for ags, ags_data in community_data.items():
+        for timestamp, timestamp_data in ags_data.items():
+            tmp = None
+            for data in timestamp_data:
+                if tmp is None:
+                    tmp = data
+                    tmp["cases_day"] = 0
+                    tmp["deaths_day"] = 0
+                tmp["cases_day"] += data["cases_day"]
+                tmp["deaths_day"] += data["deaths_day"]
+            community_data[ags][timestamp] = tmp
+    return community_data
 
 def _get_accumulated_data(rearranged_data: Dict[str, Dict[str, Dict]]) -> List[Dict[str, Any]]:
     '''
