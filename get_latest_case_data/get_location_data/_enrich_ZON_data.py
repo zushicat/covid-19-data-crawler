@@ -39,12 +39,14 @@ def enrich_ZON_nations(data_in: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         for line in reader:
             nations_data[line["country_name_german"]] = line
     
+    enriched_data: List[Dict[str, Any]] = []
     for i, line in enumerate(data_in):
         if nations_data.get(line["country_name_german"]) is None:
             continue
-        data_in[i] = _merge_dicts(data_in[i], nations_data[line["country_name_german"]])
+        tmp = _merge_dicts(data_in[i], nations_data[line["country_name_german"]])
+        enriched_data.append(tmp)
     
-    return data_in
+    return enriched_data
 
 def enrich_ZON_communities(data_in: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     with open(f"{DIRNAME}/data/ZON_ags_key_data.json") as f:
