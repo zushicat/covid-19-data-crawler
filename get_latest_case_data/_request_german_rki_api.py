@@ -65,7 +65,7 @@ STATE_CODES = {v: k for k, v in STATE_CODES.items()}  # swap key, value
 
 def get_date_from_timestamp(timestamp: int) -> str:
     timestamp /= 1000  # unit conversion
-    date_format = "%Y-%m-%d"
+    date_format = "%d-%m-%Y"
     return datetime.fromtimestamp(timestamp).strftime(date_format)
 
 
