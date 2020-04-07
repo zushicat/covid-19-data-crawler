@@ -4,7 +4,11 @@ Get latest data updates of covid-19 numbers from different sources (with main fo
 There is quite a gap between the overall numbers from Robert Koch Institute and (well respected) news outlets, hence this data crawler of different sources.   
 
 For details about this discrepancy you might want to take a look i.e. at this discussion (Johns Hopkins CSSE (JHU) repository):  
-https://github.com/CSSEGISandData/COVID-19/issues/1008
+https://github.com/CSSEGISandData/COVID-19/issues/1008    
+
+
+In case you're interested in infection spread models, have a look here:   
+https://github.com/zushicat/infection-modeling (right now Cologne, Germany, only)
 
 
 
