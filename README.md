@@ -7,7 +7,7 @@ For details about this discrepancy you might want to take a look i.e. at this di
 https://github.com/CSSEGISandData/COVID-19/issues/1008    
 
 
-In case you're interested in infection spread models, have a look here:   
+In case you're interested in infection spread models based on this data, have a look here:   
 https://github.com/zushicat/infection-modeling (right now Cologne, Germany, only)
 
 
