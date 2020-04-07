@@ -53,7 +53,7 @@ $ sudo pip3 install pipenv
 ```
 - change to the downloaded/cloned project directory
 ```
-$ cd soemthing/something/covid-19-data-crawler
+$ cd something/something/covid-19-data-crawler
 ```
 - start pipenv shell (you can exit the shell with "exit")
 ```
@@ -149,7 +149,7 @@ A register of ICU beds in german hospitals and their current occupancy / workloa
 ### International
 A data community driven project with COVID-19 Coronavirus data scraped from government and curated data sources:   
 https://coronadatascraper.com
-with several formats of timesseries (csv and JSON).   
+with several formats of timeseries (csv and JSON).   
 
 
 ***Johns Hopkins CSSE (JHU)***:   
