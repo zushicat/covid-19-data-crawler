@@ -55,14 +55,17 @@ def get_ZON_international_data() -> None:
 
     for country_data in r["laender"]:
         for i, current_date in enumerate(date_list):
-            tmp: Dict[str, Any] = {
-                "reportDate": current_date,
-                "country_name_german": country_data["land"],
-                "cases": country_data["counts"][i],
-                "deaths": country_data["deaths"][i],
-                "source": "ZON"
-            }
-            country_data_by_date.append(tmp)
+            try:
+                tmp: Dict[str, Any] = {
+                    "reportDate": current_date,
+                    "country_name_german": country_data["land"],
+                    "cases": country_data["counts"][i],
+                    "deaths": country_data["deaths"][i],
+                    "source": "ZON"
+                }
+                country_data_by_date.append(tmp)
+            except:
+                continue
 
     country_data_by_date = enrich_ZON_nations(country_data_by_date)
     _write_scv(country_data_by_date, "nations_ZON")
