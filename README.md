@@ -133,6 +133,8 @@ Otherwise just get the csv files in directory of latest date.
 - 3b - Zeit Online
   - nations_ZON.csv
   - communities_ZON.csv
+- 4 - Tagesspiegel (Risklayer)
+  - communities_tagesspiegel.csv
 
 The data points of all csv files are saved as "tidy" (or "long") data instead of "wide" data, meaning:  
 Each date for each location is presented in a row instead of one row per location with all the dates as columns.
