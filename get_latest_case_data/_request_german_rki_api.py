@@ -87,7 +87,7 @@ def request_rki_api():
         - Add human readable date (from timestamp), format y-m-d i.e. 2020-03-18
         '''
         state_code: str = STATE_CODES[STATE_IDS[state_id]]
-        url = f"https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_COVID19/FeatureServer/0/query?where=IdBundesland={state_id}&outFields=AnzahlFall,AnzahlTodesfall,Meldedatum,IdLandkreis,IdBundesland,Landkreis&outSR=4326&f=json"
+        url = f"https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_COVID19/FeatureServer/0/query?where=IdBundesland={state_id}&outFields=AnzahlFall,AnzahlTodesfall,AnzahlGenesen,Meldedatum,IdLandkreis,IdBundesland,Landkreis&outSR=4326&f=json"
         r = requests.get(url)
         lines = r.json()["features"]
 
@@ -105,6 +105,7 @@ def request_rki_api():
             
             for key_old, key_new in {
                 "AnzahlFall": "cases_day", 
+                "AnzahlGenesen": "recovered_day",
                 "AnzahlTodesfall": "deaths_day", 
                 "Meldedatum": "reportDate_timestamp", 
                 "IdLandkreis": "ags", 

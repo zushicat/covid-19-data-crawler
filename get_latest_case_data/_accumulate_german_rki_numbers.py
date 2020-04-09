@@ -39,8 +39,10 @@ def _reduce_data_in_timestamp(community_data: Dict[str, List[Dict[str, Dict]]]) 
                     tmp = data
                     tmp["cases_day"] = 0
                     tmp["deaths_day"] = 0
+                    tmp["recovered_day"] = 0
                 tmp["cases_day"] += data["cases_day"]
                 tmp["deaths_day"] += data["deaths_day"]
+                tmp["recovered_day"] += data["recovered_day"]
             community_data[ags][timestamp] = tmp
     return community_data
 
@@ -58,6 +60,7 @@ def _get_accumulated_data(rearranged_data: Dict[str, Dict[str, Dict]]) -> List[D
         # init first timestamp_data
         timestamp_data[timestamps[0]]["cases"]: int = int(timestamp_data[timestamps[0]]["cases_day"])
         timestamp_data[timestamps[0]]["deaths"]:int = int(timestamp_data[timestamps[0]]["deaths_day"])
+        timestamp_data[timestamps[0]]["recovered"]:int = int(timestamp_data[timestamps[0]]["recovered_day"])
 
         #accumulated.append(timestamp_data[timestamps[0]])
 
@@ -67,6 +70,7 @@ def _get_accumulated_data(rearranged_data: Dict[str, Dict[str, Dict]]) -> List[D
             
             current_dat["cases"]: int = previous_dat["cases"] + int(current_dat["cases_day"])
             current_dat["deaths"]: int = previous_dat["deaths"] + int(current_dat["deaths_day"])
+            current_dat["recovered"]: int = previous_dat["recovered"] + int(current_dat["recovered_day"])
             
             accumulated_communities.append(current_dat)
 
