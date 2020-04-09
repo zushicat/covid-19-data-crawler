@@ -26,11 +26,11 @@ Requested attributes:
 - IdBundesland
 - Landkreis
 
-**Update:** I normalized the german attribute naming.
+**Update:** I normalized the german attribute naming.    
 **Update:** Added number of recovered individuals (per day and accumulated).     
 Please note: There is a strange behavior regarding the numbers of recoveries in the beginning of some community timeseries, where these numbers per day are the same as for cases per per. (Over time, this behavior changes which is reflected in the accumulated numbers.)    
 See this example request: https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_COVID19/FeatureServer/0/query?where=IdLandkreis=8111&outFields=Meldedatum,AnzahlFall,AnzahlGenesen,AnzahlTodesfall,Landkreis&outSR=4326    
-¯\_(ツ)_/¯    
+¯\\_(ツ)_/¯    
 I just take this as a given fact (for whatever underlying reason) but wanted to highlight this. Looking closer to the recovery numbers for some communities, I would take this data with a grain of salt, anyway.
 
 
