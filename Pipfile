@@ -5,11 +5,13 @@ verify_ssl = true
 
 [dev-packages]
 beautifulsoup4 = "*"
+pandas = "*"
 requests = "*"
 sparqlwrapper = "*"
 
 [packages]
 click = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"

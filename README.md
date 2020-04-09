@@ -20,12 +20,19 @@ https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b
 Requested attributes:
 - AnzahlFall
 - AnzahlTodesfall
+- AnzahlGenesen
 - Meldedatum (is timestamp)
 - IdLandkreis
 - IdBundesland
 - Landkreis
 
 **Update:** I normalized the german attribute naming.
+**Update:** Added number of recovered individuals (per day and accumulated).     
+Please note: There is a strange behavior regarding the numbers of recoveries in the beginning of some community timeseries, where these numbers per day are the same as for cases per per. (Over time, this behavior changes which is reflected in the accumulated numbers.)    
+See this example request: https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_COVID19/FeatureServer/0/query?where=IdLandkreis=8111&outFields=Meldedatum,AnzahlFall,AnzahlGenesen,AnzahlTodesfall,Landkreis&outSR=4326    
+¯\_(ツ)_/¯    
+I just take this as a given fact (for whatever underlying reason) but wanted to highlight this. Looking closer to the recovery numbers for some communities, I would take this data with a grain of salt, anyway.
+
 
 ### 2 - Stadt Köln (North Rhine-Westphalia, Germany)
 This is out of very personal interest in the numbers within my immediate vicinity. Yikes.
@@ -33,7 +40,8 @@ This is out of very personal interest in the numbers within my immediate vicinit
 Scrape datatable of the overview page:   
 https://www.stadt-koeln.de/leben-in-koeln/gesundheit/infektionsschutz/corona-virus/corona-virus-anzahl-der-bestaetigten-faelle-koeln
 
-There are daily updates by press releases but the tech team responsible for the chart (and datatable) obviously don't update on the weekend. **Boo!**
+There are daily updates by press releases but the tech team responsible for the chart (and datatable) obviously don't update on the weekend. **Boo!**   
+
 
 ### 3 - News outlets
 Data taken from Zeit Online (ZON) and Berliner Morgenpost
@@ -45,6 +53,21 @@ For details, see: https://github.com/jgehrcke/covid-19-germany-gae
 #### b - ZON
 ZON now additionally provides international and community level data (see comments with JSON links in /get_latest_case_data/_get_ZON_data.py) which I both request.
 
+
+### 4 - Tagesspiegel (Risklayer)
+**Update** Added request of Tagesspiegel google spreadsheets which is basically (I think collected) data from Risklayer (for more information about Risklayer, see below in 'More Sources').   
+
+I used the spreadsheets of accumulated numbers for
+- cases (earliest date: 04.03.2020)
+- deaths (earliest date: 30.03.2020)
+- recovery (earliest date: 27.03.2020)
+   
+Please refer to the top comment in    
+/get_latest_case_data/_get_tagesspiegel_data.py    
+for the used data links.   
+
+The data is not as complete as one would wish, especially for recoveries and deaths there is sometimes data missing or apparently not daily updated (depending on the community, I guess).   
+These gaps are stores as null (not 0), hence the missing difference to the respective first occuring numbers per community. Please take that in consideration when processing this data.
 
 
 ## Usage
@@ -81,6 +104,7 @@ Options:
   --news     Request news outlet API by jgehrcke
   --zon-i    Request ZON international numbers
   --zon-c    Request ZON community numbers
+  --ts       Request Tagesspiegel community numbers
   --cologne  Request data for city of Cologne, Germany
   --help     Show this message and exit.
 ```
