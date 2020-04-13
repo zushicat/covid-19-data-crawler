@@ -138,7 +138,7 @@ Otherwise just get the csv files in directory of latest date.
 
 **Update**    
 I additionally merged RKI and Tagesspiegel (Risklayer) data:
-- communities_germany_merged_rki_ts
+- communities_germany_merged_rki_ts    
 This merge makes the oddness of the RKI recovered numbers in the timeseries even more apparent.   
 
 
