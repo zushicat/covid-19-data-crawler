@@ -40,8 +40,10 @@ def request_sources(requested_source):
     
     # ***
     # process some files (merge / accumulate)
-    merge_accumulate_rki_ts(os.listdir("data"))
-    
+    try:
+        merge_accumulate_rki_ts(os.listdir("data"))
+    except:
+        pass
 
 if __name__ == '__main__':
     request_sources()
