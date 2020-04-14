@@ -32,6 +32,9 @@ Please note: There is a strange behavior regarding the numbers of recoveries in 
 See this example request: https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_COVID19/FeatureServer/0/query?where=IdLandkreis=8111&outFields=Meldedatum,AnzahlFall,AnzahlGenesen,AnzahlTodesfall,Landkreis&outSR=4326    
 ¯\\_(ツ)_/¯    
 I just take this as a given fact (for whatever underlying reason) but wanted to highlight this. Looking closer to the recovery numbers for some communities, I would take this data with a grain of salt, anyway.
+**Update** There are markers for deaths and recovered cases (NeuTodesfall, NeuGenesen) but those don't help at all because cases are just marked as deceased or recovered without being bound to a date. Hence it's impossible to put those numbers in a timeseries.     
+(You might want to have a look at this discussion: https://www.arcgis.com/home/item.html?id=dd4580c810204019a7b8eb3e0b329dd6)    
+Maybe best practise is to just ignore the RKI numbers for deaths and recoveries.   
 
 
 ### 2 - Stadt Köln (North Rhine-Westphalia, Germany)
