@@ -31,7 +31,7 @@ Requested attributes:
 Please note: There is a strange behavior regarding the numbers of recoveries in the beginning of some community timeseries, where these numbers per day are the same as for cases per day. (Over time, this behavior changes which is reflected in the accumulated numbers.)    
 See this example request: https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_COVID19/FeatureServer/0/query?where=IdLandkreis=8111&outFields=Meldedatum,AnzahlFall,AnzahlGenesen,AnzahlTodesfall,Landkreis&outSR=4326    
 ¯\\_(ツ)_/¯    
-I just take this as a given fact (for whatever underlying reason) but wanted to highlight this. Looking closer to the recovery numbers for some communities, I would take this data with a grain of salt, anyway.
+I just take this as a given fact (for whatever underlying reason) but wanted to highlight this. Looking closer to the recovery numbers for some communities, I would take this data with a grain of salt, anyway.    
 **Update** There are markers for deaths and recovered cases (NeuTodesfall, NeuGenesen) but those don't help at all because cases are just marked as deceased or recovered without being bound to a date. Hence it's impossible to put those numbers in a timeseries.     
 (You might want to have a look at this discussion: https://www.arcgis.com/home/item.html?id=dd4580c810204019a7b8eb3e0b329dd6)    
 **Maybe best practice is to just ignore the RKI numbers for deaths and recoveries (at least for now).**    
@@ -143,7 +143,7 @@ Otherwise just get the csv files in directory of latest date.
 I additionally merged RKI and Tagesspiegel (Risklayer) data:
 - communities_germany_merged_rki_ts.csv    
 ~~(This merge makes the oddness of the RKI recovered numbers in the timeseries even more apparent.)~~    
-Regarding numnbers for reccovered and deceased cases, please see notes under (1).    
+Regarding the numbers for reccovered and deceased cases, please see notes under (1).    
 
 
 The data points of all csv files are saved as "tidy" (or "long") data instead of "wide" data, meaning:  
