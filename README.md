@@ -73,6 +73,24 @@ The data is not as complete as one would wish, especially for recoveries and dea
 These gaps are stores as null (not 0), hence the missing difference to the respective first occuring numbers per community. Please take that in consideration when processing this data.
 
 
+### 5 - Berliner Morgenpost
+**Update** Added new source    
+Berliner Morgenpost is doing a great job of collecting data on different levels:    
+- 0: nation level (international)
+- 1: state level (different countries)
+- 2: district level (Germany)
+
+As far as I can see right now, this is the most comprehensive data source incl. recovered and deceased cases.    
+
+Data url:    
+https://funkeinteraktiv.b-cdn.net/history.v4.csv    
+
+The respective original sources can also be found in the csv file (which I drop here for practicality).    
+
+Interactive usage of this data:    
+https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/    
+
+
 ## Usage
 Download (or clone) and run project (from pipenv environment):  
 - open terminal
@@ -138,6 +156,13 @@ Otherwise just get the csv files in directory of latest date.
   - communities_ZON.csv
 - 4 - Tagesspiegel (Risklayer)
   - communities_tagesspiegel.csv
+- 5 - Berliner Morgenpost
+  - communities_germany_mopo_b.csv
+  - nations_mopo_b.csv
+  - states_AU_mopo_b.csv
+  - states_CA_mopo_b.csv
+  - states_CN_mopo_b.csv
+  - states_DE_mopo_b.csv
 
 **Update**    
 I additionally merged RKI and Tagesspiegel (Risklayer) data:
