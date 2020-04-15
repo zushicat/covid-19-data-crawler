@@ -5,6 +5,7 @@ from get_latest_case_data._request_german_rki_api import request_rki_api
 from get_latest_case_data._scrape_stadt_koeln import scrape_stadt_koeln_data
 from get_latest_case_data._get_ZON_data import get_ZON_communities_data, get_ZON_international_data
 from get_latest_case_data._get_tagesspiegel_data import get_TS_communities_data
+from get_latest_case_data._get_mopo_b_data import get_mopo_b_data
 
 from process_data._merge_accumulate_rki_ts import merge_accumulate_rki_ts
 
@@ -13,11 +14,12 @@ import click
 
 @click.command()
 @click.option('--all', 'requested_source', default=True, flag_value='all', help='Request all sources')
-@click.option('--rki', 'requested_source', default=False, flag_value='rki', help='Request Robert Koch Institute')
-@click.option('--news', 'requested_source', default=False, flag_value='news', help='Request news outlet API by jgehrcke')
+@click.option('--rki', 'requested_source', default=False, flag_value='rki', help='Request Robert Koch Institute (RKI)')
+@click.option('--news', 'requested_source', default=False, flag_value='news', help='Request news outlets API by jgehrcke')
 @click.option('--zon-i', 'requested_source', default=False, flag_value='zon_i', help='Request ZON international numbers')
 @click.option('--zon-c', 'requested_source', default=False, flag_value='zon_c', help='Request ZON community numbers')
 @click.option('--ts', 'requested_source', default=False, flag_value='ts', help='Request Tagesspiegel community numbers')
+@click.option('--mopo-b', 'requested_source', default=False, flag_value='mopo_b', help='Request Berliner Morgenpost (all levels) numbers')
 @click.option('--cologne', 'requested_source', default=False, flag_value='cologne', help='Request data for city of Cologne, Germany')
 def request_sources(requested_source):
     '''
@@ -29,7 +31,8 @@ def request_sources(requested_source):
         "cologne": scrape_stadt_koeln_data,
         "zon_i": get_ZON_international_data,
         "zon_c": get_ZON_communities_data,
-        "ts": get_TS_communities_data
+        "ts": get_TS_communities_data,
+        "mopo_b": get_mopo_b_data
     }
 
     if requested_source == "all":
