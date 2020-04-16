@@ -4,12 +4,20 @@ Get latest data updates of covid-19 numbers from different sources (with main fo
 There is quite a gap between the overall numbers from Robert Koch Institute and (well respected) news outlets, hence this data crawler of different sources.   
 
 For details about this discrepancy you might want to take a look i.e. at this discussion (Johns Hopkins CSSE (JHU) repository):  
-https://github.com/CSSEGISandData/COVID-19/issues/1008    
+https://github.com/CSSEGISandData/COVID-19/issues/1008     
+Additionally you might be interested in this publication by RKI where one of their teams tries to compensate for the delays in newest reportings by prediction models (which they call "Nowcasting"):     
+https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/17_20_SARS-CoV2_vorab.pdf?__blob=publicationFile (in german)
 
 
 In case you're interested in infection spread models based on this data, have a look here:   
 https://github.com/zushicat/infection-modeling (right now Cologne, Germany, only)
 
+
+**TL;DR**     
+As far as I can see right now, Berliner Morgenpost (see: 5) is the most comprehensive data source incl. recovered and deceased cases for different geo levels:
+- nations (international)
+- states (AU, CA, CN, DE, US)
+- districts (DE)
 
 
 ## Crawled Sources
@@ -121,11 +129,12 @@ Addintionally you can use following flags (with --all as default):
 ```
 Options:
   --all      Request all sources
-  --rki      Request Robert Koch Institute
-  --news     Request news outlet API by jgehrcke
+  --rki      Request Robert Koch Institute (RKI)
+  --news     Request news outlets API by jgehrcke
   --zon-i    Request ZON international numbers
   --zon-c    Request ZON community numbers
   --ts       Request Tagesspiegel community numbers
+  --mopo-b   Request Berliner Morgenpost (all levels) numbers
   --cologne  Request data for city of Cologne, Germany
   --help     Show this message and exit.
 ```
