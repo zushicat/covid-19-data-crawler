@@ -37,7 +37,10 @@ def request_sources(requested_source):
 
     if requested_source == "all":
         for fkt in functions.values():
-            fkt()
+            try:
+                fkt()
+            except Exception as e:
+                print(f"ERROR -------> {e}")
     else:
         functions[requested_source]()
     
