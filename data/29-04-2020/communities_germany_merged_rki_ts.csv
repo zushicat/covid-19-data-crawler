@@ -7117,12 +7117,12 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-04-29,5112,806.0,19.0,589.0,Tagesspiegel,DE-NW,Duisburg,498590.0,2142.0
 2020-04-29,5113,731.0,32.0,537.0,Tagesspiegel,DE-NW,Essen,583109.0,2772.0
 2020-04-29,5114,478.0,18.0,317.0,Tagesspiegel,DE-NW,Krefeld,227020.0,1648.0
-2020-04-29,5116,469.0,33.0,323.0,Tagesspiegel,DE-NW,Mönchengladbach,261454.0,1534.0
+2020-04-29,5116,469.0,35.0,330.0,Tagesspiegel,DE-NW,Mönchengladbach,261454.0,1534.0
 2020-04-29,5117,169.0,6.0,116.0,Tagesspiegel,DE-NW,Mülheim an der Ruhr,170880.0,1872.0
 2020-04-29,5119,183.0,1.0,146.0,Tagesspiegel,DE-NW,Oberhausen,210829.0,2735.0
 2020-04-29,5120,210.0,14.0,168.0,Tagesspiegel,DE-NW,Remscheid,110994.0,1490.0
 2020-04-29,5122,223.0,7.0,168.0,Tagesspiegel,DE-NW,Solingen,159360.0,1780.0
-2020-04-29,5124,801.0,59.0,414.0,Tagesspiegel,DE-NW,Wuppertal,354382.0,2105.0
+2020-04-29,5124,801.0,62.0,436.0,Tagesspiegel,DE-NW,Wuppertal,354382.0,2105.0
 2020-04-29,5154,549.0,24.0,364.0,Tagesspiegel,DE-NW,Kleve,310974.0,252.0
 2020-04-29,5158,824.0,55.0,547.0,Tagesspiegel,DE-NW,Mettmann,485684.0,1193.0
 2020-04-29,6411,190.0,10.0,112.0,Tagesspiegel,DE-HE,Darmstadt,159207.0,1304.0
@@ -7169,9 +7169,9 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-04-29,7336,87.0,1.0,73.0,Tagesspiegel,DE-RP,Kusel,70526.0,123.0
 2020-04-29,7337,143.0,2.0,116.0,Tagesspiegel,DE-RP,Südliche Weinstraße,110356.0,172.0
 2020-04-29,8111,1413.0,46.0,1050.0,Tagesspiegel,DE-BW,Stuttgart,634830.0,3062.0
-2020-04-29,8115,1367.0,40.0,887.0,Tagesspiegel,DE-BW,Böblingen,391640.0,634.0
-2020-04-29,8116,1700.0,84.0,1212.0,Tagesspiegel,DE-BW,Esslingen,533859.0,832.0
-2020-04-29,8117,745.0,39.0,545.0,Tagesspiegel,DE-BW,Göppingen,257253.0,400.0
+2020-04-29,8115,1367.0,42.0,888.0,Tagesspiegel,DE-BW,Böblingen,391640.0,634.0
+2020-04-29,8116,1700.0,85.0,1248.0,Tagesspiegel,DE-BW,Esslingen,533859.0,832.0
+2020-04-29,8117,745.0,39.0,551.0,Tagesspiegel,DE-BW,Göppingen,257253.0,400.0
 2020-04-29,8118,1624.0,58.0,1307.0,Tagesspiegel,DE-BW,Ludwigsburg,543984.0,792.0
 2020-04-29,9161,405.0,29.0,273.0,Tagesspiegel,DE-BY,Ingolstadt,136981.0,1027.0
 2020-04-29,9162,5719.0,157.0,4014.0,Tagesspiegel,DE-BY,München,1471508.0,4736.0
@@ -7187,7 +7187,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-04-29,12052,39.0,0.0,34.0,Tagesspiegel,DE-BB,Cottbus,100219.0,607.0
 2020-04-29,12053,25.0,0.0,21.0,Tagesspiegel,DE-BB,Frankfurt,57873.0,391.0
 2020-04-29,12054,586.0,44.0,189.0,Tagesspiegel,DE-BB,Potsdam,178089.0,944.0
-2020-04-29,12060,361.0,21.0,117.0,Tagesspiegel,DE-BB,Barnim,182760.0,124.0
+2020-04-29,12060,361.0,21.0,119.0,Tagesspiegel,DE-BB,Barnim,182760.0,124.0
 2020-04-29,12061,186.0,6.0,107.0,Tagesspiegel,DE-BB,Dahme-Spreewald,169067.0,74.0
 2020-04-29,12062,73.0,3.0,64.0,Tagesspiegel,DE-BB,Elbe-Elster,102638.0,54.0
 2020-04-29,12063,154.0,5.0,105.0,Tagesspiegel,DE-BB,Havelland,161909.0,94.0

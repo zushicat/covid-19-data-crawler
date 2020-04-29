@@ -3874,7 +3874,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,5116,Mönchengladbach,261454,1533,DE-NW,459,30,312,4,7,2
 27-04-2020,5116,Mönchengladbach,261454,1533,DE-NW,466,30,315,7,3,0
 28-04-2020,5116,Mönchengladbach,261454,1533,DE-NW,468,33,323,2,8,3
-29-04-2020,5116,Mönchengladbach,261454,1533,DE-NW,469,33,323,1,0,0
+29-04-2020,5116,Mönchengladbach,261454,1533,DE-NW,469,35,330,1,7,2
 04-03-2020,5117,Mülheim an der Ruhr,170880,1872,DE-NW,0,,,,,
 05-03-2020,5117,Mülheim an der Ruhr,170880,1872,DE-NW,0,,,0,,
 06-03-2020,5117,Mülheim an der Ruhr,170880,1872,DE-NW,0,,,0,,
@@ -4159,7 +4159,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,5124,Wuppertal,354382,2104,DE-NW,770,46,379,0,8,0
 27-04-2020,5124,Wuppertal,354382,2104,DE-NW,770,56,397,0,18,10
 28-04-2020,5124,Wuppertal,354382,2104,DE-NW,794,59,414,24,17,3
-29-04-2020,5124,Wuppertal,354382,2104,DE-NW,801,59,414,7,0,0
+29-04-2020,5124,Wuppertal,354382,2104,DE-NW,801,62,436,7,22,3
 04-03-2020,5154,Kleve,,,DE-NW,0,,,,,
 05-03-2020,5154,Kleve,,,DE-NW,0,,,0,,
 06-03-2020,5154,Kleve,,,DE-NW,0,,,0,,
@@ -6382,7 +6382,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,5962,Märkischer Kreis,416171,393,DE-NW,498,19,313,0,21,1
 27-04-2020,5962,Märkischer Kreis,416171,393,DE-NW,517,19,317,19,4,0
 28-04-2020,5962,Märkischer Kreis,416171,393,DE-NW,529,20,319,12,2,1
-29-04-2020,5962,Märkischer Kreis,416171,393,DE-NW,537,20,319,8,0,0
+29-04-2020,5962,Märkischer Kreis,416171,393,DE-NW,537,21,329,8,10,1
 04-03-2020,5966,Olpe,,,DE-NW,0,,,,,
 05-03-2020,5966,Olpe,,,DE-NW,0,,,0,,
 06-03-2020,5966,Olpe,,,DE-NW,0,,,0,,
@@ -6781,7 +6781,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,6413,Offenbach am Main,128744,2867,DE-HE,75,6,35,0,0,1
 27-04-2020,6413,Offenbach am Main,128744,2867,DE-HE,83,6,40,8,5,0
 28-04-2020,6413,Offenbach am Main,128744,2867,DE-HE,85,6,41,2,1,0
-29-04-2020,6413,Offenbach am Main,128744,2867,DE-HE,88,6,41,3,0,0
+29-04-2020,6413,Offenbach am Main,128744,2867,DE-HE,88,7,46,3,5,1
 04-03-2020,6414,Wiesbaden,278342,1364,DE-HE,0,,,,,
 05-03-2020,6414,Wiesbaden,278342,1364,DE-HE,0,,,0,,
 06-03-2020,6414,Wiesbaden,278342,1364,DE-HE,0,,,0,,
@@ -7750,7 +7750,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,6611,Kassel,201585,1887,DE-HE,220,6,116,11,4,0
 27-04-2020,6611,Kassel,201585,1887,DE-HE,226,6,117,6,1,0
 28-04-2020,6611,Kassel,201585,1887,DE-HE,226,6,121,0,4,0
-29-04-2020,6611,Kassel,201585,1887,DE-HE,229,6,121,3,0,0
+29-04-2020,6611,Kassel,201585,1887,DE-HE,229,6,123,3,2,0
 04-03-2020,6631,Fulda,216093,156,DE-HE,0,,,,,
 05-03-2020,6631,Fulda,216093,156,DE-HE,0,,,0,,
 06-03-2020,6631,Fulda,216093,156,DE-HE,0,,,0,,
@@ -7921,7 +7921,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,6633,Kassel,234206,181,DE-HE,304,20,136,12,5,2
 27-04-2020,6633,Kassel,234206,181,DE-HE,310,20,136,6,0,0
 28-04-2020,6633,Kassel,234206,181,DE-HE,311,18,138,1,2,-2
-29-04-2020,6633,Kassel,234206,181,DE-HE,313,18,138,2,0,0
+29-04-2020,6633,Kassel,234206,181,DE-HE,313,20,145,2,7,2
 04-03-2020,6634,Schwalm-Eder-Kreis,,,DE-HE,0,,,,,
 05-03-2020,6634,Schwalm-Eder-Kreis,,,DE-HE,0,,,0,,
 06-03-2020,6634,Schwalm-Eder-Kreis,,,DE-HE,0,,,0,,
@@ -10258,7 +10258,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,8115,Böblingen,381281,617,DE-BW,1352,38,578,0,0,0
 27-04-2020,8115,Böblingen,381281,617,DE-BW,1352,40,629,0,51,2
 28-04-2020,8115,Böblingen,381281,617,DE-BW,1361,40,887,9,258,0
-29-04-2020,8115,Böblingen,381281,617,DE-BW,1367,40,887,6,0,0
+29-04-2020,8115,Böblingen,381281,617,DE-BW,1367,42,888,6,1,2
 04-03-2020,8116,Esslingen,524127,817,DE-BW,5,,,,,
 05-03-2020,8116,Esslingen,524127,817,DE-BW,5,,,0,,
 06-03-2020,8116,Esslingen,524127,817,DE-BW,13,,,8,,
@@ -10315,7 +10315,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,8116,Esslingen,524127,817,DE-BW,1683,83,1111,2,0,0
 27-04-2020,8116,Esslingen,524127,817,DE-BW,1683,84,1146,0,35,1
 28-04-2020,8116,Esslingen,524127,817,DE-BW,1697,84,1212,14,66,0
-29-04-2020,8116,Esslingen,524127,817,DE-BW,1700,84,1212,3,0,0
+29-04-2020,8116,Esslingen,524127,817,DE-BW,1700,85,1248,3,36,1
 04-03-2020,8117,Göppingen,252749,393,DE-BW,2,,,,,
 05-03-2020,8117,Göppingen,252749,393,DE-BW,2,,,0,,
 06-03-2020,8117,Göppingen,252749,393,DE-BW,2,,,0,,
@@ -10372,7 +10372,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,8117,Göppingen,252749,393,DE-BW,737,37,521,2,5,1
 27-04-2020,8117,Göppingen,252749,393,DE-BW,740,38,526,3,5,1
 28-04-2020,8117,Göppingen,252749,393,DE-BW,741,39,545,1,19,1
-29-04-2020,8117,Göppingen,252749,393,DE-BW,745,39,545,4,0,0
+29-04-2020,8117,Göppingen,252749,393,DE-BW,745,39,551,4,6,0
 04-03-2020,8118,Ludwigsburg,534074,777,DE-BW,3,,,,,
 05-03-2020,8118,Ludwigsburg,534074,777,DE-BW,3,,,0,,
 06-03-2020,8118,Ludwigsburg,534074,777,DE-BW,3,,,0,,
@@ -10942,7 +10942,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,8211,Baden-Baden,55123,393,DE-BW,175,17,125,1,0,0
 27-04-2020,8211,Baden-Baden,55123,393,DE-BW,176,17,125,1,0,0
 28-04-2020,8211,Baden-Baden,55123,393,DE-BW,177,18,127,1,2,1
-29-04-2020,8211,Baden-Baden,55123,393,DE-BW,177,18,127,0,0,0
+29-04-2020,8211,Baden-Baden,55123,393,DE-BW,177,18,131,0,4,0
 04-03-2020,8212,Karlsruhe,313092,1805,DE-BW,1,,,,,
 05-03-2020,8212,Karlsruhe,313092,1805,DE-BW,1,,,0,,
 06-03-2020,8212,Karlsruhe,313092,1805,DE-BW,1,,,0,,
@@ -11113,7 +11113,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,8216,Rastatt,227474,307,DE-BW,484,13,403,4,8,1
 27-04-2020,8216,Rastatt,227474,307,DE-BW,488,13,407,4,4,0
 28-04-2020,8216,Rastatt,227474,307,DE-BW,489,13,416,1,9,0
-29-04-2020,8216,Rastatt,227474,307,DE-BW,490,13,416,1,0,0
+29-04-2020,8216,Rastatt,227474,307,DE-BW,490,13,419,1,3,0
 04-03-2020,8221,Heidelberg,160355,1472,DE-BW,2,,,,,
 05-03-2020,8221,Heidelberg,160355,1472,DE-BW,2,,,0,,
 06-03-2020,8221,Heidelberg,160355,1472,DE-BW,2,,,0,,
@@ -11626,7 +11626,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,943,69,772,5,0,0
 27-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,946,69,772,3,0,0
 28-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,946,69,772,0,0,0
-29-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,946,69,772,0,0,0
+29-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,946,70,772,0,0,1
 04-03-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,4,,,,,
 05-03-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,4,,,0,,
 06-03-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,4,,,0,,
@@ -11683,7 +11683,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1079,51,821,18,0,1
 27-04-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1084,51,821,5,0,0
 28-04-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1085,52,821,1,0,1
-29-04-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1086,52,821,1,0,0
+29-04-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1086,55,821,1,0,3
 04-03-2020,8316,Emmendingen,157399,231,DE-BW,0,,,,,
 05-03-2020,8316,Emmendingen,157399,231,DE-BW,0,,,0,,
 06-03-2020,8316,Emmendingen,157399,231,DE-BW,1,,,1,,
@@ -13621,7 +13621,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,9184,München,343405,6,DE-BY,1225,23,1060,8,6,0
 27-04-2020,9184,München,343405,6,DE-BY,1229,23,1061,4,1,0
 28-04-2020,9184,München,343405,6,DE-BY,1233,23,1082,4,21,0
-29-04-2020,9184,München,343405,6,DE-BY,1254,23,1082,21,0,0
+29-04-2020,9184,München,343405,6,DE-BY,1254,23,1095,21,13,0
 04-03-2020,9185,Neuburg-Schrobenhausen,76493,103,DE-BY,0,,,,,
 05-03-2020,9185,Neuburg-Schrobenhausen,76493,103,DE-BY,0,,,0,,
 06-03-2020,9185,Neuburg-Schrobenhausen,76493,103,DE-BY,0,,,0,,
@@ -16642,7 +16642,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,9577,Weißenburg-Gunzenhausen,92331,95,DE-BY,322,15,127,6,0,0
 27-04-2020,9577,Weißenburg-Gunzenhausen,92331,95,DE-BY,328,16,127,6,0,1
 28-04-2020,9577,Weißenburg-Gunzenhausen,92331,95,DE-BY,329,17,136,1,9,1
-29-04-2020,9577,Weißenburg-Gunzenhausen,92331,95,DE-BY,339,17,136,10,0,0
+29-04-2020,9577,Weißenburg-Gunzenhausen,92331,95,DE-BY,339,17,142,10,6,0
 04-03-2020,9661,Aschaffenburg,70527,1129,DE-BY,0,,,,,
 05-03-2020,9661,Aschaffenburg,70527,1129,DE-BY,0,,,0,,
 06-03-2020,9661,Aschaffenburg,70527,1129,DE-BY,0,,,0,,
@@ -17098,7 +17098,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,9675,Kitzingen,79304,115,DE-BY,144,2,104,3,14,1
 27-04-2020,9675,Kitzingen,79304,115,DE-BY,144,3,105,0,1,1
 28-04-2020,9675,Kitzingen,79304,115,DE-BY,144,3,105,0,0,0
-29-04-2020,9675,Kitzingen,79304,115,DE-BY,144,3,105,0,0,0
+29-04-2020,9675,Kitzingen,79304,115,DE-BY,144,3,100,0,-5,0
 04-03-2020,9676,Miltenberg,128484,179,DE-BY,0,,,,,
 05-03-2020,9676,Miltenberg,128484,179,DE-BY,0,,,0,,
 06-03-2020,9676,Miltenberg,128484,179,DE-BY,0,,,0,,
@@ -18808,7 +18808,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,12060,Barnim,173193,116236,DE-BB,349,19,104,12,1,0
 27-04-2020,12060,Barnim,173193,116236,DE-BB,354,19,105,5,1,0
 28-04-2020,12060,Barnim,173193,116236,DE-BB,358,21,117,4,12,2
-29-04-2020,12060,Barnim,173193,116236,DE-BB,361,21,117,3,0,0
+29-04-2020,12060,Barnim,173193,116236,DE-BB,361,21,119,3,2,0
 04-03-2020,12061,Dahme-Spreewald,160314,70935,DE-BB,0,,,,,
 05-03-2020,12061,Dahme-Spreewald,160314,70935,DE-BB,0,,,0,,
 06-03-2020,12061,Dahme-Spreewald,160314,70935,DE-BB,0,,,0,,
