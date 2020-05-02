@@ -51,7 +51,8 @@ This is out of very personal interest in the numbers within my immediate vicinit
 Scrape datatable of the overview page:   
 https://www.stadt-koeln.de/leben-in-koeln/gesundheit/infektionsschutz/corona-virus/corona-virus-anzahl-der-bestaetigten-faelle-koeln
 
-There are daily updates by press releases but the tech team responsible for the chart (and datatable) obviously don't update on the weekend. **Boo!**   
+~~There are daily updates by press releases but the tech team responsible for the chart (and datatable) obviously don't update on the weekend. **Boo!**~~    
+The numbers are pdated on a daily basis.
 
 
 ### 3 - News outlets
