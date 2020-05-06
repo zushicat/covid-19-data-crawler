@@ -9,10 +9,6 @@ Additionally you might be interested in this publication by RKI where one of the
 https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/17_20_SARS-CoV2_vorab.pdf?__blob=publicationFile (in german)
 
 
-In case you're interested in infection spread models based on this data, have a look here:   
-https://github.com/zushicat/infection-modeling (right now Cologne, Germany, only)
-
-
 **TL;DR**     
 As far as I can see right now, Berliner Morgenpost (see: 5) is the most comprehensive data source incl. recovered and deceased cases for different geo levels:
 - nations (international)
