@@ -128,7 +128,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,1002,Kiel,247548,2086,DE-SH,266,9,182,1,0,0
 05-05-2020,1002,Kiel,247548,2086,DE-SH,266,9,182,0,0,0
 06-05-2020,1002,Kiel,247548,2086,DE-SH,271,9,190,5,8,0
-07-05-2020,1002,Kiel,247548,2086,DE-SH,271,9,190,0,0,0
+07-05-2020,1002,Kiel,247548,2086,DE-SH,271,9,195,0,5,0
 04-03-2020,1003,Lübeck,217198,1013,DE-SH,1,,,,,
 05-03-2020,1003,Lübeck,217198,1013,DE-SH,1,,,0,,
 06-03-2020,1003,Lübeck,217198,1013,DE-SH,1,,,0,,
@@ -583,7 +583,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,1056,Pinneberg,,,DE-SH,565,33,382,5,0,0
 05-05-2020,1056,Pinneberg,,,DE-SH,565,34,382,0,0,1
 06-05-2020,1056,Pinneberg,,,DE-SH,567,34,385,2,3,0
-07-05-2020,1056,Pinneberg,,,DE-SH,571,34,385,4,0,0
+07-05-2020,1056,Pinneberg,,,DE-SH,571,34,392,4,7,0
 04-03-2020,1057,Plön,,,DE-SH,0,,,,,
 05-03-2020,1057,Plön,,,DE-SH,0,,,0,,
 06-03-2020,1057,Plön,,,DE-SH,0,,,0,,
@@ -843,7 +843,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,1060,Segeberg,272235,202,DE-SH,226,3,201,1,0,0
 05-05-2020,1060,Segeberg,272235,202,DE-SH,229,3,201,3,0,0
 06-05-2020,1060,Segeberg,272235,202,DE-SH,234,3,202,5,1,0
-07-05-2020,1060,Segeberg,272235,202,DE-SH,239,3,202,5,0,0
+07-05-2020,1060,Segeberg,272235,202,DE-SH,239,3,206,5,4,0
 04-03-2020,1061,Steinburg,,,DE-SH,0,,,,,
 05-03-2020,1061,Steinburg,,,DE-SH,0,,,0,,
 06-03-2020,1061,Steinburg,,,DE-SH,0,,,0,,
@@ -1038,7 +1038,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,2000,Hamburg,1841179,2438,DE-HH,4834,167,3800,3,100,2
 05-05-2020,2000,Hamburg,1841179,2438,DE-HH,4843,172,3800,9,0,5
 06-05-2020,2000,Hamburg,1841179,2438,DE-HH,4855,190,3900,12,100,18
-07-05-2020,2000,Hamburg,1841179,2438,DE-HH,4881,190,3900,26,0,0
+07-05-2020,2000,Hamburg,1841179,2438,DE-HH,4881,194,4000,26,100,4
 04-03-2020,3101,Braunschweig,248292,1288,DE-NI,0,,,,,
 05-03-2020,3101,Braunschweig,248292,1288,DE-NI,0,,,0,,
 06-03-2020,3101,Braunschweig,248292,1288,DE-NI,1,,,1,,
@@ -1103,7 +1103,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3101,Braunschweig,248292,1288,DE-NI,307,13,252,1,1,0
 05-05-2020,3101,Braunschweig,248292,1288,DE-NI,307,14,252,0,0,1
 06-05-2020,3101,Braunschweig,248292,1288,DE-NI,307,14,267,0,15,0
-07-05-2020,3101,Braunschweig,248292,1288,DE-NI,308,14,267,1,0,0
+07-05-2020,3101,Braunschweig,248292,1288,DE-NI,308,14,271,1,4,0
 04-03-2020,3102,Salzgitter,104948,467,DE-NI,0,,,,,
 05-03-2020,3102,Salzgitter,104948,467,DE-NI,0,,,0,,
 06-03-2020,3102,Salzgitter,104948,467,DE-NI,0,,,0,,
@@ -1168,7 +1168,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3102,Salzgitter,104948,467,DE-NI,131,6,98,0,8,0
 05-05-2020,3102,Salzgitter,104948,467,DE-NI,131,6,98,0,0,0
 06-05-2020,3102,Salzgitter,104948,467,DE-NI,131,6,105,0,7,0
-07-05-2020,3102,Salzgitter,104948,467,DE-NI,132,6,105,1,0,0
+07-05-2020,3102,Salzgitter,104948,467,DE-NI,132,6,106,1,1,0
 04-03-2020,3103,Wolfsburg,124151,606,DE-NI,0,,,,,
 05-03-2020,3103,Wolfsburg,124151,606,DE-NI,0,,,0,,
 06-03-2020,3103,Wolfsburg,124151,606,DE-NI,0,,,0,,
@@ -1233,7 +1233,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3103,Wolfsburg,124151,606,DE-NI,285,51,216,1,30,0
 05-05-2020,3103,Wolfsburg,124151,606,DE-NI,285,51,216,0,0,0
 06-05-2020,3103,Wolfsburg,124151,606,DE-NI,285,51,216,0,0,0
-07-05-2020,3103,Wolfsburg,124151,606,DE-NI,286,51,216,1,0,0
+07-05-2020,3103,Wolfsburg,124151,606,DE-NI,286,51,223,1,7,0
 04-03-2020,3151,Gifhorn,174749,111,DE-NI,0,,,,,
 05-03-2020,3151,Gifhorn,174749,111,DE-NI,0,,,0,,
 06-03-2020,3151,Gifhorn,174749,111,DE-NI,0,,,0,,
@@ -1363,7 +1363,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3153,Goslar,137979,142,DE-NI,218,14,115,4,0,1
 05-05-2020,3153,Goslar,137979,142,DE-NI,218,15,115,0,0,1
 06-05-2020,3153,Goslar,137979,142,DE-NI,221,15,128,3,13,0
-07-05-2020,3153,Goslar,137979,142,DE-NI,223,15,128,2,0,0
+07-05-2020,3153,Goslar,137979,142,DE-NI,223,16,133,2,5,1
 04-03-2020,3154,Helmstedt,92079,136,DE-NI,0,,,,,
 05-03-2020,3154,Helmstedt,92079,136,DE-NI,0,,,0,,
 06-03-2020,3154,Helmstedt,92079,136,DE-NI,0,,,0,,
@@ -1428,7 +1428,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3154,Helmstedt,92079,136,DE-NI,138,2,120,0,1,0
 05-05-2020,3154,Helmstedt,92079,136,DE-NI,138,1,120,0,0,-1
 06-05-2020,3154,Helmstedt,92079,136,DE-NI,137,1,125,-1,5,0
-07-05-2020,3154,Helmstedt,92079,136,DE-NI,137,1,125,0,0,0
+07-05-2020,3154,Helmstedt,92079,136,DE-NI,137,1,131,0,6,0
 04-03-2020,3155,Northeim,133610,105,DE-NI,0,,,,,
 05-03-2020,3155,Northeim,133610,105,DE-NI,0,,,0,,
 06-03-2020,3155,Northeim,133610,105,DE-NI,0,,,0,,
@@ -1623,7 +1623,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3158,Wolfenbüttel,120904,167,DE-NI,177,10,127,0,0,0
 05-05-2020,3158,Wolfenbüttel,120904,167,DE-NI,177,10,127,0,0,0
 06-05-2020,3158,Wolfenbüttel,120904,167,DE-NI,177,10,134,0,7,0
-07-05-2020,3158,Wolfenbüttel,120904,167,DE-NI,177,10,134,0,0,0
+07-05-2020,3158,Wolfenbüttel,120904,167,DE-NI,177,10,139,0,5,0
 04-03-2020,3159,Göttingen,327065,292,DE-NI,0,,,,,
 05-03-2020,3159,Göttingen,327065,292,DE-NI,0,,,0,,
 06-03-2020,3159,Göttingen,327065,292,DE-NI,0,,,0,,
@@ -1688,7 +1688,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3159,Göttingen,327065,292,DE-NI,802,61,558,0,1,0
 05-05-2020,3159,Göttingen,327065,292,DE-NI,802,62,558,0,0,1
 06-05-2020,3159,Göttingen,327065,292,DE-NI,802,65,590,0,32,3
-07-05-2020,3159,Göttingen,327065,292,DE-NI,807,65,590,5,0,0
+07-05-2020,3159,Göttingen,327065,292,DE-NI,807,66,599,5,9,1
 04-03-2020,3241,Region Hannover,1149594,501,DE-NI,2,,,,,
 05-03-2020,3241,Region Hannover,1149594,501,DE-NI,2,,,0,,
 06-03-2020,3241,Region Hannover,1149594,501,DE-NI,3,,,1,,
@@ -1753,7 +1753,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3241,Region Hannover,1149594,501,DE-NI,1989,75,1097,10,48,0
 05-05-2020,3241,Region Hannover,1149594,501,DE-NI,1989,76,1097,0,0,1
 06-05-2020,3241,Region Hannover,1149594,501,DE-NI,2004,80,1156,15,59,4
-07-05-2020,3241,Region Hannover,1149594,501,DE-NI,2019,80,1156,15,0,0
+07-05-2020,3241,Region Hannover,1149594,501,DE-NI,2019,81,1198,15,42,1
 04-03-2020,3251,Diepholz,215082,108,DE-NI,0,,,,,
 05-03-2020,3251,Diepholz,215082,108,DE-NI,0,,,0,,
 06-03-2020,3251,Diepholz,215082,108,DE-NI,0,,,0,,
@@ -1818,7 +1818,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3251,Diepholz,215082,108,DE-NI,349,23,280,0,10,0
 05-05-2020,3251,Diepholz,215082,108,DE-NI,352,23,280,3,0,0
 06-05-2020,3251,Diepholz,215082,108,DE-NI,354,23,283,2,3,0
-07-05-2020,3251,Diepholz,215082,108,DE-NI,357,23,283,3,0,0
+07-05-2020,3251,Diepholz,215082,108,DE-NI,357,23,288,3,5,0
 04-03-2020,3252,Hameln-Pyrmont,148265,186,DE-NI,0,,,,,
 05-03-2020,3252,Hameln-Pyrmont,148265,186,DE-NI,0,,,0,,
 06-03-2020,3252,Hameln-Pyrmont,148265,186,DE-NI,0,,,0,,
@@ -1883,7 +1883,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3252,Hameln-Pyrmont,148265,186,DE-NI,130,10,104,0,10,0
 05-05-2020,3252,Hameln-Pyrmont,148265,186,DE-NI,132,10,104,2,0,0
 06-05-2020,3252,Hameln-Pyrmont,148265,186,DE-NI,132,10,107,0,3,0
-07-05-2020,3252,Hameln-Pyrmont,148265,186,DE-NI,132,10,107,0,0,0
+07-05-2020,3252,Hameln-Pyrmont,148265,186,DE-NI,132,10,109,0,2,0
 04-03-2020,3254,Hildesheim,277300,229,DE-NI,0,,,,,
 05-03-2020,3254,Hildesheim,277300,229,DE-NI,0,,,0,,
 06-03-2020,3254,Hildesheim,277300,229,DE-NI,0,,,0,,
@@ -2013,7 +2013,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3255,Holzminden,71510,103,DE-NI,104,6,78,0,0,0
 05-05-2020,3255,Holzminden,71510,103,DE-NI,104,6,78,0,0,0
 06-05-2020,3255,Holzminden,71510,103,DE-NI,103,6,90,-1,12,0
-07-05-2020,3255,Holzminden,71510,103,DE-NI,103,6,90,0,0,0
+07-05-2020,3255,Holzminden,71510,103,DE-NI,103,6,94,0,4,0
 04-03-2020,3256,Nienburg (Weser),121503,86,DE-NI,0,,,,,
 05-03-2020,3256,Nienburg (Weser),121503,86,DE-NI,0,,,0,,
 06-03-2020,3256,Nienburg (Weser),121503,86,DE-NI,0,,,0,,
@@ -2143,7 +2143,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3257,Schaumburg,157616,233,DE-NI,150,6,132,0,0,0
 05-05-2020,3257,Schaumburg,157616,233,DE-NI,150,6,132,0,0,0
 06-05-2020,3257,Schaumburg,157616,233,DE-NI,152,6,135,2,3,0
-07-05-2020,3257,Schaumburg,157616,233,DE-NI,153,6,135,1,0,0
+07-05-2020,3257,Schaumburg,157616,233,DE-NI,153,6,136,1,1,0
 04-03-2020,3351,Celle,178370,114,DE-NI,0,,,,,
 05-03-2020,3351,Celle,178370,114,DE-NI,0,,,0,,
 06-03-2020,3351,Celle,178370,114,DE-NI,3,,,3,,
@@ -2208,7 +2208,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3351,Celle,178370,114,DE-NI,187,12,147,0,5,1
 05-05-2020,3351,Celle,178370,114,DE-NI,188,12,147,1,0,0
 06-05-2020,3351,Celle,178370,114,DE-NI,188,12,152,0,5,0
-07-05-2020,3351,Celle,178370,114,DE-NI,192,12,152,4,0,0
+07-05-2020,3351,Celle,178370,114,DE-NI,192,12,155,4,3,0
 04-03-2020,3352,Cuxhaven,198670,96,DE-NI,1,,,,,
 05-03-2020,3352,Cuxhaven,198670,96,DE-NI,1,,,0,,
 06-03-2020,3352,Cuxhaven,198670,96,DE-NI,1,,,0,,
@@ -2273,7 +2273,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3352,Cuxhaven,198670,96,DE-NI,117,7,75,1,2,0
 05-05-2020,3352,Cuxhaven,198670,96,DE-NI,117,7,75,0,0,0
 06-05-2020,3352,Cuxhaven,198670,96,DE-NI,119,7,83,2,8,0
-07-05-2020,3352,Cuxhaven,198670,96,DE-NI,134,7,83,15,0,0
+07-05-2020,3352,Cuxhaven,198670,96,DE-NI,134,8,83,15,0,1
 04-03-2020,3353,Harburg,,,DE-NI,0,,,,,
 05-03-2020,3353,Harburg,,,DE-NI,0,,,0,,
 06-03-2020,3353,Harburg,,,DE-NI,0,,,0,,
@@ -2338,7 +2338,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3353,Harburg,,,DE-NI,504,9,353,1,30,0
 05-05-2020,3353,Harburg,,,DE-NI,504,10,353,0,0,1
 06-05-2020,3353,Harburg,,,DE-NI,505,10,368,1,15,0
-07-05-2020,3353,Harburg,,,DE-NI,508,10,368,3,0,0
+07-05-2020,3353,Harburg,,,DE-NI,508,10,388,3,20,0
 04-03-2020,3354,Lüchow-Dannenberg,48825,40,DE-NI,0,,,,,
 05-03-2020,3354,Lüchow-Dannenberg,48825,40,DE-NI,0,,,0,,
 06-03-2020,3354,Lüchow-Dannenberg,48825,40,DE-NI,0,,,0,,
@@ -2598,7 +2598,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3357,Rotenburg (Wümme),,,DE-NI,105,1,92,2,0,0
 05-05-2020,3357,Rotenburg (Wümme),,,DE-NI,105,1,92,0,0,0
 06-05-2020,3357,Rotenburg (Wümme),,,DE-NI,105,1,94,0,2,0
-07-05-2020,3357,Rotenburg (Wümme),,,DE-NI,105,1,94,0,0,0
+07-05-2020,3357,Rotenburg (Wümme),,,DE-NI,105,1,95,0,1,0
 04-03-2020,3358,Heidekreis,139641,74,DE-NI,0,,,,,
 05-03-2020,3358,Heidekreis,139641,74,DE-NI,0,,,0,,
 06-03-2020,3358,Heidekreis,139641,74,DE-NI,0,,,0,,
@@ -2663,7 +2663,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3358,Heidekreis,139641,74,DE-NI,69,2,60,0,0,0
 05-05-2020,3358,Heidekreis,139641,74,DE-NI,70,2,60,1,0,0
 06-05-2020,3358,Heidekreis,139641,74,DE-NI,70,2,62,0,2,0
-07-05-2020,3358,Heidekreis,139641,74,DE-NI,71,2,62,1,0,0
+07-05-2020,3358,Heidekreis,139641,74,DE-NI,71,2,63,1,1,0
 04-03-2020,3359,Stade,201638,159,DE-NI,0,,,,,
 05-03-2020,3359,Stade,201638,159,DE-NI,0,,,0,,
 06-03-2020,3359,Stade,201638,159,DE-NI,1,,,1,,
@@ -2728,7 +2728,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3359,Stade,201638,159,DE-NI,190,6,170,0,1,0
 05-05-2020,3359,Stade,201638,159,DE-NI,190,6,170,0,0,0
 06-05-2020,3359,Stade,201638,159,DE-NI,190,6,173,0,3,0
-07-05-2020,3359,Stade,201638,159,DE-NI,191,6,173,1,0,0
+07-05-2020,3359,Stade,201638,159,DE-NI,191,6,175,1,2,0
 04-03-2020,3360,Uelzen,92961,63,DE-NI,0,,,,,
 05-03-2020,3360,Uelzen,92961,63,DE-NI,0,,,0,,
 06-03-2020,3360,Uelzen,92961,63,DE-NI,0,,,0,,
@@ -2923,7 +2923,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3401,Delmenhorst,77607,1242,DE-NI,46,2,36,0,1,0
 05-05-2020,3401,Delmenhorst,77607,1242,DE-NI,46,2,36,0,0,0
 06-05-2020,3401,Delmenhorst,77607,1242,DE-NI,48,2,36,2,0,0
-07-05-2020,3401,Delmenhorst,77607,1242,DE-NI,48,2,36,0,0,0
+07-05-2020,3401,Delmenhorst,77607,1242,DE-NI,48,2,38,0,2,0
 04-03-2020,3402,Emden,50195,446,DE-NI,0,,,,,
 05-03-2020,3402,Emden,50195,446,DE-NI,0,,,0,,
 06-03-2020,3402,Emden,50195,446,DE-NI,0,,,0,,
@@ -3105,14 +3105,14 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 21-04-2020,3404,Osnabrück,164748,1375,DE-NI,446,10,366,9,7,0
 22-04-2020,3404,Osnabrück,164748,1375,DE-NI,447,10,373,1,7,0
 23-04-2020,3404,Osnabrück,164748,1375,DE-NI,450,13,379,3,6,3
-24-04-2020,3404,Osnabrück,164748,1375,DE-NI,453,16,385,3,6,3
-25-04-2020,3404,Osnabrück,164748,1375,DE-NI,454,16,392,1,7,0
-26-04-2020,3404,Osnabrück,164748,1375,DE-NI,458,16,376,4,-16,0
-27-04-2020,3404,Osnabrück,164748,1375,DE-NI,458,16,379,0,3,0
-28-04-2020,3404,Osnabrück,164748,1375,DE-NI,458,16,408,0,29,0
-29-04-2020,3404,Osnabrück,164748,1375,DE-NI,457,16,408,-1,0,0
-30-04-2020,3404,Osnabrück,164748,1375,DE-NI,458,16,415,1,7,0
-01-05-2020,3404,Osnabrück,164748,1375,DE-NI,458,14,415,0,0,-2
+24-04-2020,3404,Osnabrück,164748,1375,DE-NI,453,14,385,3,6,1
+25-04-2020,3404,Osnabrück,164748,1375,DE-NI,454,14,392,1,7,0
+26-04-2020,3404,Osnabrück,164748,1375,DE-NI,458,14,376,4,-16,0
+27-04-2020,3404,Osnabrück,164748,1375,DE-NI,458,14,379,0,3,0
+28-04-2020,3404,Osnabrück,164748,1375,DE-NI,458,14,408,0,29,0
+29-04-2020,3404,Osnabrück,164748,1375,DE-NI,457,14,408,-1,0,0
+30-04-2020,3404,Osnabrück,164748,1375,DE-NI,458,14,415,1,7,0
+01-05-2020,3404,Osnabrück,164748,1375,DE-NI,458,14,415,0,0,0
 02-05-2020,3404,Osnabrück,164748,1375,DE-NI,460,14,415,2,0,0
 03-05-2020,3404,Osnabrück,164748,1375,DE-NI,461,14,415,1,0,0
 04-05-2020,3404,Osnabrück,164748,1375,DE-NI,465,14,415,4,0,0
@@ -3313,7 +3313,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3452,Aurich,190066,147,DE-NI,101,6,83,1,4,0
 05-05-2020,3452,Aurich,190066,147,DE-NI,100,6,83,-1,0,0
 06-05-2020,3452,Aurich,190066,147,DE-NI,100,6,83,0,0,0
-07-05-2020,3452,Aurich,190066,147,DE-NI,100,6,83,0,0,0
+07-05-2020,3452,Aurich,190066,147,DE-NI,100,6,87,0,4,0
 04-03-2020,3453,Cloppenburg,165930,117,DE-NI,0,,,,,
 05-03-2020,3453,Cloppenburg,165930,117,DE-NI,0,,,0,,
 06-03-2020,3453,Cloppenburg,165930,117,DE-NI,0,,,0,,
@@ -3443,7 +3443,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3454,Emsland,321391,111,DE-NI,408,19,327,11,4,0
 05-05-2020,3454,Emsland,321391,111,DE-NI,408,19,327,0,0,0
 06-05-2020,3454,Emsland,321391,111,DE-NI,410,19,336,2,9,0
-07-05-2020,3454,Emsland,321391,111,DE-NI,417,19,336,7,0,0
+07-05-2020,3454,Emsland,321391,111,DE-NI,417,21,344,7,8,2
 04-03-2020,3455,Friesland,97900,161,DE-NI,0,,,,,
 05-03-2020,3455,Friesland,97900,161,DE-NI,0,,,0,,
 06-03-2020,3455,Friesland,97900,161,DE-NI,0,,,0,,
@@ -3768,7 +3768,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,3459,Osnabrück,354807,167,DE-NI,958,53,756,12,0,1
 05-05-2020,3459,Osnabrück,354807,167,DE-NI,962,53,756,4,0,0
 06-05-2020,3459,Osnabrück,354807,167,DE-NI,971,53,791,9,35,0
-07-05-2020,3459,Osnabrück,354807,167,DE-NI,976,53,791,5,0,0
+07-05-2020,3459,Osnabrück,354807,167,DE-NI,976,54,791,5,0,1
 04-03-2020,3460,Vechta,139671,171,DE-NI,0,,,,,
 05-03-2020,3460,Vechta,139671,171,DE-NI,0,,,0,,
 06-03-2020,3460,Vechta,139671,171,DE-NI,0,,,0,,
@@ -4028,7 +4028,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,4011,Bremen,569352,1745,DE-HB,837,30,474,17,62,0
 05-05-2020,4011,Bremen,569352,1745,DE-HB,838,30,474,1,0,0
 06-05-2020,4011,Bremen,569352,1745,DE-HB,854,30,431,16,-43,0
-07-05-2020,4011,Bremen,569352,1745,DE-HB,895,30,431,41,0,0
+07-05-2020,4011,Bremen,569352,1745,DE-HB,895,30,536,41,105,0
 04-03-2020,4012,Bremerhaven,113634,1213,DE-HB,0,,,,,
 05-03-2020,4012,Bremerhaven,113634,1213,DE-HB,0,,,0,,
 06-03-2020,4012,Bremerhaven,113634,1213,DE-HB,0,,,0,,
@@ -4158,7 +4158,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5111,Düsseldorf,619294,2848,DE-NW,1089,24,885,15,7,0
 05-05-2020,5111,Düsseldorf,619294,2848,DE-NW,1089,24,885,0,0,0
 06-05-2020,5111,Düsseldorf,619294,2848,DE-NW,1113,25,943,24,58,1
-07-05-2020,5111,Düsseldorf,619294,2848,DE-NW,1147,25,943,34,0,0
+07-05-2020,5111,Düsseldorf,619294,2848,DE-NW,1147,26,924,34,-19,1
 04-03-2020,5112,Duisburg,498590,2141,DE-NW,3,,,,,
 05-03-2020,5112,Duisburg,498590,2141,DE-NW,3,,,0,,
 06-03-2020,5112,Duisburg,498590,2141,DE-NW,3,,,0,,
@@ -4223,7 +4223,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5112,Duisburg,498590,2141,DE-NW,896,27,683,18,29,4
 05-05-2020,5112,Duisburg,498590,2141,DE-NW,907,30,683,11,0,3
 06-05-2020,5112,Duisburg,498590,2141,DE-NW,910,30,715,3,32,0
-07-05-2020,5112,Duisburg,498590,2141,DE-NW,925,30,715,15,0,0
+07-05-2020,5112,Duisburg,498590,2141,DE-NW,925,31,732,15,17,1
 04-03-2020,5113,Essen,583109,2772,DE-NW,2,,,,,
 05-03-2020,5113,Essen,583109,2772,DE-NW,2,,,0,,
 06-03-2020,5113,Essen,583109,2772,DE-NW,5,,,3,,
@@ -4285,9 +4285,9 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 01-05-2020,5113,Essen,583109,2772,DE-NW,741,33,573,5,14,0
 02-05-2020,5113,Essen,583109,2772,DE-NW,751,33,573,10,0,0
 03-05-2020,5113,Essen,583109,2772,DE-NW,752,33,573,1,0,0
-04-05-2020,5113,Essen,583109,2772,DE-NW,756,35,584,4,11,2
-05-05-2020,5113,Essen,583109,2772,DE-NW,757,35,584,1,0,0
-06-05-2020,5113,Essen,583109,2772,DE-NW,761,34,620,4,36,-1
+04-05-2020,5113,Essen,583109,2772,DE-NW,756,34,584,4,11,1
+05-05-2020,5113,Essen,583109,2772,DE-NW,757,34,584,1,0,0
+06-05-2020,5113,Essen,583109,2772,DE-NW,761,34,620,4,36,0
 07-05-2020,5113,Essen,583109,2772,DE-NW,772,34,620,11,0,0
 04-03-2020,5114,Krefeld,227020,1647,DE-NW,0,,,,,
 05-03-2020,5114,Krefeld,227020,1647,DE-NW,0,,,0,,
@@ -4353,7 +4353,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5114,Krefeld,227020,1647,DE-NW,526,21,389,6,2,0
 05-05-2020,5114,Krefeld,227020,1647,DE-NW,527,21,389,1,0,0
 06-05-2020,5114,Krefeld,227020,1647,DE-NW,527,21,405,0,16,0
-07-05-2020,5114,Krefeld,227020,1647,DE-NW,531,21,405,4,0,0
+07-05-2020,5114,Krefeld,227020,1647,DE-NW,531,21,415,4,10,0
 04-03-2020,5116,Mönchengladbach,261454,1533,DE-NW,3,,,,,
 05-03-2020,5116,Mönchengladbach,261454,1533,DE-NW,3,,,0,,
 06-03-2020,5116,Mönchengladbach,261454,1533,DE-NW,3,,,0,,
@@ -4418,7 +4418,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5116,Mönchengladbach,261454,1533,DE-NW,498,36,345,2,0,0
 05-05-2020,5116,Mönchengladbach,261454,1533,DE-NW,500,36,347,2,2,0
 06-05-2020,5116,Mönchengladbach,261454,1533,DE-NW,501,36,369,1,22,0
-07-05-2020,5116,Mönchengladbach,261454,1533,DE-NW,506,36,369,5,0,0
+07-05-2020,5116,Mönchengladbach,261454,1533,DE-NW,506,36,375,5,6,0
 04-03-2020,5117,Mülheim an der Ruhr,170880,1872,DE-NW,0,,,,,
 05-03-2020,5117,Mülheim an der Ruhr,170880,1872,DE-NW,0,,,0,,
 06-03-2020,5117,Mülheim an der Ruhr,170880,1872,DE-NW,0,,,0,,
@@ -4548,7 +4548,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5119,Oberhausen,210829,2734,DE-NW,233,1,157,19,0,0
 05-05-2020,5119,Oberhausen,210829,2734,DE-NW,226,1,157,-7,0,0
 06-05-2020,5119,Oberhausen,210829,2734,DE-NW,226,2,169,0,12,1
-07-05-2020,5119,Oberhausen,210829,2734,DE-NW,227,2,169,1,0,0
+07-05-2020,5119,Oberhausen,210829,2734,DE-NW,227,3,170,1,1,1
 04-03-2020,5120,Remscheid,110994,1489,DE-NW,0,,,,,
 05-03-2020,5120,Remscheid,110994,1489,DE-NW,0,,,0,,
 06-03-2020,5120,Remscheid,110994,1489,DE-NW,0,,,0,,
@@ -4933,8 +4933,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 29-04-2020,5162,Rhein-Kreis Neuss,,,DE-NW,588,17,508,7,7,0
 30-04-2020,5162,Rhein-Kreis Neuss,,,DE-NW,598,18,510,10,2,1
 01-05-2020,5162,Rhein-Kreis Neuss,,,DE-NW,604,18,510,6,0,0
-02-05-2020,5162,Rhein-Kreis Neuss,,,DE-NW,604,20,515,0,5,2
-03-05-2020,5162,Rhein-Kreis Neuss,,,DE-NW,607,18,522,3,7,-2
+02-05-2020,5162,Rhein-Kreis Neuss,,,DE-NW,604,18,515,0,5,0
+03-05-2020,5162,Rhein-Kreis Neuss,,,DE-NW,607,18,522,3,7,0
 04-05-2020,5162,Rhein-Kreis Neuss,,,DE-NW,623,18,522,16,0,0
 05-05-2020,5162,Rhein-Kreis Neuss,,,DE-NW,625,18,523,2,1,0
 06-05-2020,5162,Rhein-Kreis Neuss,,,DE-NW,626,18,529,1,6,0
@@ -5068,7 +5068,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5170,Wesel,,,DE-NW,536,24,378,0,0,0
 05-05-2020,5170,Wesel,,,DE-NW,541,25,378,5,0,1
 06-05-2020,5170,Wesel,,,DE-NW,545,25,402,4,24,0
-07-05-2020,5170,Wesel,,,DE-NW,548,25,402,3,0,0
+07-05-2020,5170,Wesel,,,DE-NW,548,25,416,3,14,0
 04-03-2020,5314,Bonn,327258,2319,DE-NW,1,,,,,
 05-03-2020,5314,Bonn,327258,2319,DE-NW,1,,,0,,
 06-03-2020,5314,Bonn,327258,2319,DE-NW,1,,,0,,
@@ -5133,7 +5133,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5314,Bonn,327258,2319,DE-NW,666,6,482,0,2,0
 05-05-2020,5314,Bonn,327258,2319,DE-NW,667,6,482,1,0,0
 06-05-2020,5314,Bonn,327258,2319,DE-NW,671,6,495,4,13,0
-07-05-2020,5314,Bonn,327258,2319,DE-NW,674,6,495,3,0,0
+07-05-2020,5314,Bonn,327258,2319,DE-NW,674,6,509,3,14,0
 04-03-2020,5315,Köln,1085664,2680,DE-NW,12,,,,,
 05-03-2020,5315,Köln,1085664,2680,DE-NW,12,,,0,,
 06-03-2020,5315,Köln,1085664,2680,DE-NW,15,,,3,,
@@ -5198,7 +5198,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5315,Köln,1085664,2680,DE-NW,2325,92,2108,3,10,0
 05-05-2020,5315,Köln,1085664,2680,DE-NW,2330,93,2108,5,0,1
 06-05-2020,5315,Köln,1085664,2680,DE-NW,2338,93,2150,8,42,0
-07-05-2020,5315,Köln,1085664,2680,DE-NW,2352,93,2150,14,0,0
+07-05-2020,5315,Köln,1085664,2680,DE-NW,2352,94,2163,14,13,1
 04-03-2020,5316,Leverkusen,163838,2077,DE-NW,0,,,,,
 05-03-2020,5316,Leverkusen,163838,2077,DE-NW,0,,,0,,
 06-03-2020,5316,Leverkusen,163838,2077,DE-NW,0,,,0,,
@@ -5328,7 +5328,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5334,Städteregion Aachen,545067,770,DE-NW,1881,83,1598,-10,7,0
 05-05-2020,5334,Städteregion Aachen,545067,770,DE-NW,1885,84,1598,4,0,1
 06-05-2020,5334,Städteregion Aachen,545067,770,DE-NW,1890,84,1664,5,66,0
-07-05-2020,5334,Städteregion Aachen,545067,770,DE-NW,1895,84,1664,5,0,0
+07-05-2020,5334,Städteregion Aachen,545067,770,DE-NW,1895,85,1682,5,18,1
 04-03-2020,5358,Düren,,,DE-NW,2,,,,,
 05-03-2020,5358,Düren,,,DE-NW,2,,,0,,
 06-03-2020,5358,Düren,,,DE-NW,4,,,2,,
@@ -5385,8 +5385,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,5358,Düren,,,DE-NW,546,26,391,4,7,1
 27-04-2020,5358,Düren,,,DE-NW,550,28,397,4,6,2
 28-04-2020,5358,Düren,,,DE-NW,549,28,409,-1,12,0
-29-04-2020,5358,Düren,,,DE-NW,551,27,423,2,14,-1
-30-04-2020,5358,Düren,,,DE-NW,557,28,441,6,18,1
+29-04-2020,5358,Düren,,,DE-NW,551,28,423,2,14,0
+30-04-2020,5358,Düren,,,DE-NW,557,28,441,6,18,0
 01-05-2020,5358,Düren,,,DE-NW,560,28,446,3,5,0
 02-05-2020,5358,Düren,,,DE-NW,564,28,452,4,6,0
 03-05-2020,5358,Düren,,,DE-NW,566,28,453,2,1,0
@@ -5458,7 +5458,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5362,Rhein-Erft-Kreis,,,DE-NW,996,58,730,6,43,1
 05-05-2020,5362,Rhein-Erft-Kreis,,,DE-NW,1001,58,730,5,0,0
 06-05-2020,5362,Rhein-Erft-Kreis,,,DE-NW,1012,58,796,11,66,0
-07-05-2020,5362,Rhein-Erft-Kreis,,,DE-NW,1020,58,796,8,0,0
+07-05-2020,5362,Rhein-Erft-Kreis,,,DE-NW,1020,62,828,8,32,4
 04-03-2020,5366,Euskirchen,,,DE-NW,0,,,,,
 05-03-2020,5366,Euskirchen,,,DE-NW,0,,,0,,
 06-03-2020,5366,Euskirchen,,,DE-NW,0,,,0,,
@@ -5523,7 +5523,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5366,Euskirchen,,,DE-NW,370,15,255,10,6,0
 05-05-2020,5366,Euskirchen,,,DE-NW,377,17,255,7,0,2
 06-05-2020,5366,Euskirchen,,,DE-NW,381,17,262,4,7,0
-07-05-2020,5366,Euskirchen,,,DE-NW,397,17,262,16,0,0
+07-05-2020,5366,Euskirchen,,,DE-NW,397,18,274,16,12,1
 04-03-2020,5370,Heinsberg,,,DE-NW,114,,,,,
 05-03-2020,5370,Heinsberg,,,DE-NW,114,,,0,,
 06-03-2020,5370,Heinsberg,,,DE-NW,197,,,83,,
@@ -5579,8 +5579,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 25-04-2020,5370,Heinsberg,,,DE-NW,1718,64,1407,0,0,0
 26-04-2020,5370,Heinsberg,,,DE-NW,1718,64,1407,0,0,0
 27-04-2020,5370,Heinsberg,,,DE-NW,1733,66,1434,15,27,2
-28-04-2020,5370,Heinsberg,,,DE-NW,1739,67,1446,6,12,1
-29-04-2020,5370,Heinsberg,,,DE-NW,1743,66,1482,4,36,-1
+28-04-2020,5370,Heinsberg,,,DE-NW,1739,66,1446,6,12,0
+29-04-2020,5370,Heinsberg,,,DE-NW,1743,66,1482,4,36,0
 30-04-2020,5370,Heinsberg,,,DE-NW,1743,66,1549,0,67,0
 01-05-2020,5370,Heinsberg,,,DE-NW,1752,66,1549,9,0,0
 02-05-2020,5370,Heinsberg,,,DE-NW,1752,66,1549,0,0,0
@@ -5913,7 +5913,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5513,Gelsenkirchen,260654,2483,DE-NW,349,11,235,1,0,0
 05-05-2020,5513,Gelsenkirchen,260654,2483,DE-NW,352,11,235,3,0,0
 06-05-2020,5513,Gelsenkirchen,260654,2483,DE-NW,355,11,246,3,11,0
-07-05-2020,5513,Gelsenkirchen,260654,2483,DE-NW,355,11,246,0,0,0
+07-05-2020,5513,Gelsenkirchen,260654,2483,DE-NW,355,11,254,0,8,0
 04-03-2020,5515,Münster,314319,1036,DE-NW,2,,,,,
 05-03-2020,5515,Münster,314319,1036,DE-NW,2,,,0,,
 06-03-2020,5515,Münster,314319,1036,DE-NW,4,,,2,,
@@ -6043,7 +6043,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5554,Borken,,,DE-NW,890,37,745,4,1,0
 05-05-2020,5554,Borken,,,DE-NW,891,37,745,1,0,0
 06-05-2020,5554,Borken,,,DE-NW,895,37,762,4,17,0
-07-05-2020,5554,Borken,,,DE-NW,900,37,762,5,0,0
+07-05-2020,5554,Borken,,,DE-NW,900,37,777,5,15,0
 04-03-2020,5558,Coesfeld,,,DE-NW,1,,,,,
 05-03-2020,5558,Coesfeld,,,DE-NW,1,,,0,,
 06-03-2020,5558,Coesfeld,,,DE-NW,13,,,12,,
@@ -6103,12 +6103,12 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 29-04-2020,5558,Coesfeld,,,DE-NW,504,22,423,4,8,0
 30-04-2020,5558,Coesfeld,,,DE-NW,505,22,423,1,0,0
 01-05-2020,5558,Coesfeld,,,DE-NW,515,22,424,10,1,0
-02-05-2020,5558,Coesfeld,,,DE-NW,518,20,424,3,0,-2
-03-05-2020,5558,Coesfeld,,,DE-NW,528,20,424,10,0,0
-04-05-2020,5558,Coesfeld,,,DE-NW,530,23,426,2,2,3
+02-05-2020,5558,Coesfeld,,,DE-NW,518,22,424,3,0,0
+03-05-2020,5558,Coesfeld,,,DE-NW,528,22,424,10,0,0
+04-05-2020,5558,Coesfeld,,,DE-NW,530,23,426,2,2,1
 05-05-2020,5558,Coesfeld,,,DE-NW,581,23,426,51,0,0
 06-05-2020,5558,Coesfeld,,,DE-NW,590,23,442,9,16,0
-07-05-2020,5558,Coesfeld,,,DE-NW,624,23,442,34,0,0
+07-05-2020,5558,Coesfeld,,,DE-NW,624,23,450,34,8,0
 04-03-2020,5562,Recklinghausen,,,DE-NW,0,,,,,
 05-03-2020,5562,Recklinghausen,,,DE-NW,0,,,0,,
 06-03-2020,5562,Recklinghausen,,,DE-NW,1,,,1,,
@@ -6173,7 +6173,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5562,Recklinghausen,,,DE-NW,1071,26,834,7,0,0
 05-05-2020,5562,Recklinghausen,,,DE-NW,1090,27,853,19,19,1
 06-05-2020,5562,Recklinghausen,,,DE-NW,1100,28,894,10,41,1
-07-05-2020,5562,Recklinghausen,,,DE-NW,1111,28,894,11,0,0
+07-05-2020,5562,Recklinghausen,,,DE-NW,1111,28,905,11,11,0
 04-03-2020,5566,Steinfurt,,,DE-NW,0,,,,,
 05-03-2020,5566,Steinfurt,,,DE-NW,0,,,0,,
 06-03-2020,5566,Steinfurt,,,DE-NW,0,,,0,,
@@ -6230,15 +6230,15 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 26-04-2020,5566,Steinfurt,,,DE-NW,1179,57,797,9,16,0
 27-04-2020,5566,Steinfurt,,,DE-NW,1191,57,845,12,48,0
 28-04-2020,5566,Steinfurt,,,DE-NW,1202,59,856,11,11,2
-29-04-2020,5566,Steinfurt,,,DE-NW,1202,62,890,0,34,3
-30-04-2020,5566,Steinfurt,,,DE-NW,1217,61,911,15,21,-1
+29-04-2020,5566,Steinfurt,,,DE-NW,1202,61,890,0,34,2
+30-04-2020,5566,Steinfurt,,,DE-NW,1217,61,911,15,21,0
 01-05-2020,5566,Steinfurt,,,DE-NW,1215,61,921,-2,10,0
 02-05-2020,5566,Steinfurt,,,DE-NW,1231,63,941,16,20,2
 03-05-2020,5566,Steinfurt,,,DE-NW,1234,64,953,3,12,1
 04-05-2020,5566,Steinfurt,,,DE-NW,1240,64,953,6,0,0
 05-05-2020,5566,Steinfurt,,,DE-NW,1240,70,979,0,26,6
 06-05-2020,5566,Steinfurt,,,DE-NW,1249,70,1012,9,33,0
-07-05-2020,5566,Steinfurt,,,DE-NW,1258,70,1012,9,0,0
+07-05-2020,5566,Steinfurt,,,DE-NW,1258,71,1028,9,16,1
 04-03-2020,5570,Warendorf,,,DE-NW,0,,,,,
 05-03-2020,5570,Warendorf,,,DE-NW,0,,,0,,
 06-03-2020,5570,Warendorf,,,DE-NW,0,,,0,,
@@ -6368,7 +6368,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5711,Bielefeld,333786,1289,DE-NW,379,3,315,0,2,0
 05-05-2020,5711,Bielefeld,333786,1289,DE-NW,379,3,315,0,0,0
 06-05-2020,5711,Bielefeld,333786,1289,DE-NW,379,3,327,0,12,0
-07-05-2020,5711,Bielefeld,333786,1289,DE-NW,379,3,327,0,0,0
+07-05-2020,5711,Bielefeld,333786,1289,DE-NW,379,3,335,0,8,0
 04-03-2020,5754,Gütersloh,,,DE-NW,0,,,,,
 05-03-2020,5754,Gütersloh,,,DE-NW,0,,,0,,
 06-03-2020,5754,Gütersloh,,,DE-NW,1,,,1,,
@@ -6554,8 +6554,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 25-04-2020,5762,Höxter,,,DE-NW,277,5,180,11,5,0
 26-04-2020,5762,Höxter,,,DE-NW,279,5,181,2,1,0
 27-04-2020,5762,Höxter,,,DE-NW,279,5,181,0,0,0
-28-04-2020,5762,Höxter,,,DE-NW,280,6,191,1,10,1
-29-04-2020,5762,Höxter,,,DE-NW,282,5,201,2,10,-1
+28-04-2020,5762,Höxter,,,DE-NW,280,5,191,1,10,0
+29-04-2020,5762,Höxter,,,DE-NW,282,5,201,2,10,0
 30-04-2020,5762,Höxter,,,DE-NW,284,7,209,2,8,2
 01-05-2020,5762,Höxter,,,DE-NW,286,7,214,2,5,0
 02-05-2020,5762,Höxter,,,DE-NW,293,7,214,7,0,0
@@ -6623,8 +6623,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 29-04-2020,5766,Lippe,,,DE-NW,705,28,481,17,7,1
 30-04-2020,5766,Lippe,,,DE-NW,708,28,503,3,22,0
 01-05-2020,5766,Lippe,,,DE-NW,711,28,506,3,3,0
-02-05-2020,5766,Lippe,,,DE-NW,714,29,506,3,0,1
-03-05-2020,5766,Lippe,,,DE-NW,714,28,512,0,6,-1
+02-05-2020,5766,Lippe,,,DE-NW,714,28,506,3,0,0
+03-05-2020,5766,Lippe,,,DE-NW,714,28,512,0,6,0
 04-05-2020,5766,Lippe,,,DE-NW,716,28,514,2,2,0
 05-05-2020,5766,Lippe,,,DE-NW,716,28,514,0,0,0
 06-05-2020,5766,Lippe,,,DE-NW,726,28,542,10,28,0
@@ -6693,7 +6693,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5770,Minden-Lübbecke,,,DE-NW,425,7,357,1,0,0
 05-05-2020,5770,Minden-Lübbecke,,,DE-NW,425,7,357,0,0,0
 06-05-2020,5770,Minden-Lübbecke,,,DE-NW,426,7,377,1,20,0
-07-05-2020,5770,Minden-Lübbecke,,,DE-NW,434,7,377,8,0,0
+07-05-2020,5770,Minden-Lübbecke,,,DE-NW,434,7,378,8,1,0
 04-03-2020,5774,Paderborn,,,DE-NW,0,,,,,
 05-03-2020,5774,Paderborn,,,DE-NW,0,,,0,,
 06-03-2020,5774,Paderborn,,,DE-NW,0,,,0,,
@@ -6820,8 +6820,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 01-05-2020,5911,Bochum,364628,2503,DE-NW,436,17,371,1,11,1
 02-05-2020,5911,Bochum,364628,2503,DE-NW,436,17,371,0,0,0
 03-05-2020,5911,Bochum,364628,2503,DE-NW,436,17,382,0,11,0
-04-05-2020,5911,Bochum,364628,2503,DE-NW,440,18,382,4,0,1
-05-05-2020,5911,Bochum,364628,2503,DE-NW,441,17,382,1,0,-1
+04-05-2020,5911,Bochum,364628,2503,DE-NW,440,17,382,4,0,0
+05-05-2020,5911,Bochum,364628,2503,DE-NW,441,17,382,1,0,0
 06-05-2020,5911,Bochum,364628,2503,DE-NW,441,17,385,0,3,0
 07-05-2020,5911,Bochum,364628,2503,DE-NW,448,17,385,7,0,0
 04-03-2020,5913,Dortmund,587010,2091,DE-NW,0,,,,,
@@ -6878,9 +6878,9 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 24-04-2020,5913,Dortmund,587010,2091,DE-NW,633,4,527,1,20,0
 25-04-2020,5913,Dortmund,587010,2091,DE-NW,636,4,538,3,11,0
 26-04-2020,5913,Dortmund,587010,2091,DE-NW,645,4,547,9,9,0
-27-04-2020,5913,Dortmund,587010,2091,DE-NW,665,6,557,20,10,2
-28-04-2020,5913,Dortmund,587010,2091,DE-NW,674,6,569,9,12,0
-29-04-2020,5913,Dortmund,587010,2091,DE-NW,679,4,575,5,6,-2
+27-04-2020,5913,Dortmund,587010,2091,DE-NW,665,4,557,20,10,0
+28-04-2020,5913,Dortmund,587010,2091,DE-NW,674,4,569,9,12,0
+29-04-2020,5913,Dortmund,587010,2091,DE-NW,679,4,575,5,6,0
 30-04-2020,5913,Dortmund,587010,2091,DE-NW,687,4,580,8,5,0
 01-05-2020,5913,Dortmund,587010,2091,DE-NW,688,4,588,1,8,0
 02-05-2020,5913,Dortmund,587010,2091,DE-NW,691,4,593,3,5,0
@@ -6953,7 +6953,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5914,Hagen,188814,1176,DE-NW,261,9,181,0,2,1
 05-05-2020,5914,Hagen,188814,1176,DE-NW,267,9,181,6,0,0
 06-05-2020,5914,Hagen,188814,1176,DE-NW,269,9,182,2,1,0
-07-05-2020,5914,Hagen,188814,1176,DE-NW,272,9,182,3,0,0
+07-05-2020,5914,Hagen,188814,1176,DE-NW,272,9,188,3,6,0
 04-03-2020,5915,Hamm,179111,791,DE-NW,0,,,,,
 05-03-2020,5915,Hamm,179111,791,DE-NW,0,,,0,,
 06-03-2020,5915,Hamm,179111,791,DE-NW,0,,,0,,
@@ -7278,7 +7278,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5962,Märkischer Kreis,416171,393,DE-NW,563,22,367,1,4,0
 05-05-2020,5962,Märkischer Kreis,416171,393,DE-NW,564,25,367,1,0,3
 06-05-2020,5962,Märkischer Kreis,416171,393,DE-NW,564,25,394,0,27,0
-07-05-2020,5962,Märkischer Kreis,416171,393,DE-NW,565,25,394,1,0,0
+07-05-2020,5962,Märkischer Kreis,416171,393,DE-NW,565,25,398,1,4,0
 04-03-2020,5966,Olpe,,,DE-NW,0,,,,,
 05-03-2020,5966,Olpe,,,DE-NW,0,,,0,,
 06-03-2020,5966,Olpe,,,DE-NW,0,,,0,,
@@ -7343,7 +7343,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5966,Olpe,,,DE-NW,574,39,495,0,0,0
 05-05-2020,5966,Olpe,,,DE-NW,577,44,495,3,0,5
 06-05-2020,5966,Olpe,,,DE-NW,579,44,510,2,15,0
-07-05-2020,5966,Olpe,,,DE-NW,582,44,510,3,0,0
+07-05-2020,5966,Olpe,,,DE-NW,582,47,510,3,0,3
 04-03-2020,5970,Siegen-Wittgenstein,275909,243,DE-NW,0,,,,,
 05-03-2020,5970,Siegen-Wittgenstein,275909,243,DE-NW,0,,,0,,
 06-03-2020,5970,Siegen-Wittgenstein,275909,243,DE-NW,0,,,0,,
@@ -7538,7 +7538,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,5978,Unna,,,DE-NW,625,28,363,3,0,0
 05-05-2020,5978,Unna,,,DE-NW,629,31,363,4,0,3
 06-05-2020,5978,Unna,,,DE-NW,634,31,363,5,0,0
-07-05-2020,5978,Unna,,,DE-NW,638,31,363,4,0,0
+07-05-2020,5978,Unna,,,DE-NW,638,31,402,4,39,0
 04-03-2020,6411,Darmstadt,159207,1304,DE-HE,0,,,,,
 05-03-2020,6411,Darmstadt,159207,1304,DE-HE,0,,,0,,
 06-03-2020,6411,Darmstadt,159207,1304,DE-HE,0,,,0,,
@@ -7668,7 +7668,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,6412,Frankfurt am Main,753056,3032,DE-HE,1288,42,,0,,0
 05-05-2020,6412,Frankfurt am Main,753056,3032,DE-HE,1297,42,,9,,0
 06-05-2020,6412,Frankfurt am Main,753056,3032,DE-HE,1304,44,,7,,2
-07-05-2020,6412,Frankfurt am Main,753056,3032,DE-HE,1314,44,,10,,0
+07-05-2020,6412,Frankfurt am Main,753056,3032,DE-HE,1314,45,,10,,1
 04-03-2020,6413,Offenbach am Main,128744,2867,DE-HE,0,,,,,
 05-03-2020,6413,Offenbach am Main,128744,2867,DE-HE,0,,,0,,
 06-03-2020,6413,Offenbach am Main,128744,2867,DE-HE,0,,,0,,
@@ -7798,7 +7798,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,6414,Wiesbaden,278342,1364,DE-HE,328,11,274,0,17,1
 05-05-2020,6414,Wiesbaden,278342,1364,DE-HE,330,11,274,2,0,0
 06-05-2020,6414,Wiesbaden,278342,1364,DE-HE,331,11,279,1,5,0
-07-05-2020,6414,Wiesbaden,278342,1364,DE-HE,342,11,279,11,0,0
+07-05-2020,6414,Wiesbaden,278342,1364,DE-HE,342,11,284,11,5,0
 04-03-2020,6431,Bergstraße,261695,363,DE-HE,1,,,,,
 05-03-2020,6431,Bergstraße,261695,363,DE-HE,1,,,0,,
 06-03-2020,6431,Bergstraße,261695,363,DE-HE,1,,,0,,
@@ -7993,7 +7993,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,6433,Groß-Gerau,254883,562,DE-HE,433,10,303,0,14,0
 05-05-2020,6433,Groß-Gerau,254883,562,DE-HE,433,10,303,0,0,0
 06-05-2020,6433,Groß-Gerau,254883,562,DE-HE,440,10,318,7,15,0
-07-05-2020,6433,Groß-Gerau,254883,562,DE-HE,444,10,318,4,0,0
+07-05-2020,6433,Groß-Gerau,254883,562,DE-HE,444,10,323,4,5,0
 04-03-2020,6434,Hochtaunuskreis,,,DE-HE,1,,,,,
 05-03-2020,6434,Hochtaunuskreis,,,DE-HE,1,,,0,,
 06-03-2020,6434,Hochtaunuskreis,,,DE-HE,1,,,0,,
@@ -8318,7 +8318,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,6438,Offenbach,336265,943,DE-HE,475,28,301,1,6,1
 05-05-2020,6438,Offenbach,336265,943,DE-HE,480,28,301,5,0,0
 06-05-2020,6438,Offenbach,336265,943,DE-HE,483,28,312,3,11,0
-07-05-2020,6438,Offenbach,336265,943,DE-HE,486,28,312,3,0,0
+07-05-2020,6438,Offenbach,336265,943,DE-HE,486,29,321,3,9,1
 04-03-2020,6439,Rheingau-Taunus-Kreis,,,DE-HE,0,,,,,
 05-03-2020,6439,Rheingau-Taunus-Kreis,,,DE-HE,0,,,0,,
 06-03-2020,6439,Rheingau-Taunus-Kreis,,,DE-HE,0,,,0,,
@@ -9020,12 +9020,12 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 21-04-2020,6633,Kassel,234206,181,DE-HE,260,18,107,3,10,1
 22-04-2020,6633,Kassel,234206,181,DE-HE,263,19,116,3,9,1
 23-04-2020,6633,Kassel,234206,181,DE-HE,270,19,123,7,7,0
-24-04-2020,6633,Kassel,234206,181,DE-HE,284,20,126,14,3,1
-25-04-2020,6633,Kassel,234206,181,DE-HE,292,18,131,8,5,-2
-26-04-2020,6633,Kassel,234206,181,DE-HE,304,20,136,12,5,2
+24-04-2020,6633,Kassel,234206,181,DE-HE,284,19,126,14,3,0
+25-04-2020,6633,Kassel,234206,181,DE-HE,292,19,131,8,5,0
+26-04-2020,6633,Kassel,234206,181,DE-HE,304,20,136,12,5,1
 27-04-2020,6633,Kassel,234206,181,DE-HE,310,20,136,6,0,0
-28-04-2020,6633,Kassel,234206,181,DE-HE,311,18,138,1,2,-2
-29-04-2020,6633,Kassel,234206,181,DE-HE,313,20,145,2,7,2
+28-04-2020,6633,Kassel,234206,181,DE-HE,311,20,138,1,2,0
+29-04-2020,6633,Kassel,234206,181,DE-HE,313,20,145,2,7,0
 30-04-2020,6633,Kassel,234206,181,DE-HE,318,22,171,5,26,2
 01-05-2020,6633,Kassel,234206,181,DE-HE,324,23,181,6,10,1
 02-05-2020,6633,Kassel,234206,181,DE-HE,329,24,188,5,7,1
@@ -9218,8 +9218,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 24-04-2020,6636,Werra-Meißner-Kreis,,,DE-HE,157,9,70,24,22,1
 25-04-2020,6636,Werra-Meißner-Kreis,,,DE-HE,167,9,70,10,0,0
 26-04-2020,6636,Werra-Meißner-Kreis,,,DE-HE,163,10,71,-4,1,1
-27-04-2020,6636,Werra-Meißner-Kreis,,,DE-HE,163,12,72,0,1,2
-28-04-2020,6636,Werra-Meißner-Kreis,,,DE-HE,164,11,77,1,5,-1
+27-04-2020,6636,Werra-Meißner-Kreis,,,DE-HE,163,11,72,0,1,1
+28-04-2020,6636,Werra-Meißner-Kreis,,,DE-HE,164,11,77,1,5,0
 29-04-2020,6636,Werra-Meißner-Kreis,,,DE-HE,167,12,82,3,5,1
 30-04-2020,6636,Werra-Meißner-Kreis,,,DE-HE,175,12,89,8,7,0
 01-05-2020,6636,Werra-Meißner-Kreis,,,DE-HE,177,12,89,2,0,0
@@ -9228,7 +9228,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,6636,Werra-Meißner-Kreis,,,DE-HE,180,12,91,1,2,0
 05-05-2020,6636,Werra-Meißner-Kreis,,,DE-HE,181,14,91,1,0,2
 06-05-2020,6636,Werra-Meißner-Kreis,,,DE-HE,182,14,105,1,14,0
-07-05-2020,6636,Werra-Meißner-Kreis,,,DE-HE,183,14,105,1,0,0
+07-05-2020,6636,Werra-Meißner-Kreis,,,DE-HE,183,14,113,1,8,0
 04-03-2020,7111,Koblenz,114024,1083,DE-RP,0,,,,,
 05-03-2020,7111,Koblenz,114024,1083,DE-RP,0,,,0,,
 06-03-2020,7111,Koblenz,114024,1083,DE-RP,0,,,0,,
@@ -9737,8 +9737,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 23-04-2020,7138,Neuwied,179812,286,DE-RP,214,3,161,0,-3,0
 24-04-2020,7138,Neuwied,179812,286,DE-RP,206,3,174,-8,13,0
 25-04-2020,7138,Neuwied,179812,286,DE-RP,208,3,174,2,0,0
-26-04-2020,7138,Neuwied,179812,286,DE-RP,208,4,174,0,0,1
-27-04-2020,7138,Neuwied,179812,286,DE-RP,208,3,180,0,6,-1
+26-04-2020,7138,Neuwied,179812,286,DE-RP,208,3,174,0,0,0
+27-04-2020,7138,Neuwied,179812,286,DE-RP,208,3,180,0,6,0
 28-04-2020,7138,Neuwied,179812,286,DE-RP,209,3,181,1,1,0
 29-04-2020,7138,Neuwied,179812,286,DE-RP,209,3,181,0,0,0
 30-04-2020,7138,Neuwied,179812,286,DE-RP,209,3,183,0,2,0
@@ -10073,7 +10073,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,7231,Bernkastel-Wittlich,110833,94,DE-RP,132,2,109,0,3,0
 05-05-2020,7231,Bernkastel-Wittlich,110833,94,DE-RP,132,2,109,0,0,0
 06-05-2020,7231,Bernkastel-Wittlich,110833,94,DE-RP,132,2,116,0,7,0
-07-05-2020,7231,Bernkastel-Wittlich,110833,94,DE-RP,133,2,116,1,0,0
+07-05-2020,7231,Bernkastel-Wittlich,110833,94,DE-RP,133,2,119,1,3,0
 04-03-2020,7232,Eifelkreis Bitburg-Prüm,95946,59,DE-RP,0,,,,,
 05-03-2020,7232,Eifelkreis Bitburg-Prüm,95946,59,DE-RP,0,,,0,,
 06-03-2020,7232,Eifelkreis Bitburg-Prüm,95946,59,DE-RP,0,,,0,,
@@ -11433,9 +11433,9 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 29-04-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,207,3,167,2,3,0
 30-04-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,207,4,172,0,5,1
 01-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,208,4,172,1,0,0
-02-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,208,5,179,0,7,1
-03-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,209,5,180,1,1,0
-04-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,209,4,185,0,5,-1
+02-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,208,4,179,0,7,0
+03-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,209,4,180,1,1,0
+04-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,209,4,185,0,5,0
 05-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,210,4,185,1,0,0
 06-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,210,4,185,0,0,0
 07-05-2020,7338,Rhein-Pfalz-Kreis,,,DE-RP,210,4,185,0,0,0
@@ -11633,7 +11633,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,8111,Stuttgart,634830,3061,DE-BW,1453,54,1201,5,14,0
 05-05-2020,8111,Stuttgart,634830,3061,DE-BW,1452,54,1201,-1,0,0
 06-05-2020,8111,Stuttgart,634830,3061,DE-BW,1454,54,1217,2,16,0
-07-05-2020,8111,Stuttgart,634830,3061,DE-BW,1456,54,1217,2,0,0
+07-05-2020,8111,Stuttgart,634830,3061,DE-BW,1456,55,1240,2,23,1
 04-03-2020,8115,Böblingen,381281,617,DE-BW,1,,,,,
 05-03-2020,8115,Böblingen,381281,617,DE-BW,1,,,0,,
 06-03-2020,8115,Böblingen,381281,617,DE-BW,1,,,0,,
@@ -11763,7 +11763,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,8116,Esslingen,524127,817,DE-BW,1746,97,1319,0,35,0
 05-05-2020,8116,Esslingen,524127,817,DE-BW,1751,99,1319,5,0,2
 06-05-2020,8116,Esslingen,524127,817,DE-BW,1753,100,1381,2,62,1
-07-05-2020,8116,Esslingen,524127,817,DE-BW,1761,100,1381,8,0,0
+07-05-2020,8116,Esslingen,524127,817,DE-BW,1761,102,1440,8,59,2
 04-03-2020,8117,Göppingen,252749,393,DE-BW,2,,,,,
 05-03-2020,8117,Göppingen,252749,393,DE-BW,2,,,0,,
 06-03-2020,8117,Göppingen,252749,393,DE-BW,2,,,0,,
@@ -11948,9 +11948,9 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 24-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1197,44,822,26,85,0
 25-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1208,45,818,11,-4,1
 26-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1235,45,815,27,-3,0
-27-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1279,46,876,44,61,1
-28-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1283,44,874,4,-2,-2
-29-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1296,46,871,13,-3,2
+27-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1279,45,876,44,61,0
+28-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1283,45,874,4,-2,0
+29-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1296,46,871,13,-3,1
 30-04-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1308,51,877,12,6,5
 01-05-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1342,51,921,34,44,0
 02-05-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1357,51,921,15,0,0
@@ -11958,7 +11958,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1367,54,956,4,37,3
 05-05-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1369,54,956,2,0,0
 06-05-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1374,55,974,5,18,1
-07-05-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1385,55,974,11,0,0
+07-05-2020,8119,Rems-Murr-Kreis,419456,488,DE-BW,1385,56,970,11,-4,1
 04-03-2020,8121,Heilbronn,125960,1260,DE-BW,2,,,,,
 05-03-2020,8121,Heilbronn,125960,1260,DE-BW,2,,,0,,
 06-03-2020,8121,Heilbronn,125960,1260,DE-BW,2,,,0,,
@@ -12413,7 +12413,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,8136,Ostalbkreis,311587,206,DE-BW,1459,23,1035,0,6,0
 05-05-2020,8136,Ostalbkreis,311587,206,DE-BW,1460,24,1035,1,0,1
 06-05-2020,8136,Ostalbkreis,311587,206,DE-BW,1465,25,1060,5,25,1
-07-05-2020,8136,Ostalbkreis,311587,206,DE-BW,1479,25,1060,14,0,0
+07-05-2020,8136,Ostalbkreis,311587,206,DE-BW,1479,28,1072,14,12,3
 04-03-2020,8211,Baden-Baden,55123,393,DE-BW,0,,,,,
 05-03-2020,8211,Baden-Baden,55123,393,DE-BW,0,,,0,,
 06-03-2020,8211,Baden-Baden,55123,393,DE-BW,0,,,0,,
@@ -12599,16 +12599,16 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 25-04-2020,8215,Karlsruhe,435841,401,DE-BW,951,58,484,23,33,0
 26-04-2020,8215,Karlsruhe,435841,401,DE-BW,959,58,511,8,27,0
 27-04-2020,8215,Karlsruhe,435841,401,DE-BW,961,58,514,2,3,0
-28-04-2020,8215,Karlsruhe,435841,401,DE-BW,961,68,593,0,79,10
-29-04-2020,8215,Karlsruhe,435841,401,DE-BW,961,68,649,0,56,0
-30-04-2020,8215,Karlsruhe,435841,401,DE-BW,962,60,649,1,0,-8
+28-04-2020,8215,Karlsruhe,435841,401,DE-BW,961,60,593,0,79,2
+29-04-2020,8215,Karlsruhe,435841,401,DE-BW,961,60,649,0,56,0
+30-04-2020,8215,Karlsruhe,435841,401,DE-BW,962,60,649,1,0,0
 01-05-2020,8215,Karlsruhe,435841,401,DE-BW,969,60,649,7,0,0
 02-05-2020,8215,Karlsruhe,435841,401,DE-BW,971,60,744,2,95,0
 03-05-2020,8215,Karlsruhe,435841,401,DE-BW,986,60,744,15,0,0
 04-05-2020,8215,Karlsruhe,435841,401,DE-BW,986,70,749,0,5,10
 05-05-2020,8215,Karlsruhe,435841,401,DE-BW,986,71,749,0,0,1
 06-05-2020,8215,Karlsruhe,435841,401,DE-BW,987,71,767,1,18,0
-07-05-2020,8215,Karlsruhe,435841,401,DE-BW,989,71,767,2,0,0
+07-05-2020,8215,Karlsruhe,435841,401,DE-BW,989,74,783,2,16,3
 04-03-2020,8216,Rastatt,227474,307,DE-BW,0,,,,,
 05-03-2020,8216,Rastatt,227474,307,DE-BW,0,,,0,,
 06-03-2020,8216,Rastatt,227474,307,DE-BW,0,,,0,,
@@ -12673,7 +12673,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,8216,Rastatt,227474,307,DE-BW,504,13,443,0,3,0
 05-05-2020,8216,Rastatt,227474,307,DE-BW,504,13,443,0,0,0
 06-05-2020,8216,Rastatt,227474,307,DE-BW,504,13,448,0,5,0
-07-05-2020,8216,Rastatt,227474,307,DE-BW,507,13,448,3,0,0
+07-05-2020,8216,Rastatt,227474,307,DE-BW,507,13,454,3,6,0
 04-03-2020,8221,Heidelberg,160355,1472,DE-BW,2,,,,,
 05-03-2020,8221,Heidelberg,160355,1472,DE-BW,2,,,0,,
 06-03-2020,8221,Heidelberg,160355,1472,DE-BW,2,,,0,,
@@ -12868,7 +12868,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,8225,Neckar-Odenwald-Kreis,141847,125,DE-BW,387,16,249,5,0,0
 05-05-2020,8225,Neckar-Odenwald-Kreis,141847,125,DE-BW,388,17,249,1,0,1
 06-05-2020,8225,Neckar-Odenwald-Kreis,141847,125,DE-BW,393,17,267,5,18,0
-07-05-2020,8225,Neckar-Odenwald-Kreis,141847,125,DE-BW,397,17,267,4,0,0
+07-05-2020,8225,Neckar-Odenwald-Kreis,141847,125,DE-BW,397,17,283,4,16,0
 04-03-2020,8226,Rhein-Neckar-Kreis,,,DE-BW,2,,,,,
 05-03-2020,8226,Rhein-Neckar-Kreis,,,DE-BW,2,,,0,,
 06-03-2020,8226,Rhein-Neckar-Kreis,,,DE-BW,3,,,1,,
@@ -13251,14 +13251,14 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 27-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,946,69,772,3,0,0
 28-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,946,69,772,0,0,0
 29-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,946,70,772,0,0,1
-30-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,951,71,832,5,60,1
-01-05-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,955,70,832,4,0,-1
+30-04-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,951,70,832,5,60,0
+01-05-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,955,70,832,4,0,0
 02-05-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,956,70,832,1,0,0
 03-05-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,957,70,832,1,0,0
 04-05-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,957,75,832,0,0,5
 05-05-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,959,76,832,2,0,1
 06-05-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,962,76,832,3,0,0
-07-05-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,962,76,832,0,0,0
+07-05-2020,8311,Freiburg im Breisgau,230241,1504,DE-BW,962,76,872,0,40,0
 04-03-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,4,,,,,
 05-03-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,4,,,0,,
 06-03-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,4,,,0,,
@@ -13323,7 +13323,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1119,58,948,3,0,1
 05-05-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1119,62,948,0,0,4
 06-05-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1118,63,948,-1,0,1
-07-05-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1118,63,948,0,0,0
+07-05-2020,8315,Breisgau-Hochschwarzwald,247711,179,DE-BW,1118,63,1022,0,74,0
 04-03-2020,8316,Emmendingen,157399,231,DE-BW,0,,,,,
 05-03-2020,8316,Emmendingen,157399,231,DE-BW,0,,,0,,
 06-03-2020,8316,Emmendingen,157399,231,DE-BW,1,,,1,,
@@ -14028,9 +14028,9 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 24-04-2020,8417,Zollernalbkreis,,,DE-BW,961,55,496,31,15,1
 25-04-2020,8417,Zollernalbkreis,,,DE-BW,981,55,527,20,31,0
 26-04-2020,8417,Zollernalbkreis,,,DE-BW,998,55,536,17,9,0
-27-04-2020,8417,Zollernalbkreis,,,DE-BW,1020,54,558,22,22,-1
-28-04-2020,8417,Zollernalbkreis,,,DE-BW,1021,54,563,1,5,0
-29-04-2020,8417,Zollernalbkreis,,,DE-BW,1022,55,573,1,10,1
+27-04-2020,8417,Zollernalbkreis,,,DE-BW,1020,55,558,22,22,0
+28-04-2020,8417,Zollernalbkreis,,,DE-BW,1021,55,563,1,5,0
+29-04-2020,8417,Zollernalbkreis,,,DE-BW,1022,55,573,1,10,0
 30-04-2020,8417,Zollernalbkreis,,,DE-BW,1041,58,595,19,22,3
 01-05-2020,8417,Zollernalbkreis,,,DE-BW,1065,58,603,24,8,0
 02-05-2020,8417,Zollernalbkreis,,,DE-BW,1082,62,610,17,7,4
@@ -14038,7 +14038,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,8417,Zollernalbkreis,,,DE-BW,1113,64,635,5,4,2
 05-05-2020,8417,Zollernalbkreis,,,DE-BW,1117,64,635,4,0,0
 06-05-2020,8417,Zollernalbkreis,,,DE-BW,1117,65,684,0,49,1
-07-05-2020,8417,Zollernalbkreis,,,DE-BW,1131,65,684,14,0,0
+07-05-2020,8417,Zollernalbkreis,,,DE-BW,1131,62,699,14,15,-3
 04-03-2020,8421,Ulm,126329,1064,DE-BW,4,,,,,
 05-03-2020,8421,Ulm,126329,1064,DE-BW,4,,,0,,
 06-03-2020,8421,Ulm,126329,1064,DE-BW,4,,,0,,
@@ -14223,8 +14223,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 24-04-2020,8426,Biberach,194019,137,DE-BW,485,17,269,6,3,0
 25-04-2020,8426,Biberach,194019,137,DE-BW,487,18,274,2,5,1
 26-04-2020,8426,Biberach,194019,137,DE-BW,492,18,288,5,14,0
-27-04-2020,8426,Biberach,194019,137,DE-BW,493,17,288,1,0,-1
-28-04-2020,8426,Biberach,194019,137,DE-BW,493,20,321,0,33,3
+27-04-2020,8426,Biberach,194019,137,DE-BW,493,18,288,1,0,0
+28-04-2020,8426,Biberach,194019,137,DE-BW,493,20,321,0,33,2
 29-04-2020,8426,Biberach,194019,137,DE-BW,502,21,360,9,39,1
 30-04-2020,8426,Biberach,194019,137,DE-BW,511,23,370,9,10,2
 01-05-2020,8426,Biberach,194019,137,DE-BW,523,23,370,12,0,0
@@ -14233,7 +14233,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,8426,Biberach,194019,137,DE-BW,537,23,378,2,8,0
 05-05-2020,8426,Biberach,194019,137,DE-BW,537,25,378,0,0,2
 06-05-2020,8426,Biberach,194019,137,DE-BW,539,26,403,2,25,1
-07-05-2020,8426,Biberach,194019,137,DE-BW,549,26,403,10,0,0
+07-05-2020,8426,Biberach,194019,137,DE-BW,549,27,405,10,2,1
 04-03-2020,8435,Bodenseekreis,205843,309,DE-BW,1,,,,,
 05-03-2020,8435,Bodenseekreis,205843,309,DE-BW,1,,,0,,
 06-03-2020,8435,Bodenseekreis,205843,309,DE-BW,3,,,2,,
@@ -14558,7 +14558,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9162,München,1471508,4735,DE-BY,6017,173,4551,28,74,4
 05-05-2020,9162,München,1471508,4735,DE-BY,6054,179,4551,37,0,6
 06-05-2020,9162,München,1471508,4735,DE-BY,6118,192,4921,64,370,13
-07-05-2020,9162,München,1471508,4735,DE-BY,6146,192,4921,28,0,0
+07-05-2020,9162,München,1471508,4735,DE-BY,6146,194,5029,28,108,2
 04-03-2020,9163,Rosenheim,63324,1701,DE-BY,1,,,,,
 05-03-2020,9163,Rosenheim,63324,1701,DE-BY,1,,,0,,
 06-03-2020,9163,Rosenheim,63324,1701,DE-BY,1,,,0,,
@@ -15208,7 +15208,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9179,Fürstenfeldbruck,172760,397,DE-BY,815,31,632,0,0,0
 05-05-2020,9179,Fürstenfeldbruck,172760,397,DE-BY,815,31,632,0,0,0
 06-05-2020,9179,Fürstenfeldbruck,172760,397,DE-BY,818,33,632,3,0,2
-07-05-2020,9179,Fürstenfeldbruck,172760,397,DE-BY,824,33,632,6,0,0
+07-05-2020,9179,Fürstenfeldbruck,172760,397,DE-BY,824,33,671,6,39,0
 04-03-2020,9180,Garmisch-Partenkirchen,78782,99,DE-BY,0,,,,,
 05-03-2020,9180,Garmisch-Partenkirchen,78782,99,DE-BY,0,,,0,,
 06-03-2020,9180,Garmisch-Partenkirchen,78782,99,DE-BY,0,,,0,,
@@ -15533,7 +15533,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9184,München,343405,6,DE-BY,1306,23,1152,5,11,0
 05-05-2020,9184,München,343405,6,DE-BY,1309,23,1152,3,0,0
 06-05-2020,9184,München,343405,6,DE-BY,1324,23,1169,15,17,0
-07-05-2020,9184,München,343405,6,DE-BY,1329,23,1169,5,0,0
+07-05-2020,9184,München,343405,6,DE-BY,1329,44,1161,5,-8,21
 04-03-2020,9185,Neuburg-Schrobenhausen,76493,103,DE-BY,0,,,,,
 05-03-2020,9185,Neuburg-Schrobenhausen,76493,103,DE-BY,0,,,0,,
 06-03-2020,9185,Neuburg-Schrobenhausen,76493,103,DE-BY,0,,,0,,
@@ -15728,7 +15728,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9187,Rosenheim,190104,132,DE-BY,2077,139,,25,,0
 05-05-2020,9187,Rosenheim,190104,132,DE-BY,2077,143,,0,,4
 06-05-2020,9187,Rosenheim,190104,132,DE-BY,2088,152,,11,,9
-07-05-2020,9187,Rosenheim,190104,132,DE-BY,2092,152,,4,,0
+07-05-2020,9187,Rosenheim,190104,132,DE-BY,2092,153,,4,,1
 04-03-2020,9188,Starnberg,108887,223,DE-BY,11,,,,,
 05-03-2020,9188,Starnberg,108887,223,DE-BY,11,,,0,,
 06-03-2020,9188,Starnberg,108887,223,DE-BY,12,,,1,,
@@ -15858,7 +15858,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9189,Traunstein,145408,121,DE-BY,1203,69,658,3,60,5
 05-05-2020,9189,Traunstein,145408,121,DE-BY,1209,71,658,6,0,2
 06-05-2020,9189,Traunstein,145408,121,DE-BY,1210,73,760,1,102,2
-07-05-2020,9189,Traunstein,145408,121,DE-BY,1228,73,760,18,0,0
+07-05-2020,9189,Traunstein,145408,121,DE-BY,1228,76,795,18,35,3
 04-03-2020,9190,Weilheim-Schongau,106376,110,DE-BY,0,,,,,
 05-03-2020,9190,Weilheim-Schongau,106376,110,DE-BY,0,,,0,,
 06-03-2020,9190,Weilheim-Schongau,106376,110,DE-BY,1,,,1,,
@@ -16044,9 +16044,9 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 25-04-2020,9262,Passau,52469,754,DE-BY,125,16,95,2,0,0
 26-04-2020,9262,Passau,52469,754,DE-BY,125,16,95,0,0,0
 27-04-2020,9262,Passau,52469,754,DE-BY,123,16,98,-2,3,0
-28-04-2020,9262,Passau,52469,754,DE-BY,125,19,98,2,0,3
-29-04-2020,9262,Passau,52469,754,DE-BY,125,19,98,0,0,0
-30-04-2020,9262,Passau,52469,754,DE-BY,125,20,99,0,1,1
+28-04-2020,9262,Passau,52469,754,DE-BY,125,18,98,2,0,2
+29-04-2020,9262,Passau,52469,754,DE-BY,125,18,98,0,0,0
+30-04-2020,9262,Passau,52469,754,DE-BY,125,20,99,0,1,2
 01-05-2020,9262,Passau,52469,754,DE-BY,126,16,99,1,0,-4
 02-05-2020,9262,Passau,52469,754,DE-BY,124,16,99,-2,0,0
 03-05-2020,9262,Passau,52469,754,DE-BY,124,18,99,0,0,2
@@ -16109,8 +16109,8 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 25-04-2020,9263,Straubing,47794,707,DE-BY,355,31,111,15,0,4
 26-04-2020,9263,Straubing,47794,707,DE-BY,356,31,111,1,0,0
 27-04-2020,9263,Straubing,47794,707,DE-BY,356,36,118,0,7,5
-28-04-2020,9263,Straubing,47794,707,DE-BY,360,34,124,4,6,-2
-29-04-2020,9263,Straubing,47794,707,DE-BY,363,38,132,3,8,4
+28-04-2020,9263,Straubing,47794,707,DE-BY,360,36,124,4,6,0
+29-04-2020,9263,Straubing,47794,707,DE-BY,363,38,132,3,8,2
 30-04-2020,9263,Straubing,47794,707,DE-BY,364,39,138,1,6,1
 01-05-2020,9263,Straubing,47794,707,DE-BY,365,41,138,1,0,2
 02-05-2020,9263,Straubing,47794,707,DE-BY,370,41,138,5,0,0
@@ -16437,11 +16437,11 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 28-04-2020,9275,Passau,190504,124,DE-BY,494,22,330,0,0,0
 29-04-2020,9275,Passau,190504,124,DE-BY,534,22,349,40,19,0
 30-04-2020,9275,Passau,190504,124,DE-BY,542,22,353,8,4,0
-01-05-2020,9275,Passau,190504,124,DE-BY,552,20,353,10,0,-2
-02-05-2020,9275,Passau,190504,124,DE-BY,515,20,353,-37,0,0
-03-05-2020,9275,Passau,190504,124,DE-BY,515,20,353,0,0,0
-04-05-2020,9275,Passau,190504,124,DE-BY,520,20,353,5,0,0
-05-05-2020,9275,Passau,190504,124,DE-BY,521,23,353,1,0,3
+01-05-2020,9275,Passau,190504,124,DE-BY,552,22,353,10,0,0
+02-05-2020,9275,Passau,190504,124,DE-BY,515,22,353,-37,0,0
+03-05-2020,9275,Passau,190504,124,DE-BY,515,22,353,0,0,0
+04-05-2020,9275,Passau,190504,124,DE-BY,520,22,353,5,0,0
+05-05-2020,9275,Passau,190504,124,DE-BY,521,23,353,1,0,1
 06-05-2020,9275,Passau,190504,124,DE-BY,557,23,368,36,15,0
 07-05-2020,9275,Passau,190504,124,DE-BY,557,23,368,0,0,0
 04-03-2020,9276,Regen,76135,133,DE-BY,0,,,,,
@@ -17340,17 +17340,17 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 21-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1062,83,670,9,0,0
 22-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1068,88,734,6,64,5
 23-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1082,97,734,14,0,9
-24-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1083,99,764,1,30,2
-25-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1099,99,764,16,0,0
-26-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1099,99,764,0,0,0
-27-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1099,99,797,0,33,0
-28-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1101,93,815,2,18,-6
-29-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1106,93,815,5,0,0
-30-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1108,96,845,2,30,3
-01-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1113,96,845,5,0,0
-02-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1113,96,845,0,0,0
-03-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1113,96,845,0,0,0
-04-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1113,98,865,0,20,2
+24-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1083,98,764,1,30,1
+25-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1099,98,764,16,0,0
+26-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1099,98,764,0,0,0
+27-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1099,98,797,0,33,0
+28-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1101,98,815,2,18,0
+29-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1106,98,815,5,0,0
+30-04-2020,9377,Tirschenreuth,77865,71,DE-BY,1108,98,845,2,30,0
+01-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1113,98,845,5,0,0
+02-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1113,98,845,0,0,0
+03-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1113,98,845,0,0,0
+04-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1113,98,865,0,20,0
 05-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1118,98,865,5,0,0
 06-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1118,98,865,0,0,0
 07-05-2020,9377,Tirschenreuth,77865,71,DE-BY,1118,98,865,0,0,0
@@ -18328,7 +18328,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9562,Erlangen,111962,1454,DE-BY,243,8,182,0,1,1
 05-05-2020,9562,Erlangen,111962,1454,DE-BY,243,8,182,0,0,0
 06-05-2020,9562,Erlangen,111962,1454,DE-BY,244,9,194,1,12,1
-07-05-2020,9562,Erlangen,111962,1454,DE-BY,245,9,194,1,0,0
+07-05-2020,9562,Erlangen,111962,1454,DE-BY,245,9,198,1,4,0
 04-03-2020,9563,Fürth,127748,2016,DE-BY,0,,,,,
 05-03-2020,9563,Fürth,127748,2016,DE-BY,0,,,0,,
 06-03-2020,9563,Fürth,127748,2016,DE-BY,0,,,0,,
@@ -18393,7 +18393,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9563,Fürth,127748,2016,DE-BY,350,31,166,1,30,2
 05-05-2020,9563,Fürth,127748,2016,DE-BY,355,31,166,5,0,0
 06-05-2020,9563,Fürth,127748,2016,DE-BY,358,35,187,3,21,4
-07-05-2020,9563,Fürth,127748,2016,DE-BY,359,35,187,1,0,0
+07-05-2020,9563,Fürth,127748,2016,DE-BY,359,34,205,1,18,-1
 04-03-2020,9564,Nürnberg,518365,2780,DE-BY,3,,,,,
 05-03-2020,9564,Nürnberg,518365,2780,DE-BY,3,,,0,,
 06-03-2020,9564,Nürnberg,518365,2780,DE-BY,4,,,1,,
@@ -18458,7 +18458,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9564,Nürnberg,518365,2780,DE-BY,974,38,733,1,11,1
 05-05-2020,9564,Nürnberg,518365,2780,DE-BY,976,40,733,2,0,2
 06-05-2020,9564,Nürnberg,518365,2780,DE-BY,984,40,751,8,18,0
-07-05-2020,9564,Nürnberg,518365,2780,DE-BY,985,40,751,1,0,0
+07-05-2020,9564,Nürnberg,518365,2780,DE-BY,985,40,787,1,36,0
 04-03-2020,9565,Schwabach,40792,1002,DE-BY,1,,,,,
 05-03-2020,9565,Schwabach,40792,1002,DE-BY,1,,,0,,
 06-03-2020,9565,Schwabach,40792,1002,DE-BY,1,,,0,,
@@ -18588,7 +18588,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9571,Ansbach,157632,79,DE-BY,554,21,,2,,0
 05-05-2020,9571,Ansbach,157632,79,DE-BY,555,21,,1,,0
 06-05-2020,9571,Ansbach,157632,79,DE-BY,561,21,,6,,0
-07-05-2020,9571,Ansbach,157632,79,DE-BY,561,21,,0,,0
+07-05-2020,9571,Ansbach,157632,79,DE-BY,561,24,,0,,3
 04-03-2020,9572,Erlangen-Höchstadt,134136,2,DE-BY,1,,,,,
 05-03-2020,9572,Erlangen-Höchstadt,134136,2,DE-BY,1,,,0,,
 06-03-2020,9572,Erlangen-Höchstadt,134136,2,DE-BY,1,,,0,,
@@ -18653,7 +18653,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9572,Erlangen-Höchstadt,134136,2,DE-BY,191,4,173,1,1,0
 05-05-2020,9572,Erlangen-Höchstadt,134136,2,DE-BY,192,4,173,1,0,0
 06-05-2020,9572,Erlangen-Höchstadt,134136,2,DE-BY,192,4,174,0,1,0
-07-05-2020,9572,Erlangen-Höchstadt,134136,2,DE-BY,192,4,174,0,0,0
+07-05-2020,9572,Erlangen-Höchstadt,134136,2,DE-BY,192,4,178,0,4,0
 04-03-2020,9573,Fürth,116193,377,DE-BY,0,,,,,
 05-03-2020,9573,Fürth,116193,377,DE-BY,0,,,0,,
 06-03-2020,9573,Fürth,116193,377,DE-BY,0,,,0,,
@@ -18718,7 +18718,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9573,Fürth,116193,377,DE-BY,473,55,223,0,37,0
 05-05-2020,9573,Fürth,116193,377,DE-BY,473,57,223,0,0,2
 06-05-2020,9573,Fürth,116193,377,DE-BY,466,58,248,-7,25,1
-07-05-2020,9573,Fürth,116193,377,DE-BY,465,58,248,-1,0,0
+07-05-2020,9573,Fürth,116193,377,DE-BY,465,57,272,-1,24,-1
 04-03-2020,9574,Nürnberger Land,149127,186,DE-BY,0,,,,,
 05-03-2020,9574,Nürnberger Land,149127,186,DE-BY,0,,,0,,
 06-03-2020,9574,Nürnberger Land,149127,186,DE-BY,0,,,0,,
@@ -19108,7 +19108,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9662,Schweinfurt,54032,1513,DE-BY,174,17,105,1,0,0
 05-05-2020,9662,Schweinfurt,54032,1513,DE-BY,174,17,105,0,0,0
 06-05-2020,9662,Schweinfurt,54032,1513,DE-BY,174,17,108,0,3,0
-07-05-2020,9662,Schweinfurt,54032,1513,DE-BY,174,17,108,0,0,0
+07-05-2020,9662,Schweinfurt,54032,1513,DE-BY,174,17,111,0,3,0
 04-03-2020,9663,Würzburg,127880,1459,DE-BY,2,,,,,
 05-03-2020,9663,Würzburg,127880,1459,DE-BY,2,,,0,,
 06-03-2020,9663,Würzburg,127880,1459,DE-BY,2,,,0,,
@@ -19693,7 +19693,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9678,Schweinfurt,103697,123,DE-BY,478,22,279,3,0,0
 05-05-2020,9678,Schweinfurt,103697,123,DE-BY,477,22,279,-1,0,0
 06-05-2020,9678,Schweinfurt,103697,123,DE-BY,477,23,308,0,29,1
-07-05-2020,9678,Schweinfurt,103697,123,DE-BY,477,23,308,0,0,0
+07-05-2020,9678,Schweinfurt,103697,123,DE-BY,477,24,312,0,4,1
 04-03-2020,9679,Würzburg,161340,166,DE-BY,0,,,,,
 05-03-2020,9679,Würzburg,161340,166,DE-BY,0,,,0,,
 06-03-2020,9679,Würzburg,161340,166,DE-BY,0,,,0,,
@@ -19823,7 +19823,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,9761,Augsburg,295135,2009,DE-BY,384,13,328,1,12,0
 05-05-2020,9761,Augsburg,295135,2009,DE-BY,385,13,328,1,0,0
 06-05-2020,9761,Augsburg,295135,2009,DE-BY,385,13,334,0,6,0
-07-05-2020,9761,Augsburg,295135,2009,DE-BY,385,13,334,0,0,0
+07-05-2020,9761,Augsburg,295135,2009,DE-BY,385,13,339,0,5,0
 04-03-2020,9762,Kaufbeuren,43893,1097,DE-BY,0,,,,,
 05-03-2020,9762,Kaufbeuren,43893,1097,DE-BY,0,,,0,,
 06-03-2020,9762,Kaufbeuren,43893,1097,DE-BY,0,,,0,,
@@ -21383,7 +21383,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,12054,Potsdam,178089,945,DE-BB,601,46,242,1,11,0
 05-05-2020,12054,Potsdam,178089,945,DE-BB,602,46,242,1,0,0
 06-05-2020,12054,Potsdam,178089,945,DE-BB,607,46,286,5,44,0
-07-05-2020,12054,Potsdam,178089,945,DE-BB,613,46,286,6,0,0
+07-05-2020,12054,Potsdam,178089,945,DE-BB,613,47,303,6,17,1
 04-03-2020,12060,Barnim,173193,116236,DE-BB,0,,,,,
 05-03-2020,12060,Barnim,173193,116236,DE-BB,0,,,0,,
 06-03-2020,12060,Barnim,173193,116236,DE-BB,0,,,0,,
@@ -21448,7 +21448,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,12060,Barnim,173193,116236,DE-BB,386,24,147,2,1,-1
 05-05-2020,12060,Barnim,173193,116236,DE-BB,386,24,147,0,0,0
 06-05-2020,12060,Barnim,173193,116236,DE-BB,387,25,209,1,62,1
-07-05-2020,12060,Barnim,173193,116236,DE-BB,389,25,209,2,0,0
+07-05-2020,12060,Barnim,173193,116236,DE-BB,389,25,218,2,9,0
 04-03-2020,12061,Dahme-Spreewald,160314,70935,DE-BB,0,,,,,
 05-03-2020,12061,Dahme-Spreewald,160314,70935,DE-BB,0,,,0,,
 06-03-2020,12061,Dahme-Spreewald,160314,70935,DE-BB,0,,,0,,
@@ -23138,7 +23138,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,14524,Zwickau,325137,342,DE-SN,772,38,352,3,0,1
 05-05-2020,14524,Zwickau,325137,342,DE-SN,773,39,352,1,0,1
 06-05-2020,14524,Zwickau,325137,342,DE-SN,777,39,352,4,0,0
-07-05-2020,14524,Zwickau,325137,342,DE-SN,794,39,352,17,0,0
+07-05-2020,14524,Zwickau,325137,342,DE-SN,794,42,352,17,0,3
 04-03-2020,14612,Dresden,554649,1688,DE-SN,0,,,,,
 05-03-2020,14612,Dresden,554649,1688,DE-SN,0,,,0,,
 06-03-2020,14612,Dresden,554649,1688,DE-SN,0,,,0,,
@@ -23203,7 +23203,7 @@ reportDate,ags,community_name,population_number,population_density,stateCode,cas
 04-05-2020,14612,Dresden,554649,1688,DE-SN,569,7,508,1,4,0
 05-05-2020,14612,Dresden,554649,1688,DE-SN,571,7,508,2,0,0
 06-05-2020,14612,Dresden,554649,1688,DE-SN,576,8,523,5,15,1
-07-05-2020,14612,Dresden,554649,1688,DE-SN,579,8,523,3,0,0
+07-05-2020,14612,Dresden,554649,1688,DE-SN,579,9,525,3,2,1
 04-03-2020,14625,Bautzen,304691,127,DE-SN,0,,,,,
 05-03-2020,14625,Bautzen,304691,127,DE-SN,0,,,0,,
 06-03-2020,14625,Bautzen,304691,127,DE-SN,0,,,0,,
