@@ -27,9 +27,10 @@ def scrape_stadt_koeln_data():
     formatted_col_names = {
         "Datum": "reportDate",
         "bestätigte Kölner Fälle": "cases",
-        "Kölner in häuslicher Quarantäne": "quaratined",
+        "Infizierte Kölner in häuslicher Quarantäne": "quaratined",
         "Patienten in stationärer Behandlung": "hospitalized",
         "Kölner als geheilt entlassen": "recovered",
+        "Aktuell Infizierte in Köln": "infected",
         "Kölner Todesfälle": "deaths"
     }
 
