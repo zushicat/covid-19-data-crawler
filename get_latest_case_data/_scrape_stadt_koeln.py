@@ -55,6 +55,10 @@ def scrape_stadt_koeln_data():
             else:
                 tmp[column_names[i]]:int = int(col.text.strip().replace(".", ""))
         
+        # if quaratined column is missing (since 14.05.2020)
+        if tmp.get("quaratined") is None:
+            tmp["quaratined"] = tmp["infected"] - tmp["hospitalized"]
+
         # add static population data (city, not metro)
         tmp["population_number"] = 1085664  
         tmp["population_density"] = 2700
