@@ -50,7 +50,7 @@ https://www.stadt-koeln.de/leben-in-koeln/gesundheit/infektionsschutz/corona-vir
 ~~There are daily updates by press releases but the tech team responsible for the chart (and datatable) obviously don't update on the weekend. **Boo!**~~    
 ~~The numbers are updated on a daily basis.~~    
 The reporting system was changed on the 13.05.2020, which explains decreased number of recoveries and the sudden spike of infections.    
-Starting between 15.05.2020 and 19.05.2020, the numbers are updated between tuesdays and fridays only without updating the missing days. Hencce this data is less useful as a timeseries due to these gaps. :(
+Starting between 15.05.2020 and 19.05.2020, the numbers are updated between tuesdays and fridays only without updating the missing days. Hence this data is less useful as a timeseries due to these gaps. :(
 
 
 ### 3 - News outlets
