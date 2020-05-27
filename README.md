@@ -182,7 +182,9 @@ Regarding the numbers for reccovered and deceased cases, please see notes under 
 The data points of all csv files are saved as "tidy" (or "long") data instead of "wide" data, meaning:  
 Each date for each location is presented in a row instead of one row per location with all the dates as columns.
 
-Please keep in mind that latest data (in dated directory) not necessarily includes the latest numbers of this date, since this depends on the update cycles of respective sources.
+Please keep in mind that latest data (in dated directory) not necessarily includes the latest numbers of this date, since this depends on the update cycles of respective sources.    
+
+Old data can be found in /data/older_crawled_data. Maybe some insights can be gained about changing / corrected numbers over time per source.
 
 
 ## More Sources
