@@ -168,9 +168,15 @@ Otherwise just get the csv files in directory of latest date.
   - communities_germany_mopo_b.csv
   - nations_mopo_b.csv
   - states_AU_mopo_b.csv
+  - states_BR_mopo_b.csv
   - states_CA_mopo_b.csv
+  - states_CL_mopo_b.csv
   - states_CN_mopo_b.csv
   - states_DE_mopo_b.csv
+  - states_ES_mopo_b.csv
+  - states_IT_mopo_b.csv
+  - states_MX_mopo_b.csv
+  - states_US_mopo_b.csv
 
 **Update**    
 I additionally merged RKI and Tagesspiegel (Risklayer) data:
