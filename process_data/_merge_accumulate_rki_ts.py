@@ -88,6 +88,7 @@ def merge_data(csv_rki: str, csv_ts: str) -> pd.DataFrame:
 
 def merge_accumulate_rki_ts(data_subdir_list: List[str]) -> None:
     data_subdir_list.remove(".DS_Store")
+    data_subdir_list.remove("older_crawled_data")
     data_subdir_list.sort(key=lambda x: datetime.datetime.strptime(x, "%d-%m-%Y"))
     
     latest_date = data_subdir_list[-1]
