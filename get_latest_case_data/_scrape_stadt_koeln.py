@@ -56,7 +56,7 @@ def scrape_stadt_koeln_data():
                 try:
                     tmp[column_names[i]]:int = int(col.text.strip().replace(".", ""))
                 except Exception:
-                    tmp[column_names[i]]:int = -1  # no entry
+                    tmp[column_names[i]]:int = -1  # no data entry
         
         # if quaratined column is missing (since 14.05.2020)
         if tmp.get("quaratined") is None:
