@@ -53,7 +53,10 @@ def scrape_stadt_koeln_data():
                 formatted_date = datetime.strptime(formatted_date, "%d%m").strftime("%d-%m-2020")  # 1. März -> 01-03-2020
                 tmp[column_names[i]]:str = formatted_date
             else:
-                tmp[column_names[i]]:int = int(col.text.strip().replace(".", ""))
+                try:
+                    tmp[column_names[i]]:int = int(col.text.strip().replace(".", ""))
+                except Exception:
+                    tmp[column_names[i]]:int = -1  # no entry
         
         # if quaratined column is missing (since 14.05.2020)
         if tmp.get("quaratined") is None:
