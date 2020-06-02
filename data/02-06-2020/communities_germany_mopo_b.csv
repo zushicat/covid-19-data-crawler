@@ -142,7 +142,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 391640,2020-05-30,1343,1189,47,DE,DE-BW,8115,617,Landkreis Böblingen
 391640,2020-05-31,1344,1189,47,DE,DE-BW,8115,617,Landkreis Böblingen
 391640,2020-06-01,1344,1189,47,DE,DE-BW,8115,617,Landkreis Böblingen
-391640,2020-06-02,1344,1189,47,DE,DE-BW,8115,617,Landkreis Böblingen
+391640,2020-06-02,1352,1189,47,DE,DE-BW,8115,617,Landkreis Böblingen
 533859,2020-03-23,435,0,3,DE,DE-BW,8116,817,Landkreis Esslingen
 533859,2020-03-24,462,0,3,DE,DE-BW,8116,817,Landkreis Esslingen
 533859,2020-03-25,493,0,3,DE,DE-BW,8116,817,Landkreis Esslingen
@@ -358,7 +358,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 543984,2020-05-30,1746,1633,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
 543984,2020-05-31,1747,1633,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
 543984,2020-06-01,1747,1633,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
-543984,2020-06-02,1747,1633,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
+543984,2020-06-02,1748,1633,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
 426158,2020-03-23,117,0,1,DE,DE-BW,8119,488,Rems-Murr-Kreis
 426158,2020-03-24,172,0,1,DE,DE-BW,8119,488,Rems-Murr-Kreis
 426158,2020-03-25,190,0,1,DE,DE-BW,8119,488,Rems-Murr-Kreis
@@ -430,7 +430,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 426158,2020-05-30,1573,1382,86,DE,DE-BW,8119,488,Rems-Murr-Kreis
 426158,2020-05-31,1573,1382,86,DE,DE-BW,8119,488,Rems-Murr-Kreis
 426158,2020-06-01,1573,1382,86,DE,DE-BW,8119,488,Rems-Murr-Kreis
-426158,2020-06-02,1573,1382,86,DE,DE-BW,8119,488,Rems-Murr-Kreis
+426158,2020-06-02,1575,1382,87,DE,DE-BW,8119,488,Rems-Murr-Kreis
 125960,2020-03-23,55,0,1,DE,DE-BW,8121,1260,Heilbronn
 125960,2020-03-24,60,0,1,DE,DE-BW,8121,1260,Heilbronn
 125960,2020-03-25,71,0,0,DE,DE-BW,8121,1260,Heilbronn
@@ -574,7 +574,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 343068,2020-05-30,941,815,41,DE,DE-BW,8125,304,Landkreis Heilbronn
 343068,2020-05-31,941,815,41,DE,DE-BW,8125,304,Landkreis Heilbronn
 343068,2020-06-01,941,815,41,DE,DE-BW,8125,304,Landkreis Heilbronn
-343068,2020-06-02,941,815,41,DE,DE-BW,8125,304,Landkreis Heilbronn
+343068,2020-06-02,942,815,41,DE,DE-BW,8125,304,Landkreis Heilbronn
 112010,2020-03-23,257,0,3,DE,DE-BW,8126,141,Hohenlohekreis
 112010,2020-03-24,278,0,3,DE,DE-BW,8126,141,Hohenlohekreis
 112010,2020-03-25,278,0,3,DE,DE-BW,8126,141,Hohenlohekreis
@@ -646,7 +646,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 112010,2020-05-30,769,712,46,DE,DE-BW,8126,141,Hohenlohekreis
 112010,2020-05-31,769,712,46,DE,DE-BW,8126,141,Hohenlohekreis
 112010,2020-06-01,769,712,46,DE,DE-BW,8126,141,Hohenlohekreis
-112010,2020-06-02,769,712,46,DE,DE-BW,8126,141,Hohenlohekreis
+112010,2020-06-02,770,712,46,DE,DE-BW,8126,141,Hohenlohekreis
 195861,2020-03-23,145,0,0,DE,DE-BW,8127,129,Landkreis Schwäbisch Hall
 195861,2020-03-24,148,0,2,DE,DE-BW,8127,129,Landkreis Schwäbisch Hall
 195861,2020-03-25,175,0,5,DE,DE-BW,8127,129,Landkreis Schwäbisch Hall
@@ -934,7 +934,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 314002,2020-05-30,1354,1209,31,DE,DE-BW,8136,206,Ostalbkreis
 314002,2020-05-31,1354,1209,31,DE,DE-BW,8136,206,Ostalbkreis
 314002,2020-06-01,1354,1209,31,DE,DE-BW,8136,206,Ostalbkreis
-314002,2020-06-02,1354,1209,31,DE,DE-BW,8136,206,Ostalbkreis
+314002,2020-06-02,1355,1209,31,DE,DE-BW,8136,206,Ostalbkreis
 55123,2020-03-23,33,0,0,DE,DE-BW,8211,393,Baden-Baden
 55123,2020-03-24,36,0,1,DE,DE-BW,8211,393,Baden-Baden
 55123,2020-03-25,36,0,1,DE,DE-BW,8211,393,Baden-Baden
@@ -1078,7 +1078,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 313092,2020-05-30,386,360,12,DE,DE-BW,8212,1805,Karlsruhe
 313092,2020-05-31,386,360,12,DE,DE-BW,8212,1805,Karlsruhe
 313092,2020-06-01,387,360,12,DE,DE-BW,8212,1805,Karlsruhe
-313092,2020-06-02,387,360,12,DE,DE-BW,8212,1805,Karlsruhe
+313092,2020-06-02,387,360,13,DE,DE-BW,8212,1805,Karlsruhe
 444232,2020-03-23,154,0,0,DE,DE-BW,8215,401,Landkreis Karlsruhe
 444232,2020-03-24,172,0,0,DE,DE-BW,8215,401,Landkreis Karlsruhe
 444232,2020-03-25,189,0,1,DE,DE-BW,8215,401,Landkreis Karlsruhe
@@ -1222,7 +1222,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 231018,2020-05-30,518,482,17,DE,DE-BW,8216,307,Landkreis Rastatt
 231018,2020-05-31,518,482,17,DE,DE-BW,8216,307,Landkreis Rastatt
 231018,2020-06-01,518,482,17,DE,DE-BW,8216,307,Landkreis Rastatt
-231018,2020-06-02,518,482,17,DE,DE-BW,8216,307,Landkreis Rastatt
+231018,2020-06-02,519,482,17,DE,DE-BW,8216,307,Landkreis Rastatt
 160355,2020-03-23,89,0,0,DE,DE-BW,8221,1472,Heidelberg
 160355,2020-03-24,98,0,0,DE,DE-BW,8221,1472,Heidelberg
 160355,2020-03-25,109,0,0,DE,DE-BW,8221,1472,Heidelberg
@@ -19002,7 +19002,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 569352,2020-05-30,1275,967,37,DE,DE-HB,4011,1745,Bremen
 569352,2020-05-31,1292,967,38,DE,DE-HB,4011,1745,Bremen
 569352,2020-06-01,1292,967,38,DE,DE-HB,4011,1745,Bremen
-569352,2020-06-02,1310,967,38,DE,DE-HB,4011,1745,Bremen
+569352,2020-06-02,1316,1073,39,DE,DE-HB,4011,1745,Bremen
 113634,2020-03-23,14,0,0,DE,DE-HB,4012,1213,Bremerhaven
 113634,2020-03-24,14,0,0,DE,DE-HB,4012,1213,Bremerhaven
 113634,2020-03-25,16,0,0,DE,DE-HB,4012,1213,Bremerhaven
@@ -19074,7 +19074,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 113634,2020-05-30,97,66,3,DE,DE-HB,4012,1213,Bremerhaven
 113634,2020-05-31,106,66,4,DE,DE-HB,4012,1213,Bremerhaven
 113634,2020-06-01,106,66,4,DE,DE-HB,4012,1213,Bremerhaven
-113634,2020-06-02,126,66,4,DE,DE-HB,4012,1213,Bremerhaven
+113634,2020-06-02,132,73,3,DE,DE-HB,4012,1213,Bremerhaven
 269694,2020-03-23,45,0,0,DE,DE-HE,6431,363,Kreis Bergstraße
 269694,2020-03-24,65,0,0,DE,DE-HE,6431,363,Kreis Bergstraße
 269694,2020-03-25,88,0,0,DE,DE-HE,6431,363,Kreis Bergstraße
@@ -20298,7 +20298,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 753056,2020-05-30,1603,715,61,DE,DE-HE,6412,3032,Frankfurt am Main
 753056,2020-05-31,1612,715,61,DE,DE-HE,6412,3032,Frankfurt am Main
 753056,2020-06-01,1612,715,61,DE,DE-HE,6412,3032,Frankfurt am Main
-753056,2020-06-02,1612,715,61,DE,DE-HE,6412,3032,Frankfurt am Main
+753056,2020-06-02,1624,715,61,DE,DE-HE,6412,3032,Frankfurt am Main
 201585,2020-03-23,43,0,0,DE,DE-HE,6611,1887,Kassel
 201585,2020-03-24,46,0,0,DE,DE-HE,6611,1887,Kassel
 201585,2020-03-25,53,0,0,DE,DE-HE,6611,1887,Kassel
@@ -20514,7 +20514,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 278342,2020-05-30,441,306,14,DE,DE-HE,6414,1364,Wiesbaden
 278342,2020-05-31,441,306,14,DE,DE-HE,6414,1364,Wiesbaden
 278342,2020-06-01,442,306,15,DE,DE-HE,6414,1364,Wiesbaden
-278342,2020-06-02,442,306,15,DE,DE-HE,6414,1364,Wiesbaden
+278342,2020-06-02,443,306,15,DE,DE-HE,6414,1364,Wiesbaden
 208886,2020-03-23,29,0,0,DE,DE-MV,13003,1151,Rostock
 208886,2020-03-24,29,0,0,DE,DE-MV,13003,1151,Rostock
 208886,2020-03-25,34,0,0,DE,DE-MV,13003,1151,Rostock
@@ -29291,7 +29291,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 195201,2020-05-30,542,495,22,DE,DE-SL,10044,428,Landkreis Saarlouis
 195201,2020-05-31,542,495,22,DE,DE-SL,10044,428,Landkreis Saarlouis
 195201,2020-06-01,542,495,22,DE,DE-SL,10044,428,Landkreis Saarlouis
-195201,2020-06-02,542,495,22,DE,DE-SL,10044,428,Landkreis Saarlouis
+195201,2020-06-02,542,495,23,DE,DE-SL,10044,428,Landkreis Saarlouis
 132206,2020-03-23,47,0,0,DE,DE-SL,10043,538,Landkreis Neunkirchen
 132206,2020-03-24,47,0,0,DE,DE-SL,10043,538,Landkreis Neunkirchen
 132206,2020-03-25,49,0,0,DE,DE-SL,10043,538,Landkreis Neunkirchen
@@ -29435,7 +29435,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 103366,2020-05-30,205,195,2,DE,DE-SL,10042,186,Landkreis Merzig-Wadern
 103366,2020-05-31,205,195,2,DE,DE-SL,10042,186,Landkreis Merzig-Wadern
 103366,2020-06-01,207,195,2,DE,DE-SL,10042,186,Landkreis Merzig-Wadern
-103366,2020-06-02,207,195,2,DE,DE-SL,10042,186,Landkreis Merzig-Wadern
+103366,2020-06-02,208,195,2,DE,DE-SL,10042,186,Landkreis Merzig-Wadern
 554649,2020-03-23,123,0,0,DE,DE-SN,14612,1688,Dresden
 554649,2020-03-24,169,0,0,DE,DE-SN,14612,1688,Dresden
 554649,2020-03-25,173,0,2,DE,DE-SN,14612,1688,Dresden

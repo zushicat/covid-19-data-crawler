@@ -9243,7 +9243,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-02,3158,190.0,14.0,168.0,Tagesspiegel,DE-NI,Wolfenbüttel,119960.0,166.0
 2020-06-02,3159,886.0,76.0,704.0,Tagesspiegel,DE-NI,Göttingen,328074.0,187.0
 2020-06-02,3241,2436.0,107.0,2048.0,Tagesspiegel,DE-NI,Region Hannover,1157624.0,505.0
-2020-06-02,3251,377.0,26.0,339.0,Tagesspiegel,DE-NI,Diepholz,216886.0,109.0
+2020-06-02,3251,377.0,26.0,346.0,Tagesspiegel,DE-NI,Diepholz,216886.0,109.0
 2020-06-02,3252,135.0,10.0,118.0,Tagesspiegel,DE-NI,Hameln-Pyrmont,148559.0,187.0
 2020-06-02,3254,389.0,5.0,343.0,Tagesspiegel,DE-NI,Hildesheim,276594.0,229.0
 2020-06-02,3255,106.0,7.0,97.0,Tagesspiegel,DE-NI,Holzminden,70975.0,102.0
@@ -9252,27 +9252,27 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-02,4011,1292.0,38.0,1025.0,Tagesspiegel,DE-HB,Bremen,569352.0,1749.0
 2020-06-02,4012,120.0,3.0,72.0,Tagesspiegel,DE-HB,Bremerhaven,113634.0,1211.0
 2020-06-02,5111,1448.0,31.0,1246.0,Tagesspiegel,DE-NW,Düsseldorf,619294.0,2848.0
-2020-06-02,5112,1151.0,53.0,962.0,Tagesspiegel,DE-NW,Duisburg,498590.0,2142.0
+2020-06-02,5112,1151.0,53.0,969.0,Tagesspiegel,DE-NW,Duisburg,498590.0,2142.0
 2020-06-02,5113,864.0,41.0,749.0,Tagesspiegel,DE-NW,Essen,583109.0,2772.0
-2020-06-02,5114,630.0,22.0,576.0,Tagesspiegel,DE-NW,Krefeld,227020.0,1648.0
+2020-06-02,5114,630.0,22.0,586.0,Tagesspiegel,DE-NW,Krefeld,227020.0,1648.0
 2020-06-02,5116,618.0,39.0,495.0,Tagesspiegel,DE-NW,Mönchengladbach,261454.0,1534.0
 2020-06-02,5117,213.0,8.0,179.0,Tagesspiegel,DE-NW,Mülheim an der Ruhr,170880.0,1872.0
 2020-06-02,5119,260.0,11.0,239.0,Tagesspiegel,DE-NW,Oberhausen,210829.0,2735.0
 2020-06-02,5120,240.0,17.0,216.0,Tagesspiegel,DE-NW,Remscheid,110994.0,1490.0
 2020-06-02,5122,253.0,8.0,231.0,Tagesspiegel,DE-NW,Solingen,159360.0,1780.0
-2020-06-02,5124,931.0,84.0,762.0,Tagesspiegel,DE-NW,Wuppertal,354382.0,2105.0
+2020-06-02,5124,931.0,84.0,775.0,Tagesspiegel,DE-NW,Wuppertal,354382.0,2105.0
 2020-06-02,6411,222.0,18.0,194.0,Tagesspiegel,DE-HE,Darmstadt,159207.0,1304.0
-2020-06-02,6414,447.0,16.0,372.0,Tagesspiegel,DE-HE,Wiesbaden,278342.0,1365.0
+2020-06-02,6414,447.0,17.0,375.0,Tagesspiegel,DE-HE,Wiesbaden,278342.0,1365.0
 2020-06-02,6431,353.0,3.0,314.0,Tagesspiegel,DE-HE,Bergstraße,269694.0,375.0
 2020-06-02,6432,419.0,19.0,365.0,Tagesspiegel,DE-HE,Darmstadt-Dieburg,297399.0,452.0
 2020-06-02,6433,525.0,12.0,459.0,Tagesspiegel,DE-HE,Groß-Gerau,274526.0,606.0
 2020-06-02,6434,281.0,5.0,243.0,Tagesspiegel,DE-HE,Hochtaunuskreis,236564.0,491.0
 2020-06-02,6435,754.0,45.0,525.0,Tagesspiegel,DE-HE,Main-Kinzig-Kreis,418950.0,300.0
-2020-06-02,6436,347.0,14.0,278.0,Tagesspiegel,DE-HE,Main-Taunus-Kreis,237735.0,1069.0
+2020-06-02,6436,347.0,14.0,286.0,Tagesspiegel,DE-HE,Main-Taunus-Kreis,237735.0,1069.0
 2020-06-02,6437,406.0,61.0,322.0,Tagesspiegel,DE-HE,Odenwaldkreis,96798.0,155.0
 2020-06-02,6438,628.0,40.0,491.0,Tagesspiegel,DE-HE,Offenbach,354092.0,994.0
 2020-06-02,7111,265.0,18.0,245.0,Tagesspiegel,DE-RP,Koblenz,114024.0,1085.0
-2020-06-02,7131,190.0,1.0,166.0,Tagesspiegel,DE-RP,Ahrweiler,129727.0,165.0
+2020-06-02,7131,190.0,1.0,170.0,Tagesspiegel,DE-RP,Ahrweiler,129727.0,165.0
 2020-06-02,7132,163.0,11.0,145.0,Tagesspiegel,DE-RP,Altenkirchen,128705.0,200.0
 2020-06-02,7133,196.0,7.0,180.0,Tagesspiegel,DE-RP,Bad Kreuznach,158080.0,183.0
 2020-06-02,7134,89.0,1.0,87.0,Tagesspiegel,DE-RP,Birkenfeld,80720.0,104.0
@@ -9295,19 +9295,19 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-02,7318,86.0,2.0,82.0,Tagesspiegel,DE-RP,Speyer,50378.0,1183.0
 2020-06-02,7319,218.0,7.0,189.0,Tagesspiegel,DE-RP,Worms,83330.0,766.0
 2020-06-02,7320,38.0,0.0,37.0,Tagesspiegel,DE-RP,Zweibrücken,34209.0,484.0
-2020-06-02,7331,266.0,12.0,242.0,Tagesspiegel,DE-RP,Alzey-Worms,129244.0,220.0
-2020-06-02,7332,325.0,12.0,306.0,Tagesspiegel,DE-RP,Bad Dürkheim,132660.0,223.0
-2020-06-02,7333,135.0,6.0,122.0,Tagesspiegel,DE-RP,Donnersbergkreis,75101.0,116.0
+2020-06-02,7331,266.0,12.0,247.0,Tagesspiegel,DE-RP,Alzey-Worms,129244.0,220.0
+2020-06-02,7332,325.0,12.0,312.0,Tagesspiegel,DE-RP,Bad Dürkheim,132660.0,223.0
+2020-06-02,7333,135.0,6.0,123.0,Tagesspiegel,DE-RP,Donnersbergkreis,75101.0,116.0
 2020-06-02,7334,148.0,5.0,143.0,Tagesspiegel,DE-RP,Germersheim,129075.0,279.0
 2020-06-02,7335,108.0,0.0,102.0,Tagesspiegel,DE-RP,Kaiserslautern,106057.0,166.0
 2020-06-02,7336,91.0,1.0,89.0,Tagesspiegel,DE-RP,Kusel,70526.0,123.0
 2020-06-02,8111,1587.0,63.0,1508.0,Tagesspiegel,DE-BW,Stuttgart,634830.0,3062.0
-2020-06-02,8115,1388.0,48.0,1247.0,Tagesspiegel,DE-BW,Böblingen,391640.0,634.0
-2020-06-02,8116,1868.0,124.0,1673.0,Tagesspiegel,DE-BW,Esslingen,533859.0,832.0
+2020-06-02,8115,1388.0,48.0,1257.0,Tagesspiegel,DE-BW,Böblingen,391640.0,634.0
+2020-06-02,8116,1868.0,127.0,1680.0,Tagesspiegel,DE-BW,Esslingen,533859.0,832.0
 2020-06-02,8117,780.0,39.0,724.0,Tagesspiegel,DE-BW,Göppingen,257253.0,400.0
 2020-06-02,8118,1767.0,73.0,1673.0,Tagesspiegel,DE-BW,Ludwigsburg,543984.0,792.0
-2020-06-02,9161,464.0,36.0,370.0,Tagesspiegel,DE-BY,Ingolstadt,136981.0,1027.0
-2020-06-02,9162,6893.0,213.0,5840.0,Tagesspiegel,DE-BY,München,1471508.0,4736.0
+2020-06-02,9161,464.0,36.0,375.0,Tagesspiegel,DE-BY,Ingolstadt,136981.0,1027.0
+2020-06-02,9162,6893.0,213.0,5863.0,Tagesspiegel,DE-BY,München,1471508.0,4736.0
 2020-06-02,9163,510.0,24.0,311.0,Tagesspiegel,DE-BY,Rosenheim,63324.0,1701.0
 2020-06-02,9171,601.0,57.0,523.0,Tagesspiegel,DE-BY,Altötting,111210.0,195.0
 2020-06-02,9172,306.0,24.0,276.0,Tagesspiegel,DE-BY,Berchtesgadener Land,105722.0,126.0
@@ -9321,7 +9321,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-02,12051,61.0,0.0,59.0,Tagesspiegel,DE-BB,Brandenburg an der Havel,72124.0,314.0
 2020-06-02,12052,39.0,0.0,39.0,Tagesspiegel,DE-BB,Cottbus,100219.0,607.0
 2020-06-02,12053,29.0,0.0,29.0,Tagesspiegel,DE-BB,Frankfurt,57873.0,391.0
-2020-06-02,12054,632.0,53.0,484.0,Tagesspiegel,DE-BB,Potsdam,178089.0,944.0
+2020-06-02,12054,632.0,53.0,486.0,Tagesspiegel,DE-BB,Potsdam,178089.0,944.0
 2020-06-02,12060,409.0,29.0,371.0,Tagesspiegel,DE-BB,Barnim,182760.0,124.0
 2020-06-02,12061,251.0,8.0,232.0,Tagesspiegel,DE-BB,Dahme-Spreewald,169067.0,74.0
 2020-06-02,12062,77.0,3.0,72.0,Tagesspiegel,DE-BB,Elbe-Elster,102638.0,54.0
@@ -9350,7 +9350,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-02,14626,269.0,23.0,245.0,Tagesspiegel,DE-SN,Görlitz,254894.0,121.0
 2020-06-02,14627,232.0,19.0,208.0,Tagesspiegel,DE-SN,Meißen,242165.0,166.0
 2020-06-02,14628,386.0,4.0,358.0,Tagesspiegel,DE-SN,Sächsische Schweiz-Osterzgebirge,245611.0,148.0
-2020-06-02,14713,593.0,11.0,571.0,Tagesspiegel,DE-SN,Leipzig,587857.0,1974.0
+2020-06-02,14713,593.0,11.0,578.0,Tagesspiegel,DE-SN,Leipzig,587857.0,1974.0
 2020-06-02,14729,192.0,4.0,186.0,Tagesspiegel,DE-SN,Leipzig,257763.0,156.0
 2020-06-02,14730,141.0,0.0,139.0,Tagesspiegel,DE-SN,Nordsachsen,197673.0,97.0
 2020-06-02,15001,67.0,2.0,64.0,Tagesspiegel,DE-ST,Dessau-Roßlau,81237.0,332.0
@@ -9370,7 +9370,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-02,16053,160.0,3.0,156.0,Tagesspiegel,DE-TH,Jena,111407.0,971.0
 2020-06-02,16054,19.0,2.0,11.0,Tagesspiegel,DE-TH,Suhl,36955.0,261.0
 2020-06-02,16055,68.0,1.0,65.0,Tagesspiegel,DE-TH,Weimar,65090.0,770.0
-2020-06-02,16061,157.0,9.0,130.0,Tagesspiegel,DE-TH,Eichsfeld,100380.0,106.0
+2020-06-02,16061,157.0,9.0,131.0,Tagesspiegel,DE-TH,Eichsfeld,100380.0,106.0
 2020-06-02,16062,61.0,3.0,53.0,Tagesspiegel,DE-TH,Nordhausen,83822.0,117.0
 2020-06-02,16064,81.0,3.0,72.0,Tagesspiegel,DE-TH,Unstrut-Hainich-Kreis,102912.0,105.0
 2020-06-02,16065,45.0,0.0,45.0,Tagesspiegel,DE-TH,Kyffhäuserkreis,75009.0,72.0
@@ -9380,9 +9380,9 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-02,16069,45.0,1.0,27.0,Tagesspiegel,DE-TH,Hildburghausen,63553.0,68.0
 2020-06-02,16070,136.0,4.0,124.0,Tagesspiegel,DE-TH,Ilm-Kreis,106622.0,132.0
 2020-06-02,16071,73.0,4.0,69.0,Tagesspiegel,DE-TH,Weimarer Land,81947.0,102.0
-2020-06-02,16072,253.0,17.0,152.0,Tagesspiegel,DE-TH,Sonneberg,58410.0,135.0
+2020-06-02,16072,253.0,17.0,153.0,Tagesspiegel,DE-TH,Sonneberg,58410.0,135.0
 2020-06-02,16073,71.0,0.0,64.0,Tagesspiegel,DE-TH,Saalfeld-Rudolstadt,104142.0,101.0
 2020-06-02,16074,71.0,3.0,66.0,Tagesspiegel,DE-TH,Saale-Holzland-Kreis,83051.0,102.0
-2020-06-02,16075,149.0,12.0,128.0,Tagesspiegel,DE-TH,Saale-Orla-Kreis,80868.0,70.0
+2020-06-02,16075,149.0,12.0,131.0,Tagesspiegel,DE-TH,Saale-Orla-Kreis,80868.0,70.0
 2020-06-02,16076,625.0,45.0,436.0,Tagesspiegel,DE-TH,Greiz,98159.0,116.0
 2020-06-02,16077,74.0,3.0,53.0,Tagesspiegel,DE-TH,Altenburger Land,90118.0,158.0
