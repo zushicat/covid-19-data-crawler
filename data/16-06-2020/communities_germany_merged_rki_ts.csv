@@ -9646,7 +9646,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-16,1004,79.0,2.0,77.0,Tagesspiegel,DE-SH,Neumünster,79487.0,1110.0
 2020-06-16,1051,63.0,3.0,56.0,Tagesspiegel,DE-SH,Dithmarschen,133210.0,93.0
 2020-06-16,1053,266.0,17.0,247.0,Tagesspiegel,DE-SH,Herzogtum Lauenburg,197264.0,156.0
-2020-06-16,1054,89.0,1.0,86.0,Tagesspiegel,DE-SH,Nordfriesland,165507.0,79.0
+2020-06-16,1054,89.0,1.0,88.0,Tagesspiegel,DE-SH,Nordfriesland,165507.0,79.0
 2020-06-16,1055,68.0,0.0,68.0,Tagesspiegel,DE-SH,Ostholstein,200581.0,144.0
 2020-06-16,1056,602.0,46.0,532.0,Tagesspiegel,DE-SH,Pinneberg,314391.0,473.0
 2020-06-16,1057,120.0,8.0,95.0,Tagesspiegel,DE-SH,Plön,128647.0,119.0
@@ -9654,7 +9654,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-16,1059,161.0,4.0,153.0,Tagesspiegel,DE-SH,Schleswig-Flensburg,200025.0,97.0
 2020-06-16,1060,331.0,7.0,321.0,Tagesspiegel,DE-SH,Segeberg,276032.0,205.0
 2020-06-16,1061,181.0,3.0,173.0,Tagesspiegel,DE-SH,Steinburg,131347.0,124.0
-2020-06-16,1062,419.0,33.0,369.0,Tagesspiegel,DE-SH,Stormarn,243196.0,317.0
+2020-06-16,1062,419.0,33.0,370.0,Tagesspiegel,DE-SH,Stormarn,243196.0,317.0
 2020-06-16,2000,5146.0,255.0,4800.0,Tagesspiegel,DE-HH,Hamburg,1841179.0,2505.0
 2020-06-16,3101,331.0,18.0,308.0,Tagesspiegel,DE-NI,Braunschweig,248292.0,1292.0
 2020-06-16,3102,145.0,8.0,135.0,Tagesspiegel,DE-NI,Salzgitter,104948.0,469.0
@@ -9666,25 +9666,25 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-16,3157,159.0,12.0,135.0,Tagesspiegel,DE-NI,Peine,133965.0,250.0
 2020-06-16,3158,190.0,14.0,175.0,Tagesspiegel,DE-NI,Wolfenbüttel,119960.0,166.0
 2020-06-16,3159,1071.0,78.0,794.0,Tagesspiegel,DE-NI,Göttingen,328074.0,187.0
-2020-06-16,3241,2675.0,112.0,2310.0,Tagesspiegel,DE-NI,Region Hannover,1157624.0,505.0
+2020-06-16,3241,2675.0,112.0,2313.0,Tagesspiegel,DE-NI,Region Hannover,1157624.0,505.0
 2020-06-16,3251,393.0,26.0,354.0,Tagesspiegel,DE-NI,Diepholz,216886.0,109.0
 2020-06-16,3252,143.0,10.0,123.0,Tagesspiegel,DE-NI,Hameln-Pyrmont,148559.0,187.0
 2020-06-16,3254,402.0,6.0,384.0,Tagesspiegel,DE-NI,Hildesheim,276594.0,229.0
-2020-06-16,4011,1408.0,42.0,1240.0,Tagesspiegel,DE-HB,Bremen,569352.0,1749.0
-2020-06-16,4012,188.0,6.0,110.0,Tagesspiegel,DE-HB,Bremerhaven,113634.0,1211.0
+2020-06-16,4011,1408.0,43.0,1244.0,Tagesspiegel,DE-HB,Bremen,569352.0,1749.0
+2020-06-16,4012,188.0,6.0,116.0,Tagesspiegel,DE-HB,Bremerhaven,113634.0,1211.0
 2020-06-16,5111,1559.0,33.0,1410.0,Tagesspiegel,DE-NW,Düsseldorf,619294.0,2848.0
-2020-06-16,5112,1313.0,55.0,1083.0,Tagesspiegel,DE-NW,Duisburg,498590.0,2142.0
-2020-06-16,5113,899.0,41.0,805.0,Tagesspiegel,DE-NW,Essen,583109.0,2772.0
+2020-06-16,5112,1313.0,55.0,1092.0,Tagesspiegel,DE-NW,Duisburg,498590.0,2142.0
+2020-06-16,5113,899.0,41.0,807.0,Tagesspiegel,DE-NW,Essen,583109.0,2772.0
 2020-06-16,5114,644.0,22.0,610.0,Tagesspiegel,DE-NW,Krefeld,227020.0,1648.0
-2020-06-16,5116,644.0,41.0,576.0,Tagesspiegel,DE-NW,Mönchengladbach,261454.0,1534.0
+2020-06-16,5116,644.0,41.0,577.0,Tagesspiegel,DE-NW,Mönchengladbach,261454.0,1534.0
 2020-06-16,5117,219.0,11.0,195.0,Tagesspiegel,DE-NW,Mülheim an der Ruhr,170880.0,1872.0
 2020-06-16,5119,269.0,11.0,250.0,Tagesspiegel,DE-NW,Oberhausen,210829.0,2735.0
 2020-06-16,5120,241.0,18.0,221.0,Tagesspiegel,DE-NW,Remscheid,110994.0,1490.0
 2020-06-16,5122,264.0,8.0,241.0,Tagesspiegel,DE-NW,Solingen,159360.0,1780.0
-2020-06-16,5124,953.0,86.0,845.0,Tagesspiegel,DE-NW,Wuppertal,354382.0,2105.0
+2020-06-16,5124,953.0,86.0,846.0,Tagesspiegel,DE-NW,Wuppertal,354382.0,2105.0
 2020-06-16,6411,223.0,18.0,199.0,Tagesspiegel,DE-HE,Darmstadt,159207.0,1304.0
-2020-06-16,6412,1665.0,61.0,1404.0,Tagesspiegel,DE-HE,Frankfurt am Main,753056.0,3033.0
-2020-06-16,6414,462.0,20.0,416.0,Tagesspiegel,DE-HE,Wiesbaden,278342.0,1365.0
+2020-06-16,6412,1665.0,62.0,1404.0,Tagesspiegel,DE-HE,Frankfurt am Main,753056.0,3033.0
+2020-06-16,6414,462.0,20.0,418.0,Tagesspiegel,DE-HE,Wiesbaden,278342.0,1365.0
 2020-06-16,6431,357.0,3.0,336.0,Tagesspiegel,DE-HE,Bergstraße,269694.0,375.0
 2020-06-16,6432,426.0,20.0,395.0,Tagesspiegel,DE-HE,Darmstadt-Dieburg,297399.0,452.0
 2020-06-16,6433,533.0,13.0,499.0,Tagesspiegel,DE-HE,Groß-Gerau,274526.0,606.0
@@ -9703,7 +9703,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-16,7138,215.0,3.0,210.0,Tagesspiegel,DE-RP,Neuwied,181941.0,290.0
 2020-06-16,7140,166.0,6.0,160.0,Tagesspiegel,DE-RP,Rhein-Hunsrück-Kreis,102937.0,104.0
 2020-06-16,7141,159.0,6.0,152.0,Tagesspiegel,DE-RP,Rhein-Lahn-Kreis,122308.0,156.0
-2020-06-16,7143,361.0,21.0,333.0,Tagesspiegel,DE-RP,Westerwaldkreis,201597.0,204.0
+2020-06-16,7143,361.0,21.0,337.0,Tagesspiegel,DE-RP,Westerwaldkreis,201597.0,204.0
 2020-06-16,7211,102.0,1.0,101.0,Tagesspiegel,DE-RP,Trier,110636.0,945.0
 2020-06-16,7231,166.0,2.0,159.0,Tagesspiegel,DE-RP,Bernkastel-Wittlich,112262.0,96.0
 2020-06-16,7232,184.0,5.0,177.0,Tagesspiegel,DE-RP,Bitburg-Prüm,98561.0,61.0
@@ -9716,16 +9716,16 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-16,7316,106.0,2.0,103.0,Tagesspiegel,DE-RP,Neustadt an der Weinstraße,53148.0,454.0
 2020-06-16,7317,31.0,0.0,31.0,Tagesspiegel,DE-RP,Pirmasens,40403.0,658.0
 2020-06-16,7318,93.0,2.0,85.0,Tagesspiegel,DE-RP,Speyer,50378.0,1183.0
-2020-06-16,7319,220.0,7.0,210.0,Tagesspiegel,DE-RP,Worms,83330.0,766.0
+2020-06-16,7319,220.0,7.0,211.0,Tagesspiegel,DE-RP,Worms,83330.0,766.0
 2020-06-16,7320,39.0,0.0,38.0,Tagesspiegel,DE-RP,Zweibrücken,34209.0,484.0
-2020-06-16,7331,270.0,12.0,253.0,Tagesspiegel,DE-RP,Alzey-Worms,129244.0,220.0
+2020-06-16,7331,270.0,12.0,254.0,Tagesspiegel,DE-RP,Alzey-Worms,129244.0,220.0
 2020-06-16,7332,328.0,12.0,314.0,Tagesspiegel,DE-RP,Bad Dürkheim,132660.0,223.0
 2020-06-16,7333,137.0,6.0,129.0,Tagesspiegel,DE-RP,Donnersbergkreis,75101.0,116.0
 2020-06-16,7334,148.0,5.0,143.0,Tagesspiegel,DE-RP,Germersheim,129075.0,279.0
 2020-06-16,7335,111.0,1.0,108.0,Tagesspiegel,DE-RP,Kaiserslautern,106057.0,166.0
 2020-06-16,8111,1612.0,65.0,1523.0,Tagesspiegel,DE-BW,Stuttgart,634830.0,3062.0
-2020-06-16,8115,1393.0,49.0,1323.0,Tagesspiegel,DE-BW,Böblingen,391640.0,634.0
-2020-06-16,8116,1904.0,132.0,1723.0,Tagesspiegel,DE-BW,Esslingen,533859.0,832.0
+2020-06-16,8115,1393.0,49.0,1324.0,Tagesspiegel,DE-BW,Böblingen,391640.0,634.0
+2020-06-16,8116,1904.0,132.0,1730.0,Tagesspiegel,DE-BW,Esslingen,533859.0,832.0
 2020-06-16,8117,783.0,39.0,736.0,Tagesspiegel,DE-BW,Göppingen,257253.0,400.0
 2020-06-16,8118,1790.0,73.0,1694.0,Tagesspiegel,DE-BW,Ludwigsburg,543984.0,792.0
 2020-06-16,9161,471.0,37.0,388.0,Tagesspiegel,DE-BY,Ingolstadt,136981.0,1027.0
@@ -9779,7 +9779,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-16,14729,194.0,4.0,188.0,Tagesspiegel,DE-SN,Leipzig,257763.0,156.0
 2020-06-16,14730,141.0,0.0,141.0,Tagesspiegel,DE-SN,Nordsachsen,197673.0,97.0
 2020-06-16,15001,67.0,2.0,64.0,Tagesspiegel,DE-ST,Dessau-Roßlau,81237.0,332.0
-2020-06-16,15002,362.0,12.0,341.0,Tagesspiegel,DE-ST,Halle,239257.0,1772.0
+2020-06-16,15002,362.0,12.0,342.0,Tagesspiegel,DE-ST,Halle,239257.0,1772.0
 2020-06-16,15003,155.0,2.0,105.0,Tagesspiegel,DE-ST,Magdeburg,238697.0,1188.0
 2020-06-16,15081,34.0,1.0,32.0,Tagesspiegel,DE-ST,Altmarkkreis Salzwedel,83765.0,37.0
 2020-06-16,15082,73.0,2.0,69.0,Tagesspiegel,DE-ST,Anhalt-Bitterfeld,159854.0,110.0
