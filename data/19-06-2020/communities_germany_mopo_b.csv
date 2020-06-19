@@ -87,7 +87,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 634830,2020-06-16,1504,1362,63,DE,DE-BW,8111,3061,Stuttgart
 634830,2020-06-17,1509,1362,63,DE,DE-BW,8111,3061,Stuttgart
 634830,2020-06-18,1509,1362,63,DE,DE-BW,8111,3061,Stuttgart
-634830,2020-06-19,1509,1362,63,DE,DE-BW,8111,3061,Stuttgart
+634830,2020-06-19,1515,1362,63,DE,DE-BW,8111,3061,Stuttgart
 391640,2020-03-23,187,0,1,DE,DE-BW,8115,617,Landkreis Böblingen
 391640,2020-03-24,224,0,0,DE,DE-BW,8115,617,Landkreis Böblingen
 391640,2020-03-25,233,0,1,DE,DE-BW,8115,617,Landkreis Böblingen
@@ -176,7 +176,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 391640,2020-06-16,1413,1220,47,DE,DE-BW,8115,617,Landkreis Böblingen
 391640,2020-06-17,1422,1220,47,DE,DE-BW,8115,617,Landkreis Böblingen
 391640,2020-06-18,1415,1220,47,DE,DE-BW,8115,617,Landkreis Böblingen
-391640,2020-06-19,1415,1220,47,DE,DE-BW,8115,617,Landkreis Böblingen
+391640,2020-06-19,1416,1220,47,DE,DE-BW,8115,617,Landkreis Böblingen
 533859,2020-03-23,435,0,3,DE,DE-BW,8116,817,Landkreis Esslingen
 533859,2020-03-24,462,0,3,DE,DE-BW,8116,817,Landkreis Esslingen
 533859,2020-03-25,493,0,3,DE,DE-BW,8116,817,Landkreis Esslingen
@@ -265,7 +265,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 533859,2020-06-16,1841,1600,114,DE,DE-BW,8116,817,Landkreis Esslingen
 533859,2020-06-17,1842,1600,115,DE,DE-BW,8116,817,Landkreis Esslingen
 533859,2020-06-18,1842,1600,115,DE,DE-BW,8116,817,Landkreis Esslingen
-533859,2020-06-19,1842,1600,115,DE,DE-BW,8116,817,Landkreis Esslingen
+533859,2020-06-19,1844,1600,115,DE,DE-BW,8116,817,Landkreis Esslingen
 257253,2020-03-23,166,0,1,DE,DE-BW,8117,393,Landkreis Göppingen
 257253,2020-03-24,166,0,1,DE,DE-BW,8117,393,Landkreis Göppingen
 257253,2020-03-25,216,0,1,DE,DE-BW,8117,393,Landkreis Göppingen
@@ -443,7 +443,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 543984,2020-06-16,1786,1645,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
 543984,2020-06-17,1786,1645,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
 543984,2020-06-18,1788,1645,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
-543984,2020-06-19,1788,1645,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
+543984,2020-06-19,1789,1645,72,DE,DE-BW,8118,777,Landkreis Ludwigsburg
 426158,2020-03-23,117,0,1,DE,DE-BW,8119,488,Rems-Murr-Kreis
 426158,2020-03-24,172,0,1,DE,DE-BW,8119,488,Rems-Murr-Kreis
 426158,2020-03-25,190,0,1,DE,DE-BW,8119,488,Rems-Murr-Kreis
@@ -532,7 +532,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 426158,2020-06-16,1600,1418,89,DE,DE-BW,8119,488,Rems-Murr-Kreis
 426158,2020-06-17,1609,1418,89,DE,DE-BW,8119,488,Rems-Murr-Kreis
 426158,2020-06-18,1612,1418,92,DE,DE-BW,8119,488,Rems-Murr-Kreis
-426158,2020-06-19,1612,1418,92,DE,DE-BW,8119,488,Rems-Murr-Kreis
+426158,2020-06-19,1616,1418,92,DE,DE-BW,8119,488,Rems-Murr-Kreis
 125960,2020-03-23,55,0,1,DE,DE-BW,8121,1260,Heilbronn
 125960,2020-03-24,60,0,1,DE,DE-BW,8121,1260,Heilbronn
 125960,2020-03-25,71,0,0,DE,DE-BW,8121,1260,Heilbronn
@@ -621,7 +621,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 125960,2020-06-16,450,411,16,DE,DE-BW,8121,1260,Heilbronn
 125960,2020-06-17,458,411,16,DE,DE-BW,8121,1260,Heilbronn
 125960,2020-06-18,459,411,16,DE,DE-BW,8121,1260,Heilbronn
-125960,2020-06-19,459,411,16,DE,DE-BW,8121,1260,Heilbronn
+125960,2020-06-19,460,411,16,DE,DE-BW,8121,1260,Heilbronn
 343068,2020-03-23,197,0,2,DE,DE-BW,8125,304,Landkreis Heilbronn
 343068,2020-03-24,212,0,3,DE,DE-BW,8125,304,Landkreis Heilbronn
 343068,2020-03-25,236,0,4,DE,DE-BW,8125,304,Landkreis Heilbronn
@@ -710,7 +710,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 343068,2020-06-16,948,815,41,DE,DE-BW,8125,304,Landkreis Heilbronn
 343068,2020-06-17,948,815,41,DE,DE-BW,8125,304,Landkreis Heilbronn
 343068,2020-06-18,948,815,41,DE,DE-BW,8125,304,Landkreis Heilbronn
-343068,2020-06-19,948,815,41,DE,DE-BW,8125,304,Landkreis Heilbronn
+343068,2020-06-19,949,815,42,DE,DE-BW,8125,304,Landkreis Heilbronn
 112010,2020-03-23,257,0,3,DE,DE-BW,8126,141,Hohenlohekreis
 112010,2020-03-24,278,0,3,DE,DE-BW,8126,141,Hohenlohekreis
 112010,2020-03-25,278,0,3,DE,DE-BW,8126,141,Hohenlohekreis
@@ -888,7 +888,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 195861,2020-06-16,867,678,58,DE,DE-BW,8127,129,Landkreis Schwäbisch Hall
 195861,2020-06-17,868,678,58,DE,DE-BW,8127,129,Landkreis Schwäbisch Hall
 195861,2020-06-18,868,678,58,DE,DE-BW,8127,129,Landkreis Schwäbisch Hall
-195861,2020-06-19,868,678,58,DE,DE-BW,8127,129,Landkreis Schwäbisch Hall
+195861,2020-06-19,869,678,58,DE,DE-BW,8127,129,Landkreis Schwäbisch Hall
 132321,2020-03-23,53,0,0,DE,DE-BW,8128,101,Main-Tauber-Kreis
 132321,2020-03-24,53,0,0,DE,DE-BW,8128,101,Main-Tauber-Kreis
 132321,2020-03-25,58,0,0,DE,DE-BW,8128,101,Main-Tauber-Kreis
@@ -1155,7 +1155,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 314002,2020-06-16,1384,1209,37,DE,DE-BW,8136,206,Ostalbkreis
 314002,2020-06-17,1390,1209,37,DE,DE-BW,8136,206,Ostalbkreis
 314002,2020-06-18,1396,1209,37,DE,DE-BW,8136,206,Ostalbkreis
-314002,2020-06-19,1396,1209,37,DE,DE-BW,8136,206,Ostalbkreis
+314002,2020-06-19,1400,1209,37,DE,DE-BW,8136,206,Ostalbkreis
 55123,2020-03-23,33,0,0,DE,DE-BW,8211,393,Baden-Baden
 55123,2020-03-24,36,0,1,DE,DE-BW,8211,393,Baden-Baden
 55123,2020-03-25,36,0,1,DE,DE-BW,8211,393,Baden-Baden
@@ -1333,7 +1333,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 313092,2020-06-16,391,360,13,DE,DE-BW,8212,1805,Karlsruhe
 313092,2020-06-17,392,360,13,DE,DE-BW,8212,1805,Karlsruhe
 313092,2020-06-18,392,360,13,DE,DE-BW,8212,1805,Karlsruhe
-313092,2020-06-19,392,360,13,DE,DE-BW,8212,1805,Karlsruhe
+313092,2020-06-19,396,360,13,DE,DE-BW,8212,1805,Karlsruhe
 444232,2020-03-23,154,0,0,DE,DE-BW,8215,401,Landkreis Karlsruhe
 444232,2020-03-24,172,0,0,DE,DE-BW,8215,401,Landkreis Karlsruhe
 444232,2020-03-25,189,0,1,DE,DE-BW,8215,401,Landkreis Karlsruhe
@@ -1956,7 +1956,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 158397,2020-06-16,756,719,27,DE,DE-BW,8235,188,Landkreis Calw
 158397,2020-06-17,756,719,27,DE,DE-BW,8235,188,Landkreis Calw
 158397,2020-06-18,756,719,27,DE,DE-BW,8235,188,Landkreis Calw
-158397,2020-06-19,756,719,27,DE,DE-BW,8235,188,Landkreis Calw
+158397,2020-06-19,758,719,27,DE,DE-BW,8235,188,Landkreis Calw
 117935,2020-03-23,39,0,0,DE,DE-BW,8237,132,Landkreis Freudenstadt
 117935,2020-03-24,39,0,0,DE,DE-BW,8237,132,Landkreis Freudenstadt
 117935,2020-03-25,69,0,0,DE,DE-BW,8237,132,Landkreis Freudenstadt
@@ -2312,7 +2312,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 165383,2020-06-16,520,444,42,DE,DE-BW,8316,231,Landkreis Emmendingen
 165383,2020-06-17,520,444,43,DE,DE-BW,8316,231,Landkreis Emmendingen
 165383,2020-06-18,521,444,43,DE,DE-BW,8316,231,Landkreis Emmendingen
-165383,2020-06-19,521,444,43,DE,DE-BW,8316,231,Landkreis Emmendingen
+165383,2020-06-19,528,444,43,DE,DE-BW,8316,231,Landkreis Emmendingen
 429479,2020-03-23,104,0,4,DE,DE-BW,8317,222,Ortenaukreis
 429479,2020-03-24,120,0,4,DE,DE-BW,8317,222,Ortenaukreis
 429479,2020-03-25,135,0,4,DE,DE-BW,8317,222,Ortenaukreis
@@ -2401,7 +2401,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 429479,2020-06-16,1210,1015,125,DE,DE-BW,8317,222,Ortenaukreis
 429479,2020-06-17,1210,1015,125,DE,DE-BW,8317,222,Ortenaukreis
 429479,2020-06-18,1210,1015,125,DE,DE-BW,8317,222,Ortenaukreis
-429479,2020-06-19,1210,1015,125,DE,DE-BW,8317,222,Ortenaukreis
+429479,2020-06-19,1210,1015,126,DE,DE-BW,8317,222,Ortenaukreis
 139455,2020-03-23,8,0,1,DE,DE-BW,8325,176,Landkreis Rottweil
 139455,2020-03-24,9,0,1,DE,DE-BW,8325,176,Landkreis Rottweil
 139455,2020-03-25,29,0,2,DE,DE-BW,8325,176,Landkreis Rottweil
@@ -2935,7 +2935,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 286748,2020-06-16,1544,1422,81,DE,DE-BW,8415,252010,Landkreis Reutlingen
 286748,2020-06-17,1544,1422,82,DE,DE-BW,8415,252010,Landkreis Reutlingen
 286748,2020-06-18,1545,1422,82,DE,DE-BW,8415,252010,Landkreis Reutlingen
-286748,2020-06-19,1545,1422,82,DE,DE-BW,8415,252010,Landkreis Reutlingen
+286748,2020-06-19,1546,1422,82,DE,DE-BW,8415,252010,Landkreis Reutlingen
 227331,2020-03-23,144,0,0,DE,DE-BW,8416,413,Landkreis Tübingen
 227331,2020-03-24,161,0,0,DE,DE-BW,8416,413,Landkreis Tübingen
 227331,2020-03-25,324,0,0,DE,DE-BW,8416,413,Landkreis Tübingen
@@ -3024,7 +3024,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 227331,2020-06-16,1291,1184,59,DE,DE-BW,8416,413,Landkreis Tübingen
 227331,2020-06-17,1292,1184,59,DE,DE-BW,8416,413,Landkreis Tübingen
 227331,2020-06-18,1292,1184,59,DE,DE-BW,8416,413,Landkreis Tübingen
-227331,2020-06-19,1292,1184,59,DE,DE-BW,8416,413,Landkreis Tübingen
+227331,2020-06-19,1292,1184,60,DE,DE-BW,8416,413,Landkreis Tübingen
 126329,2020-03-23,53,0,0,DE,DE-BW,8421,1064,Ulm
 126329,2020-03-24,58,0,0,DE,DE-BW,8421,1064,Ulm
 126329,2020-03-25,72,0,0,DE,DE-BW,8421,1064,Ulm
@@ -4270,7 +4270,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 174208,2020-06-16,541,421,38,DE,DE-BY,9671,217,Landkreis Aschaffenburg
 174208,2020-06-17,541,421,38,DE,DE-BY,9671,217,Landkreis Aschaffenburg
 174208,2020-06-18,541,421,38,DE,DE-BY,9671,217,Landkreis Aschaffenburg
-174208,2020-06-19,541,421,38,DE,DE-BY,9671,217,Landkreis Aschaffenburg
+174208,2020-06-19,542,421,38,DE,DE-BY,9671,217,Landkreis Aschaffenburg
 70527,2020-03-23,28,0,0,DE,DE-BY,9661,1129,Aschaffenburg
 70527,2020-03-24,28,0,0,DE,DE-BY,9661,1129,Aschaffenburg
 70527,2020-03-25,31,0,0,DE,DE-BY,9661,1129,Aschaffenburg
@@ -5515,8 +5515,8 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 77592,2020-06-17,200,139,20,DE,DE-BY,9461,1420,Bamberg
 77592,2020-06-18,200,139,20,DE,DE-BY,9461,155184,Bamberg
 77592,2020-06-18,200,139,20,DE,DE-BY,9461,1420,Bamberg
-77592,2020-06-19,200,139,20,DE,DE-BY,9461,155184,Bamberg
-77592,2020-06-19,200,139,20,DE,DE-BY,9461,1420,Bamberg
+77592,2020-06-19,202,139,22,DE,DE-BY,9461,155184,Bamberg
+77592,2020-06-19,202,139,22,DE,DE-BY,9461,1420,Bamberg
 103656,2020-03-23,26,0,0,DE,DE-BY,9472,217,Landkreis Bayreuth
 103656,2020-03-23,26,0,0,DE,DE-BY,9472,76,Landkreis Bayreuth
 103656,2020-03-23,26,0,0,DE,DE-BY,9472,2,Landkreis Bayreuth
@@ -6133,13 +6133,13 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 103656,2020-06-18,421,376,28,DE,DE-BY,9472,2,Landkreis Bayreuth
 103656,2020-06-18,421,376,28,DE,DE-BY,9472,1,Landkreis Bayreuth
 103656,2020-06-18,421,376,28,DE,DE-BY,9472,1,Landkreis Bayreuth
-103656,2020-06-19,421,376,28,DE,DE-BY,9472,217,Landkreis Bayreuth
-103656,2020-06-19,421,376,28,DE,DE-BY,9472,76,Landkreis Bayreuth
-103656,2020-06-19,421,376,28,DE,DE-BY,9472,2,Landkreis Bayreuth
-103656,2020-06-19,421,376,28,DE,DE-BY,9472,2,Landkreis Bayreuth
-103656,2020-06-19,421,376,28,DE,DE-BY,9472,2,Landkreis Bayreuth
-103656,2020-06-19,421,376,28,DE,DE-BY,9472,1,Landkreis Bayreuth
-103656,2020-06-19,421,376,28,DE,DE-BY,9472,1,Landkreis Bayreuth
+103656,2020-06-19,422,376,28,DE,DE-BY,9472,217,Landkreis Bayreuth
+103656,2020-06-19,422,376,28,DE,DE-BY,9472,76,Landkreis Bayreuth
+103656,2020-06-19,422,376,28,DE,DE-BY,9472,2,Landkreis Bayreuth
+103656,2020-06-19,422,376,28,DE,DE-BY,9472,2,Landkreis Bayreuth
+103656,2020-06-19,422,376,28,DE,DE-BY,9472,2,Landkreis Bayreuth
+103656,2020-06-19,422,376,28,DE,DE-BY,9472,1,Landkreis Bayreuth
+103656,2020-06-19,422,376,28,DE,DE-BY,9472,1,Landkreis Bayreuth
 74657,2020-03-23,7,0,0,DE,DE-BY,9462,1116,Bayreuth
 74657,2020-03-24,9,0,0,DE,DE-BY,9462,1116,Bayreuth
 74657,2020-03-25,19,0,0,DE,DE-BY,9462,1116,Bayreuth
@@ -6228,7 +6228,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 74657,2020-06-16,210,181,12,DE,DE-BY,9462,1116,Bayreuth
 74657,2020-06-17,210,181,12,DE,DE-BY,9462,1116,Bayreuth
 74657,2020-06-18,208,181,11,DE,DE-BY,9462,1116,Bayreuth
-74657,2020-06-19,208,181,11,DE,DE-BY,9462,1116,Bayreuth
+74657,2020-06-19,207,181,11,DE,DE-BY,9462,1116,Bayreuth
 105722,2020-03-23,8,0,0,DE,DE-BY,9172,107,Landkreis Berchtesgadener Land
 105722,2020-03-24,20,0,0,DE,DE-BY,9172,107,Landkreis Berchtesgadener Land
 105722,2020-03-25,43,0,0,DE,DE-BY,9172,107,Landkreis Berchtesgadener Land
@@ -6317,7 +6317,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 105722,2020-06-16,305,274,22,DE,DE-BY,9172,107,Landkreis Berchtesgadener Land
 105722,2020-06-17,305,274,22,DE,DE-BY,9172,107,Landkreis Berchtesgadener Land
 105722,2020-06-18,305,274,22,DE,DE-BY,9172,107,Landkreis Berchtesgadener Land
-105722,2020-06-19,305,274,22,DE,DE-BY,9172,107,Landkreis Berchtesgadener Land
+105722,2020-06-19,308,274,22,DE,DE-BY,9172,107,Landkreis Berchtesgadener Land
 127882,2020-03-23,73,0,0,DE,DE-BY,9372,80,Landkreis Cham
 127882,2020-03-24,75,0,0,DE,DE-BY,9372,80,Landkreis Cham
 127882,2020-03-25,80,0,0,DE,DE-BY,9372,80,Landkreis Cham
@@ -6759,10 +6759,10 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 86906,2020-06-18,363,183,26,DE,DE-BY,9473,1,Landkreis Coburg
 86906,2020-06-18,363,183,26,DE,DE-BY,9473,1,Landkreis Coburg
 86906,2020-06-18,363,183,26,DE,DE-BY,9473,1,Landkreis Coburg
-86906,2020-06-19,363,183,26,DE,DE-BY,9473,138,Landkreis Coburg
-86906,2020-06-19,363,183,26,DE,DE-BY,9473,1,Landkreis Coburg
-86906,2020-06-19,363,183,26,DE,DE-BY,9473,1,Landkreis Coburg
-86906,2020-06-19,363,183,26,DE,DE-BY,9473,1,Landkreis Coburg
+86906,2020-06-19,365,183,28,DE,DE-BY,9473,138,Landkreis Coburg
+86906,2020-06-19,365,183,28,DE,DE-BY,9473,1,Landkreis Coburg
+86906,2020-06-19,365,183,28,DE,DE-BY,9473,1,Landkreis Coburg
+86906,2020-06-19,365,183,28,DE,DE-BY,9473,1,Landkreis Coburg
 41249,2020-03-25,10,0,0,DE,DE-BY,9463,854,Coburg
 41249,2020-03-25,10,0,0,DE,DE-BY,9463,854,Coburg
 41249,2020-03-26,13,0,0,DE,DE-BY,9463,854,Coburg
@@ -6935,8 +6935,8 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 41249,2020-06-17,99,62,1,DE,DE-BY,9463,854,Coburg
 41249,2020-06-18,102,62,1,DE,DE-BY,9463,854,Coburg
 41249,2020-06-18,102,62,1,DE,DE-BY,9463,854,Coburg
-41249,2020-06-19,102,62,1,DE,DE-BY,9463,854,Coburg
-41249,2020-06-19,102,62,1,DE,DE-BY,9463,854,Coburg
+41249,2020-06-19,103,62,1,DE,DE-BY,9463,854,Coburg
+41249,2020-06-19,103,62,1,DE,DE-BY,9463,854,Coburg
 153884,2020-03-23,69,0,0,DE,DE-BY,9174,263,Landkreis Dachau
 153884,2020-03-24,76,0,0,DE,DE-BY,9174,263,Landkreis Dachau
 153884,2020-03-25,95,0,0,DE,DE-BY,9174,263,Landkreis Dachau
@@ -7826,7 +7826,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 96217,2020-06-16,218,193,9,DE,DE-BY,9279,86,Landkreis Dingolfing-Landau
 96217,2020-06-17,218,193,9,DE,DE-BY,9279,86,Landkreis Dingolfing-Landau
 96217,2020-06-18,218,193,9,DE,DE-BY,9279,86,Landkreis Dingolfing-Landau
-96217,2020-06-19,218,193,9,DE,DE-BY,9279,86,Landkreis Dingolfing-Landau
+96217,2020-06-19,220,193,9,DE,DE-BY,9279,86,Landkreis Dingolfing-Landau
 133496,2020-03-23,10,0,0,DE,DE-BY,9779,92,Landkreis Donau-Ries
 133496,2020-03-24,26,0,0,DE,DE-BY,9779,92,Landkreis Donau-Ries
 133496,2020-03-25,38,0,0,DE,DE-BY,9779,92,Landkreis Donau-Ries
@@ -8532,13 +8532,13 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 142142,2020-06-18,517,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
 142142,2020-06-18,517,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
 142142,2020-06-18,517,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
-142142,2020-06-19,517,457,5,DE,DE-BY,9175,175,Landkreis Ebersberg
-142142,2020-06-19,517,457,5,DE,DE-BY,9175,160,Landkreis Ebersberg
-142142,2020-06-19,517,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
-142142,2020-06-19,517,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
-142142,2020-06-19,517,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
-142142,2020-06-19,517,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
-142142,2020-06-19,517,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
+142142,2020-06-19,518,457,5,DE,DE-BY,9175,175,Landkreis Ebersberg
+142142,2020-06-19,518,457,5,DE,DE-BY,9175,160,Landkreis Ebersberg
+142142,2020-06-19,518,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
+142142,2020-06-19,518,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
+142142,2020-06-19,518,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
+142142,2020-06-19,518,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
+142142,2020-06-19,518,457,5,DE,DE-BY,9175,1,Landkreis Ebersberg
 132341,2020-03-23,25,0,0,DE,DE-BY,9176,80,Landkreis Eichstätt
 132341,2020-03-24,25,0,0,DE,DE-BY,9176,80,Landkreis Eichstätt
 132341,2020-03-25,35,0,0,DE,DE-BY,9176,80,Landkreis Eichstätt
@@ -9244,13 +9244,13 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 137660,2020-06-18,616,565,11,DE,DE-BY,9177,1,Landkreis Erding
 137660,2020-06-18,616,565,11,DE,DE-BY,9177,1,Landkreis Erding
 137660,2020-06-18,616,565,11,DE,DE-BY,9177,1,Landkreis Erding
-137660,2020-06-19,616,565,11,DE,DE-BY,9177,121,Landkreis Erding
-137660,2020-06-19,616,565,11,DE,DE-BY,9177,102,Landkreis Erding
-137660,2020-06-19,616,565,11,DE,DE-BY,9177,1,Landkreis Erding
-137660,2020-06-19,616,565,11,DE,DE-BY,9177,1,Landkreis Erding
-137660,2020-06-19,616,565,11,DE,DE-BY,9177,1,Landkreis Erding
-137660,2020-06-19,616,565,11,DE,DE-BY,9177,1,Landkreis Erding
-137660,2020-06-19,616,565,11,DE,DE-BY,9177,1,Landkreis Erding
+137660,2020-06-19,627,565,11,DE,DE-BY,9177,121,Landkreis Erding
+137660,2020-06-19,627,565,11,DE,DE-BY,9177,102,Landkreis Erding
+137660,2020-06-19,627,565,11,DE,DE-BY,9177,1,Landkreis Erding
+137660,2020-06-19,627,565,11,DE,DE-BY,9177,1,Landkreis Erding
+137660,2020-06-19,627,565,11,DE,DE-BY,9177,1,Landkreis Erding
+137660,2020-06-19,627,565,11,DE,DE-BY,9177,1,Landkreis Erding
+137660,2020-06-19,627,565,11,DE,DE-BY,9177,1,Landkreis Erding
 111962,2020-03-23,24,0,0,DE,DE-BY,9562,1454,Erlangen
 111962,2020-03-23,24,0,0,DE,DE-BY,9562,0,Erlangen
 111962,2020-03-24,24,0,0,DE,DE-BY,9562,1454,Erlangen
@@ -9427,8 +9427,8 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 111962,2020-06-17,258,227,10,DE,DE-BY,9562,0,Erlangen
 111962,2020-06-18,258,227,10,DE,DE-BY,9562,1454,Erlangen
 111962,2020-06-18,258,227,10,DE,DE-BY,9562,0,Erlangen
-111962,2020-06-19,258,227,10,DE,DE-BY,9562,1454,Erlangen
-111962,2020-06-19,258,227,10,DE,DE-BY,9562,0,Erlangen
+111962,2020-06-19,259,227,11,DE,DE-BY,9562,1454,Erlangen
+111962,2020-06-19,259,227,11,DE,DE-BY,9562,0,Erlangen
 136271,2020-03-23,27,0,0,DE,DE-BY,9572,2,Landkreis Erlangen-Höchstadt
 136271,2020-03-24,27,0,0,DE,DE-BY,9572,2,Landkreis Erlangen-Höchstadt
 136271,2020-03-25,31,0,0,DE,DE-BY,9572,2,Landkreis Erlangen-Höchstadt
@@ -9517,7 +9517,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 136271,2020-06-16,244,190,8,DE,DE-BY,9572,2,Landkreis Erlangen-Höchstadt
 136271,2020-06-17,244,190,11,DE,DE-BY,9572,2,Landkreis Erlangen-Höchstadt
 136271,2020-06-18,244,190,11,DE,DE-BY,9572,2,Landkreis Erlangen-Höchstadt
-136271,2020-06-19,244,190,11,DE,DE-BY,9572,2,Landkreis Erlangen-Höchstadt
+136271,2020-06-19,245,190,11,DE,DE-BY,9572,2,Landkreis Erlangen-Höchstadt
 116099,2020-03-23,25,0,0,DE,DE-BY,9474,231,Landkreis Forchheim
 116099,2020-03-23,25,0,0,DE,DE-BY,9474,151,Landkreis Forchheim
 116099,2020-03-23,25,0,0,DE,DE-BY,9474,2,Landkreis Forchheim
@@ -10229,7 +10229,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 179116,2020-06-16,958,851,42,DE,DE-BY,9178,148,Landkreis Freising
 179116,2020-06-17,959,851,43,DE,DE-BY,9178,148,Landkreis Freising
 179116,2020-06-18,959,851,43,DE,DE-BY,9178,148,Landkreis Freising
-179116,2020-06-19,959,851,43,DE,DE-BY,9178,148,Landkreis Freising
+179116,2020-06-19,966,851,43,DE,DE-BY,9178,148,Landkreis Freising
 78355,2020-03-23,16,0,0,DE,DE-BY,9272,76,Landkreis Freyung-Grafenau
 78355,2020-03-24,19,0,0,DE,DE-BY,9272,76,Landkreis Freyung-Grafenau
 78355,2020-03-25,30,0,0,DE,DE-BY,9272,76,Landkreis Freyung-Grafenau
@@ -10318,7 +10318,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 78355,2020-06-16,194,174,12,DE,DE-BY,9272,76,Landkreis Freyung-Grafenau
 78355,2020-06-17,194,174,12,DE,DE-BY,9272,76,Landkreis Freyung-Grafenau
 78355,2020-06-18,194,174,12,DE,DE-BY,9272,76,Landkreis Freyung-Grafenau
-78355,2020-06-19,194,174,12,DE,DE-BY,9272,76,Landkreis Freyung-Grafenau
+78355,2020-06-19,195,174,12,DE,DE-BY,9272,76,Landkreis Freyung-Grafenau
 219320,2020-03-23,51,0,0,DE,DE-BY,9179,397,Landkreis Fürstenfeldbruck
 219320,2020-03-24,94,0,0,DE,DE-BY,9179,397,Landkreis Fürstenfeldbruck
 219320,2020-03-25,110,0,0,DE,DE-BY,9179,397,Landkreis Fürstenfeldbruck
@@ -10407,7 +10407,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 219320,2020-06-16,902,841,35,DE,DE-BY,9179,397,Landkreis Fürstenfeldbruck
 219320,2020-06-17,902,841,35,DE,DE-BY,9179,397,Landkreis Fürstenfeldbruck
 219320,2020-06-18,903,841,35,DE,DE-BY,9179,397,Landkreis Fürstenfeldbruck
-219320,2020-06-19,903,841,35,DE,DE-BY,9179,397,Landkreis Fürstenfeldbruck
+219320,2020-06-19,908,841,35,DE,DE-BY,9179,397,Landkreis Fürstenfeldbruck
 117387,2020-03-23,19,0,0,DE,DE-BY,9573,377,Landkreis Fürth
 117387,2020-03-24,22,0,0,DE,DE-BY,9573,377,Landkreis Fürth
 117387,2020-03-25,28,0,0,DE,DE-BY,9573,377,Landkreis Fürth
@@ -10585,7 +10585,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 127748,2020-06-16,405,302,38,DE,DE-BY,9563,2016,Fürth
 127748,2020-06-17,405,302,38,DE,DE-BY,9563,2016,Fürth
 127748,2020-06-18,405,302,38,DE,DE-BY,9563,2016,Fürth
-127748,2020-06-19,405,302,38,DE,DE-BY,9563,2016,Fürth
+127748,2020-06-19,406,302,38,DE,DE-BY,9563,2016,Fürth
 88467,2020-03-23,43,0,0,DE,DE-BY,9180,99,Landkreis Garmisch-Partenkirchen
 88467,2020-03-23,43,0,0,DE,DE-BY,9180,77,Landkreis Garmisch-Partenkirchen
 88467,2020-03-23,43,0,0,DE,DE-BY,9180,0,Landkreis Garmisch-Partenkirchen
@@ -11386,7 +11386,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 84599,2020-06-16,163,146,6,DE,DE-BY,9674,83,Landkreis Haßberge
 84599,2020-06-17,164,146,6,DE,DE-BY,9674,83,Landkreis Haßberge
 84599,2020-06-18,165,146,6,DE,DE-BY,9674,83,Landkreis Haßberge
-84599,2020-06-19,165,146,6,DE,DE-BY,9674,83,Landkreis Haßberge
+84599,2020-06-19,166,146,6,DE,DE-BY,9674,83,Landkreis Haßberge
 95311,2020-03-23,34,0,0,DE,DE-BY,9475,388,Landkreis Hof
 95311,2020-03-23,34,0,0,DE,DE-BY,9475,118,Landkreis Hof
 95311,2020-03-23,34,0,0,DE,DE-BY,9475,3,Landkreis Hof
@@ -12276,7 +12276,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 136981,2020-06-16,471,359,37,DE,DE-BY,9161,1027,Ingolstadt
 136981,2020-06-17,471,359,37,DE,DE-BY,9161,1027,Ingolstadt
 136981,2020-06-18,472,359,37,DE,DE-BY,9161,1027,Ingolstadt
-136981,2020-06-19,472,359,37,DE,DE-BY,9161,1027,Ingolstadt
+136981,2020-06-19,473,359,37,DE,DE-BY,9161,1027,Ingolstadt
 43893,2020-03-23,6,0,0,DE,DE-BY,9762,1097,Kaufbeuren
 43893,2020-03-23,6,0,0,DE,DE-BY,9762,1096,Kaufbeuren
 43893,2020-03-24,8,0,0,DE,DE-BY,9762,1097,Kaufbeuren
@@ -12453,8 +12453,8 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 43893,2020-06-17,110,103,5,DE,DE-BY,9762,1096,Kaufbeuren
 43893,2020-06-18,110,103,5,DE,DE-BY,9762,1097,Kaufbeuren
 43893,2020-06-18,110,103,5,DE,DE-BY,9762,1096,Kaufbeuren
-43893,2020-06-19,110,103,5,DE,DE-BY,9762,1097,Kaufbeuren
-43893,2020-06-19,110,103,5,DE,DE-BY,9762,1096,Kaufbeuren
+43893,2020-06-19,111,103,5,DE,DE-BY,9762,1097,Kaufbeuren
+43893,2020-06-19,111,103,5,DE,DE-BY,9762,1096,Kaufbeuren
 122258,2020-03-23,48,0,0,DE,DE-BY,9273,136,Landkreis Kelheim
 122258,2020-03-23,48,0,0,DE,DE-BY,9273,84,Landkreis Kelheim
 122258,2020-03-23,48,0,0,DE,DE-BY,9273,1,Landkreis Kelheim
@@ -14412,7 +14412,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 120071,2020-06-16,364,328,10,DE,DE-BY,9181,103,Landkreis Landsberg am Lech
 120071,2020-06-17,366,328,10,DE,DE-BY,9181,103,Landkreis Landsberg am Lech
 120071,2020-06-18,365,328,10,DE,DE-BY,9181,103,Landkreis Landsberg am Lech
-120071,2020-06-19,365,328,10,DE,DE-BY,9181,103,Landkreis Landsberg am Lech
+120071,2020-06-19,364,328,10,DE,DE-BY,9181,103,Landkreis Landsberg am Lech
 158698,2020-03-23,109,0,0,DE,DE-BY,9274,85,Landkreis Landshut
 158698,2020-03-24,114,0,0,DE,DE-BY,9274,85,Landkreis Landshut
 158698,2020-03-25,135,0,0,DE,DE-BY,9274,85,Landkreis Landshut
@@ -14501,7 +14501,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 158698,2020-06-16,670,411,31,DE,DE-BY,9274,85,Landkreis Landshut
 158698,2020-06-17,670,411,31,DE,DE-BY,9274,85,Landkreis Landshut
 158698,2020-06-18,672,411,31,DE,DE-BY,9274,85,Landkreis Landshut
-158698,2020-06-19,672,411,31,DE,DE-BY,9274,85,Landkreis Landshut
+158698,2020-06-19,673,411,31,DE,DE-BY,9274,85,Landkreis Landshut
 72404,2020-03-23,38,0,0,DE,DE-BY,9261,1099,Landshut
 72404,2020-03-23,38,0,0,DE,DE-BY,9261,37,Landshut
 72404,2020-03-23,38,0,0,DE,DE-BY,9261,0,Landshut
@@ -14766,9 +14766,9 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 72404,2020-06-18,280,232,9,DE,DE-BY,9261,1099,Landshut
 72404,2020-06-18,280,232,9,DE,DE-BY,9261,37,Landshut
 72404,2020-06-18,280,232,9,DE,DE-BY,9261,0,Landshut
-72404,2020-06-19,280,232,9,DE,DE-BY,9261,1099,Landshut
-72404,2020-06-19,280,232,9,DE,DE-BY,9261,37,Landshut
-72404,2020-06-19,280,232,9,DE,DE-BY,9261,0,Landshut
+72404,2020-06-19,279,232,9,DE,DE-BY,9261,1099,Landshut
+72404,2020-06-19,279,232,9,DE,DE-BY,9261,37,Landshut
+72404,2020-06-19,279,232,9,DE,DE-BY,9261,0,Landshut
 66838,2020-03-23,21,0,0,DE,DE-BY,9478,120,Landkreis Lichtenfels
 66838,2020-03-24,25,0,0,DE,DE-BY,9478,120,Landkreis Lichtenfels
 66838,2020-03-25,27,0,0,DE,DE-BY,9478,120,Landkreis Lichtenfels
@@ -16459,7 +16459,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 348871,2020-06-16,1406,1276,83,DE,DE-BY,9184,6,Landkreis München
 348871,2020-06-17,1410,1276,83,DE,DE-BY,9184,6,Landkreis München
 348871,2020-06-18,1410,1276,83,DE,DE-BY,9184,6,Landkreis München
-348871,2020-06-19,1410,1276,83,DE,DE-BY,9184,6,Landkreis München
+348871,2020-06-19,1407,1276,83,DE,DE-BY,9184,6,Landkreis München
 1471508,2020-03-23,1237,0,1,DE,DE-BY,9162,4735,München
 1471508,2020-03-24,1317,0,1,DE,DE-BY,9162,4735,München
 1471508,2020-03-25,1317,0,1,DE,DE-BY,9162,4735,München
@@ -16548,7 +16548,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 1471508,2020-06-16,6582,5720,212,DE,DE-BY,9162,4735,München
 1471508,2020-06-17,6587,5720,212,DE,DE-BY,9162,4735,München
 1471508,2020-06-18,6599,5720,213,DE,DE-BY,9162,4735,München
-1471508,2020-06-19,6599,5720,213,DE,DE-BY,9162,4735,München
+1471508,2020-06-19,6603,5720,215,DE,DE-BY,9162,4735,München
 174200,2020-03-23,66,0,1,DE,DE-BY,9775,332,Landkreis Neu-Ulm
 174200,2020-03-24,66,0,1,DE,DE-BY,9775,332,Landkreis Neu-Ulm
 174200,2020-03-25,75,0,1,DE,DE-BY,9775,332,Landkreis Neu-Ulm
@@ -16726,7 +16726,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 96680,2020-06-16,332,278,15,DE,DE-BY,9185,103,Landkreis Neuburg-Schrobenhausen
 96680,2020-06-17,333,278,17,DE,DE-BY,9185,103,Landkreis Neuburg-Schrobenhausen
 96680,2020-06-18,333,278,17,DE,DE-BY,9185,103,Landkreis Neuburg-Schrobenhausen
-96680,2020-06-19,333,278,17,DE,DE-BY,9185,103,Landkreis Neuburg-Schrobenhausen
+96680,2020-06-19,333,278,18,DE,DE-BY,9185,103,Landkreis Neuburg-Schrobenhausen
 133561,2020-03-23,18,0,0,DE,DE-BY,9373,78,Landkreis Neumarkt in der Oberpfalz
 133561,2020-03-24,35,0,0,DE,DE-BY,9373,78,Landkreis Neumarkt in der Oberpfalz
 133561,2020-03-25,43,0,0,DE,DE-BY,9373,78,Landkreis Neumarkt in der Oberpfalz
@@ -17082,7 +17082,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 518365,2020-06-16,1087,948,41,DE,DE-BY,9564,2780,Nürnberg
 518365,2020-06-17,1092,948,41,DE,DE-BY,9564,2780,Nürnberg
 518365,2020-06-18,1095,948,48,DE,DE-BY,9564,2780,Nürnberg
-518365,2020-06-19,1095,948,48,DE,DE-BY,9564,2780,Nürnberg
+518365,2020-06-19,1096,948,48,DE,DE-BY,9564,2780,Nürnberg
 170365,2020-03-23,60,0,2,DE,DE-BY,9574,186,Landkreis Nürnberger Land
 170365,2020-03-24,69,0,2,DE,DE-BY,9574,186,Landkreis Nürnberger Land
 170365,2020-03-25,82,0,2,DE,DE-BY,9574,186,Landkreis Nürnberger Land
@@ -17705,7 +17705,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 127151,2020-06-16,376,326,19,DE,DE-BY,9186,166,Landkreis Pfaffenhofen a. d. Ilm
 127151,2020-06-17,376,326,19,DE,DE-BY,9186,166,Landkreis Pfaffenhofen a. d. Ilm
 127151,2020-06-18,377,326,19,DE,DE-BY,9186,166,Landkreis Pfaffenhofen a. d. Ilm
-127151,2020-06-19,377,326,19,DE,DE-BY,9186,166,Landkreis Pfaffenhofen a. d. Ilm
+127151,2020-06-19,377,326,20,DE,DE-BY,9186,166,Landkreis Pfaffenhofen a. d. Ilm
 77656,2020-03-23,25,0,0,DE,DE-BY,9276,133,Landkreis Regen
 77656,2020-03-23,25,0,0,DE,DE-BY,9276,78,Landkreis Regen
 77656,2020-03-23,25,0,0,DE,DE-BY,9276,1,Landkreis Regen
@@ -18684,7 +18684,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 260983,2020-06-16,2285,1574,193,DE,DE-BY,9187,132,Landkreis Rosenheim
 260983,2020-06-17,2285,1574,193,DE,DE-BY,9187,132,Landkreis Rosenheim
 260983,2020-06-18,2285,1574,193,DE,DE-BY,9187,132,Landkreis Rosenheim
-260983,2020-06-19,2285,1574,193,DE,DE-BY,9187,132,Landkreis Rosenheim
+260983,2020-06-19,2285,1574,194,DE,DE-BY,9187,132,Landkreis Rosenheim
 63324,2020-03-23,48,0,0,DE,DE-BY,9163,1701,Rosenheim
 63324,2020-03-23,48,0,0,DE,DE-BY,9163,1687,Rosenheim
 63324,2020-03-24,49,0,0,DE,DE-BY,9163,1701,Rosenheim
@@ -18861,8 +18861,8 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 63324,2020-06-17,513,290,23,DE,DE-BY,9163,1687,Rosenheim
 63324,2020-06-18,513,290,23,DE,DE-BY,9163,1701,Rosenheim
 63324,2020-06-18,513,290,23,DE,DE-BY,9163,1687,Rosenheim
-63324,2020-06-19,513,290,23,DE,DE-BY,9163,1701,Rosenheim
-63324,2020-06-19,513,290,23,DE,DE-BY,9163,1687,Rosenheim
+63324,2020-06-19,514,290,23,DE,DE-BY,9163,1701,Rosenheim
+63324,2020-06-19,514,290,23,DE,DE-BY,9163,1687,Rosenheim
 126958,2020-03-23,21,0,0,DE,DE-BY,9576,116,Landkreis Roth
 126958,2020-03-24,25,0,0,DE,DE-BY,9576,116,Landkreis Roth
 126958,2020-03-25,27,0,0,DE,DE-BY,9576,116,Landkreis Roth
@@ -19396,7 +19396,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 115106,2020-06-16,511,455,25,DE,DE-BY,9678,123,Landkreis Schweinfurt
 115106,2020-06-17,511,455,25,DE,DE-BY,9678,123,Landkreis Schweinfurt
 115106,2020-06-18,514,455,25,DE,DE-BY,9678,123,Landkreis Schweinfurt
-115106,2020-06-19,514,455,25,DE,DE-BY,9678,123,Landkreis Schweinfurt
+115106,2020-06-19,515,455,25,DE,DE-BY,9678,123,Landkreis Schweinfurt
 54032,2020-03-23,7,0,0,DE,DE-BY,9662,1513,Schweinfurt
 54032,2020-03-23,7,0,0,DE,DE-BY,9662,1513,Schweinfurt
 54032,2020-03-24,7,0,0,DE,DE-BY,9662,1513,Schweinfurt
@@ -19573,8 +19573,8 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 54032,2020-06-17,177,151,18,DE,DE-BY,9662,1513,Schweinfurt
 54032,2020-06-18,178,151,18,DE,DE-BY,9662,1513,Schweinfurt
 54032,2020-06-18,178,151,18,DE,DE-BY,9662,1513,Schweinfurt
-54032,2020-06-19,178,151,18,DE,DE-BY,9662,1513,Schweinfurt
-54032,2020-06-19,178,151,18,DE,DE-BY,9662,1513,Schweinfurt
+54032,2020-06-19,177,151,17,DE,DE-BY,9662,1513,Schweinfurt
+54032,2020-06-19,177,151,17,DE,DE-BY,9662,1513,Schweinfurt
 136092,2020-03-23,110,14,1,DE,DE-BY,9188,223,Landkreis Starnberg
 136092,2020-03-24,110,14,1,DE,DE-BY,9188,223,Landkreis Starnberg
 136092,2020-03-25,110,14,1,DE,DE-BY,9188,223,Landkreis Starnberg
@@ -19840,8 +19840,8 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 47794,2020-06-17,426,215,48,DE,DE-BY,9263,707,Straubing
 47794,2020-06-18,426,215,48,DE,DE-BY,9263,707,Straubing
 47794,2020-06-18,426,215,48,DE,DE-BY,9263,707,Straubing
-47794,2020-06-19,426,215,48,DE,DE-BY,9263,707,Straubing
-47794,2020-06-19,426,215,48,DE,DE-BY,9263,707,Straubing
+47794,2020-06-19,427,215,48,DE,DE-BY,9263,707,Straubing
+47794,2020-06-19,427,215,48,DE,DE-BY,9263,707,Straubing
 100649,2020-03-23,46,0,0,DE,DE-BY,9278,67,Landkreis Straubing-Bogen
 100649,2020-03-24,49,0,0,DE,DE-BY,9278,67,Landkreis Straubing-Bogen
 100649,2020-03-25,50,0,0,DE,DE-BY,9278,67,Landkreis Straubing-Bogen
@@ -19930,7 +19930,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 100649,2020-06-16,548,315,28,DE,DE-BY,9278,67,Landkreis Straubing-Bogen
 100649,2020-06-17,548,315,29,DE,DE-BY,9278,67,Landkreis Straubing-Bogen
 100649,2020-06-18,549,315,29,DE,DE-BY,9278,67,Landkreis Straubing-Bogen
-100649,2020-06-19,549,315,29,DE,DE-BY,9278,67,Landkreis Straubing-Bogen
+100649,2020-06-19,548,315,29,DE,DE-BY,9278,67,Landkreis Straubing-Bogen
 72504,2020-03-23,148,0,1,DE,DE-BY,9377,71,Landkreis Tirschenreuth
 72504,2020-03-24,178,0,1,DE,DE-BY,9377,71,Landkreis Tirschenreuth
 72504,2020-03-25,209,0,1,DE,DE-BY,9377,71,Landkreis Tirschenreuth
@@ -20019,7 +20019,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 72504,2020-06-16,1137,914,138,DE,DE-BY,9377,71,Landkreis Tirschenreuth
 72504,2020-06-17,1137,914,138,DE,DE-BY,9377,71,Landkreis Tirschenreuth
 72504,2020-06-18,1137,914,138,DE,DE-BY,9377,71,Landkreis Tirschenreuth
-72504,2020-06-19,1137,914,138,DE,DE-BY,9377,71,Landkreis Tirschenreuth
+72504,2020-06-19,1135,914,137,DE,DE-BY,9377,71,Landkreis Tirschenreuth
 177089,2020-03-23,64,0,1,DE,DE-BY,9189,121,Landkreis Traunstein
 177089,2020-03-23,64,0,1,DE,DE-BY,9189,94,Landkreis Traunstein
 177089,2020-03-23,64,0,1,DE,DE-BY,9189,1,Landkreis Traunstein
@@ -20636,13 +20636,13 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 177089,2020-06-18,1320,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
 177089,2020-06-18,1320,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
 177089,2020-06-18,1320,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
-177089,2020-06-19,1320,1063,87,DE,DE-BY,9189,121,Landkreis Traunstein
-177089,2020-06-19,1320,1063,87,DE,DE-BY,9189,94,Landkreis Traunstein
-177089,2020-06-19,1320,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
-177089,2020-06-19,1320,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
-177089,2020-06-19,1320,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
-177089,2020-06-19,1320,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
-177089,2020-06-19,1320,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
+177089,2020-06-19,1322,1063,87,DE,DE-BY,9189,121,Landkreis Traunstein
+177089,2020-06-19,1322,1063,87,DE,DE-BY,9189,94,Landkreis Traunstein
+177089,2020-06-19,1322,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
+177089,2020-06-19,1322,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
+177089,2020-06-19,1322,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
+177089,2020-06-19,1322,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
+177089,2020-06-19,1322,1063,87,DE,DE-BY,9189,1,Landkreis Traunstein
 144041,2020-03-23,43,0,0,DE,DE-BY,9778,94,Landkreis Unterallgäu
 144041,2020-03-24,50,0,1,DE,DE-BY,9778,94,Landkreis Unterallgäu
 144041,2020-03-25,60,0,1,DE,DE-BY,9778,94,Landkreis Unterallgäu
@@ -20820,7 +20820,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 42520,2020-06-16,334,39,20,DE,DE-BY,9363,602,Weiden in der Oberpfalz
 42520,2020-06-17,336,39,20,DE,DE-BY,9363,602,Weiden in der Oberpfalz
 42520,2020-06-18,336,39,20,DE,DE-BY,9363,602,Weiden in der Oberpfalz
-42520,2020-06-19,336,39,20,DE,DE-BY,9363,602,Weiden in der Oberpfalz
+42520,2020-06-19,337,39,20,DE,DE-BY,9363,602,Weiden in der Oberpfalz
 135348,2020-03-23,93,0,1,DE,DE-BY,9190,110,Landkreis Weilheim-Schongau
 135348,2020-03-24,96,0,1,DE,DE-BY,9190,110,Landkreis Weilheim-Schongau
 135348,2020-03-25,115,0,1,DE,DE-BY,9190,110,Landkreis Weilheim-Schongau
@@ -20909,7 +20909,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 135348,2020-06-16,352,324,3,DE,DE-BY,9190,110,Landkreis Weilheim-Schongau
 135348,2020-06-17,353,324,3,DE,DE-BY,9190,110,Landkreis Weilheim-Schongau
 135348,2020-06-18,353,324,3,DE,DE-BY,9190,110,Landkreis Weilheim-Schongau
-135348,2020-06-19,353,324,3,DE,DE-BY,9190,110,Landkreis Weilheim-Schongau
+135348,2020-06-19,355,324,3,DE,DE-BY,9190,110,Landkreis Weilheim-Schongau
 94393,2020-03-23,24,0,0,DE,DE-BY,9577,95,Landkreis Weißenburg-Gunzenhausen
 94393,2020-03-24,28,0,0,DE,DE-BY,9577,95,Landkreis Weißenburg-Gunzenhausen
 94393,2020-03-25,35,0,0,DE,DE-BY,9577,95,Landkreis Weißenburg-Gunzenhausen
@@ -21615,13 +21615,13 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 73178,2020-06-18,658,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
 73178,2020-06-18,658,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
 73178,2020-06-18,658,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
-73178,2020-06-19,658,599,39,DE,DE-BY,9479,186,Landkreis Wunsiedel i. Fichtelgebirge
-73178,2020-06-19,658,599,39,DE,DE-BY,9479,145,Landkreis Wunsiedel i. Fichtelgebirge
-73178,2020-06-19,658,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
-73178,2020-06-19,658,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
-73178,2020-06-19,658,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
-73178,2020-06-19,658,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
-73178,2020-06-19,658,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
+73178,2020-06-19,659,599,39,DE,DE-BY,9479,186,Landkreis Wunsiedel i. Fichtelgebirge
+73178,2020-06-19,659,599,39,DE,DE-BY,9479,145,Landkreis Wunsiedel i. Fichtelgebirge
+73178,2020-06-19,659,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
+73178,2020-06-19,659,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
+73178,2020-06-19,659,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
+73178,2020-06-19,659,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
+73178,2020-06-19,659,599,39,DE,DE-BY,9479,1,Landkreis Wunsiedel i. Fichtelgebirge
 161834,2020-03-23,135,0,0,DE,DE-BY,9679,166,Landkreis Würzburg
 161834,2020-03-24,152,0,0,DE,DE-BY,9679,166,Landkreis Würzburg
 161834,2020-03-25,166,0,0,DE,DE-BY,9679,166,Landkreis Würzburg
@@ -21799,7 +21799,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 127880,2020-06-16,469,151,51,DE,DE-BY,9663,1459,Würzburg
 127880,2020-06-17,469,151,51,DE,DE-BY,9663,1459,Würzburg
 127880,2020-06-18,470,151,51,DE,DE-BY,9663,1459,Würzburg
-127880,2020-06-19,470,151,51,DE,DE-BY,9663,1459,Würzburg
+127880,2020-06-19,470,151,50,DE,DE-BY,9663,1459,Würzburg
 182760,2020-03-23,40,1,0,DE,DE-BB,12060,116236,Landkreis Barnim
 182760,2020-03-24,46,1,0,DE,DE-BB,12060,116236,Landkreis Barnim
 182760,2020-03-25,50,1,0,DE,DE-BB,12060,116236,Landkreis Barnim
@@ -21888,7 +21888,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 182760,2020-06-16,415,342,29,DE,DE-BB,12060,116236,Landkreis Barnim
 182760,2020-06-17,420,342,29,DE,DE-BB,12060,116236,Landkreis Barnim
 182760,2020-06-18,421,342,29,DE,DE-BB,12060,116236,Landkreis Barnim
-182760,2020-06-19,421,342,29,DE,DE-BB,12060,116236,Landkreis Barnim
+182760,2020-06-19,422,342,29,DE,DE-BB,12060,116236,Landkreis Barnim
 72124,2020-03-23,8,0,0,DE,DE-BB,12051,315,Brandenburg an der Havel
 72124,2020-03-23,8,0,0,DE,DE-BB,12051,313,Brandenburg an der Havel
 72124,2020-03-24,11,0,0,DE,DE-BB,12051,315,Brandenburg an der Havel
@@ -22599,8 +22599,8 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 57873,2020-06-17,30,29,0,DE,DE-BB,12053,0,Frankfurt (Oder)
 57873,2020-06-18,30,29,0,DE,DE-BB,12053,391,Frankfurt (Oder)
 57873,2020-06-18,30,29,0,DE,DE-BB,12053,0,Frankfurt (Oder)
-57873,2020-06-19,30,29,0,DE,DE-BB,12053,391,Frankfurt (Oder)
-57873,2020-06-19,30,29,0,DE,DE-BB,12053,0,Frankfurt (Oder)
+57873,2020-06-19,31,29,0,DE,DE-BB,12053,391,Frankfurt (Oder)
+57873,2020-06-19,31,29,0,DE,DE-BB,12053,0,Frankfurt (Oder)
 161909,2020-03-23,21,0,0,DE,DE-BB,12063,89,Landkreis Havelland
 161909,2020-03-24,21,0,0,DE,DE-BB,12063,89,Landkreis Havelland
 161909,2020-03-25,26,0,0,DE,DE-BB,12063,89,Landkreis Havelland
@@ -22689,7 +22689,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 161909,2020-06-16,171,145,6,DE,DE-BB,12063,89,Landkreis Havelland
 161909,2020-06-17,173,145,6,DE,DE-BB,12063,89,Landkreis Havelland
 161909,2020-06-18,174,145,6,DE,DE-BB,12063,89,Landkreis Havelland
-161909,2020-06-19,174,145,6,DE,DE-BB,12063,89,Landkreis Havelland
+161909,2020-06-19,178,145,6,DE,DE-BB,12063,89,Landkreis Havelland
 194328,2020-03-23,49,0,0,DE,DE-BB,12064,87,Landkreis Märkisch-Oderland
 194328,2020-03-24,53,0,0,DE,DE-BB,12064,87,Landkreis Märkisch-Oderland
 194328,2020-03-25,62,0,0,DE,DE-BB,12064,87,Landkreis Märkisch-Oderland
@@ -23312,7 +23312,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 114429,2020-06-16,64,63,0,DE,DE-BB,12071,72,Landkreis Spree-Neiße
 114429,2020-06-17,64,63,0,DE,DE-BB,12071,72,Landkreis Spree-Neiße
 114429,2020-06-18,64,63,0,DE,DE-BB,12071,72,Landkreis Spree-Neiße
-114429,2020-06-19,64,63,0,DE,DE-BB,12071,72,Landkreis Spree-Neiße
+114429,2020-06-19,65,63,0,DE,DE-BB,12071,72,Landkreis Spree-Neiße
 119552,2020-03-23,4,0,0,DE,DE-BB,12073,39,Landkreis Uckermark
 119552,2020-03-24,5,0,0,DE,DE-BB,12073,39,Landkreis Uckermark
 119552,2020-03-25,5,0,0,DE,DE-BB,12073,39,Landkreis Uckermark
@@ -23401,7 +23401,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 119552,2020-06-16,38,32,2,DE,DE-BB,12073,39,Landkreis Uckermark
 119552,2020-06-17,39,32,2,DE,DE-BB,12073,39,Landkreis Uckermark
 119552,2020-06-18,40,32,2,DE,DE-BB,12073,39,Landkreis Uckermark
-119552,2020-06-19,40,32,2,DE,DE-BB,12073,39,Landkreis Uckermark
+119552,2020-06-19,43,32,2,DE,DE-BB,12073,39,Landkreis Uckermark
 569352,2020-03-23,161,26,0,DE,DE-HB,4011,1745,Bremen
 569352,2020-03-24,180,26,0,DE,DE-HB,4011,1745,Bremen
 569352,2020-03-25,196,35,1,DE,DE-HB,4011,1745,Bremen
@@ -23490,7 +23490,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 569352,2020-06-16,1421,1244,43,DE,DE-HB,4011,1745,Bremen
 569352,2020-06-17,1427,1254,43,DE,DE-HB,4011,1745,Bremen
 569352,2020-06-18,1432,1258,43,DE,DE-HB,4011,1745,Bremen
-569352,2020-06-19,1432,1258,43,DE,DE-HB,4011,1745,Bremen
+569352,2020-06-19,1440,1273,43,DE,DE-HB,4011,1745,Bremen
 113634,2020-03-23,14,0,0,DE,DE-HB,4012,1213,Bremerhaven
 113634,2020-03-24,14,0,0,DE,DE-HB,4012,1213,Bremerhaven
 113634,2020-03-25,16,0,0,DE,DE-HB,4012,1213,Bremerhaven
@@ -23579,7 +23579,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 113634,2020-06-16,189,116,6,DE,DE-HB,4012,1213,Bremerhaven
 113634,2020-06-17,195,124,6,DE,DE-HB,4012,1213,Bremerhaven
 113634,2020-06-18,197,125,6,DE,DE-HB,4012,1213,Bremerhaven
-113634,2020-06-19,197,125,6,DE,DE-HB,4012,1213,Bremerhaven
+113634,2020-06-19,199,160,6,DE,DE-HB,4012,1213,Bremerhaven
 269694,2020-03-23,45,0,0,DE,DE-HE,6431,363,Kreis Bergstraße
 269694,2020-03-24,65,0,0,DE,DE-HE,6431,363,Kreis Bergstraße
 269694,2020-03-25,88,0,0,DE,DE-HE,6431,363,Kreis Bergstraße
@@ -23668,7 +23668,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 269694,2020-06-16,357,284,3,DE,DE-HE,6431,363,Kreis Bergstraße
 269694,2020-06-17,358,284,3,DE,DE-HE,6431,363,Kreis Bergstraße
 269694,2020-06-18,359,284,3,DE,DE-HE,6431,363,Kreis Bergstraße
-269694,2020-06-19,359,284,3,DE,DE-HE,6431,363,Kreis Bergstraße
+269694,2020-06-19,360,284,3,DE,DE-HE,6431,363,Kreis Bergstraße
 297399,2020-03-23,63,0,0,DE,DE-HE,6432,431,Landkreis Darmstadt-Dieburg
 297399,2020-03-24,79,0,0,DE,DE-HE,6432,431,Landkreis Darmstadt-Dieburg
 297399,2020-03-25,90,0,1,DE,DE-HE,6432,431,Landkreis Darmstadt-Dieburg
@@ -23846,7 +23846,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 222584,2020-06-16,372,259,12,DE,DE-HE,6631,156,Landkreis Fulda
 222584,2020-06-17,374,259,12,DE,DE-HE,6631,156,Landkreis Fulda
 222584,2020-06-18,377,259,12,DE,DE-HE,6631,156,Landkreis Fulda
-222584,2020-06-19,377,259,12,DE,DE-HE,6631,156,Landkreis Fulda
+222584,2020-06-19,379,259,12,DE,DE-HE,6631,156,Landkreis Fulda
 268876,2020-03-23,63,0,0,DE,DE-HE,6531,296,Landkreis Gießen
 268876,2020-03-24,70,0,0,DE,DE-HE,6531,296,Landkreis Gießen
 268876,2020-03-25,81,0,0,DE,DE-HE,6531,296,Landkreis Gießen
@@ -24024,7 +24024,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 274526,2020-06-16,533,365,13,DE,DE-HE,6433,562,Kreis Groß-Gerau
 274526,2020-06-17,536,365,14,DE,DE-HE,6433,562,Kreis Groß-Gerau
 274526,2020-06-18,541,365,14,DE,DE-HE,6433,562,Kreis Groß-Gerau
-274526,2020-06-19,541,365,14,DE,DE-HE,6433,562,Kreis Groß-Gerau
+274526,2020-06-19,542,365,14,DE,DE-HE,6433,562,Kreis Groß-Gerau
 120829,2020-03-23,26,0,0,DE,DE-HE,6632,109,Landkreis Hersfeld-Rotenburg
 120829,2020-03-24,26,0,0,DE,DE-HE,6632,109,Landkreis Hersfeld-Rotenburg
 120829,2020-03-25,28,0,0,DE,DE-HE,6632,109,Landkreis Hersfeld-Rotenburg
@@ -24113,7 +24113,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 120829,2020-06-16,261,174,22,DE,DE-HE,6632,109,Landkreis Hersfeld-Rotenburg
 120829,2020-06-17,263,174,22,DE,DE-HE,6632,109,Landkreis Hersfeld-Rotenburg
 120829,2020-06-18,269,174,22,DE,DE-HE,6632,109,Landkreis Hersfeld-Rotenburg
-120829,2020-06-19,269,174,22,DE,DE-HE,6632,109,Landkreis Hersfeld-Rotenburg
+120829,2020-06-19,277,174,22,DE,DE-HE,6632,109,Landkreis Hersfeld-Rotenburg
 236633,2020-03-23,44,0,0,DE,DE-HE,6633,181,Landkreis Kassel
 236633,2020-03-24,46,0,0,DE,DE-HE,6633,181,Landkreis Kassel
 236633,2020-03-25,51,0,0,DE,DE-HE,6633,181,Landkreis Kassel
@@ -24202,7 +24202,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 236633,2020-06-16,393,252,28,DE,DE-HE,6633,181,Landkreis Kassel
 236633,2020-06-17,394,252,28,DE,DE-HE,6633,181,Landkreis Kassel
 236633,2020-06-18,394,252,28,DE,DE-HE,6633,181,Landkreis Kassel
-236633,2020-06-19,394,252,28,DE,DE-HE,6633,181,Landkreis Kassel
+236633,2020-06-19,395,252,28,DE,DE-HE,6633,181,Landkreis Kassel
 253777,2020-03-23,65,0,0,DE,DE-HE,6532,236,Lahn-Dill-Kreis
 253777,2020-03-24,82,0,0,DE,DE-HE,6532,236,Lahn-Dill-Kreis
 253777,2020-03-25,96,0,0,DE,DE-HE,6532,236,Lahn-Dill-Kreis
@@ -24469,7 +24469,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 418950,2020-06-16,765,461,46,DE,DE-HE,6435,291,Main-Kinzig-Kreis
 418950,2020-06-17,765,461,46,DE,DE-HE,6435,291,Main-Kinzig-Kreis
 418950,2020-06-18,765,461,46,DE,DE-HE,6435,291,Main-Kinzig-Kreis
-418950,2020-06-19,765,461,46,DE,DE-HE,6435,291,Main-Kinzig-Kreis
+418950,2020-06-19,765,461,47,DE,DE-HE,6435,291,Main-Kinzig-Kreis
 237735,2020-03-23,55,0,1,DE,DE-HE,6436,1016,Main-Taunus-Kreis
 237735,2020-03-24,63,0,1,DE,DE-HE,6436,1016,Main-Taunus-Kreis
 237735,2020-03-25,78,0,1,DE,DE-HE,6436,1016,Main-Taunus-Kreis
@@ -24558,7 +24558,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 237735,2020-06-16,350,240,14,DE,DE-HE,6436,1016,Main-Taunus-Kreis
 237735,2020-06-17,349,240,14,DE,DE-HE,6436,1016,Main-Taunus-Kreis
 237735,2020-06-18,353,240,14,DE,DE-HE,6436,1016,Main-Taunus-Kreis
-237735,2020-06-19,353,240,14,DE,DE-HE,6436,1016,Main-Taunus-Kreis
+237735,2020-06-19,354,240,14,DE,DE-HE,6436,1016,Main-Taunus-Kreis
 246648,2020-03-23,48,0,0,DE,DE-HE,6534,191,Landkreis Marburg-Biedenkopf
 246648,2020-03-24,62,0,0,DE,DE-HE,6534,191,Landkreis Marburg-Biedenkopf
 246648,2020-03-25,71,0,0,DE,DE-HE,6534,191,Landkreis Marburg-Biedenkopf
@@ -24647,7 +24647,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 246648,2020-06-16,198,184,4,DE,DE-HE,6534,191,Landkreis Marburg-Biedenkopf
 246648,2020-06-17,198,184,4,DE,DE-HE,6534,191,Landkreis Marburg-Biedenkopf
 246648,2020-06-18,199,184,4,DE,DE-HE,6534,191,Landkreis Marburg-Biedenkopf
-246648,2020-06-19,199,184,4,DE,DE-HE,6534,191,Landkreis Marburg-Biedenkopf
+246648,2020-06-19,201,184,4,DE,DE-HE,6534,191,Landkreis Marburg-Biedenkopf
 96798,2020-03-23,23,0,0,DE,DE-HE,6437,154,Odenwaldkreis
 96798,2020-03-24,24,0,0,DE,DE-HE,6437,154,Odenwaldkreis
 96798,2020-03-25,31,0,0,DE,DE-HE,6437,154,Odenwaldkreis
@@ -24736,7 +24736,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 96798,2020-06-16,407,284,61,DE,DE-HE,6437,154,Odenwaldkreis
 96798,2020-06-17,407,284,61,DE,DE-HE,6437,154,Odenwaldkreis
 96798,2020-06-18,408,284,61,DE,DE-HE,6437,154,Odenwaldkreis
-96798,2020-06-19,408,284,61,DE,DE-HE,6437,154,Odenwaldkreis
+96798,2020-06-19,409,284,61,DE,DE-HE,6437,154,Odenwaldkreis
 354092,2020-03-23,77,0,1,DE,DE-HE,6438,943,Landkreis Offenbach
 354092,2020-03-24,93,0,1,DE,DE-HE,6438,943,Landkreis Offenbach
 354092,2020-03-25,109,0,2,DE,DE-HE,6438,943,Landkreis Offenbach
@@ -24825,7 +24825,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 354092,2020-06-16,642,392,40,DE,DE-HE,6438,943,Landkreis Offenbach
 354092,2020-06-17,643,392,40,DE,DE-HE,6438,943,Landkreis Offenbach
 354092,2020-06-18,649,392,40,DE,DE-HE,6438,943,Landkreis Offenbach
-354092,2020-06-19,649,392,40,DE,DE-HE,6438,943,Landkreis Offenbach
+354092,2020-06-19,659,392,40,DE,DE-HE,6438,943,Landkreis Offenbach
 156953,2020-03-23,27,0,0,DE,DE-HE,6635,85,Landkreis Waldeck-Frankenberg
 156953,2020-03-24,32,0,0,DE,DE-HE,6635,85,Landkreis Waldeck-Frankenberg
 156953,2020-03-25,36,0,0,DE,DE-HE,6635,85,Landkreis Waldeck-Frankenberg
@@ -25092,7 +25092,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 753056,2020-06-16,1685,715,62,DE,DE-HE,6412,3032,Frankfurt am Main
 753056,2020-06-17,1685,715,62,DE,DE-HE,6412,3032,Frankfurt am Main
 753056,2020-06-18,1695,715,63,DE,DE-HE,6412,3032,Frankfurt am Main
-753056,2020-06-19,1695,715,63,DE,DE-HE,6412,3032,Frankfurt am Main
+753056,2020-06-19,1702,715,63,DE,DE-HE,6412,3032,Frankfurt am Main
 201585,2020-03-23,43,0,0,DE,DE-HE,6611,1887,Kassel
 201585,2020-03-24,46,0,0,DE,DE-HE,6611,1887,Kassel
 201585,2020-03-25,53,0,0,DE,DE-HE,6611,1887,Kassel
@@ -25181,7 +25181,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 201585,2020-06-16,335,216,9,DE,DE-HE,6611,1887,Kassel
 201585,2020-06-17,338,216,9,DE,DE-HE,6611,1887,Kassel
 201585,2020-06-18,339,216,9,DE,DE-HE,6611,1887,Kassel
-201585,2020-06-19,339,216,9,DE,DE-HE,6611,1887,Kassel
+201585,2020-06-19,358,216,9,DE,DE-HE,6611,1887,Kassel
 128744,2020-03-23,8,0,0,DE,DE-HE,6413,2867,Offenbach am Main
 128744,2020-03-24,11,0,1,DE,DE-HE,6413,2867,Offenbach am Main
 128744,2020-03-25,14,0,1,DE,DE-HE,6413,2867,Offenbach am Main
@@ -25270,7 +25270,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 128744,2020-06-16,165,87,9,DE,DE-HE,6413,2867,Offenbach am Main
 128744,2020-06-17,166,87,9,DE,DE-HE,6413,2867,Offenbach am Main
 128744,2020-06-18,169,87,9,DE,DE-HE,6413,2867,Offenbach am Main
-128744,2020-06-19,169,87,9,DE,DE-HE,6413,2867,Offenbach am Main
+128744,2020-06-19,171,87,9,DE,DE-HE,6413,2867,Offenbach am Main
 278342,2020-03-23,67,0,1,DE,DE-HE,6414,1364,Wiesbaden
 278342,2020-03-24,98,0,1,DE,DE-HE,6414,1364,Wiesbaden
 278342,2020-03-25,109,0,1,DE,DE-HE,6414,1364,Wiesbaden
@@ -25359,7 +25359,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 278342,2020-06-16,456,306,20,DE,DE-HE,6414,1364,Wiesbaden
 278342,2020-06-17,458,306,20,DE,DE-HE,6414,1364,Wiesbaden
 278342,2020-06-18,462,306,21,DE,DE-HE,6414,1364,Wiesbaden
-278342,2020-06-19,462,306,21,DE,DE-HE,6414,1364,Wiesbaden
+278342,2020-06-19,463,306,21,DE,DE-HE,6414,1364,Wiesbaden
 208886,2020-03-23,29,0,0,DE,DE-MV,13003,1151,Rostock
 208886,2020-03-24,29,0,0,DE,DE-MV,13003,1151,Rostock
 208886,2020-03-25,34,0,0,DE,DE-MV,13003,1151,Rostock
@@ -26551,7 +26551,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 198213,2020-06-16,353,124,20,DE,DE-ND,3352,96,Landkreis Cuxhaven
 198213,2020-06-17,355,124,20,DE,DE-ND,3352,96,Landkreis Cuxhaven
 198213,2020-06-18,357,124,20,DE,DE-ND,3352,96,Landkreis Cuxhaven
-198213,2020-06-19,357,124,20,DE,DE-ND,3352,96,Landkreis Cuxhaven
+198213,2020-06-19,360,124,20,DE,DE-ND,3352,96,Landkreis Cuxhaven
 216886,2020-03-16,19,0,0,DE,DE-ND,3251,108,Landkreis Diepholz
 216886,2020-03-17,25,0,0,DE,DE-ND,3251,108,Landkreis Diepholz
 216886,2020-03-18,30,0,0,DE,DE-ND,3251,108,Landkreis Diepholz
@@ -26743,7 +26743,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 325657,2020-06-16,457,393,25,DE,DE-ND,3454,111,Landkreis Emsland
 325657,2020-06-17,458,393,25,DE,DE-ND,3454,111,Landkreis Emsland
 325657,2020-06-18,458,393,25,DE,DE-ND,3454,111,Landkreis Emsland
-325657,2020-06-19,458,393,25,DE,DE-ND,3454,111,Landkreis Emsland
+325657,2020-06-19,460,393,25,DE,DE-ND,3454,111,Landkreis Emsland
 98460,2020-03-16,2,0,0,DE,DE-ND,3455,161,Landkreis Friesland
 98460,2020-03-17,3,0,0,DE,DE-ND,3455,161,Landkreis Friesland
 98460,2020-03-18,3,0,0,DE,DE-ND,3455,161,Landkreis Friesland
@@ -27127,7 +27127,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 328074,2020-06-16,1035,681,74,DE,DE-ND,3456,138,Landkreis Grafschaft Bentheim
 328074,2020-06-17,1035,681,74,DE,DE-ND,3456,138,Landkreis Grafschaft Bentheim
 328074,2020-06-18,1062,681,74,DE,DE-ND,3456,138,Landkreis Grafschaft Bentheim
-328074,2020-06-19,1062,681,74,DE,DE-ND,3456,138,Landkreis Grafschaft Bentheim
+328074,2020-06-19,1065,681,74,DE,DE-ND,3456,138,Landkreis Grafschaft Bentheim
 136511,2020-03-16,5,0,0,DE,DE-ND,3159,292,Landkreis Göttingen
 136511,2020-03-17,5,0,0,DE,DE-ND,3159,292,Landkreis Göttingen
 136511,2020-03-18,11,0,0,DE,DE-ND,3159,292,Landkreis Göttingen
@@ -27415,7 +27415,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 139755,2020-06-16,73,67,2,DE,DE-ND,3358,74,Landkreis Heidekreis
 139755,2020-06-17,73,67,2,DE,DE-ND,3358,74,Landkreis Heidekreis
 139755,2020-06-18,73,67,2,DE,DE-ND,3358,74,Landkreis Heidekreis
-139755,2020-06-19,73,67,2,DE,DE-ND,3358,74,Landkreis Heidekreis
+139755,2020-06-19,74,67,2,DE,DE-ND,3358,74,Landkreis Heidekreis
 91307,2020-03-16,2,0,0,DE,DE-ND,3154,136,Landkreis Helmstedt
 91307,2020-03-17,2,0,0,DE,DE-ND,3154,136,Landkreis Helmstedt
 91307,2020-03-18,5,0,0,DE,DE-ND,3154,136,Landkreis Helmstedt
@@ -27607,7 +27607,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 276594,2020-06-16,406,337,6,DE,DE-ND,3254,229,Landkreis Hildesheim
 276594,2020-06-17,407,337,6,DE,DE-ND,3254,229,Landkreis Hildesheim
 276594,2020-06-18,408,337,6,DE,DE-ND,3254,229,Landkreis Hildesheim
-276594,2020-06-19,408,337,6,DE,DE-ND,3254,229,Landkreis Hildesheim
+276594,2020-06-19,409,337,6,DE,DE-ND,3254,229,Landkreis Hildesheim
 70975,2020-03-16,2,0,0,DE,DE-ND,3255,103,Landkreis Holzminden
 70975,2020-03-17,8,0,0,DE,DE-ND,3255,103,Landkreis Holzminden
 70975,2020-03-18,12,0,0,DE,DE-ND,3255,103,Landkreis Holzminden
@@ -28183,7 +28183,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 132765,2020-06-16,128,112,5,DE,DE-ND,3155,105,Landkreis Northeim
 132765,2020-06-17,129,112,5,DE,DE-ND,3155,105,Landkreis Northeim
 132765,2020-06-18,132,112,5,DE,DE-ND,3155,105,Landkreis Northeim
-132765,2020-06-19,132,112,5,DE,DE-ND,3155,105,Landkreis Northeim
+132765,2020-06-19,133,112,5,DE,DE-ND,3155,105,Landkreis Northeim
 130144,2020-03-16,4,0,0,DE,DE-ND,3458,121,Landkreis Oldenburg
 130144,2020-03-17,8,0,0,DE,DE-ND,3458,121,Landkreis Oldenburg
 130144,2020-03-18,9,0,0,DE,DE-ND,3458,121,Landkreis Oldenburg
@@ -29047,7 +29047,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 136792,2020-06-16,214,136,2,DE,DE-ND,3361,172,Landkreis Verden
 136792,2020-06-17,225,136,3,DE,DE-ND,3361,172,Landkreis Verden
 136792,2020-06-18,236,136,3,DE,DE-ND,3361,172,Landkreis Verden
-136792,2020-06-19,236,136,3,DE,DE-ND,3361,172,Landkreis Verden
+136792,2020-06-19,237,136,3,DE,DE-ND,3361,172,Landkreis Verden
 88624,2020-03-16,0,0,0,DE,DE-ND,3461,108,Landkreis Wesermarsch
 88624,2020-03-17,0,0,0,DE,DE-ND,3461,108,Landkreis Wesermarsch
 88624,2020-03-18,0,0,0,DE,DE-ND,3461,108,Landkreis Wesermarsch
@@ -29143,7 +29143,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 88624,2020-06-16,70,51,2,DE,DE-ND,3461,108,Landkreis Wesermarsch
 88624,2020-06-17,70,51,2,DE,DE-ND,3461,108,Landkreis Wesermarsch
 88624,2020-06-18,70,51,2,DE,DE-ND,3461,108,Landkreis Wesermarsch
-88624,2020-06-19,70,51,2,DE,DE-ND,3461,108,Landkreis Wesermarsch
+88624,2020-06-19,71,51,2,DE,DE-ND,3461,108,Landkreis Wesermarsch
 56882,2020-03-16,1,0,0,DE,DE-ND,3462,86,Landkreis Wittmund
 56882,2020-03-17,3,0,0,DE,DE-ND,3462,86,Landkreis Wittmund
 56882,2020-03-18,3,0,0,DE,DE-ND,3462,86,Landkreis Wittmund
@@ -29431,7 +29431,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 1157624,2020-06-16,2687,1893,112,DE,DE-ND,3241,501,Region Hannover
 1157624,2020-06-17,2708,1893,113,DE,DE-ND,3241,501,Region Hannover
 1157624,2020-06-18,2718,1893,114,DE,DE-ND,3241,501,Region Hannover
-1157624,2020-06-19,2718,1893,114,DE,DE-ND,3241,501,Region Hannover
+1157624,2020-06-19,2726,1893,114,DE,DE-ND,3241,501,Region Hannover
 248292,2020-03-16,5,0,0,DE,DE-ND,3101,1288,Braunschweig
 248292,2020-03-17,8,0,0,DE,DE-ND,3101,1288,Braunschweig
 248292,2020-03-18,12,0,0,DE,DE-ND,3101,1288,Braunschweig
@@ -29527,7 +29527,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 248292,2020-06-16,331,288,18,DE,DE-ND,3101,1288,Braunschweig
 248292,2020-06-17,331,288,18,DE,DE-ND,3101,1288,Braunschweig
 248292,2020-06-18,331,288,18,DE,DE-ND,3101,1288,Braunschweig
-248292,2020-06-19,331,288,18,DE,DE-ND,3101,1288,Braunschweig
+248292,2020-06-19,332,288,18,DE,DE-ND,3101,1288,Braunschweig
 77607,2020-03-16,5,0,0,DE,DE-ND,3401,1242,Delmenhorst
 77607,2020-03-17,6,0,0,DE,DE-ND,3401,1242,Delmenhorst
 77607,2020-03-18,6,0,0,DE,DE-ND,3401,1242,Delmenhorst
@@ -30295,7 +30295,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 555465,2020-06-16,1982,1871,95,DE,DE-NW,5334,770,Städteregion Aachen
 555465,2020-06-17,1984,1871,96,DE,DE-NW,5334,770,Städteregion Aachen
 555465,2020-06-18,1986,1871,97,DE,DE-NW,5334,770,Städteregion Aachen
-555465,2020-06-19,1986,1871,97,DE,DE-NW,5334,770,Städteregion Aachen
+555465,2020-06-19,1990,1873,97,DE,DE-NW,5334,770,Städteregion Aachen
 333786,2020-03-16,27,0,0,DE,DE-NW,5711,1289,Bielefeld
 333786,2020-03-17,28,0,0,DE,DE-NW,5711,1289,Bielefeld
 333786,2020-03-18,49,0,0,DE,DE-NW,5711,1289,Bielefeld
@@ -30391,7 +30391,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 333786,2020-06-16,414,399,5,DE,DE-NW,5711,1289,Bielefeld
 333786,2020-06-17,419,399,5,DE,DE-NW,5711,1289,Bielefeld
 333786,2020-06-18,420,400,5,DE,DE-NW,5711,1289,Bielefeld
-333786,2020-06-19,420,400,5,DE,DE-NW,5711,1289,Bielefeld
+333786,2020-06-19,424,401,5,DE,DE-NW,5711,1289,Bielefeld
 364628,2020-03-16,26,0,0,DE,DE-NW,5911,2503,Bochum
 364628,2020-03-17,26,0,0,DE,DE-NW,5911,2503,Bochum
 364628,2020-03-18,30,0,0,DE,DE-NW,5911,2503,Bochum
@@ -30487,7 +30487,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 364628,2020-06-16,581,521,19,DE,DE-NW,5911,2503,Bochum
 364628,2020-06-17,587,521,19,DE,DE-NW,5911,2503,Bochum
 364628,2020-06-18,592,521,19,DE,DE-NW,5911,2503,Bochum
-364628,2020-06-19,592,521,19,DE,DE-NW,5911,2503,Bochum
+364628,2020-06-19,592,523,19,DE,DE-NW,5911,2503,Bochum
 327258,2020-03-16,41,0,0,DE,DE-NW,5314,2319,Bonn
 327258,2020-03-17,64,0,0,DE,DE-NW,5314,2319,Bonn
 327258,2020-03-18,69,0,0,DE,DE-NW,5314,2319,Bonn
@@ -30583,7 +30583,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 327258,2020-06-16,750,737,8,DE,DE-NW,5314,2319,Bonn
 327258,2020-06-17,752,737,8,DE,DE-NW,5314,2319,Bonn
 327258,2020-06-18,752,737,8,DE,DE-NW,5314,2319,Bonn
-327258,2020-06-19,752,737,8,DE,DE-NW,5314,2319,Bonn
+327258,2020-06-19,753,740,8,DE,DE-NW,5314,2319,Bonn
 117383,2020-03-16,4,0,0,DE,DE-NW,5512,1166,Bottrop
 117383,2020-03-17,7,0,0,DE,DE-NW,5512,1166,Bottrop
 117383,2020-03-18,9,0,0,DE,DE-NW,5512,1166,Bottrop
@@ -30679,7 +30679,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 117383,2020-06-16,210,197,7,DE,DE-NW,5512,1166,Bottrop
 117383,2020-06-17,210,197,7,DE,DE-NW,5512,1166,Bottrop
 117383,2020-06-18,210,200,7,DE,DE-NW,5512,1166,Bottrop
-117383,2020-06-19,210,200,7,DE,DE-NW,5512,1166,Bottrop
+117383,2020-06-19,210,202,7,DE,DE-NW,5512,1166,Bottrop
 587010,2020-03-16,33,0,0,DE,DE-NW,5913,2091,Dortmund
 587010,2020-03-17,49,0,0,DE,DE-NW,5913,2091,Dortmund
 587010,2020-03-18,65,0,0,DE,DE-NW,5913,2091,Dortmund
@@ -30775,7 +30775,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 587010,2020-06-16,828,729,8,DE,DE-NW,5913,2091,Dortmund
 587010,2020-06-17,828,733,8,DE,DE-NW,5913,2091,Dortmund
 587010,2020-06-18,847,742,9,DE,DE-NW,5913,2091,Dortmund
-587010,2020-06-19,847,742,9,DE,DE-NW,5913,2091,Dortmund
+587010,2020-06-19,855,747,9,DE,DE-NW,5913,2091,Dortmund
 498590,2020-03-16,30,0,0,DE,DE-NW,5112,2141,Duisburg
 498590,2020-03-17,46,0,0,DE,DE-NW,5112,2141,Duisburg
 498590,2020-03-18,52,0,0,DE,DE-NW,5112,2141,Duisburg
@@ -30871,7 +30871,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 498590,2020-06-16,1335,1083,57,DE,DE-NW,5112,2141,Duisburg
 498590,2020-06-17,1346,1092,57,DE,DE-NW,5112,2141,Duisburg
 498590,2020-06-18,1363,1117,57,DE,DE-NW,5112,2141,Duisburg
-498590,2020-06-19,1363,1117,57,DE,DE-NW,5112,2141,Duisburg
+498590,2020-06-19,1380,1126,57,DE,DE-NW,5112,2141,Duisburg
 619294,2020-03-16,36,0,0,DE,DE-NW,5111,2848,Düsseldorf
 619294,2020-03-17,97,0,1,DE,DE-NW,5111,2848,Düsseldorf
 619294,2020-03-18,97,0,1,DE,DE-NW,5111,2848,Düsseldorf
@@ -30967,7 +30967,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 619294,2020-06-16,1555,1405,33,DE,DE-NW,5111,2848,Düsseldorf
 619294,2020-06-17,1576,1410,36,DE,DE-NW,5111,2848,Düsseldorf
 619294,2020-06-18,1598,1410,36,DE,DE-NW,5111,2848,Düsseldorf
-619294,2020-06-19,1598,1410,36,DE,DE-NW,5111,2848,Düsseldorf
+619294,2020-06-19,1613,1410,36,DE,DE-NW,5111,2848,Düsseldorf
 324296,2020-03-16,17,0,0,DE,DE-NW,5954,790,Ennepe-Ruhr-Kreis
 324296,2020-03-17,17,0,0,DE,DE-NW,5954,790,Ennepe-Ruhr-Kreis
 324296,2020-03-18,32,0,0,DE,DE-NW,5954,790,Ennepe-Ruhr-Kreis
@@ -31063,7 +31063,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 324296,2020-06-16,456,416,14,DE,DE-NW,5954,790,Ennepe-Ruhr-Kreis
 324296,2020-06-17,456,418,14,DE,DE-NW,5954,790,Ennepe-Ruhr-Kreis
 324296,2020-06-18,459,422,14,DE,DE-NW,5954,790,Ennepe-Ruhr-Kreis
-324296,2020-06-19,459,422,14,DE,DE-NW,5954,790,Ennepe-Ruhr-Kreis
+324296,2020-06-19,461,423,14,DE,DE-NW,5954,790,Ennepe-Ruhr-Kreis
 583109,2020-03-16,80,0,1,DE,DE-NW,5113,2772,Essen
 583109,2020-03-17,89,0,1,DE,DE-NW,5113,2772,Essen
 583109,2020-03-18,115,0,1,DE,DE-NW,5113,2772,Essen
@@ -31159,7 +31159,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 583109,2020-06-16,897,798,41,DE,DE-NW,5113,2772,Essen
 583109,2020-06-17,905,806,41,DE,DE-NW,5113,2772,Essen
 583109,2020-06-18,911,810,41,DE,DE-NW,5113,2772,Essen
-583109,2020-06-19,911,810,41,DE,DE-NW,5113,2772,Essen
+583109,2020-06-19,914,817,41,DE,DE-NW,5113,2772,Essen
 260654,2020-03-16,13,0,0,DE,DE-NW,5513,2483,Gelsenkirchen
 260654,2020-03-17,18,0,0,DE,DE-NW,5513,2483,Gelsenkirchen
 260654,2020-03-18,21,0,0,DE,DE-NW,5513,2483,Gelsenkirchen
@@ -31255,7 +31255,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 260654,2020-06-16,446,372,14,DE,DE-NW,5513,2483,Gelsenkirchen
 260654,2020-06-17,456,380,14,DE,DE-NW,5513,2483,Gelsenkirchen
 260654,2020-06-18,457,383,14,DE,DE-NW,5513,2483,Gelsenkirchen
-260654,2020-06-19,457,383,14,DE,DE-NW,5513,2483,Gelsenkirchen
+260654,2020-06-19,457,391,14,DE,DE-NW,5513,2483,Gelsenkirchen
 188814,2020-03-16,6,0,0,DE,DE-NW,5914,1176,Hagen
 188814,2020-03-17,8,0,0,DE,DE-NW,5914,1176,Hagen
 188814,2020-03-18,11,0,0,DE,DE-NW,5914,1176,Hagen
@@ -31351,7 +31351,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 188814,2020-06-16,346,317,13,DE,DE-NW,5914,1176,Hagen
 188814,2020-06-17,349,317,13,DE,DE-NW,5914,1176,Hagen
 188814,2020-06-18,349,317,13,DE,DE-NW,5914,1176,Hagen
-188814,2020-06-19,349,317,13,DE,DE-NW,5914,1176,Hagen
+188814,2020-06-19,352,317,13,DE,DE-NW,5914,1176,Hagen
 179111,2020-03-16,4,0,0,DE,DE-NW,5915,791,Hamm
 179111,2020-03-17,8,0,0,DE,DE-NW,5915,791,Hamm
 179111,2020-03-18,16,0,0,DE,DE-NW,5915,791,Hamm
@@ -31447,7 +31447,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 179111,2020-06-16,482,437,36,DE,DE-NW,5915,791,Hamm
 179111,2020-06-17,484,437,36,DE,DE-NW,5915,791,Hamm
 179111,2020-06-18,484,437,36,DE,DE-NW,5915,791,Hamm
-179111,2020-06-19,484,437,36,DE,DE-NW,5915,791,Hamm
+179111,2020-06-19,500,437,36,DE,DE-NW,5915,791,Hamm
 156374,2020-03-16,8,0,0,DE,DE-NW,5916,3041,Herne
 156374,2020-03-17,8,0,0,DE,DE-NW,5916,3041,Herne
 156374,2020-03-18,7,0,0,DE,DE-NW,5916,3041,Herne
@@ -31639,7 +31639,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 260475,2020-06-16,614,591,17,DE,DE-NW,5958,137,Hochsauerlandkreis
 260475,2020-06-17,614,591,17,DE,DE-NW,5958,137,Hochsauerlandkreis
 260475,2020-06-18,614,591,17,DE,DE-NW,5958,137,Hochsauerlandkreis
-260475,2020-06-19,614,591,17,DE,DE-NW,5958,137,Hochsauerlandkreis
+260475,2020-06-19,616,591,17,DE,DE-NW,5958,137,Hochsauerlandkreis
 1085664,2020-03-16,274,0,0,DE,DE-NW,5315,2680,Köln
 1085664,2020-03-17,274,9,1,DE,DE-NW,5315,2680,Köln
 1085664,2020-03-18,430,9,1,DE,DE-NW,5315,2680,Köln
@@ -31735,7 +31735,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 1085664,2020-06-16,2554,2383,100,DE,DE-NW,5315,2680,Köln
 1085664,2020-06-17,2560,2384,101,DE,DE-NW,5315,2680,Köln
 1085664,2020-06-18,2560,2387,101,DE,DE-NW,5315,2680,Köln
-1085664,2020-06-19,2560,2387,101,DE,DE-NW,5315,2680,Köln
+1085664,2020-06-19,2558,2389,102,DE,DE-NW,5315,2680,Köln
 227020,2020-03-16,19,0,0,DE,DE-NW,5114,1647,Krefeld
 227020,2020-03-17,36,0,0,DE,DE-NW,5114,1647,Krefeld
 227020,2020-03-18,53,0,0,DE,DE-NW,5114,1647,Krefeld
@@ -31831,7 +31831,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 227020,2020-06-16,645,610,22,DE,DE-NW,5114,1647,Krefeld
 227020,2020-06-17,645,610,22,DE,DE-NW,5114,1647,Krefeld
 227020,2020-06-18,645,613,22,DE,DE-NW,5114,1647,Krefeld
-227020,2020-06-19,645,613,22,DE,DE-NW,5114,1647,Krefeld
+227020,2020-06-19,645,614,22,DE,DE-NW,5114,1647,Krefeld
 163838,2020-03-16,20,0,0,DE,DE-NW,5316,2077,Leverkusen
 163838,2020-03-17,21,0,0,DE,DE-NW,5316,2077,Leverkusen
 163838,2020-03-18,31,0,0,DE,DE-NW,5316,2077,Leverkusen
@@ -31927,7 +31927,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 163838,2020-06-16,244,234,5,DE,DE-NW,5316,2077,Leverkusen
 163838,2020-06-17,248,234,5,DE,DE-NW,5316,2077,Leverkusen
 163838,2020-06-18,248,235,5,DE,DE-NW,5316,2077,Leverkusen
-163838,2020-06-19,248,235,5,DE,DE-NW,5316,2077,Leverkusen
+163838,2020-06-19,248,236,5,DE,DE-NW,5316,2077,Leverkusen
 412120,2020-03-16,17,0,0,DE,DE-NW,5962,393,Märkischer Kreis
 412120,2020-03-17,21,0,0,DE,DE-NW,5962,393,Märkischer Kreis
 412120,2020-03-18,27,0,0,DE,DE-NW,5962,393,Märkischer Kreis
@@ -32119,7 +32119,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 261454,2020-06-16,645,576,41,DE,DE-NW,5116,1533,Mönchengladbach
 261454,2020-06-17,650,577,41,DE,DE-NW,5116,1533,Mönchengladbach
 261454,2020-06-18,653,581,41,DE,DE-NW,5116,1533,Mönchengladbach
-261454,2020-06-19,653,581,41,DE,DE-NW,5116,1533,Mönchengladbach
+261454,2020-06-19,656,581,41,DE,DE-NW,5116,1533,Mönchengladbach
 170880,2020-03-16,9,0,0,DE,DE-NW,5117,1872,Mülheim an der Ruhr
 170880,2020-03-17,12,0,0,DE,DE-NW,5117,1872,Mülheim an der Ruhr
 170880,2020-03-18,14,0,0,DE,DE-NW,5117,1872,Mülheim an der Ruhr
@@ -32215,7 +32215,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 170880,2020-06-16,222,195,11,DE,DE-NW,5117,1872,Mülheim an der Ruhr
 170880,2020-06-17,224,195,12,DE,DE-NW,5117,1872,Mülheim an der Ruhr
 170880,2020-06-18,225,198,12,DE,DE-NW,5117,1872,Mülheim an der Ruhr
-170880,2020-06-19,225,198,12,DE,DE-NW,5117,1872,Mülheim an der Ruhr
+170880,2020-06-19,225,204,12,DE,DE-NW,5117,1872,Mülheim an der Ruhr
 314319,2020-03-16,90,0,0,DE,DE-NW,5515,1036,Münster
 314319,2020-03-17,90,0,0,DE,DE-NW,5515,1036,Münster
 314319,2020-03-18,114,0,0,DE,DE-NW,5515,1036,Münster
@@ -32311,7 +32311,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 314319,2020-06-16,729,696,13,DE,DE-NW,5515,1036,Münster
 314319,2020-06-17,730,704,13,DE,DE-NW,5515,1036,Münster
 314319,2020-06-18,730,705,13,DE,DE-NW,5515,1036,Münster
-314319,2020-06-19,730,705,13,DE,DE-NW,5515,1036,Münster
+314319,2020-06-19,731,706,13,DE,DE-NW,5515,1036,Münster
 272471,2020-03-16,27,0,0,DE,DE-NW,5374,295,Oberbergischer Kreis
 272471,2020-03-17,27,0,0,DE,DE-NW,5374,295,Oberbergischer Kreis
 272471,2020-03-18,50,0,0,DE,DE-NW,5374,295,Oberbergischer Kreis
@@ -32503,7 +32503,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 210829,2020-06-16,269,250,10,DE,DE-NW,5119,2734,Oberhausen
 210829,2020-06-17,269,253,10,DE,DE-NW,5119,2734,Oberhausen
 210829,2020-06-18,269,253,10,DE,DE-NW,5119,2734,Oberhausen
-210829,2020-06-19,269,253,10,DE,DE-NW,5119,2734,Oberhausen
+210829,2020-06-19,270,253,10,DE,DE-NW,5119,2734,Oberhausen
 110994,2020-03-16,8,0,0,DE,DE-NW,5120,1489,Remscheid
 110994,2020-03-17,9,0,0,DE,DE-NW,5120,1489,Remscheid
 110994,2020-03-18,10,0,0,DE,DE-NW,5120,1489,Remscheid
@@ -32791,7 +32791,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 159360,2020-06-16,264,241,8,DE,DE-NW,5122,1779,Solingen
 159360,2020-06-17,269,241,8,DE,DE-NW,5122,1779,Solingen
 159360,2020-06-18,281,241,8,DE,DE-NW,5122,1779,Solingen
-159360,2020-06-19,281,241,8,DE,DE-NW,5122,1779,Solingen
+159360,2020-06-19,286,243,8,DE,DE-NW,5122,1779,Solingen
 354382,2020-03-16,14,0,0,DE,DE-NW,5124,2104,Wuppertal
 354382,2020-03-17,31,0,0,DE,DE-NW,5124,2104,Wuppertal
 354382,2020-03-18,31,0,0,DE,DE-NW,5124,2104,Wuppertal
@@ -32887,7 +32887,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 354382,2020-06-16,959,845,85,DE,DE-NW,5124,2104,Wuppertal
 354382,2020-06-17,960,846,85,DE,DE-NW,5124,2104,Wuppertal
 354382,2020-06-18,965,847,85,DE,DE-NW,5124,2104,Wuppertal
-354382,2020-06-19,965,847,85,DE,DE-NW,5124,2104,Wuppertal
+354382,2020-06-19,965,848,85,DE,DE-NW,5124,2104,Wuppertal
 129727,2020-03-23,41,0,0,DE,DE-RP,7131,159,Landkreis Ahrweiler
 129727,2020-03-24,45,0,0,DE,DE-RP,7131,159,Landkreis Ahrweiler
 129727,2020-03-25,46,0,0,DE,DE-RP,7131,159,Landkreis Ahrweiler
@@ -33065,7 +33065,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 128705,2020-06-16,165,154,11,DE,DE-RP,7132,201,Landkreis Altenkirchen (Westerwald)
 128705,2020-06-17,167,154,11,DE,DE-RP,7132,201,Landkreis Altenkirchen (Westerwald)
 128705,2020-06-18,167,154,11,DE,DE-RP,7132,201,Landkreis Altenkirchen (Westerwald)
-128705,2020-06-19,167,154,11,DE,DE-RP,7132,201,Landkreis Altenkirchen (Westerwald)
+128705,2020-06-19,172,154,11,DE,DE-RP,7132,201,Landkreis Altenkirchen (Westerwald)
 129244,2020-03-23,78,0,0,DE,DE-RP,7331,212,Landkreis Alzey-Worms
 129244,2020-03-24,56,0,0,DE,DE-RP,7331,212,Landkreis Alzey-Worms
 129244,2020-03-25,56,0,0,DE,DE-RP,7331,212,Landkreis Alzey-Worms
@@ -33243,7 +33243,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 132660,2020-06-16,330,312,12,DE,DE-RP,7332,220,Landkreis Bad Dürkheim
 132660,2020-06-17,330,312,12,DE,DE-RP,7332,220,Landkreis Bad Dürkheim
 132660,2020-06-18,329,312,12,DE,DE-RP,7332,220,Landkreis Bad Dürkheim
-132660,2020-06-19,329,312,12,DE,DE-RP,7332,220,Landkreis Bad Dürkheim
+132660,2020-06-19,329,313,12,DE,DE-RP,7332,220,Landkreis Bad Dürkheim
 158080,2020-03-23,37,0,0,DE,DE-RP,7133,179,Landkreis Bad Kreuznach
 158080,2020-03-24,49,0,0,DE,DE-RP,7133,179,Landkreis Bad Kreuznach
 158080,2020-03-25,54,0,0,DE,DE-RP,7133,179,Landkreis Bad Kreuznach
@@ -33421,7 +33421,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 112262,2020-06-16,167,158,2,DE,DE-RP,7231,94,Landkreis Bernkastel-Wittlich
 112262,2020-06-17,167,158,2,DE,DE-RP,7231,94,Landkreis Bernkastel-Wittlich
 112262,2020-06-18,168,159,2,DE,DE-RP,7231,94,Landkreis Bernkastel-Wittlich
-112262,2020-06-19,168,159,2,DE,DE-RP,7231,94,Landkreis Bernkastel-Wittlich
+112262,2020-06-19,169,159,2,DE,DE-RP,7231,94,Landkreis Bernkastel-Wittlich
 80720,2020-03-23,10,0,0,DE,DE-RP,7134,104,Landkreis Birkenfeld
 80720,2020-03-24,17,0,0,DE,DE-RP,7134,104,Landkreis Birkenfeld
 80720,2020-03-25,17,0,0,DE,DE-RP,7134,104,Landkreis Birkenfeld
@@ -33599,7 +33599,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 98561,2020-06-16,185,179,5,DE,DE-RP,7232,59,Eifelkreis Bitburg-Prüm
 98561,2020-06-17,185,179,5,DE,DE-RP,7232,59,Eifelkreis Bitburg-Prüm
 98561,2020-06-18,185,179,5,DE,DE-RP,7232,59,Eifelkreis Bitburg-Prüm
-98561,2020-06-19,185,179,5,DE,DE-RP,7232,59,Eifelkreis Bitburg-Prüm
+98561,2020-06-19,187,179,5,DE,DE-RP,7232,59,Eifelkreis Bitburg-Prüm
 61587,2020-03-23,40,0,0,DE,DE-RP,7135,91,Landkreis Cochem-Zell
 61587,2020-03-24,40,0,0,DE,DE-RP,7135,91,Landkreis Cochem-Zell
 61587,2020-03-25,40,0,0,DE,DE-RP,7135,91,Landkreis Cochem-Zell
@@ -34133,7 +34133,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 210889,2020-06-16,432,402,25,DE,DE-RP,7339,333,Landkreis Mainz-Bingen
 210889,2020-06-17,432,403,25,DE,DE-RP,7339,333,Landkreis Mainz-Bingen
 210889,2020-06-18,432,403,25,DE,DE-RP,7339,333,Landkreis Mainz-Bingen
-210889,2020-06-19,432,403,25,DE,DE-RP,7339,333,Landkreis Mainz-Bingen
+210889,2020-06-19,432,404,25,DE,DE-RP,7339,333,Landkreis Mainz-Bingen
 214259,2020-03-23,151,0,1,DE,DE-RP,7137,256,Landkreis Mayen-Koblenz
 214259,2020-03-24,159,0,1,DE,DE-RP,7137,256,Landkreis Mayen-Koblenz
 214259,2020-03-25,181,0,1,DE,DE-RP,7137,256,Landkreis Mayen-Koblenz
@@ -34222,7 +34222,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 214259,2020-06-16,341,326,14,DE,DE-RP,7137,256,Landkreis Mayen-Koblenz
 214259,2020-06-17,342,327,14,DE,DE-RP,7137,256,Landkreis Mayen-Koblenz
 214259,2020-06-18,347,327,14,DE,DE-RP,7137,256,Landkreis Mayen-Koblenz
-214259,2020-06-19,347,327,14,DE,DE-RP,7137,256,Landkreis Mayen-Koblenz
+214259,2020-06-19,348,327,14,DE,DE-RP,7137,256,Landkreis Mayen-Koblenz
 181941,2020-03-23,75,0,1,DE,DE-RP,7138,286,Landkreis Neuwied
 181941,2020-03-24,85,0,1,DE,DE-RP,7138,286,Landkreis Neuwied
 181941,2020-03-25,87,0,1,DE,DE-RP,7138,286,Landkreis Neuwied
@@ -34400,7 +34400,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 110356,2020-06-16,151,148,3,DE,DE-RP,7337,169,Landkreis Südliche Weinstraße
 110356,2020-06-17,151,148,3,DE,DE-RP,7337,169,Landkreis Südliche Weinstraße
 110356,2020-06-18,151,148,3,DE,DE-RP,7337,169,Landkreis Südliche Weinstraße
-110356,2020-06-19,151,148,3,DE,DE-RP,7337,169,Landkreis Südliche Weinstraße
+110356,2020-06-19,153,148,3,DE,DE-RP,7337,169,Landkreis Südliche Weinstraße
 148945,2020-03-23,19,0,0,DE,DE-RP,7235,130,Landkreis Trier-Saarburg
 148945,2020-03-24,19,0,0,DE,DE-RP,7235,130,Landkreis Trier-Saarburg
 148945,2020-03-25,20,0,0,DE,DE-RP,7235,130,Landkreis Trier-Saarburg
@@ -34755,8 +34755,8 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 99845,2020-06-17,187,161,6,DE,DE-RP,7312,714,Kaiserslautern
 99845,2020-06-18,187,162,6,DE,DE-RP,7312,714,Kaiserslautern
 99845,2020-06-18,187,162,6,DE,DE-RP,7312,714,Kaiserslautern
-99845,2020-06-19,187,162,6,DE,DE-RP,7312,714,Kaiserslautern
-99845,2020-06-19,187,162,6,DE,DE-RP,7312,714,Kaiserslautern
+99845,2020-06-19,187,163,6,DE,DE-RP,7312,714,Kaiserslautern
+99845,2020-06-19,187,163,6,DE,DE-RP,7312,714,Kaiserslautern
 114024,2020-03-23,61,0,0,DE,DE-RP,7111,1083,Koblenz
 114024,2020-03-23,61,0,0,DE,DE-RP,7111,0,Koblenz
 114024,2020-03-24,67,0,0,DE,DE-RP,7111,1083,Koblenz
@@ -35201,7 +35201,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 217118,2020-06-16,674,604,26,DE,DE-RP,7315,2221,Mainz
 217118,2020-06-17,674,607,26,DE,DE-RP,7315,2221,Mainz
 217118,2020-06-18,674,609,26,DE,DE-RP,7315,2221,Mainz
-217118,2020-06-19,674,609,26,DE,DE-RP,7315,2221,Mainz
+217118,2020-06-19,674,623,26,DE,DE-RP,7315,2221,Mainz
 53148,2020-03-23,11,0,1,DE,DE-RP,7316,453,Neustadt an der Weinstraße
 53148,2020-03-23,11,0,1,DE,DE-RP,7316,453,Neustadt an der Weinstraße
 53148,2020-03-24,15,0,1,DE,DE-RP,7316,453,Neustadt an der Weinstraße
@@ -36002,7 +36002,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 34209,2020-06-16,37,35,1,DE,DE-RP,7320,484,Zweibrücken
 34209,2020-06-17,37,35,1,DE,DE-RP,7320,484,Zweibrücken
 34209,2020-06-18,39,35,1,DE,DE-RP,7320,484,Zweibrücken
-34209,2020-06-19,39,35,1,DE,DE-RP,7320,484,Zweibrücken
+34209,2020-06-19,40,35,1,DE,DE-RP,7320,484,Zweibrücken
 195201,2020-03-23,54,0,0,DE,DE-SL,10044,428,Landkreis Saarlouis
 195201,2020-03-24,58,0,0,DE,DE-SL,10044,428,Landkreis Saarlouis
 195201,2020-03-25,62,0,0,DE,DE-SL,10044,428,Landkreis Saarlouis
@@ -36091,7 +36091,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 195201,2020-06-16,552,497,23,DE,DE-SL,10044,428,Landkreis Saarlouis
 195201,2020-06-17,553,497,23,DE,DE-SL,10044,428,Landkreis Saarlouis
 195201,2020-06-18,553,497,23,DE,DE-SL,10044,428,Landkreis Saarlouis
-195201,2020-06-19,553,497,23,DE,DE-SL,10044,428,Landkreis Saarlouis
+195201,2020-06-19,555,497,23,DE,DE-SL,10044,428,Landkreis Saarlouis
 132206,2020-03-23,47,0,0,DE,DE-SL,10043,538,Landkreis Neunkirchen
 132206,2020-03-24,47,0,0,DE,DE-SL,10043,538,Landkreis Neunkirchen
 132206,2020-03-25,49,0,0,DE,DE-SL,10043,538,Landkreis Neunkirchen
@@ -36447,7 +36447,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 247237,2020-06-16,207,140,6,DE,DE-SN,14511,1118,Chemnitz
 247237,2020-06-17,208,140,6,DE,DE-SN,14511,1118,Chemnitz
 247237,2020-06-18,208,140,6,DE,DE-SN,14511,1118,Chemnitz
-247237,2020-06-19,208,140,6,DE,DE-SN,14511,1118,Chemnitz
+247237,2020-06-19,210,140,6,DE,DE-SN,14511,1118,Chemnitz
 587857,2020-03-23,161,0,0,DE,DE-SN,14713,1973,Leipzig
 587857,2020-03-24,181,0,0,DE,DE-SN,14713,1973,Leipzig
 587857,2020-03-25,204,0,0,DE,DE-SN,14713,1973,Leipzig
@@ -36536,7 +36536,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 587857,2020-06-16,595,555,11,DE,DE-SN,14713,1973,Leipzig
 587857,2020-06-17,596,555,12,DE,DE-SN,14713,1973,Leipzig
 587857,2020-06-18,601,555,12,DE,DE-SN,14713,1973,Leipzig
-587857,2020-06-19,601,555,12,DE,DE-SN,14713,1973,Leipzig
+587857,2020-06-19,602,555,12,DE,DE-SN,14713,1973,Leipzig
 300880,2020-03-23,85,5,1,DE,DE-SN,14625,127,Landkreis Bautzen
 300880,2020-03-24,96,5,1,DE,DE-SN,14625,127,Landkreis Bautzen
 300880,2020-03-25,112,5,1,DE,DE-SN,14625,127,Landkreis Bautzen
@@ -37159,7 +37159,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 317531,2020-06-16,879,288,51,DE,DE-SN,14524,342,Landkreis Zwickau
 317531,2020-06-17,880,288,51,DE,DE-SN,14524,342,Landkreis Zwickau
 317531,2020-06-18,881,288,51,DE,DE-SN,14524,342,Landkreis Zwickau
-317531,2020-06-19,881,288,51,DE,DE-SN,14524,342,Landkreis Zwickau
+317531,2020-06-19,883,288,51,DE,DE-SN,14524,342,Landkreis Zwickau
 83765,2020-03-23,6,0,0,DE,DE-ST,15081,37,Altmarkkreis Salzwedel
 83765,2020-03-24,9,0,0,DE,DE-ST,15081,37,Altmarkkreis Salzwedel
 83765,2020-03-25,10,0,0,DE,DE-ST,15081,37,Altmarkkreis Salzwedel
@@ -38138,7 +38138,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 238697,2020-06-16,158,74,2,DE,DE-ST,15003,1187,Magdeburg
 238697,2020-06-17,181,74,2,DE,DE-ST,15003,1187,Magdeburg
 238697,2020-06-18,195,74,2,DE,DE-ST,15003,1187,Magdeburg
-238697,2020-06-19,195,74,2,DE,DE-ST,15003,1187,Magdeburg
+238697,2020-06-19,216,74,2,DE,DE-ST,15003,1187,Magdeburg
 81237,2020-03-23,39,0,0,DE,DE-ST,15001,331,Dessau-Roßlau
 81237,2020-03-23,39,0,0,DE,DE-ST,15001,331,Dessau-Roßlau
 81237,2020-03-24,14,0,0,DE,DE-ST,15001,331,Dessau-Roßlau
@@ -38405,7 +38405,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 89504,2020-06-16,44,30,3,DE,DE-SH,1001,1577,Flensburg
 89504,2020-06-17,44,30,3,DE,DE-SH,1001,1577,Flensburg
 89504,2020-06-18,44,30,3,DE,DE-SH,1001,1577,Flensburg
-89504,2020-06-19,44,30,3,DE,DE-SH,1001,1577,Flensburg
+89504,2020-06-19,46,30,3,DE,DE-SH,1001,1577,Flensburg
 197264,2020-03-23,39,0,0,DE,DE-SH,1053,152,Kreis Herzogtum Lauenburg
 197264,2020-03-24,51,0,0,DE,DE-SH,1053,152,Kreis Herzogtum Lauenburg
 197264,2020-03-25,52,0,1,DE,DE-SH,1053,152,Kreis Herzogtum Lauenburg
@@ -38494,7 +38494,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 197264,2020-06-16,265,242,16,DE,DE-SH,1053,152,Kreis Herzogtum Lauenburg
 197264,2020-06-17,265,242,16,DE,DE-SH,1053,152,Kreis Herzogtum Lauenburg
 197264,2020-06-18,265,242,16,DE,DE-SH,1053,152,Kreis Herzogtum Lauenburg
-197264,2020-06-19,265,242,16,DE,DE-SH,1053,152,Kreis Herzogtum Lauenburg
+197264,2020-06-19,266,242,16,DE,DE-SH,1053,152,Kreis Herzogtum Lauenburg
 247548,2020-03-23,41,0,0,DE,DE-SH,1002,2086,Kiel
 247548,2020-03-24,51,0,0,DE,DE-SH,1002,2086,Kiel
 247548,2020-03-25,63,0,1,DE,DE-SH,1002,2086,Kiel
@@ -39412,7 +39412,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 98159,2020-06-16,655,293,46,DE,DE-TH,16076,119,Landkreis Greiz
 98159,2020-06-17,659,293,48,DE,DE-TH,16076,119,Landkreis Greiz
 98159,2020-06-18,662,293,48,DE,DE-TH,16076,119,Landkreis Greiz
-98159,2020-06-19,662,293,48,DE,DE-TH,16076,119,Landkreis Greiz
+98159,2020-06-19,664,293,48,DE,DE-TH,16076,119,Landkreis Greiz
 63553,2020-03-16,0,0,0,DE,DE-TH,16069,68,Landkreis Hildburghausen
 63553,2020-03-17,0,0,0,DE,DE-TH,16069,68,Landkreis Hildburghausen
 63553,2020-03-18,0,0,0,DE,DE-TH,16069,68,Landkreis Hildburghausen
@@ -39508,7 +39508,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 63553,2020-06-16,63,26,1,DE,DE-TH,16069,68,Landkreis Hildburghausen
 63553,2020-06-17,65,26,1,DE,DE-TH,16069,68,Landkreis Hildburghausen
 63553,2020-06-18,65,26,1,DE,DE-TH,16069,68,Landkreis Hildburghausen
-63553,2020-06-19,65,26,1,DE,DE-TH,16069,68,Landkreis Hildburghausen
+63553,2020-06-19,67,26,1,DE,DE-TH,16069,68,Landkreis Hildburghausen
 106622,2020-03-16,1,0,0,DE,DE-TH,16070,129,Ilm-Kreis
 106622,2020-03-17,1,0,0,DE,DE-TH,16070,129,Ilm-Kreis
 106622,2020-03-18,2,0,0,DE,DE-TH,16070,129,Ilm-Kreis
@@ -40372,7 +40372,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 58410,2020-06-16,280,103,21,DE,DE-TH,16072,131,Landkreis Sonneberg
 58410,2020-06-17,285,103,21,DE,DE-TH,16072,131,Landkreis Sonneberg
 58410,2020-06-18,285,103,21,DE,DE-TH,16072,131,Landkreis Sonneberg
-58410,2020-06-19,285,103,21,DE,DE-TH,16072,131,Landkreis Sonneberg
+58410,2020-06-19,288,103,21,DE,DE-TH,16072,131,Landkreis Sonneberg
 102912,2020-03-16,0,0,0,DE,DE-TH,16064,107,Unstrut-Hainich-Kreis
 102912,2020-03-17,1,0,0,DE,DE-TH,16064,107,Unstrut-Hainich-Kreis
 102912,2020-03-18,2,0,0,DE,DE-TH,16064,107,Unstrut-Hainich-Kreis
@@ -40468,7 +40468,7 @@ population_number,reportDate,cases,recovered,deaths,countryCode,stateCode,ags,po
 102912,2020-06-16,89,71,3,DE,DE-TH,16064,107,Unstrut-Hainich-Kreis
 102912,2020-06-17,90,71,3,DE,DE-TH,16064,107,Unstrut-Hainich-Kreis
 102912,2020-06-18,90,71,3,DE,DE-TH,16064,107,Unstrut-Hainich-Kreis
-102912,2020-06-19,90,71,3,DE,DE-TH,16064,107,Unstrut-Hainich-Kreis
+102912,2020-06-19,91,71,3,DE,DE-TH,16064,107,Unstrut-Hainich-Kreis
 119726,2020-03-16,0,0,0,DE,DE-TH,16063,96,Wartburgkreis
 119726,2020-03-17,3,0,0,DE,DE-TH,16063,96,Wartburgkreis
 119726,2020-03-18,5,0,0,DE,DE-TH,16063,96,Wartburgkreis
