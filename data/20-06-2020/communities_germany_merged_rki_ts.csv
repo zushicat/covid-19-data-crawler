@@ -9778,10 +9778,10 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-20,3252,146.0,10.0,131.0,Tagesspiegel,DE-NI,Hameln-Pyrmont,148559.0,187.0
 2020-06-20,3254,408.0,6.0,392.0,Tagesspiegel,DE-NI,Hildesheim,276594.0,229.0
 2020-06-20,4011,1440.0,43.0,1273.0,Tagesspiegel,DE-HB,Bremen,569352.0,1749.0
-2020-06-20,4012,199.0,6.0,160.0,Tagesspiegel,DE-HB,Bremerhaven,113634.0,1211.0
-2020-06-20,5111,1634.0,36.0,1429.0,Tagesspiegel,DE-NW,Düsseldorf,619294.0,2848.0
+2020-06-20,4012,199.0,6.0,163.0,Tagesspiegel,DE-HB,Bremerhaven,113634.0,1211.0
+2020-06-20,5111,1634.0,36.0,1442.0,Tagesspiegel,DE-NW,Düsseldorf,619294.0,2848.0
 2020-06-20,5112,1364.0,55.0,1146.0,Tagesspiegel,DE-NW,Duisburg,498590.0,2142.0
-2020-06-20,5113,918.0,41.0,820.0,Tagesspiegel,DE-NW,Essen,583109.0,2772.0
+2020-06-20,5113,918.0,41.0,837.0,Tagesspiegel,DE-NW,Essen,583109.0,2772.0
 2020-06-20,5114,644.0,22.0,615.0,Tagesspiegel,DE-NW,Krefeld,227020.0,1648.0
 2020-06-20,5116,656.0,41.0,588.0,Tagesspiegel,DE-NW,Mönchengladbach,261454.0,1534.0
 2020-06-20,5117,231.0,11.0,204.0,Tagesspiegel,DE-NW,Mülheim an der Ruhr,170880.0,1872.0
@@ -9790,7 +9790,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-06-20,5122,288.0,8.0,245.0,Tagesspiegel,DE-NW,Solingen,159360.0,1780.0
 2020-06-20,5124,968.0,86.0,848.0,Tagesspiegel,DE-NW,Wuppertal,354382.0,2105.0
 2020-06-20,6411,223.0,18.0,204.0,Tagesspiegel,DE-HE,Darmstadt,159207.0,1304.0
-2020-06-20,6412,1702.0,63.0,1568.0,Tagesspiegel,DE-HE,Frankfurt am Main,753056.0,3033.0
+2020-06-20,6412,1702.0,64.0,1568.0,Tagesspiegel,DE-HE,Frankfurt am Main,753056.0,3033.0
 2020-06-20,6414,468.0,21.0,427.0,Tagesspiegel,DE-HE,Wiesbaden,278342.0,1365.0
 2020-06-20,6431,363.0,3.0,347.0,Tagesspiegel,DE-HE,Bergstraße,269694.0,375.0
 2020-06-20,6432,427.0,20.0,399.0,Tagesspiegel,DE-HE,Darmstadt-Dieburg,297399.0,452.0
