@@ -153,6 +153,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Afghanistan,28833,581,ZON,AF,34940837,53
 22-06-2020,Afghanistan,29157,598,ZON,AF,34940837,53
 23-06-2020,Afghanistan,29481,618,ZON,AF,34940837,53
+24-06-2020,Afghanistan,29640,639,ZON,AF,34940837,53
 22-01-2020,Albanien,0,0,ZON,AL,3020209,105
 23-01-2020,Albanien,0,0,ZON,AL,3020209,105
 24-01-2020,Albanien,0,0,ZON,AL,3020209,105
@@ -307,6 +308,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Albanien,1962,44,ZON,AL,3020209,105
 22-06-2020,Albanien,1995,44,ZON,AL,3020209,105
 23-06-2020,Albanien,2047,45,ZON,AL,3020209,105
+24-06-2020,Albanien,2114,47,ZON,AL,3020209,105
 22-01-2020,Algerien,0,0,ZON,DZ,41318142,17
 23-01-2020,Algerien,0,0,ZON,DZ,41318142,17
 24-01-2020,Algerien,0,0,ZON,DZ,41318142,17
@@ -461,6 +463,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Algerien,11771,845,ZON,DZ,41318142,17
 22-06-2020,Algerien,11920,852,ZON,DZ,41318142,17
 23-06-2020,Algerien,12076,861,ZON,DZ,41318142,17
+24-06-2020,Algerien,12248,869,ZON,DZ,41318142,17
 22-01-2020,Andorra,0,0,ZON,AD,76177,162
 23-01-2020,Andorra,0,0,ZON,AD,76177,162
 24-01-2020,Andorra,0,0,ZON,AD,76177,162
@@ -615,6 +618,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Andorra,855,52,ZON,AD,76177,162
 22-06-2020,Andorra,855,52,ZON,AD,76177,162
 23-06-2020,Andorra,855,52,ZON,AD,76177,162
+24-06-2020,Andorra,855,52,ZON,AD,76177,162
 22-01-2020,Angola,0,0,ZON,AO,29784193,23
 23-01-2020,Angola,0,0,ZON,AO,29784193,23
 24-01-2020,Angola,0,0,ZON,AO,29784193,23
@@ -769,6 +773,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Angola,183,9,ZON,AO,29784193,23
 22-06-2020,Angola,186,10,ZON,AO,29784193,23
 23-06-2020,Angola,189,10,ZON,AO,29784193,23
+24-06-2020,Angola,197,10,ZON,AO,29784193,23
 22-01-2020,Argentinien,0,0,ZON,AR,44938712,16
 23-01-2020,Argentinien,0,0,ZON,AR,44938712,16
 24-01-2020,Argentinien,0,0,ZON,AR,44938712,16
@@ -923,6 +928,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Argentinien,42785,1011,ZON,AR,44938712,16
 22-06-2020,Argentinien,44931,1043,ZON,AR,44938712,16
 23-06-2020,Argentinien,47203,1078,ZON,AR,44938712,16
+24-06-2020,Argentinien,49851,1116,ZON,AR,44938712,16
 22-01-2020,Armenien,0,0,ZON,AM,2930450,98
 23-01-2020,Armenien,0,0,ZON,AM,2930450,98
 24-01-2020,Armenien,0,0,ZON,AM,2930450,98
@@ -1077,6 +1083,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Armenien,20268,350,ZON,AM,2930450,98
 22-06-2020,Armenien,20588,360,ZON,AM,2930450,98
 23-06-2020,Armenien,21006,372,ZON,AM,2930450,98
+24-06-2020,Armenien,21717,386,ZON,AM,2930450,98
 22-01-2020,Australien,0,0,ZON,AU,23401892,3
 23-01-2020,Australien,0,0,ZON,AU,23401892,3
 24-01-2020,Australien,0,0,ZON,AU,23401892,3
@@ -1231,6 +1238,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Australien,7474,102,ZON,AU,23401892,3
 22-06-2020,Australien,7492,102,ZON,AU,23401892,3
 23-06-2020,Australien,7521,103,ZON,AU,23401892,3
+24-06-2020,Australien,7558,104,ZON,AU,23401892,3
 22-01-2020,Azerbaijan,0,0,ZON,AZ,10000000,115
 23-01-2020,Azerbaijan,0,0,ZON,AZ,10000000,115
 24-01-2020,Azerbaijan,0,0,ZON,AZ,10000000,115
@@ -1385,6 +1393,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Azerbaijan,12729,154,ZON,AZ,10000000,115
 22-06-2020,Azerbaijan,13207,161,ZON,AZ,10000000,115
 23-06-2020,Azerbaijan,13715,167,ZON,AZ,10000000,115
+24-06-2020,Azerbaijan,14305,174,ZON,AZ,10000000,115
 22-01-2020,Bahamas,0,0,ZON,BS,377374,27
 23-01-2020,Bahamas,0,0,ZON,BS,377374,27
 24-01-2020,Bahamas,0,0,ZON,BS,377374,27
@@ -1539,6 +1548,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Bahamas,104,11,ZON,BS,377374,27
 22-06-2020,Bahamas,104,11,ZON,BS,377374,27
 23-06-2020,Bahamas,104,11,ZON,BS,377374,27
+24-06-2020,Bahamas,104,11,ZON,BS,377374,27
 22-01-2020,Bahrain,0,0,ZON,BH,1332171,1741
 23-01-2020,Bahrain,0,0,ZON,BH,1332171,1741
 24-01-2020,Bahrain,0,0,ZON,BH,1332171,1741
@@ -1693,6 +1703,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Bahrain,21764,63,ZON,BH,1332171,1741
 22-06-2020,Bahrain,22407,65,ZON,BH,1332171,1741
 23-06-2020,Bahrain,23062,67,ZON,BH,1332171,1741
+24-06-2020,Bahrain,23570,69,ZON,BH,1332171,1741
 22-01-2020,Belgien,0,0,ZON,BE,11150516,365
 23-01-2020,Belgien,0,0,ZON,BE,11150516,365
 24-01-2020,Belgien,0,0,ZON,BE,11150516,365
@@ -1847,6 +1858,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Belgien,60550,9696,ZON,BE,11150516,365
 22-06-2020,Belgien,60550,9696,ZON,BE,11150516,365
 23-06-2020,Belgien,60810,9713,ZON,BE,11150516,365
+24-06-2020,Belgien,60898,9722,ZON,BE,11150516,365
 22-01-2020,Benin,0,0,ZON,BJ,11175692,97
 23-01-2020,Benin,0,0,ZON,BJ,11175692,97
 24-01-2020,Benin,0,0,ZON,BJ,11175692,97
@@ -2001,6 +2013,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Benin,765,13,ZON,BJ,11175692,97
 22-06-2020,Benin,807,13,ZON,BJ,11175692,97
 23-06-2020,Benin,850,13,ZON,BJ,11175692,97
+24-06-2020,Benin,902,13,ZON,BJ,11175692,97
 22-01-2020,Bolivien,0,0,ZON,BO,11051600,10
 23-01-2020,Bolivien,0,0,ZON,BO,11051600,10
 24-01-2020,Bolivien,0,0,ZON,BO,11051600,10
@@ -2155,6 +2168,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Bolivien,24388,773,ZON,BO,11051600,10
 22-06-2020,Bolivien,25493,820,ZON,BO,11051600,10
 23-06-2020,Bolivien,26389,846,ZON,BO,11051600,10
+24-06-2020,Bolivien,27487,876,ZON,BO,11051600,10
 22-01-2020,Bosnien und Herzegowina,0,0,ZON,BA,3507017,68
 23-01-2020,Bosnien und Herzegowina,0,0,ZON,BA,3507017,68
 24-01-2020,Bosnien und Herzegowina,0,0,ZON,BA,3507017,68
@@ -2309,6 +2323,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Bosnien und Herzegowina,3273,169,ZON,BA,3507017,68
 22-06-2020,Bosnien und Herzegowina,3525,171,ZON,BA,3507017,68
 23-06-2020,Bosnien und Herzegowina,3588,172,ZON,BA,3507017,68
+24-06-2020,Bosnien und Herzegowina,3676,173,ZON,BA,3507017,68
 22-01-2020,Brasilien,0,0,ZON,BR,208494900,24
 23-01-2020,Brasilien,0,0,ZON,BR,208494900,24
 24-01-2020,Brasilien,0,0,ZON,BR,208494900,24
@@ -2463,6 +2478,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Brasilien,1083341,50591,ZON,BR,208494900,24
 22-06-2020,Brasilien,1106470,51271,ZON,BR,208494900,24
 23-06-2020,Brasilien,1145906,52645,ZON,BR,208494900,24
+24-06-2020,Brasilien,1188631,53830,ZON,BR,208494900,24
 22-01-2020,Brunei,0,0,ZON,BN,417784,72
 23-01-2020,Brunei,0,0,ZON,BN,417784,72
 24-01-2020,Brunei,0,0,ZON,BN,417784,72
@@ -2617,6 +2633,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Brunei,141,3,ZON,BN,417784,72
 22-06-2020,Brunei,141,3,ZON,BN,417784,72
 23-06-2020,Brunei,141,3,ZON,BN,417784,72
+24-06-2020,Brunei,141,3,ZON,BN,417784,72
 22-01-2020,Bulgarien,0,0,ZON,BG,7265115,65
 23-01-2020,Bulgarien,0,0,ZON,BG,7265115,65
 24-01-2020,Bulgarien,0,0,ZON,BG,7265115,65
@@ -2771,6 +2788,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Bulgarien,3905,199,ZON,BG,7265115,65
 22-06-2020,Bulgarien,3984,207,ZON,BG,7265115,65
 23-06-2020,Bulgarien,4114,208,ZON,BG,7265115,65
+24-06-2020,Bulgarien,4242,209,ZON,BG,7265115,65
 22-01-2020,Burkina Faso,0,0,ZON,BF,19193382,69
 23-01-2020,Burkina Faso,0,0,ZON,BF,19193382,69
 24-01-2020,Burkina Faso,0,0,ZON,BF,19193382,69
@@ -2925,6 +2943,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Burkina Faso,903,53,ZON,BF,19193382,69
 22-06-2020,Burkina Faso,903,53,ZON,BF,19193382,69
 23-06-2020,Burkina Faso,907,53,ZON,BF,19193382,69
+24-06-2020,Burkina Faso,919,53,ZON,BF,19193382,69
 22-01-2020,Burundi,0,0,ZON,BI,10864245,390
 23-01-2020,Burundi,0,0,ZON,BI,10864245,390
 24-01-2020,Burundi,0,0,ZON,BI,10864245,390
@@ -3079,6 +3098,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Burundi,144,1,ZON,BI,10864245,390
 22-06-2020,Burundi,144,1,ZON,BI,10864245,390
 23-06-2020,Burundi,144,1,ZON,BI,10864245,390
+24-06-2020,Burundi,144,1,ZON,BI,10864245,390
 22-01-2020,Chile,0,0,ZON,CL,18054726,23
 23-01-2020,Chile,0,0,ZON,CL,18054726,23
 24-01-2020,Chile,0,0,ZON,CL,18054726,23
@@ -3233,6 +3253,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Chile,242355,4479,ZON,CL,18054726,23
 22-06-2020,Chile,246963,4502,ZON,CL,18054726,23
 23-06-2020,Chile,250767,4505,ZON,CL,18054726,23
+24-06-2020,Chile,254416,4731,ZON,CL,18054726,23
 22-01-2020,Costa Rica,0,0,ZON,CR,4872166,95
 23-01-2020,Costa Rica,0,0,ZON,CR,4872166,95
 24-01-2020,Costa Rica,0,0,ZON,CR,4872166,95
@@ -3387,6 +3408,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Costa Rica,2213,12,ZON,CR,4872166,95
 22-06-2020,Costa Rica,2277,12,ZON,CR,4872166,95
 23-06-2020,Costa Rica,2368,12,ZON,CR,4872166,95
+24-06-2020,Costa Rica,2515,12,ZON,CR,4872166,95
 22-01-2020,Cyprus,0,0,ZON,CY,1141166,123
 23-01-2020,Cyprus,0,0,ZON,CY,1141166,123
 24-01-2020,Cyprus,0,0,ZON,CY,1141166,123
@@ -3541,6 +3563,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Cyprus,986,19,ZON,CY,1141166,123
 22-06-2020,Cyprus,988,19,ZON,CY,1141166,123
 23-06-2020,Cyprus,990,19,ZON,CY,1141166,123
+24-06-2020,Cyprus,991,19,ZON,CY,1141166,123
 22-01-2020,Demokratische Republik Kongo,0,0,ZON,CD,86790567,37
 23-01-2020,Demokratische Republik Kongo,0,0,ZON,CD,86790567,37
 24-01-2020,Demokratische Republik Kongo,0,0,ZON,CD,86790567,37
@@ -3695,6 +3718,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Demokratische Republik Kongo,5826,130,ZON,CD,86790567,37
 22-06-2020,Demokratische Republik Kongo,5924,135,ZON,CD,86790567,37
 23-06-2020,Demokratische Republik Kongo,6027,135,ZON,CD,86790567,37
+24-06-2020,Demokratische Republik Kongo,6213,142,ZON,CD,86790567,37
 22-01-2020,Deutschland,0,0,ZON,DE,82979100,232
 23-01-2020,Deutschland,0,0,ZON,DE,82979100,232
 24-01-2020,Deutschland,0,0,ZON,DE,82979100,232
@@ -3849,6 +3873,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Deutschland,191673,9058,ZON,DE,82979100,232
 22-06-2020,Deutschland,192251,9064,ZON,DE,82979100,232
 23-06-2020,Deutschland,192886,9083,ZON,DE,82979100,232
+24-06-2020,Deutschland,193468,9094,ZON,DE,82979100,232
 22-01-2020,Dominikanische Republik,0,0,ZON,DO,10403761,213
 23-01-2020,Dominikanische Republik,0,0,ZON,DO,10403761,213
 24-01-2020,Dominikanische Republik,0,0,ZON,DO,10403761,213
@@ -4003,6 +4028,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Dominikanische Republik,26677,662,ZON,DO,10403761,213
 22-06-2020,Dominikanische Republik,27370,669,ZON,DO,10403761,213
 23-06-2020,Dominikanische Republik,27936,675,ZON,DO,10403761,213
+24-06-2020,Dominikanische Republik,28631,691,ZON,DO,10403761,213
 22-01-2020,Dänemark,0,0,ZON,DK,5827463,135
 23-01-2020,Dänemark,0,0,ZON,DK,5827463,135
 24-01-2020,Dänemark,0,0,ZON,DK,5827463,135
@@ -4157,6 +4183,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Dänemark,12591,600,ZON,DK,5827463,135
 22-06-2020,Dänemark,12727,602,ZON,DK,5827463,135
 23-06-2020,Dänemark,12761,603,ZON,DK,5827463,135
+24-06-2020,Dänemark,12815,603,ZON,DK,5827463,135
 22-01-2020,Ecuador,0,0,ZON,EC,15737878,55
 23-01-2020,Ecuador,0,0,ZON,EC,15737878,55
 24-01-2020,Ecuador,0,0,ZON,EC,15737878,55
@@ -4311,6 +4338,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Ecuador,50640,4223,ZON,EC,15737878,55
 22-06-2020,Ecuador,50640,4223,ZON,EC,15737878,55
 23-06-2020,Ecuador,51643,4274,ZON,EC,15737878,55
+24-06-2020,Ecuador,51643,4274,ZON,EC,15737878,55
 22-01-2020,El Salvador,0,0,ZON,SV,7332000,353
 23-01-2020,El Salvador,0,0,ZON,SV,7332000,353
 24-01-2020,El Salvador,0,0,ZON,SV,7332000,353
@@ -4465,6 +4493,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,El Salvador,4626,98,ZON,SV,7332000,353
 22-06-2020,El Salvador,4808,107,ZON,SV,7332000,353
 23-06-2020,El Salvador,4973,113,ZON,SV,7332000,353
+24-06-2020,El Salvador,5150,119,ZON,SV,7332000,353
 22-01-2020,Elfenbeinküste,0,0,ZON,CI,20316086,63
 23-01-2020,Elfenbeinküste,0,0,ZON,CI,20316086,63
 24-01-2020,Elfenbeinküste,0,0,ZON,CI,20316086,63
@@ -4619,6 +4648,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Elfenbeinküste,7492,54,ZON,CI,20316086,63
 22-06-2020,Elfenbeinküste,7677,56,ZON,CI,20316086,63
 23-06-2020,Elfenbeinküste,7904,58,ZON,CI,20316086,63
+24-06-2020,Elfenbeinküste,8164,58,ZON,CI,20316086,63
 22-01-2020,Eritrea,0,0,ZON,ER,3497117,29
 23-01-2020,Eritrea,0,0,ZON,ER,3497117,29
 24-01-2020,Eritrea,0,0,ZON,ER,3497117,29
@@ -4773,6 +4803,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Eritrea,143,0,ZON,ER,3497117,29
 22-06-2020,Eritrea,143,0,ZON,ER,3497117,29
 23-06-2020,Eritrea,143,0,ZON,ER,3497117,29
+24-06-2020,Eritrea,144,0,ZON,ER,3497117,29
 22-01-2020,Estland,0,0,ZON,EE,1324820,29
 23-01-2020,Estland,0,0,ZON,EE,1324820,29
 24-01-2020,Estland,0,0,ZON,EE,1324820,29
@@ -4927,6 +4958,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Estland,1981,69,ZON,EE,1324820,29
 22-06-2020,Estland,1981,69,ZON,EE,1324820,29
 23-06-2020,Estland,1982,69,ZON,EE,1324820,29
+24-06-2020,Estland,1983,69,ZON,EE,1324820,29
 22-01-2020,Finnland,0,0,ZON,FI,5501043,16
 23-01-2020,Finnland,0,0,ZON,FI,5501043,16
 24-01-2020,Finnland,0,0,ZON,FI,5501043,16
@@ -5081,6 +5113,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Finnland,7143,326,ZON,FI,5501043,16
 22-06-2020,Finnland,7144,327,ZON,FI,5501043,16
 23-06-2020,Finnland,7155,327,ZON,FI,5501043,16
+24-06-2020,Finnland,7167,327,ZON,FI,5501043,16
 22-01-2020,Frankreich,0,0,ZON,FR,66628000,103
 23-01-2020,Frankreich,0,0,ZON,FR,66628000,103
 24-01-2020,Frankreich,2,0,ZON,FR,66628000,103
@@ -5235,6 +5268,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Frankreich,197008,29643,ZON,FR,66628000,103
 22-06-2020,Frankreich,197381,29666,ZON,FR,66628000,103
 23-06-2020,Frankreich,197804,29723,ZON,FR,66628000,103
+24-06-2020,Frankreich,197885,29734,ZON,FR,66628000,103
 22-01-2020,Georgien,0,0,ZON,GE,3717100,53
 23-01-2020,Georgien,0,0,ZON,GE,3717100,53
 24-01-2020,Georgien,0,0,ZON,GE,3717100,53
@@ -5389,6 +5423,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Georgien,906,14,ZON,GE,3717100,53
 22-06-2020,Georgien,908,14,ZON,GE,3717100,53
 23-06-2020,Georgien,911,14,ZON,GE,3717100,53
+24-06-2020,Georgien,914,14,ZON,GE,3717100,53
 22-01-2020,Ghana,0,0,ZON,GH,28308301,118
 23-01-2020,Ghana,0,0,ZON,GH,28308301,118
 24-01-2020,Ghana,0,0,ZON,GH,28308301,118
@@ -5543,6 +5578,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Ghana,14154,85,ZON,GH,28308301,118
 22-06-2020,Ghana,14154,85,ZON,GH,28308301,118
 23-06-2020,Ghana,14568,95,ZON,GH,28308301,118
+24-06-2020,Ghana,15013,95,ZON,GH,28308301,118
 22-01-2020,Griechenland,0,0,ZON,GR,10760421,81
 23-01-2020,Griechenland,0,0,ZON,GR,10760421,81
 24-01-2020,Griechenland,0,0,ZON,GR,10760421,81
@@ -5697,6 +5733,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Griechenland,3266,190,ZON,GR,10760421,81
 22-06-2020,Griechenland,3287,190,ZON,GR,10760421,81
 23-06-2020,Griechenland,3302,190,ZON,GR,10760421,81
+24-06-2020,Griechenland,3310,190,ZON,GR,10760421,81
 22-01-2020,Guatemala,0,0,ZON,GT,15468203,142
 23-01-2020,Guatemala,0,0,ZON,GT,15468203,142
 24-01-2020,Guatemala,0,0,ZON,GT,15468203,142
@@ -5851,6 +5888,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Guatemala,13145,531,ZON,GT,15468203,142
 22-06-2020,Guatemala,13769,547,ZON,GT,15468203,142
 23-06-2020,Guatemala,14540,582,ZON,GT,15468203,142
+24-06-2020,Guatemala,14819,601,ZON,GT,15468203,142
 22-01-2020,Guinea,0,0,ZON,GN,11628972,47
 23-01-2020,Guinea,0,0,ZON,GN,11628972,47
 24-01-2020,Guinea,0,0,ZON,GN,11628972,47
@@ -6005,6 +6043,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Guinea,4988,27,ZON,GN,11628972,47
 22-06-2020,Guinea,4988,27,ZON,GN,11628972,47
 23-06-2020,Guinea,5040,28,ZON,GN,11628972,47
+24-06-2020,Guinea,5174,29,ZON,GN,11628972,47
 22-01-2020,Guinea-Bissau,0,0,ZON,GW,1515000,41
 23-01-2020,Guinea-Bissau,0,0,ZON,GW,1515000,41
 24-01-2020,Guinea-Bissau,0,0,ZON,GW,1515000,41
@@ -6159,6 +6198,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Guinea-Bissau,1541,17,ZON,GW,1515000,41
 22-06-2020,Guinea-Bissau,1556,19,ZON,GW,1515000,41
 23-06-2020,Guinea-Bissau,1556,19,ZON,GW,1515000,41
+24-06-2020,Guinea-Bissau,1556,19,ZON,GW,1515000,41
 22-01-2020,Guyana,0,0,ZON,GY,799613,3
 23-01-2020,Guyana,0,0,ZON,GY,799613,3
 24-01-2020,Guyana,0,0,ZON,GY,799613,3
@@ -6313,6 +6353,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Guyana,184,12,ZON,GY,799613,3
 22-06-2020,Guyana,205,12,ZON,GY,799613,3
 23-06-2020,Guyana,206,12,ZON,GY,799613,3
+24-06-2020,Guyana,209,12,ZON,GY,799613,3
 22-01-2020,Haiti,0,0,ZON,HT,10317461,371
 23-01-2020,Haiti,0,0,ZON,HT,10317461,371
 24-01-2020,Haiti,0,0,ZON,HT,10317461,371
@@ -6467,6 +6508,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Haiti,5077,88,ZON,HT,10317461,371
 22-06-2020,Haiti,5211,88,ZON,HT,10317461,371
 23-06-2020,Haiti,5324,89,ZON,HT,10317461,371
+24-06-2020,Haiti,5429,92,ZON,HT,10317461,371
 22-01-2020,Honduras,0,0,ZON,HN,8097688,71
 23-01-2020,Honduras,0,0,ZON,HN,8097688,71
 24-01-2020,Honduras,0,0,ZON,HN,8097688,71
@@ -6621,6 +6663,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Honduras,12769,363,ZON,HN,8097688,71
 22-06-2020,Honduras,13356,395,ZON,HN,8097688,71
 23-06-2020,Honduras,13943,405,ZON,HN,8097688,71
+24-06-2020,Honduras,14571,417,ZON,HN,8097688,71
 22-01-2020,Indien,0,0,ZON,IN,1349217956,410
 23-01-2020,Indien,0,0,ZON,IN,1349217956,410
 24-01-2020,Indien,0,0,ZON,IN,1349217956,410
@@ -6775,6 +6818,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Indien,425282,13699,ZON,IN,1349217956,410
 22-06-2020,Indien,440215,14011,ZON,IN,1349217956,410
 23-06-2020,Indien,456183,14476,ZON,IN,1349217956,410
+24-06-2020,Indien,473105,14894,ZON,IN,1349217956,410
 22-01-2020,Indonesien,0,0,ZON,ID,263991379,138
 23-01-2020,Indonesien,0,0,ZON,ID,263991379,138
 24-01-2020,Indonesien,0,0,ZON,ID,263991379,138
@@ -6929,6 +6973,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Indonesien,45891,2465,ZON,ID,263991379,138
 22-06-2020,Indonesien,46845,2500,ZON,ID,263991379,138
 23-06-2020,Indonesien,47896,2535,ZON,ID,263991379,138
+24-06-2020,Indonesien,49009,2573,ZON,ID,263991379,138
 22-01-2020,Irak,0,0,ZON,IQ,33417476,76
 23-01-2020,Irak,0,0,ZON,IQ,33417476,76
 24-01-2020,Irak,0,0,ZON,IQ,33417476,76
@@ -7083,6 +7128,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Irak,30868,1100,ZON,IQ,33417476,76
 22-06-2020,Irak,32676,1167,ZON,IQ,33417476,76
 23-06-2020,Irak,34502,1251,ZON,IQ,33417476,76
+24-06-2020,Irak,36702,1330,ZON,IQ,33417476,76
 22-01-2020,Iran,0,0,ZON,IR,77447168,46
 23-01-2020,Iran,0,0,ZON,IR,77447168,46
 24-01-2020,Iran,0,0,ZON,IR,77447168,46
@@ -7237,6 +7283,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Iran,204952,9623,ZON,IR,77447168,46
 22-06-2020,Iran,207525,9742,ZON,IR,77447168,46
 23-06-2020,Iran,209970,9863,ZON,IR,77447168,46
+24-06-2020,Iran,212501,9996,ZON,IR,77447168,46
 22-01-2020,Irland,0,0,ZON,IE,4761865,67
 23-01-2020,Irland,0,0,ZON,IE,4761865,67
 24-01-2020,Irland,0,0,ZON,IE,4761865,67
@@ -7391,6 +7438,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Irland,25379,1715,ZON,IE,4761865,67
 22-06-2020,Irland,25383,1717,ZON,IE,4761865,67
 23-06-2020,Irland,25391,1720,ZON,IE,4761865,67
+24-06-2020,Irland,25396,1726,ZON,IE,4761865,67
 22-01-2020,Island,0,0,ZON,IS,357050,3
 23-01-2020,Island,0,0,ZON,IS,357050,3
 24-01-2020,Island,0,0,ZON,IS,357050,3
@@ -7545,6 +7593,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Island,1823,10,ZON,IS,357050,3
 22-06-2020,Island,1823,10,ZON,IS,357050,3
 23-06-2020,Island,1824,10,ZON,IS,357050,3
+24-06-2020,Island,1824,10,ZON,IS,357050,3
 22-01-2020,Israel,0,0,ZON,IL,8891800,428
 23-01-2020,Israel,0,0,ZON,IL,8891800,428
 24-01-2020,Israel,0,0,ZON,IL,8891800,428
@@ -7699,6 +7748,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Israel,20778,306,ZON,IL,8891800,428
 22-06-2020,Israel,21082,307,ZON,IL,8891800,428
 23-06-2020,Israel,21512,308,ZON,IL,8891800,428
+24-06-2020,Israel,22044,308,ZON,IL,8891800,428
 22-01-2020,Italien,0,0,ZON,IT,60599936,201
 23-01-2020,Italien,0,0,ZON,IT,60599936,201
 24-01-2020,Italien,0,0,ZON,IT,60599936,201
@@ -7853,6 +7903,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Italien,238499,34634,ZON,IT,60599936,201
 22-06-2020,Italien,238720,34657,ZON,IT,60599936,201
 23-06-2020,Italien,238833,34675,ZON,IT,60599936,201
+24-06-2020,Italien,239410,34644,ZON,IT,60599936,201
 22-01-2020,Japan,2,0,ZON,JP,127110047,336
 23-01-2020,Japan,2,0,ZON,JP,127110047,336
 24-01-2020,Japan,2,0,ZON,JP,127110047,336
@@ -8007,6 +8058,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Japan,17780,955,ZON,JP,127110047,336
 22-06-2020,Japan,17820,955,ZON,JP,127110047,336
 23-06-2020,Japan,17879,965,ZON,JP,127110047,336
+24-06-2020,Japan,17963,967,ZON,JP,127110047,336
 22-01-2020,Jordanien,0,0,ZON,JO,10428241,116
 23-01-2020,Jordanien,0,0,ZON,JO,10428241,116
 24-01-2020,Jordanien,0,0,ZON,JO,10428241,116
@@ -8161,6 +8213,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Jordanien,1033,9,ZON,JO,10428241,116
 22-06-2020,Jordanien,1042,9,ZON,JO,10428241,116
 23-06-2020,Jordanien,1047,9,ZON,JO,10428241,116
+24-06-2020,Jordanien,1071,9,ZON,JO,10428241,116
 22-01-2020,Kamerun,0,0,ZON,CM,24053727,50
 23-01-2020,Kamerun,0,0,ZON,CM,24053727,50
 24-01-2020,Kamerun,0,0,ZON,CM,24053727,50
@@ -8315,6 +8368,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Kamerun,11892,303,ZON,CM,24053727,50
 22-06-2020,Kamerun,12041,308,ZON,CM,24053727,50
 23-06-2020,Kamerun,12270,313,ZON,CM,24053727,50
+24-06-2020,Kamerun,12592,313,ZON,CM,24053727,50
 22-01-2020,Kanada,0,0,ZON,CA,35702707,3
 23-01-2020,Kanada,0,0,ZON,CA,35702707,3
 24-01-2020,Kanada,0,0,ZON,CA,35702707,3
@@ -8469,6 +8523,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Kanada,103078,8482,ZON,CA,35702707,3
 22-06-2020,Kanada,103418,8494,ZON,CA,35702707,3
 23-06-2020,Kanada,103767,8512,ZON,CA,35702707,3
+24-06-2020,Kanada,104087,8544,ZON,CA,35702707,3
 22-01-2020,Kazakhstan,0,0,ZON,KZ,18037646,6
 23-01-2020,Kazakhstan,0,0,ZON,KZ,18037646,6
 24-01-2020,Kazakhstan,0,0,ZON,KZ,18037646,6
@@ -8623,6 +8678,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Kazakhstan,17732,120,ZON,KZ,18037646,6
 22-06-2020,Kazakhstan,18231,127,ZON,KZ,18037646,6
 23-06-2020,Kazakhstan,18765,134,ZON,KZ,18037646,6
+24-06-2020,Kazakhstan,19285,136,ZON,KZ,18037646,6
 22-01-2020,Kolumbien,0,0,ZON,CO,49065615,42
 23-01-2020,Kolumbien,0,0,ZON,CO,49065615,42
 24-01-2020,Kolumbien,0,0,ZON,CO,49065615,42
@@ -8777,6 +8833,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Kolumbien,68836,2353,ZON,CO,49065615,42
 22-06-2020,Kolumbien,71367,2426,ZON,CO,49065615,42
 23-06-2020,Kolumbien,73760,2524,ZON,CO,49065615,42
+24-06-2020,Kolumbien,73760,2524,ZON,CO,49065615,42
 22-01-2020,Kroatien,0,0,ZON,HR,4105493,72
 23-01-2020,Kroatien,0,0,ZON,HR,4105493,72
 24-01-2020,Kroatien,0,0,ZON,HR,4105493,72
@@ -8931,6 +8988,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Kroatien,2317,107,ZON,HR,4105493,72
 22-06-2020,Kroatien,2336,107,ZON,HR,4105493,72
 23-06-2020,Kroatien,2366,107,ZON,HR,4105493,72
+24-06-2020,Kroatien,2388,107,ZON,HR,4105493,72
 22-01-2020,Kuba,0,0,ZON,CU,11265629,102
 23-01-2020,Kuba,0,0,ZON,CU,11265629,102
 24-01-2020,Kuba,0,0,ZON,CU,11265629,102
@@ -9085,6 +9143,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Kuba,2312,85,ZON,CU,11265629,102
 22-06-2020,Kuba,2315,85,ZON,CU,11265629,102
 23-06-2020,Kuba,2318,85,ZON,CU,11265629,102
+24-06-2020,Kuba,2319,85,ZON,CU,11265629,102
 22-01-2020,Kuwait,0,0,ZON,KW,4660000,261
 23-01-2020,Kuwait,0,0,ZON,KW,4660000,261
 24-01-2020,Kuwait,0,0,ZON,KW,4660000,261
@@ -9239,6 +9298,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Kuwait,39650,326,ZON,KW,4660000,261
 22-06-2020,Kuwait,40291,330,ZON,KW,4660000,261
 23-06-2020,Kuwait,41033,334,ZON,KW,4660000,261
+24-06-2020,Kuwait,41879,337,ZON,KW,4660000,261
 22-01-2020,Lettland,0,0,ZON,LV,1953000,30
 23-01-2020,Lettland,0,0,ZON,LV,1953000,30
 24-01-2020,Lettland,0,0,ZON,LV,1953000,30
@@ -9393,6 +9453,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Lettland,1111,30,ZON,LV,1953000,30
 22-06-2020,Lettland,1111,30,ZON,LV,1953000,30
 23-06-2020,Lettland,1111,30,ZON,LV,1953000,30
+24-06-2020,Lettland,1111,30,ZON,LV,1953000,30
 22-01-2020,Libanon,0,0,ZON,LB,4467390,427
 23-01-2020,Libanon,0,0,ZON,LB,4467390,427
 24-01-2020,Libanon,0,0,ZON,LB,4467390,427
@@ -9547,6 +9608,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Libanon,1587,32,ZON,LB,4467390,427
 22-06-2020,Libanon,1603,32,ZON,LB,4467390,427
 23-06-2020,Libanon,1622,32,ZON,LB,4467390,427
+24-06-2020,Libanon,1644,33,ZON,LB,4467390,427
 22-01-2020,Liberia,0,0,ZON,LR,4731906,42
 23-01-2020,Liberia,0,0,ZON,LR,4731906,42
 24-01-2020,Liberia,0,0,ZON,LR,4731906,42
@@ -9701,6 +9763,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Liberia,626,34,ZON,LR,4731906,42
 22-06-2020,Liberia,650,34,ZON,LR,4731906,42
 23-06-2020,Liberia,652,34,ZON,LR,4731906,42
+24-06-2020,Liberia,662,34,ZON,LR,4731906,42
 22-01-2020,Litauen,0,0,ZON,LT,2790842,42
 23-01-2020,Litauen,0,0,ZON,LT,2790842,42
 24-01-2020,Litauen,0,0,ZON,LT,2790842,42
@@ -9855,6 +9918,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Litauen,1798,76,ZON,LT,2790842,42
 22-06-2020,Litauen,1801,76,ZON,LT,2790842,42
 23-06-2020,Litauen,1803,77,ZON,LT,2790842,42
+24-06-2020,Litauen,1804,78,ZON,LT,2790842,42
 22-01-2020,Luxemburg,0,0,ZON,LU,613900,237
 23-01-2020,Luxemburg,0,0,ZON,LU,613900,237
 24-01-2020,Luxemburg,0,0,ZON,LU,613900,237
@@ -10009,6 +10073,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Luxemburg,4120,110,ZON,LU,613900,237
 22-06-2020,Luxemburg,4121,110,ZON,LU,613900,237
 23-06-2020,Luxemburg,4133,110,ZON,LU,613900,237
+24-06-2020,Luxemburg,4140,110,ZON,LU,613900,237
 22-01-2020,Malawi,0,0,ZON,MW,18622104,157
 23-01-2020,Malawi,0,0,ZON,MW,18622104,157
 24-01-2020,Malawi,0,0,ZON,MW,18622104,157
@@ -10163,6 +10228,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Malawi,730,11,ZON,MW,18622104,157
 22-06-2020,Malawi,749,11,ZON,MW,18622104,157
 23-06-2020,Malawi,803,11,ZON,MW,18622104,157
+24-06-2020,Malawi,941,11,ZON,MW,18622104,157
 22-01-2020,Malaysia,0,0,ZON,MY,31624264,95
 23-01-2020,Malaysia,0,0,ZON,MY,31624264,95
 24-01-2020,Malaysia,0,0,ZON,MY,31624264,95
@@ -10317,6 +10383,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Malaysia,8572,121,ZON,MY,31624264,95
 22-06-2020,Malaysia,8587,121,ZON,MY,31624264,95
 23-06-2020,Malaysia,8590,121,ZON,MY,31624264,95
+24-06-2020,Malaysia,8596,121,ZON,MY,31624264,95
 22-01-2020,Malediven,0,0,ZON,MV,345023,1157
 23-01-2020,Malediven,0,0,ZON,MV,345023,1157
 24-01-2020,Malediven,0,0,ZON,MV,345023,1157
@@ -10471,6 +10538,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Malediven,2203,8,ZON,MV,345023,1157
 22-06-2020,Malediven,2217,8,ZON,MV,345023,1157
 23-06-2020,Malediven,2238,8,ZON,MV,345023,1157
+24-06-2020,Malediven,2261,8,ZON,MV,345023,1157
 22-01-2020,Mali,0,0,ZON,ML,18541980,14
 23-01-2020,Mali,0,0,ZON,ML,18541980,14
 24-01-2020,Mali,0,0,ZON,ML,18541980,14
@@ -10625,6 +10693,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Mali,1933,109,ZON,ML,18541980,14
 22-06-2020,Mali,1961,111,ZON,ML,18541980,14
 23-06-2020,Mali,1978,111,ZON,ML,18541980,14
+24-06-2020,Mali,2005,112,ZON,ML,18541980,14
 22-01-2020,Malta,0,0,ZON,MT,423374,1339
 23-01-2020,Malta,0,0,ZON,MT,423374,1339
 24-01-2020,Malta,0,0,ZON,MT,423374,1339
@@ -10779,6 +10848,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Malta,665,9,ZON,MT,423374,1339
 22-06-2020,Malta,665,9,ZON,MT,423374,1339
 23-06-2020,Malta,665,9,ZON,MT,423374,1339
+24-06-2020,Malta,665,9,ZON,MT,423374,1339
 22-01-2020,Marokko,0,0,ZON,MA,36029138,80
 23-01-2020,Marokko,0,0,ZON,MA,36029138,80
 24-01-2020,Marokko,0,0,ZON,MA,36029138,80
@@ -10933,6 +11003,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Marokko,9977,214,ZON,MA,36029138,80
 22-06-2020,Marokko,10172,214,ZON,MA,36029138,80
 23-06-2020,Marokko,10344,214,ZON,MA,36029138,80
+24-06-2020,Marokko,10907,216,ZON,MA,36029138,80
 22-01-2020,Mauritius,0,0,ZON,MU,1258653,616
 23-01-2020,Mauritius,0,0,ZON,MU,1258653,616
 24-01-2020,Mauritius,0,0,ZON,MU,1258653,616
@@ -11087,6 +11158,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Mauritius,337,10,ZON,MU,1258653,616
 22-06-2020,Mauritius,340,10,ZON,MU,1258653,616
 23-06-2020,Mauritius,340,10,ZON,MU,1258653,616
+24-06-2020,Mauritius,341,10,ZON,MU,1258653,616
 22-01-2020,Mexiko,0,0,ZON,MX,130526945,66
 23-01-2020,Mexiko,0,0,ZON,MX,130526945,66
 24-01-2020,Mexiko,0,0,ZON,MX,130526945,66
@@ -11241,6 +11313,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Mexiko,180545,21825,ZON,MX,130526945,66
 22-06-2020,Mexiko,185122,22584,ZON,MX,130526945,66
 23-06-2020,Mexiko,191410,23377,ZON,MX,130526945,66
+24-06-2020,Mexiko,196847,24324,ZON,MX,130526945,66
 22-01-2020,Moldova,0,0,ZON,MD,2550900,75
 23-01-2020,Moldova,0,0,ZON,MD,2550900,75
 24-01-2020,Moldova,0,0,ZON,MD,2550900,75
@@ -11395,6 +11468,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Moldova,14200,473,ZON,MD,2550900,75
 22-06-2020,Moldova,14363,480,ZON,MD,2550900,75
 23-06-2020,Moldova,14714,490,ZON,MD,2550900,75
+24-06-2020,Moldova,15078,495,ZON,MD,2550900,75
 22-01-2020,Monaco,0,0,ZON,MC,37831,18728
 23-01-2020,Monaco,0,0,ZON,MC,37831,18728
 24-01-2020,Monaco,0,0,ZON,MC,37831,18728
@@ -11549,6 +11623,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Monaco,100,4,ZON,MC,37831,18728
 22-06-2020,Monaco,101,4,ZON,MC,37831,18728
 23-06-2020,Monaco,101,4,ZON,MC,37831,18728
+24-06-2020,Monaco,102,4,ZON,MC,37831,18728
 22-01-2020,Mongolei,0,0,ZON,MN,3081678,1
 23-01-2020,Mongolei,0,0,ZON,MN,3081678,1
 24-01-2020,Mongolei,0,0,ZON,MN,3081678,1
@@ -11703,6 +11778,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Mongolei,213,0,ZON,MN,3081678,1
 22-06-2020,Mongolei,215,0,ZON,MN,3081678,1
 23-06-2020,Mongolei,215,0,ZON,MN,3081678,1
+24-06-2020,Mongolei,216,0,ZON,MN,3081678,1
 22-01-2020,Montenegro,0,0,ZON,ME,622359,45
 23-01-2020,Montenegro,0,0,ZON,ME,622359,45
 24-01-2020,Montenegro,0,0,ZON,ME,622359,45
@@ -11857,6 +11933,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Montenegro,362,9,ZON,ME,622359,45
 22-06-2020,Montenegro,367,9,ZON,ME,622359,45
 23-06-2020,Montenegro,378,9,ZON,ME,622359,45
+24-06-2020,Montenegro,389,9,ZON,ME,622359,45
 22-01-2020,Nepal,0,0,ZON,NP,29400000,199
 23-01-2020,Nepal,0,0,ZON,NP,29400000,199
 24-01-2020,Nepal,0,0,ZON,NP,29400000,199
@@ -12011,6 +12088,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Nepal,9026,23,ZON,NP,29400000,199
 22-06-2020,Nepal,9561,23,ZON,NP,29400000,199
 23-06-2020,Nepal,10099,24,ZON,NP,29400000,199
+24-06-2020,Nepal,10728,24,ZON,NP,29400000,199
 22-01-2020,Neuseeland,0,0,ZON,NZ,4885300,18
 23-01-2020,Neuseeland,0,0,ZON,NZ,4885300,18
 24-01-2020,Neuseeland,0,0,ZON,NZ,4885300,18
@@ -12165,6 +12243,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Neuseeland,1513,22,ZON,NZ,4885300,18
 22-06-2020,Neuseeland,1515,22,ZON,NZ,4885300,18
 23-06-2020,Neuseeland,1516,22,ZON,NZ,4885300,18
+24-06-2020,Neuseeland,1519,22,ZON,NZ,4885300,18
 22-01-2020,Nicaragua,0,0,ZON,NI,6217581,47
 23-01-2020,Nicaragua,0,0,ZON,NI,6217581,47
 24-01-2020,Nicaragua,0,0,ZON,NI,6217581,47
@@ -12319,6 +12398,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Nicaragua,1823,64,ZON,NI,6217581,47
 22-06-2020,Nicaragua,1823,64,ZON,NI,6217581,47
 23-06-2020,Nicaragua,2170,74,ZON,NI,6217581,47
+24-06-2020,Nicaragua,2170,74,ZON,NI,6217581,47
 22-01-2020,Niger,0,0,ZON,NE,17138707,13
 23-01-2020,Niger,0,0,ZON,NE,17138707,13
 24-01-2020,Niger,0,0,ZON,NE,17138707,13
@@ -12473,6 +12553,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Niger,1036,67,ZON,NE,17138707,13
 22-06-2020,Niger,1046,67,ZON,NE,17138707,13
 23-06-2020,Niger,1051,67,ZON,NE,17138707,13
+24-06-2020,Niger,1051,67,ZON,NE,17138707,13
 22-01-2020,Nigeria,0,0,ZON,NG,190886311,206
 23-01-2020,Nigeria,0,0,ZON,NG,190886311,206
 24-01-2020,Nigeria,0,0,ZON,NG,190886311,206
@@ -12627,6 +12708,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Nigeria,20244,518,ZON,NG,190886311,206
 22-06-2020,Nigeria,20919,525,ZON,NG,190886311,206
 23-06-2020,Nigeria,21371,533,ZON,NG,190886311,206
+24-06-2020,Nigeria,22020,542,ZON,NG,190886311,206
 22-01-2020,Nordmazedonien,0,0,ZON,MK,2075301,80
 23-01-2020,Nordmazedonien,0,0,ZON,MK,2075301,80
 24-01-2020,Nordmazedonien,0,0,ZON,MK,2075301,80
@@ -12781,6 +12863,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Nordmazedonien,5106,238,ZON,MK,2075301,80
 22-06-2020,Nordmazedonien,5196,247,ZON,MK,2075301,80
 23-06-2020,Nordmazedonien,5311,251,ZON,MK,2075301,80
+24-06-2020,Nordmazedonien,5445,259,ZON,MK,2075301,80
 22-01-2020,Norwegen,0,0,ZON,NO,5367580,13
 23-01-2020,Norwegen,0,0,ZON,NO,5367580,13
 24-01-2020,Norwegen,0,0,ZON,NO,5367580,13
@@ -12935,6 +13018,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Norwegen,8745,244,ZON,NO,5367580,13
 22-06-2020,Norwegen,8751,248,ZON,NO,5367580,13
 23-06-2020,Norwegen,8772,248,ZON,NO,5367580,13
+24-06-2020,Norwegen,8788,249,ZON,NO,5367580,13
 22-01-2020,Oman,0,0,ZON,OM,3632444,11
 23-01-2020,Oman,0,0,ZON,OM,3632444,11
 24-01-2020,Oman,0,0,ZON,OM,3632444,11
@@ -13089,6 +13173,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Oman,29471,131,ZON,OM,3632444,11
 22-06-2020,Oman,31076,137,ZON,OM,3632444,11
 23-06-2020,Oman,32394,140,ZON,OM,3632444,11
+24-06-2020,Oman,33536,142,ZON,OM,3632444,11
 22-01-2020,Pakistan,0,0,ZON,PK,197015955,223
 23-01-2020,Pakistan,0,0,ZON,PK,197015955,223
 24-01-2020,Pakistan,0,0,ZON,PK,197015955,223
@@ -13243,6 +13328,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Pakistan,181088,3590,ZON,PK,197015955,223
 22-06-2020,Pakistan,185034,3695,ZON,PK,197015955,223
 23-06-2020,Pakistan,188926,3755,ZON,PK,197015955,223
+24-06-2020,Pakistan,192970,3903,ZON,PK,197015955,223
 22-01-2020,Panama,0,0,ZON,PA,3864170,52
 23-01-2020,Panama,0,0,ZON,PA,3864170,52
 24-01-2020,Panama,0,0,ZON,PA,3864170,52
@@ -13397,6 +13483,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Panama,26030,501,ZON,PA,3864170,52
 22-06-2020,Panama,26752,521,ZON,PA,3864170,52
 23-06-2020,Panama,27314,536,ZON,PA,3864170,52
+24-06-2020,Panama,28030,547,ZON,PA,3864170,52
 22-01-2020,Paraguay,0,0,ZON,PY,6802295,16
 23-01-2020,Paraguay,0,0,ZON,PY,6802295,16
 24-01-2020,Paraguay,0,0,ZON,PY,6802295,16
@@ -13551,6 +13638,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Paraguay,1379,13,ZON,PY,6802295,16
 22-06-2020,Paraguay,1392,13,ZON,PY,6802295,16
 23-06-2020,Paraguay,1422,13,ZON,PY,6802295,16
+24-06-2020,Paraguay,1528,13,ZON,PY,6802295,16
 22-01-2020,Peru,0,0,ZON,PE,30375603,23
 23-01-2020,Peru,0,0,ZON,PE,30375603,23
 24-01-2020,Peru,0,0,ZON,PE,30375603,23
@@ -13705,6 +13793,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Peru,254936,8045,ZON,PE,30375603,23
 22-06-2020,Peru,257447,8223,ZON,PE,30375603,23
 23-06-2020,Peru,260810,8404,ZON,PE,30375603,23
+24-06-2020,Peru,264689,8586,ZON,PE,30375603,23
 22-01-2020,Philippinen,0,0,ZON,PH,100981437,294
 23-01-2020,Philippinen,0,0,ZON,PH,100981437,294
 24-01-2020,Philippinen,0,0,ZON,PH,100981437,294
@@ -13859,6 +13948,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Philippinen,30052,1169,ZON,PH,100981437,294
 22-06-2020,Philippinen,30682,1177,ZON,PH,100981437,294
 23-06-2020,Philippinen,31825,1186,ZON,PH,100981437,294
+24-06-2020,Philippinen,32295,1204,ZON,PH,100981437,294
 22-01-2020,Polen,0,0,ZON,PL,38454576,122
 23-01-2020,Polen,0,0,ZON,PL,38454576,122
 24-01-2020,Polen,0,0,ZON,PL,38454576,122
@@ -14013,6 +14103,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Polen,31931,1356,ZON,PL,38454576,122
 22-06-2020,Polen,32227,1359,ZON,PL,38454576,122
 23-06-2020,Polen,32527,1375,ZON,PL,38454576,122
+24-06-2020,Polen,32821,1396,ZON,PL,38454576,122
 22-01-2020,Portugal,0,0,ZON,PT,10600000,114
 23-01-2020,Portugal,0,0,ZON,PT,10600000,114
 24-01-2020,Portugal,0,0,ZON,PT,10600000,114
@@ -14167,6 +14258,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Portugal,39133,1530,ZON,PT,10600000,114
 22-06-2020,Portugal,39392,1534,ZON,PT,10600000,114
 23-06-2020,Portugal,39737,1540,ZON,PT,10600000,114
+24-06-2020,Portugal,40104,1543,ZON,PT,10600000,114
 22-01-2020,Qatar,0,0,ZON,QA,2168673,189
 23-01-2020,Qatar,0,0,ZON,QA,2168673,189
 24-01-2020,Qatar,0,0,ZON,QA,2168673,189
@@ -14321,6 +14413,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Qatar,87369,98,ZON,QA,2168673,189
 22-06-2020,Qatar,88403,99,ZON,QA,2168673,189
 23-06-2020,Qatar,89579,99,ZON,QA,2168673,189
+24-06-2020,Qatar,90778,104,ZON,QA,2168673,189
 22-01-2020,Republik Kongo,0,0,ZON,CG,5260750,15
 23-01-2020,Republik Kongo,0,0,ZON,CG,5260750,15
 24-01-2020,Republik Kongo,0,0,ZON,CG,5260750,15
@@ -14475,6 +14568,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Republik Kongo,883,27,ZON,CG,5260750,15
 22-06-2020,Republik Kongo,1087,37,ZON,CG,5260750,15
 23-06-2020,Republik Kongo,1087,37,ZON,CG,5260750,15
+24-06-2020,Republik Kongo,1087,37,ZON,CG,5260750,15
 22-01-2020,Ruanda,0,0,ZON,RW,12208407,463
 23-01-2020,Ruanda,0,0,ZON,RW,12208407,463
 24-01-2020,Ruanda,0,0,ZON,RW,12208407,463
@@ -14629,6 +14723,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Ruanda,728,2,ZON,RW,12208407,463
 22-06-2020,Ruanda,787,2,ZON,RW,12208407,463
 23-06-2020,Ruanda,798,2,ZON,RW,12208407,463
+24-06-2020,Ruanda,830,2,ZON,RW,12208407,463
 22-01-2020,Rumänien,0,0,ZON,RO,19586539,82
 23-01-2020,Rumänien,0,0,ZON,RO,19586539,82
 24-01-2020,Rumänien,0,0,ZON,RO,19586539,82
@@ -14783,6 +14878,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Rumänien,24045,1512,ZON,RO,19586539,82
 22-06-2020,Rumänien,24291,1523,ZON,RO,19586539,82
 23-06-2020,Rumänien,24505,1539,ZON,RO,19586539,82
+24-06-2020,Rumänien,24826,1555,ZON,RO,19586539,82
 22-01-2020,Russland,0,0,ZON,RU,146804372,8
 23-01-2020,Russland,0,0,ZON,RU,146804372,8
 24-01-2020,Russland,0,0,ZON,RU,146804372,8
@@ -14937,6 +15033,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Russland,583879,8101,ZON,RU,146804372,8
 22-06-2020,Russland,591465,8196,ZON,RU,146804372,8
 23-06-2020,Russland,598878,8349,ZON,RU,146804372,8
+24-06-2020,Russland,606043,8503,ZON,RU,146804372,8
 22-01-2020,San Marino,0,0,ZON,SM,31595,516
 23-01-2020,San Marino,0,0,ZON,SM,31595,516
 24-01-2020,San Marino,0,0,ZON,SM,31595,516
@@ -15091,6 +15188,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,San Marino,696,42,ZON,SM,31595,516
 22-06-2020,San Marino,697,42,ZON,SM,31595,516
 23-06-2020,San Marino,698,42,ZON,SM,31595,516
+24-06-2020,San Marino,698,42,ZON,SM,31595,516
 22-01-2020,Saudi-Arabien,0,0,ZON,SA,33000000,14
 23-01-2020,Saudi-Arabien,0,0,ZON,SA,33000000,14
 24-01-2020,Saudi-Arabien,0,0,ZON,SA,33000000,14
@@ -15245,6 +15343,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Saudi-Arabien,157612,1267,ZON,SA,33000000,14
 22-06-2020,Saudi-Arabien,161005,1307,ZON,SA,33000000,14
 23-06-2020,Saudi-Arabien,164144,1346,ZON,SA,33000000,14
+24-06-2020,Saudi-Arabien,167267,1387,ZON,SA,33000000,14
 22-01-2020,Schweden,0,0,ZON,SE,10327589,19
 23-01-2020,Schweden,0,0,ZON,SE,10327589,19
 24-01-2020,Schweden,0,0,ZON,SE,10327589,19
@@ -15399,6 +15498,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Schweden,58848,5111,ZON,SE,10327589,19
 22-06-2020,Schweden,58932,5122,ZON,SE,10327589,19
 23-06-2020,Schweden,60837,5161,ZON,SE,10327589,19
+24-06-2020,Schweden,62324,5209,ZON,SE,10327589,19
 22-01-2020,Schweiz,0,0,ZON,CH,8211700,198
 23-01-2020,Schweiz,0,0,ZON,CH,8211700,198
 24-01-2020,Schweiz,0,0,ZON,CH,8211700,198
@@ -15553,6 +15653,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Schweiz,31292,1956,ZON,CH,8211700,198
 22-06-2020,Schweiz,31310,1956,ZON,CH,8211700,198
 23-06-2020,Schweiz,31332,1956,ZON,CH,8211700,198
+24-06-2020,Schweiz,31376,1958,ZON,CH,8211700,198
 22-01-2020,Senegal,0,0,ZON,SN,14133280,71
 23-01-2020,Senegal,0,0,ZON,SN,14133280,71
 24-01-2020,Senegal,0,0,ZON,SN,14133280,71
@@ -15707,6 +15808,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Senegal,5888,84,ZON,SN,14133280,71
 22-06-2020,Senegal,5970,86,ZON,SN,14133280,71
 23-06-2020,Senegal,6034,89,ZON,SN,14133280,71
+24-06-2020,Senegal,6129,93,ZON,SN,14133280,71
 22-01-2020,Serbien,0,0,ZON,RS,7022268,79
 23-01-2020,Serbien,0,0,ZON,RS,7022268,79
 24-01-2020,Serbien,0,0,ZON,RS,7022268,79
@@ -15861,6 +15963,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Serbien,12894,261,ZON,RS,7022268,79
 22-06-2020,Serbien,12990,262,ZON,RS,7022268,79
 23-06-2020,Serbien,13092,263,ZON,RS,7022268,79
+24-06-2020,Serbien,13235,263,ZON,RS,7022268,79
 22-01-2020,Sierra Leone,0,0,ZON,SL,7557212,105
 23-01-2020,Sierra Leone,0,0,ZON,SL,7557212,105
 24-01-2020,Sierra Leone,0,0,ZON,SL,7557212,105
@@ -16015,6 +16118,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Sierra Leone,1327,55,ZON,SL,7557212,105
 22-06-2020,Sierra Leone,1340,55,ZON,SL,7557212,105
 23-06-2020,Sierra Leone,1347,55,ZON,SL,7557212,105
+24-06-2020,Sierra Leone,1354,55,ZON,SL,7557212,105
 22-01-2020,Singapur,0,0,ZON,SG,5888926,8189
 23-01-2020,Singapur,1,0,ZON,SG,5888926,8189
 24-01-2020,Singapur,3,0,ZON,SG,5888926,8189
@@ -16169,6 +16273,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Singapur,42095,26,ZON,SG,5888926,8189
 22-06-2020,Singapur,42313,26,ZON,SG,5888926,8189
 23-06-2020,Singapur,42432,26,ZON,SG,5888926,8189
+24-06-2020,Singapur,42623,26,ZON,SG,5888926,8189
 22-01-2020,Slovenien,0,0,ZON,SI,2066880,101
 23-01-2020,Slovenien,0,0,ZON,SI,2066880,101
 24-01-2020,Slovenien,0,0,ZON,SI,2066880,101
@@ -16323,6 +16428,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Slovenien,1520,109,ZON,SI,2066880,101
 22-06-2020,Slovenien,1521,109,ZON,SI,2066880,101
 23-06-2020,Slovenien,1534,109,ZON,SI,2066880,101
+24-06-2020,Slovenien,1541,109,ZON,SI,2066880,101
 22-01-2020,Slowakei,0,0,ZON,SK,5439892,110
 23-01-2020,Slowakei,0,0,ZON,SK,5439892,110
 24-01-2020,Slowakei,0,0,ZON,SK,5439892,110
@@ -16477,6 +16583,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Slowakei,1587,28,ZON,SK,5439892,110
 22-06-2020,Slowakei,1588,28,ZON,SK,5439892,110
 23-06-2020,Slowakei,1589,28,ZON,SK,5439892,110
+24-06-2020,Slowakei,1607,28,ZON,SK,5439892,110
 22-01-2020,Somalia,0,0,ZON,SO,11031386,17
 23-01-2020,Somalia,0,0,ZON,SO,11031386,17
 24-01-2020,Somalia,0,0,ZON,SO,11031386,17
@@ -16631,6 +16738,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Somalia,2779,90,ZON,SO,11031386,17
 22-06-2020,Somalia,2812,90,ZON,SO,11031386,17
 23-06-2020,Somalia,2812,90,ZON,SO,11031386,17
+24-06-2020,Somalia,2835,90,ZON,SO,11031386,17
 22-01-2020,Spanien,0,0,ZON,ES,46528024,91
 23-01-2020,Spanien,0,0,ZON,ES,46528024,91
 24-01-2020,Spanien,0,0,ZON,ES,46528024,91
@@ -16785,6 +16893,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Spanien,246272,28323,ZON,ES,46528024,91
 22-06-2020,Spanien,246504,28324,ZON,ES,46528024,91
 23-06-2020,Spanien,246752,28325,ZON,ES,46528024,91
+24-06-2020,Spanien,247086,28327,ZON,ES,46528024,91
 22-01-2020,Sri Lanka,0,0,ZON,LK,21444000,326
 23-01-2020,Sri Lanka,0,0,ZON,LK,21444000,326
 24-01-2020,Sri Lanka,0,0,ZON,LK,21444000,326
@@ -16939,6 +17048,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Sri Lanka,1950,11,ZON,LK,21444000,326
 22-06-2020,Sri Lanka,1951,11,ZON,LK,21444000,326
 23-06-2020,Sri Lanka,1991,11,ZON,LK,21444000,326
+24-06-2020,Sri Lanka,2001,11,ZON,LK,21444000,326
 22-01-2020,Sudan,0,0,ZON,SD,40533330,21
 23-01-2020,Sudan,0,0,ZON,SD,40533330,21
 24-01-2020,Sudan,0,0,ZON,SD,40533330,21
@@ -17093,6 +17203,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Sudan,8580,521,ZON,SD,40533330,21
 22-06-2020,Sudan,8698,533,ZON,SD,40533330,21
 23-06-2020,Sudan,8889,548,ZON,SD,40533330,21
+24-06-2020,Sudan,8889,548,ZON,SD,40533330,21
 22-01-2020,Suriname,0,0,ZON,SR,539276,3
 23-01-2020,Suriname,0,0,ZON,SR,539276,3
 24-01-2020,Suriname,0,0,ZON,SR,539276,3
@@ -17247,6 +17358,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Suriname,314,8,ZON,SR,539276,3
 22-06-2020,Suriname,319,8,ZON,SR,539276,3
 23-06-2020,Suriname,319,9,ZON,SR,539276,3
+24-06-2020,Suriname,357,10,ZON,SR,539276,3
 22-01-2020,Südafrika,0,0,ZON,ZA,57725600,47
 23-01-2020,Südafrika,0,0,ZON,ZA,57725600,47
 24-01-2020,Südafrika,0,0,ZON,ZA,57725600,47
@@ -17401,6 +17513,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Südafrika,97302,1930,ZON,ZA,57725600,47
 22-06-2020,Südafrika,101590,1991,ZON,ZA,57725600,47
 23-06-2020,Südafrika,106108,2102,ZON,ZA,57725600,47
+24-06-2020,Südafrika,111796,2205,ZON,ZA,57725600,47
 22-01-2020,Südkorea,1,0,ZON,KR,51069375,509
 23-01-2020,Südkorea,1,0,ZON,KR,51069375,509
 24-01-2020,Südkorea,2,0,ZON,KR,51069375,509
@@ -17555,6 +17668,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Südkorea,12438,280,ZON,KR,51069375,509
 22-06-2020,Südkorea,12484,281,ZON,KR,51069375,509
 23-06-2020,Südkorea,12535,281,ZON,KR,51069375,509
+24-06-2020,Südkorea,12563,282,ZON,KR,51069375,509
 22-01-2020,Taiwan,1,0,ZON,TWN,23574274,651
 23-01-2020,Taiwan,1,0,ZON,TWN,23574274,651
 24-01-2020,Taiwan,3,0,ZON,TWN,23574274,651
@@ -17709,6 +17823,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Taiwan,446,7,ZON,TWN,23574274,651
 22-06-2020,Taiwan,446,7,ZON,TWN,23574274,651
 23-06-2020,Taiwan,446,7,ZON,TWN,23574274,651
+24-06-2020,Taiwan,446,7,ZON,TWN,23574274,651
 22-01-2020,Thailand,2,0,ZON,TH,65931550,128
 23-01-2020,Thailand,3,0,ZON,TH,65931550,128
 24-01-2020,Thailand,5,0,ZON,TH,65931550,128
@@ -17863,6 +17978,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Thailand,3148,58,ZON,TH,65931550,128
 22-06-2020,Thailand,3151,58,ZON,TH,65931550,128
 23-06-2020,Thailand,3156,58,ZON,TH,65931550,128
+24-06-2020,Thailand,3158,58,ZON,TH,65931550,128
 22-01-2020,Togo,0,0,ZON,TG,6337000,111
 23-01-2020,Togo,0,0,ZON,TG,6337000,111
 24-01-2020,Togo,0,0,ZON,TG,6337000,111
@@ -18017,6 +18133,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Togo,569,13,ZON,TG,6337000,111
 22-06-2020,Togo,569,13,ZON,TG,6337000,111
 23-06-2020,Togo,576,13,ZON,TG,6337000,111
+24-06-2020,Togo,583,14,ZON,TG,6337000,111
 22-01-2020,Trinidad und Tobago,0,0,ZON,TT,1341151,261
 23-01-2020,Trinidad und Tobago,0,0,ZON,TT,1341151,261
 24-01-2020,Trinidad und Tobago,0,0,ZON,TT,1341151,261
@@ -18171,6 +18288,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Trinidad und Tobago,123,8,ZON,TT,1341151,261
 22-06-2020,Trinidad und Tobago,123,8,ZON,TT,1341151,261
 23-06-2020,Trinidad und Tobago,123,8,ZON,TT,1341151,261
+24-06-2020,Trinidad und Tobago,123,8,ZON,TT,1341151,261
 22-01-2020,Tschechien,0,0,ZON,CZ,10649800,135
 23-01-2020,Tschechien,0,0,ZON,CZ,10649800,135
 24-01-2020,Tschechien,0,0,ZON,CZ,10649800,135
@@ -18325,6 +18443,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Tschechien,10498,336,ZON,CZ,10649800,135
 22-06-2020,Tschechien,10523,336,ZON,CZ,10649800,135
 23-06-2020,Tschechien,10650,339,ZON,CZ,10649800,135
+24-06-2020,Tschechien,10777,343,ZON,CZ,10649800,135
 22-01-2020,Tunesien,0,0,ZON,TN,11565204,70
 23-01-2020,Tunesien,0,0,ZON,TN,11565204,70
 24-01-2020,Tunesien,0,0,ZON,TN,11565204,70
@@ -18479,6 +18598,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Tunesien,1157,50,ZON,TN,11565204,70
 22-06-2020,Tunesien,1159,50,ZON,TN,11565204,70
 23-06-2020,Tunesien,1159,50,ZON,TN,11565204,70
+24-06-2020,Tunesien,1160,50,ZON,TN,11565204,70
 22-01-2020,Türkei,0,0,ZON,TR,82003882,104
 23-01-2020,Türkei,0,0,ZON,TR,82003882,104
 24-01-2020,Türkei,0,0,ZON,TR,82003882,104
@@ -18633,6 +18753,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Türkei,187685,4950,ZON,TR,82003882,104
 22-06-2020,Türkei,188897,4974,ZON,TR,82003882,104
 23-06-2020,Türkei,190165,5001,ZON,TR,82003882,104
+24-06-2020,Türkei,191657,5025,ZON,TR,82003882,104
 22-01-2020,Uganda,0,0,ZON,UG,42862958,177
 23-01-2020,Uganda,0,0,ZON,UG,42862958,177
 24-01-2020,Uganda,0,0,ZON,UG,42862958,177
@@ -18787,6 +18908,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Uganda,770,0,ZON,UG,42862958,177
 22-06-2020,Uganda,774,0,ZON,UG,42862958,177
 23-06-2020,Uganda,797,0,ZON,UG,42862958,177
+24-06-2020,Uganda,805,0,ZON,UG,42862958,177
 22-01-2020,Ukraine,0,0,ZON,UA,42558328,70
 23-01-2020,Ukraine,0,0,ZON,UA,42558328,70
 24-01-2020,Ukraine,0,0,ZON,UA,42558328,70
@@ -18941,6 +19063,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Ukraine,37361,1012,ZON,UA,42558328,70
 22-06-2020,Ukraine,38056,1022,ZON,UA,42558328,70
 23-06-2020,Ukraine,38901,1045,ZON,UA,42558328,70
+24-06-2020,Ukraine,39852,1061,ZON,UA,42558328,70
 22-01-2020,Ungarn,0,0,ZON,HU,9971727,107
 23-01-2020,Ungarn,0,0,ZON,HU,9971727,107
 24-01-2020,Ungarn,0,0,ZON,HU,9971727,107
@@ -19095,6 +19218,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Ungarn,4094,570,ZON,HU,9971727,107
 22-06-2020,Ungarn,4102,572,ZON,HU,9971727,107
 23-06-2020,Ungarn,4107,573,ZON,HU,9971727,107
+24-06-2020,Ungarn,4114,576,ZON,HU,9971727,107
 22-01-2020,Uruguay,0,0,ZON,UY,3407062,19
 23-01-2020,Uruguay,0,0,ZON,UY,3407062,19
 24-01-2020,Uruguay,0,0,ZON,UY,3407062,19
@@ -19249,6 +19373,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Uruguay,876,25,ZON,UY,3407062,19
 22-06-2020,Uruguay,882,25,ZON,UY,3407062,19
 23-06-2020,Uruguay,885,25,ZON,UY,3407062,19
+24-06-2020,Uruguay,902,26,ZON,UY,3407062,19
 22-01-2020,Uzbekistan,0,0,ZON,UZ,32387200,72
 23-01-2020,Uzbekistan,0,0,ZON,UZ,32387200,72
 24-01-2020,Uzbekistan,0,0,ZON,UZ,32387200,72
@@ -19403,6 +19528,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Uzbekistan,6315,19,ZON,UZ,32387200,72
 22-06-2020,Uzbekistan,6461,19,ZON,UZ,32387200,72
 23-06-2020,Uzbekistan,6662,19,ZON,UZ,32387200,72
+24-06-2020,Uzbekistan,6990,19,ZON,UZ,32387200,72
 22-01-2020,Venezuela,0,0,ZON,VE,28515829,31
 23-01-2020,Venezuela,0,0,ZON,VE,28515829,31
 24-01-2020,Venezuela,0,0,ZON,VE,28515829,31
@@ -19557,6 +19683,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Venezuela,3917,33,ZON,VE,28515829,31
 22-06-2020,Venezuela,4048,35,ZON,VE,28515829,31
 23-06-2020,Venezuela,4187,35,ZON,VE,28515829,31
+24-06-2020,Venezuela,4366,38,ZON,VE,28515829,31
 22-01-2020,Vereinigte Arabische Emirate,0,0,ZON,AE,9346129,111
 23-01-2020,Vereinigte Arabische Emirate,0,0,ZON,AE,9346129,111
 24-01-2020,Vereinigte Arabische Emirate,0,0,ZON,AE,9346129,111
@@ -19711,6 +19838,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Vereinigte Arabische Emirate,44925,302,ZON,AE,9346129,111
 22-06-2020,Vereinigte Arabische Emirate,45303,303,ZON,AE,9346129,111
 23-06-2020,Vereinigte Arabische Emirate,45683,305,ZON,AE,9346129,111
+24-06-2020,Vereinigte Arabische Emirate,46133,307,ZON,AE,9346129,111
 22-01-2020,Vietnam,0,0,ZON,VN,94660000,285
 23-01-2020,Vietnam,2,0,ZON,VN,94660000,285
 24-01-2020,Vietnam,2,0,ZON,VN,94660000,285
@@ -19865,6 +19993,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Vietnam,349,0,ZON,VN,94660000,285
 22-06-2020,Vietnam,349,0,ZON,VN,94660000,285
 23-06-2020,Vietnam,349,0,ZON,VN,94660000,285
+24-06-2020,Vietnam,352,0,ZON,VN,94660000,285
 22-01-2020,Weißrussland,0,0,ZON,BY,9494200,45
 23-01-2020,Weißrussland,0,0,ZON,BY,9494200,45
 24-01-2020,Weißrussland,0,0,ZON,BY,9494200,45
@@ -20019,6 +20148,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Weißrussland,58505,346,ZON,BY,9494200,45
 22-06-2020,Weißrussland,59023,351,ZON,BY,9494200,45
 23-06-2020,Weißrussland,59487,357,ZON,BY,9494200,45
+24-06-2020,Weißrussland,59945,362,ZON,BY,9494200,45
 22-01-2020,Zentralafrikanische Republik,0,0,ZON,CF,4987640,8
 23-01-2020,Zentralafrikanische Republik,0,0,ZON,CF,4987640,8
 24-01-2020,Zentralafrikanische Republik,0,0,ZON,CF,4987640,8
@@ -20173,6 +20303,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Zentralafrikanische Republik,2808,23,ZON,CF,4987640,8
 22-06-2020,Zentralafrikanische Republik,2963,30,ZON,CF,4987640,8
 23-06-2020,Zentralafrikanische Republik,3051,37,ZON,CF,4987640,8
+24-06-2020,Zentralafrikanische Republik,3099,38,ZON,CF,4987640,8
 22-01-2020,Ägypten,0,0,ZON,EG,94798827,93
 23-01-2020,Ägypten,0,0,ZON,EG,94798827,93
 24-01-2020,Ägypten,0,0,ZON,EG,94798827,93
@@ -20327,6 +20458,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Ägypten,55233,2193,ZON,EG,94798827,93
 22-06-2020,Ägypten,56809,2278,ZON,EG,94798827,93
 23-06-2020,Ägypten,58141,2365,ZON,EG,94798827,93
+24-06-2020,Ägypten,59561,2450,ZON,EG,94798827,93
 22-01-2020,Äthiopien,0,0,ZON,ET,104957438,95
 23-01-2020,Äthiopien,0,0,ZON,ET,104957438,95
 24-01-2020,Äthiopien,0,0,ZON,ET,104957438,95
@@ -20481,6 +20613,7 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Äthiopien,4532,74,ZON,ET,104957438,95
 22-06-2020,Äthiopien,4663,75,ZON,ET,104957438,95
 23-06-2020,Äthiopien,4848,75,ZON,ET,104957438,95
+24-06-2020,Äthiopien,5034,78,ZON,ET,104957438,95
 22-01-2020,Österreich,0,0,ZON,AT,8809212,105
 23-01-2020,Österreich,0,0,ZON,AT,8809212,105
 24-01-2020,Österreich,0,0,ZON,AT,8809212,105
@@ -20635,3 +20768,4 @@ reportDate,country_name_german,cases,deaths,source,countryCode,population_number
 21-06-2020,Österreich,17341,690,ZON,AT,8809212,105
 22-06-2020,Österreich,17380,690,ZON,AT,8809212,105
 23-06-2020,Österreich,17408,693,ZON,AT,8809212,105
+24-06-2020,Österreich,17449,693,ZON,AT,8809212,105
