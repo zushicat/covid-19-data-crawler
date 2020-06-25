@@ -49,7 +49,7 @@ def scrape_stadt_koeln_data():
         for i, col in enumerate(row):
             if column_names[i] == "reportDate":
                 formatted_date = col.text
-                formatted_date = formatted_date.replace(".", "")  # try to catch typos in date
+                formatted_date = formatted_date.replace(".", "").strip()  # try to catch typos in date
                 formatted_date = datetime.strptime(formatted_date, "%d%m").strftime("%d-%m-2020")  # 1. März -> 01-03-2020
                 tmp[column_names[i]]:str = formatted_date
             else:
