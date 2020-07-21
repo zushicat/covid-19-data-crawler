@@ -106,7 +106,9 @@ def get_TS_communities_data() -> None:
 
     init_data = True
     for data_case, sheet_id in GOOGLESHEETS.items():
-        url = f"https://docs.google.com/spreadsheets/d/e/{sheet_id}/pub?output=csv"
+        # url = f"https://docs.google.com/spreadsheets/d/e/{sheet_id}/pub?output=csv"
+        url = f"https://interaktiv.tagesspiegel.de/coronadaten/auto/{sheet_id}.csv?v=kcuo5ptp"
+        
         r = requests.get(url)
         r.encoding = 'utf-8'
         r = r.text

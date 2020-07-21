@@ -45,10 +45,11 @@ def get_data() -> Tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     df["population"] = df["population"].astype(int)
 
     df["date"] = pd.to_datetime(df["date"], format='%Y%m%d')  # str to date
-    df["levels"] = df.apply(lambda x: int(x["levels"].split(",")[0]), axis=1)  # get level from level list
+    df["levels"] = df.apply(lambda x: int(x["levels"].split(",")[0]) if isinstance(x["levels"], str) else x["levels"], axis=1)  # get level from level list: last 1-digit number
+    
     df['id'] = df['id'].str.upper()  # ids to upper case
     
-    df_n = df.loc[df["levels"] == 0]  # nations lavel (international)
+    df_n = df.loc[df["levels"] == 0]  # nations level (international)
     df_s = df.loc[df["levels"] == 1]  # state level
     df_d = df.loc[df["levels"] == 2]  # district level
 
