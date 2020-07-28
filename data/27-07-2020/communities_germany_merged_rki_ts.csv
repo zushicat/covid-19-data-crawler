@@ -10640,19 +10640,19 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-07-27,5112,1847.0,62.0,1678.0,Tagesspiegel,DE-NW,Duisburg,498590.0,2142.0
 2020-07-27,5113,1163.0,42.0,999.0,Tagesspiegel,DE-NW,Essen,583109.0,2772.0
 2020-07-27,5114,701.0,24.0,651.0,Tagesspiegel,DE-NW,Krefeld,227020.0,1648.0
-2020-07-27,5116,771.0,44.0,672.0,Tagesspiegel,DE-NW,Mönchengladbach,261454.0,1534.0
+2020-07-27,5116,771.0,44.0,675.0,Tagesspiegel,DE-NW,Mönchengladbach,261454.0,1534.0
 2020-07-27,6411,268.0,18.0,219.0,Tagesspiegel,DE-HE,Darmstadt,159207.0,1304.0
 2020-07-27,6412,1937.0,68.0,1788.0,Tagesspiegel,DE-HE,Frankfurt am Main,753056.0,3033.0
-2020-07-27,6414,520.0,22.0,476.0,Tagesspiegel,DE-HE,Wiesbaden,278342.0,1365.0
+2020-07-27,6414,520.0,22.0,482.0,Tagesspiegel,DE-HE,Wiesbaden,278342.0,1365.0
 2020-07-27,6431,394.0,3.0,377.0,Tagesspiegel,DE-HE,Bergstraße,269694.0,375.0
 2020-07-27,6432,451.0,20.0,418.0,Tagesspiegel,DE-HE,Darmstadt-Dieburg,297399.0,452.0
 2020-07-27,6433,585.0,15.0,561.0,Tagesspiegel,DE-HE,Groß-Gerau,274526.0,606.0
 2020-07-27,6434,302.0,5.0,290.0,Tagesspiegel,DE-HE,Hochtaunuskreis,236564.0,491.0
 2020-07-27,6435,855.0,49.0,758.0,Tagesspiegel,DE-HE,Main-Kinzig-Kreis,418950.0,300.0
-2020-07-27,6436,411.0,15.0,375.0,Tagesspiegel,DE-HE,Main-Taunus-Kreis,237735.0,1069.0
+2020-07-27,6436,411.0,15.0,378.0,Tagesspiegel,DE-HE,Main-Taunus-Kreis,237735.0,1069.0
 2020-07-27,7111,275.0,18.0,249.0,Tagesspiegel,DE-RP,Koblenz,114024.0,1085.0
 2020-07-27,7131,224.0,1.0,214.0,Tagesspiegel,DE-RP,Ahrweiler,129727.0,165.0
-2020-07-27,7132,180.0,11.0,165.0,Tagesspiegel,DE-RP,Altenkirchen,128705.0,200.0
+2020-07-27,7132,180.0,11.0,167.0,Tagesspiegel,DE-RP,Altenkirchen,128705.0,200.0
 2020-07-27,7133,206.0,7.0,196.0,Tagesspiegel,DE-RP,Bad Kreuznach,158080.0,183.0
 2020-07-27,7134,93.0,2.0,89.0,Tagesspiegel,DE-RP,Birkenfeld,80720.0,104.0
 2020-07-27,7135,139.0,1.0,137.0,Tagesspiegel,DE-RP,Cochem-Zell,61587.0,89.0
@@ -10663,7 +10663,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-07-27,7143,390.0,22.0,350.0,Tagesspiegel,DE-RP,Westerwaldkreis,201597.0,204.0
 2020-07-27,7211,124.0,1.0,112.0,Tagesspiegel,DE-RP,Trier,110636.0,945.0
 2020-07-27,7231,203.0,2.0,180.0,Tagesspiegel,DE-RP,Bernkastel-Wittlich,112262.0,96.0
-2020-07-27,7232,235.0,5.0,194.0,Tagesspiegel,DE-RP,Bitburg-Prüm,98561.0,61.0
+2020-07-27,7232,235.0,5.0,196.0,Tagesspiegel,DE-RP,Bitburg-Prüm,98561.0,61.0
 2020-07-27,7233,126.0,6.0,118.0,Tagesspiegel,DE-RP,Vulkaneifel,60603.0,67.0
 2020-07-27,7235,234.0,9.0,203.0,Tagesspiegel,DE-RP,Trier-Saarburg,148945.0,135.0
 2020-07-27,7311,47.0,2.0,45.0,Tagesspiegel,DE-RP,Frankenthal,48561.0,1110.0
@@ -10675,15 +10675,15 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-07-27,7318,115.0,2.0,106.0,Tagesspiegel,DE-RP,Speyer,50378.0,1183.0
 2020-07-27,7319,226.0,7.0,216.0,Tagesspiegel,DE-RP,Worms,83330.0,766.0
 2020-07-27,7320,46.0,1.0,45.0,Tagesspiegel,DE-RP,Zweibrücken,34209.0,484.0
-2020-07-27,7331,273.0,12.0,258.0,Tagesspiegel,DE-RP,Alzey-Worms,129244.0,220.0
+2020-07-27,7331,273.0,12.0,259.0,Tagesspiegel,DE-RP,Alzey-Worms,129244.0,220.0
 2020-07-27,7332,329.0,12.0,317.0,Tagesspiegel,DE-RP,Bad Dürkheim,132660.0,223.0
 2020-07-27,8111,1752.0,66.0,1615.0,Tagesspiegel,DE-BW,Stuttgart,634830.0,3062.0
-2020-07-27,8115,1459.0,49.0,1381.0,Tagesspiegel,DE-BW,Böblingen,391640.0,634.0
-2020-07-27,8116,1995.0,137.0,1817.0,Tagesspiegel,DE-BW,Esslingen,533859.0,832.0
+2020-07-27,8115,1459.0,49.0,1382.0,Tagesspiegel,DE-BW,Böblingen,391640.0,634.0
+2020-07-27,8116,1995.0,137.0,1823.0,Tagesspiegel,DE-BW,Esslingen,533859.0,832.0
 2020-07-27,8117,836.0,39.0,786.0,Tagesspiegel,DE-BW,Göppingen,257253.0,400.0
 2020-07-27,8118,1884.0,73.0,1790.0,Tagesspiegel,DE-BW,Ludwigsburg,543984.0,792.0
 2020-07-27,9161,513.0,38.0,455.0,Tagesspiegel,DE-BY,Ingolstadt,136981.0,1027.0
-2020-07-27,9162,7194.0,222.0,6623.0,Tagesspiegel,DE-BY,München,1471508.0,4736.0
+2020-07-27,9162,7194.0,222.0,6633.0,Tagesspiegel,DE-BY,München,1471508.0,4736.0
 2020-07-27,9163,531.0,23.0,355.0,Tagesspiegel,DE-BY,Rosenheim,63324.0,1701.0
 2020-07-27,9171,623.0,57.0,553.0,Tagesspiegel,DE-BY,Altötting,111210.0,195.0
 2020-07-27,10041,1219.0,114.0,1094.0,Tagesspiegel,DE-SL,Stadtverband Saarbrücken,329708.0,803.0
@@ -10695,7 +10695,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-07-27,12051,65.0,1.0,64.0,Tagesspiegel,DE-BB,Brandenburg an der Havel,72124.0,314.0
 2020-07-27,12052,43.0,0.0,39.0,Tagesspiegel,DE-BB,Cottbus,100219.0,607.0
 2020-07-27,12053,33.0,0.0,33.0,Tagesspiegel,DE-BB,Frankfurt,57873.0,391.0
-2020-07-27,12054,658.0,50.0,586.0,Tagesspiegel,DE-BB,Potsdam,178089.0,944.0
+2020-07-27,12054,658.0,50.0,584.0,Tagesspiegel,DE-BB,Potsdam,178089.0,944.0
 2020-07-27,12060,450.0,29.0,404.0,Tagesspiegel,DE-BB,Barnim,182760.0,124.0
 2020-07-27,12061,272.0,8.0,260.0,Tagesspiegel,DE-BB,Dahme-Spreewald,169067.0,74.0
 2020-07-27,12062,85.0,3.0,79.0,Tagesspiegel,DE-BB,Elbe-Elster,102638.0,54.0
@@ -10726,9 +10726,9 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-07-27,14612,633.0,10.0,618.0,Tagesspiegel,DE-SN,Dresden,554649.0,1689.0
 2020-07-27,14625,503.0,20.0,482.0,Tagesspiegel,DE-SN,Bautzen,300880.0,126.0
 2020-07-27,14626,271.0,24.0,246.0,Tagesspiegel,DE-SN,Görlitz,254894.0,121.0
-2020-07-27,14627,242.0,20.0,220.0,Tagesspiegel,DE-SN,Meißen,242165.0,166.0
+2020-07-27,14627,242.0,20.0,221.0,Tagesspiegel,DE-SN,Meißen,242165.0,166.0
 2020-07-27,14628,390.0,4.0,385.0,Tagesspiegel,DE-SN,Sächsische Schweiz-Osterzgebirge,245611.0,148.0
-2020-07-27,14713,647.0,12.0,618.0,Tagesspiegel,DE-SN,Leipzig,587857.0,1974.0
+2020-07-27,14713,647.0,12.0,619.0,Tagesspiegel,DE-SN,Leipzig,587857.0,1974.0
 2020-07-27,14729,196.0,4.0,192.0,Tagesspiegel,DE-SN,Leipzig,257763.0,156.0
 2020-07-27,14730,147.0,0.0,143.0,Tagesspiegel,DE-SN,Nordsachsen,197673.0,97.0
 2020-07-27,15001,67.0,2.0,65.0,Tagesspiegel,DE-ST,Dessau-Roßlau,81237.0,332.0
@@ -10757,7 +10757,7 @@ reportDate,ags,cases,deaths,recovered,source,stateCode,community_name,population
 2020-07-27,16064,92.0,3.0,89.0,Tagesspiegel,DE-TH,Unstrut-Hainich-Kreis,102912.0,105.0
 2020-07-27,16065,55.0,0.0,52.0,Tagesspiegel,DE-TH,Kyffhäuserkreis,75009.0,72.0
 2020-07-27,16066,162.0,5.0,154.0,Tagesspiegel,DE-TH,Schmalkalden-Meiningen,125646.0,100.0
-2020-07-27,16067,320.0,30.0,287.0,Tagesspiegel,DE-TH,Gotha,135452.0,145.0
+2020-07-27,16067,320.0,30.0,290.0,Tagesspiegel,DE-TH,Gotha,135452.0,145.0
 2020-07-27,16068,42.0,1.0,38.0,Tagesspiegel,DE-TH,Sömmerda,69655.0,86.0
 2020-07-27,16069,84.0,1.0,83.0,Tagesspiegel,DE-TH,Hildburghausen,63553.0,68.0
 2020-07-27,16070,144.0,6.0,132.0,Tagesspiegel,DE-TH,Ilm-Kreis,106622.0,132.0
